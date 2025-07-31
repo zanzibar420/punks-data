@@ -1,0 +1,16 @@
+🚀 Blockticity Metadata-to-Mint Processor
+==================================================
+✅ Loaded existing mint log
+
+🔗 Connecting to blockchain...
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Failed to connect to RPC: getaddrinfo ENOTFOUND subnets.avax.network
+
+❌ Fatal error: getaddrinfo ENOTFOUND subnets.avax.network
+Error: getaddrinfo ENOTFOUND subnets.avax.network
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'subnets.avax.network'
+}

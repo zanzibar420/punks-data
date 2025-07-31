@@ -1,0 +1,42 @@
+{
+  "name": "Players Ink Placeholder #103026",
+  "description": "Players Ink Authentication Certificate #103026 - This Certificate of Authenticity is pending final verification. Please check back soon.",
+  "image": "ipfs://QmRT8DUSsFLZrrhgyhcSwh8988xx1kKCuR5SLpDS2hWkDN",
+  "attributes": [
+    {
+      "trait_type": "Signed By",
+      "value": "To Be Updated"
+    },
+    {
+      "trait_type": "Item Type",
+      "value": "To Be Updated"
+    },
+    {
+      "trait_type": "Date Signed",
+      "value": "To Be Updated"
+    },
+    {
+      "trait_type": "Order Identifier",
+      "value": "To Be Updated"
+    },
+    {
+      "trait_type": "Location",
+      "value": "To Be Updated"
+    },
+    {
+      "trait_type": "Team",
+      "value": "To Be Updated"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": "103026"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Placeholder"
+    }
+  ],
+  "tokenId": "103026",
+  "final_metadata_pending": true,
+  "locked": true
+}

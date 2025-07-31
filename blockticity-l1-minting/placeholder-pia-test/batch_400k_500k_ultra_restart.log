@@ -1,0 +1,3426 @@
+🚀 Blockticity Batch 400k-500k Minting (Ultra Conservative)
+============================================================
+🎯 Token Range: 400,001 - 500,000
+⚡ Settings: 1 concurrent, 5 per batch
+✅ Loaded existing progress
+📊 Status: 24932 minted, 493 failed, 74575 pending
+
+🎯 Tokens to process: 75,068
+
+🔗 Connecting to Blockticity L1 Mainnet...
+  1. Public RPC
+  2. Developer RPC
+✅ Connected to network: chainId 28530
+💰 Wallet balance: 999998486.203653228362673022 BTIC
+🔑 Minting from: 0xE2A506B43dF9c4e3B3c284F8cc18cF47Ac266929
+🔢 Reset nonce sequence to: 431021
+
+📦 Batch 1/15014: 5 tokens
+🎯 Range: 424933 to 424937
+  🎨 424933: 0xec86412faa... (nonce: 431021, rpc: PUB)
+  ✅ 424933: Block 283271
+  🎨 424934: 0xcd3b300185... (nonce: 431022, rpc: DEV)
+  ✅ 424934: Block 283272
+  🎨 424935: 0xf101e4a01a... (nonce: 431023, rpc: PUB)
+  ✅ 424935: Block 283273
+  🎨 424936: 0x723d12b5c5... (nonce: 431024, rpc: DEV)
+  ✅ 424936: Block 283274
+  🎨 424937: 0x339c95ee21... (nonce: 431025, rpc: PUB)
+  ✅ 424937: Block 283275
+📊 Batch 1 complete: 5 success, 0 failed in 13.3s
+📈 Total progress: 24937 minted, 493 failed, 74570 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 2/15014: 5 tokens
+🎯 Range: 424938 to 424942
+  🎨 424938: 0xb0f49d79af... (nonce: 431026, rpc: DEV)
+  ✅ 424938: Block 283276
+  🎨 424939: 0x9d1d80f0b0... (nonce: 431027, rpc: PUB)
+  ✅ 424939: Block 283277
+  🎨 424940: 0xae6b14197c... (nonce: 431028, rpc: DEV)
+  ✅ 424940: Block 283278
+  🎨 424941: 0xa5da69de4a... (nonce: 431029, rpc: PUB)
+  ❌ 424941: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 424941: Retry 1/2 in 15.0s
+  🎨 424941: 0xd357aff755... (nonce: 431030, rpc: DEV)
+  ✅ 424941: Block 283280
+  🎨 424942: 0x0ebb004f72... (nonce: 431031, rpc: PUB)
+  ✅ 424942: Block 283281
+📊 Batch 2 complete: 5 success, 0 failed in 73.1s
+📈 Total progress: 24942 minted, 493 failed, 74565 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 3/15014: 5 tokens
+🎯 Range: 424943 to 424947
+  🎨 424943: 0x5bb49c6562... (nonce: 431032, rpc: DEV)
+  ✅ 424943: Block 283282
+  🎨 424944: 0x0f13f13905... (nonce: 431033, rpc: PUB)
+  ✅ 424944: Block 283283
+  🎨 424945: 0x052a74e5b2... (nonce: 431034, rpc: DEV)
+  ✅ 424945: Block 283284
+  🎨 424946: 0x9427fa9846... (nonce: 431035, rpc: PUB)
+  ✅ 424946: Block 283285
+  🎨 424947: 0x8df174d2d9... (nonce: 431036, rpc: DEV)
+  ✅ 424947: Block 283286
+📊 Batch 3 complete: 5 success, 0 failed in 18.1s
+📈 Total progress: 24947 minted, 493 failed, 74560 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 4/15014: 5 tokens
+🎯 Range: 424948 to 424952
+  🎨 424948: 0xa3625691e9... (nonce: 431037, rpc: PUB)
+  ✅ 424948: Block 283287
+  🎨 424949: 0xb3d2df1332... (nonce: 431038, rpc: DEV)
+  ✅ 424949: Block 283288
+  🎨 424950: 0x91a2be26bc... (nonce: 431039, rpc: PUB)
+  ✅ 424950: Block 283289
+  🎨 424951: 0x787bcaf908... (nonce: 431040, rpc: DEV)
+  ✅ 424951: Block 283290
+  🎨 424952: 0x6eca90af78... (nonce: 431041, rpc: PUB)
+  ✅ 424952: Block 283291
+📊 Batch 4 complete: 5 success, 0 failed in 12.7s
+📈 Total progress: 24952 minted, 493 failed, 74555 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 5/15014: 5 tokens
+🎯 Range: 424953 to 424957
+  🎨 424953: 0xa27571243e... (nonce: 431042, rpc: DEV)
+  ✅ 424953: Block 283292
+  🎨 424954: 0xd074ebf846... (nonce: 431043, rpc: PUB)
+  ✅ 424954: Block 283293
+  🎨 424955: 0x6d1edb3a16... (nonce: 431044, rpc: DEV)
+  ✅ 424955: Block 283294
+  🎨 424956: 0x8aad2427a8... (nonce: 431045, rpc: PUB)
+  ✅ 424956: Block 283295
+  🎨 424957: 0x5f5be34f36... (nonce: 431046, rpc: DEV)
+  ✅ 424957: Block 283296
+📊 Batch 5 complete: 5 success, 0 failed in 16.8s
+📈 Total progress: 24957 minted, 493 failed, 74550 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 6/15014: 5 tokens
+🎯 Range: 424958 to 424962
+  🎨 424958: 0x0ec078c344... (nonce: 431047, rpc: PUB)
+  ✅ 424958: Block 283297
+  🎨 424959: 0x6740a7b869... (nonce: 431048, rpc: DEV)
+  ✅ 424959: Block 283298
+  🎨 424960: 0x1480ab2469... (nonce: 431049, rpc: PUB)
+  ✅ 424960: Block 283299
+  🎨 424961: 0x736e910ab2... (nonce: 431050, rpc: DEV)
+  ✅ 424961: Block 283300
+  🎨 424962: 0x5def848f04... (nonce: 431051, rpc: PUB)
+  ✅ 424962: Block 283301
+📊 Batch 6 complete: 5 success, 0 failed in 17.5s
+📈 Total progress: 24962 minted, 493 failed, 74545 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 7/15014: 5 tokens
+🎯 Range: 424963 to 424967
+  🎨 424963: 0xfeed970393... (nonce: 431052, rpc: DEV)
+  ✅ 424963: Block 283302
+  🎨 424964: 0x659c2c3e59... (nonce: 431053, rpc: PUB)
+  ✅ 424964: Block 283303
+  🎨 424965: 0x3dff898587... (nonce: 431054, rpc: DEV)
+  ✅ 424965: Block 283304
+  🎨 424966: 0x142a5533ab... (nonce: 431055, rpc: PUB)
+  ✅ 424966: Block 283305
+  🎨 424967: 0x0ecaa56574... (nonce: 431056, rpc: DEV)
+  ✅ 424967: Block 283306
+📊 Batch 7 complete: 5 success, 0 failed in 16.7s
+📈 Total progress: 24967 minted, 493 failed, 74540 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 8/15014: 5 tokens
+🎯 Range: 424968 to 424972
+  🎨 424968: 0x1c91c1bdf5... (nonce: 431057, rpc: PUB)
+  ✅ 424968: Block 283307
+  🎨 424969: 0x345a124da4... (nonce: 431058, rpc: DEV)
+  ✅ 424969: Block 283308
+  🎨 424970: 0x11ea0a3369... (nonce: 431059, rpc: PUB)
+  ✅ 424970: Block 283309
+  🎨 424971: 0xa00d3dfafb... (nonce: 431060, rpc: DEV)
+  ✅ 424971: Block 283310
+  🎨 424972: 0x3cd74970bc... (nonce: 431061, rpc: PUB)
+  ✅ 424972: Block 283311
+📊 Batch 8 complete: 5 success, 0 failed in 13.7s
+📈 Total progress: 24972 minted, 493 failed, 74535 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 9/15014: 5 tokens
+🎯 Range: 424973 to 424977
+  🎨 424973: 0x782f4e8370... (nonce: 431062, rpc: DEV)
+  ❌ 424973: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 424973: Retry 1/2 in 15.0s
+  🎨 424973: 0x70cb7be799... (nonce: 431063, rpc: PUB)
+  ✅ 424973: Block 283313
+  🎨 424974: 0xabda57742c... (nonce: 431064, rpc: DEV)
+  ✅ 424974: Block 283314
+  🎨 424975: 0x342a27cf9a... (nonce: 431065, rpc: PUB)
+  ✅ 424975: Block 283315
+  🎨 424976: 0xb32bbaabdc... (nonce: 431066, rpc: DEV)
+  ✅ 424976: Block 283316
+  🎨 424977: 0x95c8dce762... (nonce: 431067, rpc: PUB)
+  ✅ 424977: Block 283317
+📊 Batch 9 complete: 5 success, 0 failed in 68.7s
+📈 Total progress: 24977 minted, 493 failed, 74530 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 10/15014: 5 tokens
+🎯 Range: 424978 to 424982
+  🎨 424978: 0xbdb45be2ee... (nonce: 431068, rpc: DEV)
+  ❌ 424978: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 424978: Retry 1/2 in 15.0s
+  🎨 424978: 0xbc5720a468... (nonce: 431069, rpc: PUB)
+  ✅ 424978: Block 283319
+  🎨 424979: 0xe76fe8e84d... (nonce: 431070, rpc: DEV)
+  ✅ 424979: Block 283320
+  🎨 424980: 0x13313efd6a... (nonce: 431071, rpc: PUB)
+  ✅ 424980: Block 283321
+  🎨 424981: 0xbb12033682... (nonce: 431072, rpc: DEV)
+  ✅ 424981: Block 283322
+  🎨 424982: 0xaab2a8a8c2... (nonce: 431073, rpc: PUB)
+  ✅ 424982: Block 283323
+📊 Batch 10 complete: 5 success, 0 failed in 68.8s
+📈 Total progress: 24982 minted, 493 failed, 74525 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 11/15014: 5 tokens
+🎯 Range: 424983 to 424987
+  🎨 424983: 0x7ac2924596... (nonce: 431074, rpc: DEV)
+  ✅ 424983: Block 283324
+  🎨 424984: 0x3cb1ed8bf9... (nonce: 431075, rpc: PUB)
+  ✅ 424984: Block 283325
+  🎨 424985: 0x5e4feafc01... (nonce: 431076, rpc: DEV)
+  ✅ 424985: Block 283326
+  🎨 424986: 0x5bf1c9de12... (nonce: 431077, rpc: PUB)
+  ✅ 424986: Block 283327
+  🎨 424987: 0xde02fd9604... (nonce: 431078, rpc: DEV)
+  ✅ 424987: Block 283328
+📊 Batch 11 complete: 5 success, 0 failed in 13.3s
+📈 Total progress: 24987 minted, 493 failed, 74520 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 12/15014: 5 tokens
+🎯 Range: 424988 to 424992
+  🎨 424988: 0xe82540ae56... (nonce: 431079, rpc: PUB)
+  ✅ 424988: Block 283329
+  🎨 424989: 0xf028a57ea8... (nonce: 431080, rpc: DEV)
+  ✅ 424989: Block 283330
+  🎨 424990: 0x81a297f2c9... (nonce: 431081, rpc: PUB)
+  ✅ 424990: Block 283331
+  🎨 424991: 0xd04dacdb37... (nonce: 431082, rpc: DEV)
+  ✅ 424991: Block 283332
+  🎨 424992: 0x58a155713c... (nonce: 431083, rpc: PUB)
+  ✅ 424992: Block 283333
+📊 Batch 12 complete: 5 success, 0 failed in 12.5s
+📈 Total progress: 24992 minted, 493 failed, 74515 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 13/15014: 5 tokens
+🎯 Range: 424993 to 424997
+  🎨 424993: 0x1bddce9dc1... (nonce: 431084, rpc: DEV)
+  ❌ 424993: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 424993: Retry 1/2 in 15.0s
+  🎨 424993: 0xe354ed00e4... (nonce: 431085, rpc: PUB)
+  ✅ 424993: Block 283335
+  🎨 424994: 0x961c57d9c7... (nonce: 431086, rpc: DEV)
+  ✅ 424994: Block 283336
+  🎨 424995: 0x34df0c2c2b... (nonce: 431087, rpc: PUB)
+  ✅ 424995: Block 283337
+  🎨 424996: 0xc20b8679f1... (nonce: 431088, rpc: DEV)
+  ✅ 424996: Block 283338
+  🎨 424997: 0xc792fec20b... (nonce: 431089, rpc: PUB)
+  ✅ 424997: Block 283339
+📊 Batch 13 complete: 5 success, 0 failed in 91.3s
+📈 Total progress: 24997 minted, 493 failed, 74510 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 14/15014: 5 tokens
+🎯 Range: 424998 to 425002
+  🎨 424998: 0x0a2ab525cb... (nonce: 431090, rpc: DEV)
+  ✅ 424998: Block 283340
+  🎨 424999: 0x77e79a884c... (nonce: 431091, rpc: PUB)
+  ✅ 424999: Block 283341
+  🎨 425000: 0xf314b82b0a... (nonce: 431092, rpc: DEV)
+  ✅ 425000: Block 283342
+  🎨 425001: 0xea4d12e9fe... (nonce: 431093, rpc: PUB)
+  ✅ 425001: Block 283343
+  🎨 425002: 0xcca56ae864... (nonce: 431094, rpc: DEV)
+  ✅ 425002: Block 283344
+📊 Batch 14 complete: 5 success, 0 failed in 17.0s
+📈 Total progress: 25002 minted, 493 failed, 74505 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 15/15014: 5 tokens
+🎯 Range: 425003 to 425007
+  🎨 425003: 0x396f9206b7... (nonce: 431095, rpc: PUB)
+  ✅ 425003: Block 283345
+  🎨 425004: 0x0e01104fe2... (nonce: 431096, rpc: DEV)
+  ✅ 425004: Block 283346
+  🎨 425005: 0x32e326ce5e... (nonce: 431097, rpc: PUB)
+  ✅ 425005: Block 283347
+  🎨 425006: 0x0fc79c61f5... (nonce: 431098, rpc: DEV)
+  ✅ 425006: Block 283348
+  🎨 425007: 0x4e46606470... (nonce: 431099, rpc: PUB)
+  ✅ 425007: Block 283349
+📊 Batch 15 complete: 5 success, 0 failed in 12.8s
+📈 Total progress: 25007 minted, 493 failed, 74500 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 16/15014: 5 tokens
+🎯 Range: 425008 to 425012
+  🎨 425008: 0xbfb0474fd1... (nonce: 431100, rpc: DEV)
+  ✅ 425008: Block 283350
+  🎨 425009: 0x1d457e7112... (nonce: 431101, rpc: PUB)
+  ✅ 425009: Block 283351
+  🎨 425010: 0x00bf728cf2... (nonce: 431102, rpc: DEV)
+  ✅ 425010: Block 283352
+  🎨 425011: 0xe907f03b6d... (nonce: 431103, rpc: PUB)
+  ✅ 425011: Block 283353
+  🎨 425012: 0x6f94b6c978... (nonce: 431104, rpc: DEV)
+  ✅ 425012: Block 283354
+📊 Batch 16 complete: 5 success, 0 failed in 13.1s
+📈 Total progress: 25012 minted, 493 failed, 74495 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 17/15014: 5 tokens
+🎯 Range: 425013 to 425017
+  🎨 425013: 0xea24172965... (nonce: 431105, rpc: PUB)
+  ✅ 425013: Block 283355
+  🎨 425014: 0x2f08b5be67... (nonce: 431106, rpc: DEV)
+  ✅ 425014: Block 283356
+  🎨 425015: 0x3bf4bbefcb... (nonce: 431107, rpc: PUB)
+  ✅ 425015: Block 283357
+  🎨 425016: 0xd2d6e907a3... (nonce: 431108, rpc: DEV)
+  ✅ 425016: Block 283358
+  🎨 425017: 0x16f2dd23ae... (nonce: 431109, rpc: PUB)
+  ✅ 425017: Block 283359
+📊 Batch 17 complete: 5 success, 0 failed in 12.5s
+📈 Total progress: 25017 minted, 493 failed, 74490 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 18/15014: 5 tokens
+🎯 Range: 425018 to 425022
+  🎨 425018: 0x50ed1bba5a... (nonce: 431110, rpc: DEV)
+  ❌ 425018: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425018: Retry 1/2 in 15.0s
+  🎨 425018: 0xc3813aca3d... (nonce: 431111, rpc: PUB)
+  ✅ 425018: Block 283361
+  🎨 425019: 0x7ce790b159... (nonce: 431112, rpc: DEV)
+  ✅ 425019: Block 283362
+  🎨 425020: 0xf2521dc70a... (nonce: 431113, rpc: PUB)
+  ✅ 425020: Block 283363
+  🎨 425021: 0xe81e020cd7... (nonce: 431114, rpc: DEV)
+  ✅ 425021: Block 283364
+  🎨 425022: 0x6e18e7950e... (nonce: 431115, rpc: PUB)
+  ✅ 425022: Block 283365
+📊 Batch 18 complete: 5 success, 0 failed in 74.2s
+📈 Total progress: 25022 minted, 493 failed, 74485 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 19/15014: 5 tokens
+🎯 Range: 425023 to 425027
+  🎨 425023: 0x1cfe24b45b... (nonce: 431116, rpc: DEV)
+  ✅ 425023: Block 283366
+  🎨 425024: 0x077860563e... (nonce: 431117, rpc: PUB)
+  ✅ 425024: Block 283367
+  🎨 425025: 0x62d86b787d... (nonce: 431118, rpc: DEV)
+  ✅ 425025: Block 283368
+  🎨 425026: 0x970165bdb0... (nonce: 431119, rpc: PUB)
+  ✅ 425026: Block 283369
+  🎨 425027: 0xbdc0c9576a... (nonce: 431120, rpc: DEV)
+  ✅ 425027: Block 283370
+📊 Batch 19 complete: 5 success, 0 failed in 16.9s
+📈 Total progress: 25027 minted, 493 failed, 74480 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 20/15014: 5 tokens
+🎯 Range: 425028 to 425032
+  🎨 425028: 0x3cecbae35b... (nonce: 431121, rpc: PUB)
+  ✅ 425028: Block 283371
+  🎨 425029: 0xd8d19aa41d... (nonce: 431122, rpc: DEV)
+  ✅ 425029: Block 283372
+  🎨 425030: 0xc233620b68... (nonce: 431123, rpc: PUB)
+  ✅ 425030: Block 283373
+  🎨 425031: 0x2167a3c8d1... (nonce: 431124, rpc: DEV)
+  ✅ 425031: Block 283374
+  🎨 425032: 0x2ad0796e38... (nonce: 431125, rpc: PUB)
+  ✅ 425032: Block 283375
+📊 Batch 20 complete: 5 success, 0 failed in 12.8s
+📈 Total progress: 25032 minted, 493 failed, 74475 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 21/15014: 5 tokens
+🎯 Range: 425033 to 425037
+  🎨 425033: 0x0fa4c633fc... (nonce: 431126, rpc: DEV)
+  ✅ 425033: Block 283376
+  🎨 425034: 0xc76fa57ce2... (nonce: 431127, rpc: PUB)
+  ✅ 425034: Block 283377
+  🎨 425035: 0xe153648d80... (nonce: 431128, rpc: DEV)
+  ✅ 425035: Block 283378
+  🎨 425036: 0x8e2e01f4f8... (nonce: 431129, rpc: PUB)
+  ✅ 425036: Block 283379
+  🎨 425037: 0x36e68a197c... (nonce: 431130, rpc: DEV)
+  ✅ 425037: Block 283380
+📊 Batch 21 complete: 5 success, 0 failed in 16.5s
+📈 Total progress: 25037 minted, 493 failed, 74470 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 22/15014: 5 tokens
+🎯 Range: 425038 to 425042
+  🎨 425038: 0x5377d267e6... (nonce: 431131, rpc: PUB)
+  ✅ 425038: Block 283381
+  🎨 425039: 0xe241028ce3... (nonce: 431132, rpc: DEV)
+  ✅ 425039: Block 283382
+  🎨 425040: 0xd1769b6cfb... (nonce: 431133, rpc: PUB)
+  ✅ 425040: Block 283383
+  🎨 425041: 0xddd21135f8... (nonce: 431134, rpc: DEV)
+  ❌ 425041: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425041: Retry 1/2 in 15.0s
+  🎨 425041: 0xba7786d0b5... (nonce: 431135, rpc: PUB)
+  ✅ 425041: Block 283385
+  🎨 425042: 0x6e65063e88... (nonce: 431136, rpc: DEV)
+  ✅ 425042: Block 283386
+📊 Batch 22 complete: 5 success, 0 failed in 73.2s
+📈 Total progress: 25042 minted, 493 failed, 74465 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 23/15014: 5 tokens
+🎯 Range: 425043 to 425047
+  🎨 425043: 0xabb123daf1... (nonce: 431137, rpc: PUB)
+  ✅ 425043: Block 283387
+  🎨 425044: 0xbe68bc6dc1... (nonce: 431138, rpc: DEV)
+  ✅ 425044: Block 283388
+  🎨 425045: 0x19113be0be... (nonce: 431139, rpc: PUB)
+  ✅ 425045: Block 283389
+  🎨 425046: 0x1de6d3ebef... (nonce: 431140, rpc: DEV)
+  ✅ 425046: Block 283390
+  🎨 425047: 0x0a019cf41c... (nonce: 431141, rpc: PUB)
+  ✅ 425047: Block 283391
+📊 Batch 23 complete: 5 success, 0 failed in 13.1s
+📈 Total progress: 25047 minted, 493 failed, 74460 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 24/15014: 5 tokens
+🎯 Range: 425048 to 425052
+  🎨 425048: 0x4efe438909... (nonce: 431142, rpc: DEV)
+  ❌ 425048: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425048: Retry 1/2 in 15.0s
+  🎨 425048: 0x40f4852d08... (nonce: 431143, rpc: PUB)
+  ✅ 425048: Block 283393
+  🎨 425049: 0xaf708fa1d4... (nonce: 431144, rpc: DEV)
+  ✅ 425049: Block 283394
+  🎨 425050: 0xea70e9c217... (nonce: 431145, rpc: PUB)
+  ✅ 425050: Block 283395
+  🎨 425051: 0xc4cc2891c8... (nonce: 431146, rpc: DEV)
+  ✅ 425051: Block 283396
+  🎨 425052: 0xde1a770587... (nonce: 431147, rpc: PUB)
+  ✅ 425052: Block 283397
+📊 Batch 24 complete: 5 success, 0 failed in 68.4s
+📈 Total progress: 25052 minted, 493 failed, 74455 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 25/15014: 5 tokens
+🎯 Range: 425053 to 425057
+  🎨 425053: 0x76ba527346... (nonce: 431148, rpc: DEV)
+  ❌ 425053: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425053: Retry 1/2 in 15.0s
+  🎨 425053: 0xef41000cf1... (nonce: 431149, rpc: PUB)
+  ✅ 425053: Block 283399
+  🎨 425054: 0x096f351696... (nonce: 431150, rpc: DEV)
+  ✅ 425054: Block 283400
+  🎨 425055: 0x035e168ae9... (nonce: 431151, rpc: PUB)
+  ✅ 425055: Block 283401
+  🎨 425056: 0xf896b699cc... (nonce: 431152, rpc: DEV)
+  ✅ 425056: Block 283402
+  🎨 425057: 0xf38de7652a... (nonce: 431153, rpc: PUB)
+  ✅ 425057: Block 283403
+📊 Batch 25 complete: 5 success, 0 failed in 73.7s
+📈 Total progress: 25057 minted, 493 failed, 74450 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 26/15014: 5 tokens
+🎯 Range: 425058 to 425062
+  🎨 425058: 0xbbaa33fb8c... (nonce: 431154, rpc: DEV)
+  ✅ 425058: Block 283404
+  🎨 425059: 0x769a1e1814... (nonce: 431155, rpc: PUB)
+  ✅ 425059: Block 283405
+  🎨 425060: 0x73cb35cf22... (nonce: 431156, rpc: DEV)
+  ✅ 425060: Block 283406
+  🎨 425061: 0x76678098e8... (nonce: 431157, rpc: PUB)
+  ✅ 425061: Block 283407
+  🎨 425062: 0xd9692121a1... (nonce: 431158, rpc: DEV)
+  ✅ 425062: Block 283408
+📊 Batch 26 complete: 5 success, 0 failed in 16.7s
+📈 Total progress: 25062 minted, 493 failed, 74445 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 27/15014: 5 tokens
+🎯 Range: 425063 to 425067
+  🎨 425063: 0xfb8bc7499a... (nonce: 431159, rpc: PUB)
+  ✅ 425063: Block 283409
+  🎨 425064: 0x65d2bf2c85... (nonce: 431160, rpc: DEV)
+  ✅ 425064: Block 283410
+  🎨 425065: 0x72c0bb432c... (nonce: 431161, rpc: PUB)
+  ✅ 425065: Block 283411
+  🎨 425066: 0xaaf90c38a1... (nonce: 431162, rpc: DEV)
+  ❌ 425066: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425066: Retry 1/2 in 15.0s
+  🎨 425066: 0x7ca9002390... (nonce: 431163, rpc: PUB)
+  ✅ 425066: Block 283413
+  🎨 425067: 0x514ee6c4a1... (nonce: 431164, rpc: DEV)
+  ✅ 425067: Block 283414
+📊 Batch 27 complete: 5 success, 0 failed in 122.8s
+📈 Total progress: 25067 minted, 493 failed, 74440 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 28/15014: 5 tokens
+🎯 Range: 425068 to 425072
+  🎨 425068: 0x153a462f03... (nonce: 431165, rpc: PUB)
+  ✅ 425068: Block 283415
+  🎨 425069: 0xcdabc690e6... (nonce: 431166, rpc: DEV)
+  ❌ 425069: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425069: Retry 1/2 in 15.0s
+  🎨 425069: 0x2ff82f1b20... (nonce: 431167, rpc: PUB)
+  ✅ 425069: Block 283417
+  🎨 425070: 0x98645e66d3... (nonce: 431168, rpc: DEV)
+  ✅ 425070: Block 283418
+  🎨 425071: 0xbf77fd117d... (nonce: 431169, rpc: PUB)
+  ✅ 425071: Block 283419
+  🎨 425072: 0x8597a961d8... (nonce: 431170, rpc: DEV)
+  ✅ 425072: Block 283420
+📊 Batch 28 complete: 5 success, 0 failed in 88.3s
+📈 Total progress: 25072 minted, 493 failed, 74435 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 29/15014: 5 tokens
+🎯 Range: 425073 to 425077
+  🎨 425073: 0xdc78438b0d... (nonce: 431171, rpc: PUB)
+  ✅ 425073: Block 283421
+  🎨 425074: 0x5648a93648... (nonce: 431172, rpc: DEV)
+  ✅ 425074: Block 283422
+  🎨 425075: 0x4d81f0f537... (nonce: 431173, rpc: PUB)
+  ✅ 425075: Block 283423
+  🎨 425076: 0xc4cc2edf19... (nonce: 431174, rpc: DEV)
+  ✅ 425076: Block 283424
+  🎨 425077: 0x213ee14d5f... (nonce: 431175, rpc: PUB)
+  ✅ 425077: Block 283425
+📊 Batch 29 complete: 5 success, 0 failed in 12.9s
+📈 Total progress: 25077 minted, 493 failed, 74430 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 30/15014: 5 tokens
+🎯 Range: 425078 to 425082
+  🎨 425078: 0x7447afa4fa... (nonce: 431176, rpc: DEV)
+  ❌ 425078: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425078: Retry 1/2 in 15.0s
+  🎨 425078: 0x36f794a911... (nonce: 431177, rpc: PUB)
+  ✅ 425078: Block 283427
+  🎨 425079: 0xd917dfa06a... (nonce: 431178, rpc: DEV)
+  ✅ 425079: Block 283428
+  🎨 425080: 0xd77ea83f87... (nonce: 431179, rpc: PUB)
+  ✅ 425080: Block 283429
+  🎨 425081: 0x91926638ed... (nonce: 431180, rpc: DEV)
+  ✅ 425081: Block 283430
+  🎨 425082: 0x18cfa7204b... (nonce: 431181, rpc: PUB)
+  ✅ 425082: Block 283431
+📊 Batch 30 complete: 5 success, 0 failed in 68.2s
+📈 Total progress: 25082 minted, 493 failed, 74425 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 31/15014: 5 tokens
+🎯 Range: 425083 to 425087
+  🎨 425083: 0xdd954626fa... (nonce: 431182, rpc: DEV)
+  ✅ 425083: Block 283432
+  🎨 425084: 0x9e6edb167f... (nonce: 431183, rpc: PUB)
+  ✅ 425084: Block 283433
+  🎨 425085: 0x1a7606599c... (nonce: 431184, rpc: DEV)
+  ✅ 425085: Block 283434
+  🎨 425086: 0x04f6793295... (nonce: 431185, rpc: PUB)
+  ✅ 425086: Block 283435
+  🎨 425087: 0xb25522932f... (nonce: 431186, rpc: DEV)
+  ❌ 425087: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425087: Retry 1/2 in 15.0s
+  🎨 425087: 0x5af95cbfef... (nonce: 431187, rpc: PUB)
+  ✅ 425087: Block 283437
+📊 Batch 31 complete: 5 success, 0 failed in 69.6s
+📈 Total progress: 25087 minted, 493 failed, 74420 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 32/15014: 5 tokens
+🎯 Range: 425088 to 425092
+  🎨 425088: 0x2c32cdda41... (nonce: 431188, rpc: DEV)
+  ❌ 425088: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425088: Retry 1/2 in 15.0s
+  🎨 425088: 0xc89f474449... (nonce: 431189, rpc: PUB)
+  ✅ 425088: Block 283439
+  🎨 425089: 0x962877fc7e... (nonce: 431190, rpc: DEV)
+  ✅ 425089: Block 283440
+  🎨 425090: 0x479ddce56d... (nonce: 431191, rpc: PUB)
+  ✅ 425090: Block 283441
+  🎨 425091: 0xa001708764... (nonce: 431192, rpc: DEV)
+  ✅ 425091: Block 283442
+  🎨 425092: 0x9f72cdd032... (nonce: 431193, rpc: PUB)
+  ✅ 425092: Block 283443
+📊 Batch 32 complete: 5 success, 0 failed in 68.3s
+📈 Total progress: 25092 minted, 493 failed, 74415 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 33/15014: 5 tokens
+🎯 Range: 425093 to 425097
+  🎨 425093: 0x055c237092... (nonce: 431194, rpc: DEV)
+  ❌ 425093: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425093: Retry 1/2 in 15.0s
+  🎨 425093: 0xd8e8c9e85f... (nonce: 431195, rpc: PUB)
+  ✅ 425093: Block 283445
+  🎨 425094: 0xd066de03c1... (nonce: 431196, rpc: DEV)
+  ✅ 425094: Block 283446
+  🎨 425095: 0xf45f06fb5b... (nonce: 431197, rpc: PUB)
+  ✅ 425095: Block 283447
+  🎨 425096: 0x4fb6b1265e... (nonce: 431198, rpc: DEV)
+  ✅ 425096: Block 283448
+  🎨 425097: 0x4748bcfa15... (nonce: 431199, rpc: PUB)
+  ✅ 425097: Block 283449
+📊 Batch 33 complete: 5 success, 0 failed in 68.9s
+📈 Total progress: 25097 minted, 493 failed, 74410 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 34/15014: 5 tokens
+🎯 Range: 425098 to 425102
+  🎨 425098: 0xf97f02fdd0... (nonce: 431200, rpc: DEV)
+  ✅ 425098: Block 283450
+  🎨 425099: 0x3614ca2061... (nonce: 431201, rpc: PUB)
+  ✅ 425099: Block 283451
+  🎨 425100: 0x7d8ffc7b56... (nonce: 431202, rpc: DEV)
+  ✅ 425100: Block 283452
+  🎨 425101: 0x60d5b52880... (nonce: 431203, rpc: PUB)
+  ✅ 425101: Block 283453
+  🎨 425102: 0x4c4dab2441... (nonce: 431204, rpc: DEV)
+  ✅ 425102: Block 283454
+📊 Batch 34 complete: 5 success, 0 failed in 16.5s
+📈 Total progress: 25102 minted, 493 failed, 74405 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 35/15014: 5 tokens
+🎯 Range: 425103 to 425107
+  🎨 425103: 0x37110f9300... (nonce: 431205, rpc: PUB)
+  ✅ 425103: Block 283455
+  🎨 425104: 0xe039a4043f... (nonce: 431206, rpc: DEV)
+  ✅ 425104: Block 283456
+  🎨 425105: 0x1af6e9dd09... (nonce: 431207, rpc: PUB)
+  ✅ 425105: Block 283457
+  🎨 425106: 0x0250d7dc04... (nonce: 431208, rpc: DEV)
+  ✅ 425106: Block 283458
+  🎨 425107: 0x6c517c85be... (nonce: 431209, rpc: PUB)
+  ✅ 425107: Block 283459
+📊 Batch 35 complete: 5 success, 0 failed in 12.8s
+📈 Total progress: 25107 minted, 493 failed, 74400 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 36/15014: 5 tokens
+🎯 Range: 425108 to 425112
+  🎨 425108: 0x7fd70d838b... (nonce: 431210, rpc: DEV)
+  ✅ 425108: Block 283460
+  🎨 425109: 0xe7d09df14c... (nonce: 431211, rpc: PUB)
+  ✅ 425109: Block 283461
+  🎨 425110: 0x0edf314a65... (nonce: 431212, rpc: DEV)
+  ✅ 425110: Block 283462
+  🎨 425111: 0xaa16fd998d... (nonce: 431213, rpc: PUB)
+  ✅ 425111: Block 283463
+  🎨 425112: 0xbd1bb7f551... (nonce: 431214, rpc: DEV)
+  ✅ 425112: Block 283464
+📊 Batch 36 complete: 5 success, 0 failed in 16.7s
+📈 Total progress: 25112 minted, 493 failed, 74395 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 37/15014: 5 tokens
+🎯 Range: 425113 to 425117
+  🎨 425113: 0xa5fe333ced... (nonce: 431215, rpc: PUB)
+  ✅ 425113: Block 283465
+  🎨 425114: 0x6b8645297b... (nonce: 431216, rpc: DEV)
+  ✅ 425114: Block 283466
+  🎨 425115: 0xfb4237af02... (nonce: 431217, rpc: PUB)
+  ✅ 425115: Block 283467
+  🎨 425116: 0x0c20529b63... (nonce: 431218, rpc: DEV)
+  ✅ 425116: Block 283468
+  🎨 425117: 0x1b7f739185... (nonce: 431219, rpc: PUB)
+  ✅ 425117: Block 283469
+📊 Batch 37 complete: 5 success, 0 failed in 17.7s
+📈 Total progress: 25117 minted, 493 failed, 74390 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 38/15014: 5 tokens
+🎯 Range: 425118 to 425122
+  🎨 425118: 0xd04d87f4b9... (nonce: 431220, rpc: DEV)
+  ❌ 425118: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425118: Retry 1/2 in 15.0s
+  🎨 425118: 0xaf64f4ce80... (nonce: 431221, rpc: PUB)
+  ✅ 425118: Block 283471
+  🎨 425119: 0x75449a0896... (nonce: 431222, rpc: DEV)
+  ✅ 425119: Block 283472
+  🎨 425120: 0xddef9162ea... (nonce: 431223, rpc: PUB)
+  ✅ 425120: Block 283473
+  🎨 425121: 0x61abfed23b... (nonce: 431224, rpc: DEV)
+  ✅ 425121: Block 283474
+  🎨 425122: 0xf8ac8745e2... (nonce: 431225, rpc: PUB)
+  ✅ 425122: Block 283475
+📊 Batch 38 complete: 5 success, 0 failed in 68.9s
+📈 Total progress: 25122 minted, 493 failed, 74385 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 39/15014: 5 tokens
+🎯 Range: 425123 to 425127
+  🎨 425123: 0xd5453e942c... (nonce: 431226, rpc: DEV)
+  ✅ 425123: Block 283476
+  🎨 425124: 0x79f43e883d... (nonce: 431227, rpc: PUB)
+  ✅ 425124: Block 283477
+  🎨 425125: 0xcb14449a50... (nonce: 431228, rpc: DEV)
+  ✅ 425125: Block 283478
+  🎨 425126: 0xa8aad7d4a7... (nonce: 431229, rpc: PUB)
+  ✅ 425126: Block 283479
+  🎨 425127: 0xdf2bf8207d... (nonce: 431230, rpc: DEV)
+  ✅ 425127: Block 283480
+📊 Batch 39 complete: 5 success, 0 failed in 13.2s
+📈 Total progress: 25127 minted, 493 failed, 74380 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 40/15014: 5 tokens
+🎯 Range: 425128 to 425132
+  🎨 425128: 0x6236c29b78... (nonce: 431231, rpc: PUB)
+  ✅ 425128: Block 283481
+  🎨 425129: 0x76a99df6cf... (nonce: 431232, rpc: DEV)
+  ✅ 425129: Block 283482
+  🎨 425130: 0x3cd1ebdde3... (nonce: 431233, rpc: PUB)
+  ✅ 425130: Block 283483
+  🎨 425131: 0xb8ad0fca56... (nonce: 431234, rpc: DEV)
+  ✅ 425131: Block 283484
+  🎨 425132: 0x7e356b9940... (nonce: 431235, rpc: PUB)
+  ✅ 425132: Block 283485
+📊 Batch 40 complete: 5 success, 0 failed in 18.3s
+📈 Total progress: 25132 minted, 493 failed, 74375 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 41/15014: 5 tokens
+🎯 Range: 425133 to 425137
+  🎨 425133: 0xed398e669d... (nonce: 431236, rpc: DEV)
+  ✅ 425133: Block 283486
+  🎨 425134: 0xf6fb29c4cb... (nonce: 431237, rpc: PUB)
+  ✅ 425134: Block 283487
+  🎨 425135: 0xc6d90c5a14... (nonce: 431238, rpc: DEV)
+  ❌ 425135: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425135: Retry 1/2 in 15.0s
+  🎨 425135: 0xde96c91b63... (nonce: 431239, rpc: PUB)
+  ✅ 425135: Block 283489
+  🎨 425136: 0xcd620b732f... (nonce: 431240, rpc: DEV)
+  ✅ 425136: Block 283490
+  🎨 425137: 0x85b61cc42f... (nonce: 431241, rpc: PUB)
+  ✅ 425137: Block 283491
+📊 Batch 41 complete: 5 success, 0 failed in 132.3s
+📈 Total progress: 25137 minted, 493 failed, 74370 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 42/15014: 5 tokens
+🎯 Range: 425138 to 425142
+  🎨 425138: 0x938519e9ea... (nonce: 431242, rpc: DEV)
+  ✅ 425138: Block 283492
+  🎨 425139: 0xd858874ce4... (nonce: 431243, rpc: PUB)
+  ✅ 425139: Block 283493
+  🎨 425140: 0x9c5481788a... (nonce: 431244, rpc: DEV)
+  ❌ 425140: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425140: Retry 1/2 in 15.0s
+  🎨 425140: 0x544df91f0a... (nonce: 431245, rpc: PUB)
+  ✅ 425140: Block 283495
+  🎨 425141: 0x7307a2e3cd... (nonce: 431246, rpc: DEV)
+  ✅ 425141: Block 283496
+  🎨 425142: 0x353a603b3f... (nonce: 431247, rpc: PUB)
+  ✅ 425142: Block 283497
+📊 Batch 42 complete: 5 success, 0 failed in 141.6s
+📈 Total progress: 25142 minted, 493 failed, 74365 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 43/15014: 5 tokens
+🎯 Range: 425143 to 425147
+  🎨 425143: 0x81ca3a1658... (nonce: 431248, rpc: DEV)
+  ❌ 425143: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425143: Retry 1/2 in 15.0s
+  🎨 425143: 0x9573e58829... (nonce: 431249, rpc: PUB)
+  ✅ 425143: Block 283499
+  🎨 425144: 0x598d55344c... (nonce: 431250, rpc: DEV)
+  ✅ 425144: Block 283500
+  🎨 425145: 0xfec29ccbb7... (nonce: 431251, rpc: PUB)
+  ✅ 425145: Block 283501
+  🎨 425146: 0xdbf546e248... (nonce: 431252, rpc: DEV)
+  ✅ 425146: Block 283502
+  🎨 425147: 0x1a82287fd6... (nonce: 431253, rpc: PUB)
+  ✅ 425147: Block 283503
+📊 Batch 43 complete: 5 success, 0 failed in 82.0s
+📈 Total progress: 25147 minted, 493 failed, 74360 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 44/15014: 5 tokens
+🎯 Range: 425148 to 425152
+  🎨 425148: 0x8afa09712c... (nonce: 431254, rpc: DEV)
+  ✅ 425148: Block 283504
+  🎨 425149: 0xf1356559b5... (nonce: 431255, rpc: PUB)
+  ✅ 425149: Block 283505
+  🎨 425150: 0xf07e295606... (nonce: 431256, rpc: DEV)
+  ✅ 425150: Block 283506
+  🎨 425151: 0x4e20ebe457... (nonce: 431257, rpc: PUB)
+  ✅ 425151: Block 283507
+  🎨 425152: 0x78d930c2b5... (nonce: 431258, rpc: DEV)
+  ✅ 425152: Block 283508
+📊 Batch 44 complete: 5 success, 0 failed in 17.5s
+📈 Total progress: 25152 minted, 493 failed, 74355 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 45/15014: 5 tokens
+🎯 Range: 425153 to 425157
+  🎨 425153: 0xb42886406a... (nonce: 431259, rpc: PUB)
+  ✅ 425153: Block 283509
+  🎨 425154: 0xcd45c1880c... (nonce: 431260, rpc: DEV)
+  ✅ 425154: Block 283510
+  🎨 425155: 0xb5631ac664... (nonce: 431261, rpc: PUB)
+  ✅ 425155: Block 283511
+  🎨 425156: 0xa50c0aefde... (nonce: 431262, rpc: DEV)
+  ✅ 425156: Block 283512
+  🎨 425157: 0x12dcee9dc2... (nonce: 431263, rpc: PUB)
+  ✅ 425157: Block 283513
+📊 Batch 45 complete: 5 success, 0 failed in 12.6s
+📈 Total progress: 25157 minted, 493 failed, 74350 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 46/15014: 5 tokens
+🎯 Range: 425158 to 425162
+  🎨 425158: 0x06cb84723c... (nonce: 431264, rpc: DEV)
+  ✅ 425158: Block 283514
+  🎨 425159: 0xff05f2b080... (nonce: 431265, rpc: PUB)
+  ✅ 425159: Block 283515
+  🎨 425160: 0x8a5a38dda7... (nonce: 431266, rpc: DEV)
+  ✅ 425160: Block 283516
+  🎨 425161: 0xe3ae393adc... (nonce: 431267, rpc: PUB)
+  ✅ 425161: Block 283517
+  🎨 425162: 0xadb179cd67... (nonce: 431268, rpc: DEV)
+  ✅ 425162: Block 283518
+📊 Batch 46 complete: 5 success, 0 failed in 21.5s
+📈 Total progress: 25162 minted, 493 failed, 74345 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 47/15014: 5 tokens
+🎯 Range: 425163 to 425167
+  🎨 425163: 0xee5c77798a... (nonce: 431269, rpc: PUB)
+  ✅ 425163: Block 283519
+  🎨 425164: 0x5554daf3f7... (nonce: 431270, rpc: DEV)
+  ✅ 425164: Block 283520
+  🎨 425165: 0x8688bbfc11... (nonce: 431271, rpc: PUB)
+  ✅ 425165: Block 283521
+  🎨 425166: 0x8c07c0dc8f... (nonce: 431272, rpc: DEV)
+  ✅ 425166: Block 283522
+  🎨 425167: 0x33cb63513e... (nonce: 431273, rpc: PUB)
+  ✅ 425167: Block 283523
+📊 Batch 47 complete: 5 success, 0 failed in 13.0s
+📈 Total progress: 25167 minted, 493 failed, 74340 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 48/15014: 5 tokens
+🎯 Range: 425168 to 425172
+  🎨 425168: 0x84e4063a81... (nonce: 431274, rpc: DEV)
+  ✅ 425168: Block 283524
+  🎨 425169: 0x6157d75e2a... (nonce: 431275, rpc: PUB)
+  ✅ 425169: Block 283525
+  🎨 425170: 0x858fb00d91... (nonce: 431276, rpc: DEV)
+  ✅ 425170: Block 283526
+  🎨 425171: 0xdefb4d107c... (nonce: 431277, rpc: PUB)
+  ✅ 425171: Block 283527
+  🎨 425172: 0x0f60232316... (nonce: 431278, rpc: DEV)
+  ✅ 425172: Block 283528
+📊 Batch 48 complete: 5 success, 0 failed in 16.3s
+📈 Total progress: 25172 minted, 493 failed, 74335 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 49/15014: 5 tokens
+🎯 Range: 425173 to 425177
+  🎨 425173: 0xde4ca60259... (nonce: 431279, rpc: PUB)
+  ✅ 425173: Block 283529
+  🎨 425174: 0x1452622339... (nonce: 431280, rpc: DEV)
+  ✅ 425174: Block 283530
+  🎨 425175: 0x6da5a52b19... (nonce: 431281, rpc: PUB)
+  ✅ 425175: Block 283531
+  🎨 425176: 0x26d3e3abd4... (nonce: 431282, rpc: DEV)
+  ✅ 425176: Block 283532
+  🎨 425177: 0x6ce9f1987d... (nonce: 431283, rpc: PUB)
+  ✅ 425177: Block 283533
+📊 Batch 49 complete: 5 success, 0 failed in 13.0s
+📈 Total progress: 25177 minted, 493 failed, 74330 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 50/15014: 5 tokens
+🎯 Range: 425178 to 425182
+  🎨 425178: 0xa91df0b9ec... (nonce: 431284, rpc: DEV)
+  ✅ 425178: Block 283534
+  🎨 425179: 0x5ed0ae54ca... (nonce: 431285, rpc: PUB)
+  ✅ 425179: Block 283535
+  🎨 425180: 0x26da56176e... (nonce: 431286, rpc: DEV)
+  ✅ 425180: Block 283536
+  🎨 425181: 0x8772f8767a... (nonce: 431287, rpc: PUB)
+  ✅ 425181: Block 283537
+  🎨 425182: 0xda139a2886... (nonce: 431288, rpc: DEV)
+  ✅ 425182: Block 283538
+📊 Batch 50 complete: 5 success, 0 failed in 17.5s
+📈 Total progress: 25182 minted, 493 failed, 74325 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 51/15014: 5 tokens
+🎯 Range: 425183 to 425187
+  🎨 425183: 0x18087b7459... (nonce: 431289, rpc: PUB)
+  ✅ 425183: Block 283539
+  🎨 425184: 0x120ec47584... (nonce: 431290, rpc: DEV)
+  ✅ 425184: Block 283540
+  🎨 425185: 0x8b166e834e... (nonce: 431291, rpc: PUB)
+  ✅ 425185: Block 283541
+  🎨 425186: 0x4567d9fe93... (nonce: 431292, rpc: DEV)
+  ✅ 425186: Block 283542
+  🎨 425187: 0xac4b36e139... (nonce: 431293, rpc: PUB)
+  ✅ 425187: Block 283543
+📊 Batch 51 complete: 5 success, 0 failed in 13.0s
+📈 Total progress: 25187 minted, 493 failed, 74320 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 52/15014: 5 tokens
+🎯 Range: 425188 to 425192
+  🎨 425188: 0x7cfeb37716... (nonce: 431294, rpc: DEV)
+  ❌ 425188: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425188: Retry 1/2 in 15.0s
+  🎨 425188: 0x21e00930f6... (nonce: 431295, rpc: PUB)
+  ✅ 425188: Block 283545
+  🎨 425189: 0x9ba45effa9... (nonce: 431296, rpc: DEV)
+  ✅ 425189: Block 283546
+  🎨 425190: 0x164f66543c... (nonce: 431297, rpc: PUB)
+  ✅ 425190: Block 283547
+  🎨 425191: 0xdfecd02e93... (nonce: 431298, rpc: DEV)
+  ✅ 425191: Block 283548
+  🎨 425192: 0x11f5273483... (nonce: 431299, rpc: PUB)
+  ✅ 425192: Block 283549
+📊 Batch 52 complete: 5 success, 0 failed in 69.1s
+📈 Total progress: 25192 minted, 493 failed, 74315 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 53/15014: 5 tokens
+🎯 Range: 425193 to 425197
+  🎨 425193: 0x763a681e8c... (nonce: 431300, rpc: DEV)
+  ❌ 425193: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425193: Retry 1/2 in 15.0s
+  🎨 425193: 0x686ee28c01... (nonce: 431301, rpc: PUB)
+  ✅ 425193: Block 283551
+  🎨 425194: 0x1a28323e7e... (nonce: 431302, rpc: DEV)
+  ✅ 425194: Block 283552
+  🎨 425195: 0x4054f5c723... (nonce: 431303, rpc: PUB)
+  ✅ 425195: Block 283553
+  🎨 425196: 0x378a622ab8... (nonce: 431304, rpc: DEV)
+  ✅ 425196: Block 283554
+  🎨 425197: 0xb925a67e39... (nonce: 431305, rpc: PUB)
+  ✅ 425197: Block 283555
+📊 Batch 53 complete: 5 success, 0 failed in 69.1s
+📈 Total progress: 25197 minted, 493 failed, 74310 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 54/15014: 5 tokens
+🎯 Range: 425198 to 425202
+  🎨 425198: 0x6bd2e297ad... (nonce: 431306, rpc: DEV)
+  ❌ 425198: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425198: Retry 1/2 in 15.0s
+  🎨 425198: 0x34065d8461... (nonce: 431307, rpc: PUB)
+  ✅ 425198: Block 283557
+  🎨 425199: 0xed1fb1a0e3... (nonce: 431308, rpc: DEV)
+  ✅ 425199: Block 283558
+  🎨 425200: 0x5e72c4c119... (nonce: 431309, rpc: PUB)
+  ✅ 425200: Block 283559
+  🎨 425201: 0xc124d64f6b... (nonce: 431310, rpc: DEV)
+  ✅ 425201: Block 283560
+  🎨 425202: 0x84adb378c7... (nonce: 431311, rpc: PUB)
+  ✅ 425202: Block 283561
+📊 Batch 54 complete: 5 success, 0 failed in 68.5s
+📈 Total progress: 25202 minted, 493 failed, 74305 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 55/15014: 5 tokens
+🎯 Range: 425203 to 425207
+  🎨 425203: 0x0c96deb1d0... (nonce: 431312, rpc: DEV)
+  ✅ 425203: Block 283562
+  🎨 425204: 0x1feaeb9091... (nonce: 431313, rpc: PUB)
+  ✅ 425204: Block 283563
+  🎨 425205: 0x1b16287064... (nonce: 431314, rpc: DEV)
+  ✅ 425205: Block 283564
+  🎨 425206: 0xd700e89f98... (nonce: 431315, rpc: PUB)
+  ✅ 425206: Block 283565
+  🎨 425207: 0xaf87d563b6... (nonce: 431316, rpc: DEV)
+  ✅ 425207: Block 283566
+📊 Batch 55 complete: 5 success, 0 failed in 16.8s
+📈 Total progress: 25207 minted, 493 failed, 74300 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 56/15014: 5 tokens
+🎯 Range: 425208 to 425212
+  🎨 425208: 0xe17ff271dd... (nonce: 431317, rpc: PUB)
+  ✅ 425208: Block 283567
+  🎨 425209: 0x3b442b89e7... (nonce: 431318, rpc: DEV)
+  ✅ 425209: Block 283568
+  🎨 425210: 0xcc71a15768... (nonce: 431319, rpc: PUB)
+  ✅ 425210: Block 283569
+  🎨 425211: 0x1c19915be7... (nonce: 431320, rpc: DEV)
+  ✅ 425211: Block 283570
+  🎨 425212: 0x1a9b39c0c1... (nonce: 431321, rpc: PUB)
+  ✅ 425212: Block 283571
+📊 Batch 56 complete: 5 success, 0 failed in 17.3s
+📈 Total progress: 25212 minted, 493 failed, 74295 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 57/15014: 5 tokens
+🎯 Range: 425213 to 425217
+  🎨 425213: 0x48b2bfaa1c... (nonce: 431322, rpc: DEV)
+  ✅ 425213: Block 283572
+  🎨 425214: 0xa2e497b7a3... (nonce: 431323, rpc: PUB)
+  ✅ 425214: Block 283573
+  🎨 425215: 0xca9ee75706... (nonce: 431324, rpc: DEV)
+  ✅ 425215: Block 283574
+  🎨 425216: 0x48ef4f90ed... (nonce: 431325, rpc: PUB)
+  ✅ 425216: Block 283575
+  🎨 425217: 0x405a166110... (nonce: 431326, rpc: DEV)
+  ✅ 425217: Block 283576
+📊 Batch 57 complete: 5 success, 0 failed in 17.8s
+📈 Total progress: 25217 minted, 493 failed, 74290 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 58/15014: 5 tokens
+🎯 Range: 425218 to 425222
+  🎨 425218: 0x5016cf7941... (nonce: 431327, rpc: PUB)
+  ✅ 425218: Block 283577
+  🎨 425219: 0x196204532b... (nonce: 431328, rpc: DEV)
+  ✅ 425219: Block 283578
+  🎨 425220: 0x23d078c311... (nonce: 431329, rpc: PUB)
+  ✅ 425220: Block 283579
+  🎨 425221: 0x1b6fce27ce... (nonce: 431330, rpc: DEV)
+  ✅ 425221: Block 283580
+  🎨 425222: 0xd37f9ee4e5... (nonce: 431331, rpc: PUB)
+  ✅ 425222: Block 283581
+📊 Batch 58 complete: 5 success, 0 failed in 13.3s
+📈 Total progress: 25222 minted, 493 failed, 74285 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 59/15014: 5 tokens
+🎯 Range: 425223 to 425227
+  🎨 425223: 0x662dfbcbdf... (nonce: 431332, rpc: DEV)
+  ✅ 425223: Block 283582
+  🎨 425224: 0x888cc9f097... (nonce: 431333, rpc: PUB)
+  ✅ 425224: Block 283583
+  🎨 425225: 0xbe1c7a3fe7... (nonce: 431334, rpc: DEV)
+  ✅ 425225: Block 283584
+  🎨 425226: 0x95a57e7575... (nonce: 431335, rpc: PUB)
+  ✅ 425226: Block 283585
+  🎨 425227: 0xbdce34a6b7... (nonce: 431336, rpc: DEV)
+  ✅ 425227: Block 283586
+📊 Batch 59 complete: 5 success, 0 failed in 48.5s
+📈 Total progress: 25227 minted, 493 failed, 74280 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 60/15014: 5 tokens
+🎯 Range: 425228 to 425232
+  🎨 425228: 0x1e050b1abe... (nonce: 431337, rpc: PUB)
+  ✅ 425228: Block 283587
+  🎨 425229: 0xa645624d34... (nonce: 431338, rpc: DEV)
+  ✅ 425229: Block 283588
+  🎨 425230: 0x2bd7148388... (nonce: 431339, rpc: PUB)
+  ✅ 425230: Block 283589
+  🎨 425231: 0xb2342cd193... (nonce: 431340, rpc: DEV)
+  ❌ 425231: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425231: Retry 1/2 in 15.0s
+  🎨 425231: 0xc97c625bc8... (nonce: 431341, rpc: PUB)
+  ✅ 425231: Block 283591
+  🎨 425232: 0x6397f09592... (nonce: 431342, rpc: DEV)
+  ✅ 425232: Block 283592
+📊 Batch 60 complete: 5 success, 0 failed in 119.2s
+📈 Total progress: 25232 minted, 493 failed, 74275 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 61/15014: 5 tokens
+🎯 Range: 425233 to 425237
+  🎨 425233: 0x8174f1eb43... (nonce: 431343, rpc: PUB)
+  ✅ 425233: Block 283593
+  🎨 425234: 0x8af135cff1... (nonce: 431344, rpc: DEV)
+  ✅ 425234: Block 283594
+  🎨 425235: 0x010e99f5c2... (nonce: 431345, rpc: PUB)
+  ✅ 425235: Block 283595
+  🎨 425236: 0x07d1666462... (nonce: 431346, rpc: DEV)
+  ✅ 425236: Block 283596
+  🎨 425237: 0x393869d092... (nonce: 431347, rpc: PUB)
+  ✅ 425237: Block 283597
+📊 Batch 61 complete: 5 success, 0 failed in 21.9s
+📈 Total progress: 25237 minted, 493 failed, 74270 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 62/15014: 5 tokens
+🎯 Range: 425238 to 425242
+  🎨 425238: 0xa068c7336c... (nonce: 431348, rpc: DEV)
+  ✅ 425238: Block 283598
+  🎨 425239: 0x2232c28b34... (nonce: 431349, rpc: PUB)
+  ✅ 425239: Block 283599
+  🎨 425240: 0xb57eb6f5d1... (nonce: 431350, rpc: DEV)
+  ❌ 425240: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425240: Retry 1/2 in 15.0s
+  🎨 425240: 0x98e7222b64... (nonce: 431351, rpc: PUB)
+  ✅ 425240: Block 283601
+  🎨 425241: 0x15089d6406... (nonce: 431352, rpc: DEV)
+  ✅ 425241: Block 283602
+  🎨 425242: 0xe1c09791d5... (nonce: 431353, rpc: PUB)
+  ✅ 425242: Block 283603
+📊 Batch 62 complete: 5 success, 0 failed in 106.5s
+📈 Total progress: 25242 minted, 493 failed, 74265 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 63/15014: 5 tokens
+🎯 Range: 425243 to 425247
+  🎨 425243: 0x92d1ecca77... (nonce: 431354, rpc: DEV)
+  ✅ 425243: Block 283604
+  🎨 425244: 0x6d6ecf74f6... (nonce: 431355, rpc: PUB)
+  ✅ 425244: Block 283605
+  🎨 425245: 0x86583b3ec4... (nonce: 431356, rpc: DEV)
+  ✅ 425245: Block 283606
+  🎨 425246: 0xbdb9252a59... (nonce: 431357, rpc: PUB)
+  ✅ 425246: Block 283607
+  🎨 425247: 0x95d369ea94... (nonce: 431358, rpc: DEV)
+  ✅ 425247: Block 283608
+📊 Batch 63 complete: 5 success, 0 failed in 13.6s
+📈 Total progress: 25247 minted, 493 failed, 74260 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 64/15014: 5 tokens
+🎯 Range: 425248 to 425252
+  🎨 425248: 0x2f71d8b884... (nonce: 431359, rpc: PUB)
+  ✅ 425248: Block 283609
+  🎨 425249: 0x88df0d4de8... (nonce: 431360, rpc: DEV)
+  ✅ 425249: Block 283610
+  🎨 425250: 0xf94d04f322... (nonce: 431361, rpc: PUB)
+  ✅ 425250: Block 283611
+  🎨 425251: 0x6be779d50a... (nonce: 431362, rpc: DEV)
+  ✅ 425251: Block 283612
+  🎨 425252: 0x1ba8b01f1b... (nonce: 431363, rpc: PUB)
+  ✅ 425252: Block 283613
+📊 Batch 64 complete: 5 success, 0 failed in 13.6s
+📈 Total progress: 25252 minted, 493 failed, 74255 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 65/15014: 5 tokens
+🎯 Range: 425253 to 425257
+  🎨 425253: 0x28dd03400c... (nonce: 431364, rpc: DEV)
+  ❌ 425253: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425253: Retry 1/2 in 15.0s
+  🎨 425253: 0x75a1ecc45d... (nonce: 431365, rpc: PUB)
+  ✅ 425253: Block 283615
+  🎨 425254: 0xf12917c38b... (nonce: 431366, rpc: DEV)
+  ✅ 425254: Block 283616
+  🎨 425255: 0x360619544b... (nonce: 431367, rpc: PUB)
+  ✅ 425255: Block 283617
+  🎨 425256: 0x995b364541... (nonce: 431368, rpc: DEV)
+  ✅ 425256: Block 283618
+  🎨 425257: 0xda2015a40a... (nonce: 431369, rpc: PUB)
+  ✅ 425257: Block 283619
+📊 Batch 65 complete: 5 success, 0 failed in 85.0s
+📈 Total progress: 25257 minted, 493 failed, 74250 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 66/15014: 5 tokens
+🎯 Range: 425258 to 425262
+  🎨 425258: 0xd3a4ce0a1d... (nonce: 431370, rpc: DEV)
+  ✅ 425258: Block 283620
+  🎨 425259: 0xeca1ecb80f... (nonce: 431371, rpc: PUB)
+  ✅ 425259: Block 283621
+  🎨 425260: 0x07c5b9ed71... (nonce: 431372, rpc: DEV)
+  ✅ 425260: Block 283622
+  🎨 425261: 0xa7704c7b09... (nonce: 431373, rpc: PUB)
+  ✅ 425261: Block 283623
+  🎨 425262: 0xd0545acc17... (nonce: 431374, rpc: DEV)
+  ✅ 425262: Block 283624
+📊 Batch 66 complete: 5 success, 0 failed in 26.8s
+📈 Total progress: 25262 minted, 493 failed, 74245 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 67/15014: 5 tokens
+🎯 Range: 425263 to 425267
+  🎨 425263: 0xe0d85d84d9... (nonce: 431375, rpc: PUB)
+  ✅ 425263: Block 283625
+  🎨 425264: 0x16a61f529e... (nonce: 431376, rpc: DEV)
+  ✅ 425264: Block 283626
+  🎨 425265: 0xa29417ac7a... (nonce: 431377, rpc: PUB)
+  ✅ 425265: Block 283627
+  🎨 425266: 0x3c38e6ae56... (nonce: 431378, rpc: DEV)
+  ✅ 425266: Block 283628
+  🎨 425267: 0x3a40bbeaf1... (nonce: 431379, rpc: PUB)
+  ✅ 425267: Block 283629
+📊 Batch 67 complete: 5 success, 0 failed in 13.2s
+📈 Total progress: 25267 minted, 493 failed, 74240 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 68/15014: 5 tokens
+🎯 Range: 425268 to 425272
+  🎨 425268: 0x0f0dcd0b0c... (nonce: 431380, rpc: DEV)
+  ✅ 425268: Block 283630
+  🎨 425269: 0x00fffb85e1... (nonce: 431381, rpc: PUB)
+  ✅ 425269: Block 283631
+  🎨 425270: 0x93f06c7f61... (nonce: 431382, rpc: DEV)
+  ✅ 425270: Block 283632
+  🎨 425271: 0x51b1b0a8e1... (nonce: 431383, rpc: PUB)
+  ✅ 425271: Block 283633
+  🎨 425272: 0x376017bc85... (nonce: 431384, rpc: DEV)
+  ✅ 425272: Block 283634
+📊 Batch 68 complete: 5 success, 0 failed in 14.9s
+📈 Total progress: 25272 minted, 493 failed, 74235 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 69/15014: 5 tokens
+🎯 Range: 425273 to 425277
+  🎨 425273: 0x29fe6468c1... (nonce: 431385, rpc: PUB)
+  ✅ 425273: Block 283635
+  🎨 425274: 0x03d0ad81e9... (nonce: 431386, rpc: DEV)
+  ✅ 425274: Block 283636
+  🎨 425275: 0xc5489ad20a... (nonce: 431387, rpc: PUB)
+  ✅ 425275: Block 283637
+  🎨 425276: 0xacb605c23f... (nonce: 431388, rpc: DEV)
+  ✅ 425276: Block 283638
+  🎨 425277: 0x5f42817875... (nonce: 431389, rpc: PUB)
+  ✅ 425277: Block 283639
+📊 Batch 69 complete: 5 success, 0 failed in 12.5s
+📈 Total progress: 25277 minted, 493 failed, 74230 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 70/15014: 5 tokens
+🎯 Range: 425278 to 425282
+  🎨 425278: 0x216ee439b3... (nonce: 431390, rpc: DEV)
+  ✅ 425278: Block 283640
+  🎨 425279: 0x8208f502f1... (nonce: 431391, rpc: PUB)
+  ✅ 425279: Block 283641
+  🎨 425280: 0xbc8543c833... (nonce: 431392, rpc: DEV)
+  ❌ 425280: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425280: Retry 1/2 in 15.0s
+  🎨 425280: 0xe109ffb2b3... (nonce: 431393, rpc: PUB)
+  ✅ 425280: Block 283643
+  🎨 425281: 0x9584e96f8a... (nonce: 431394, rpc: DEV)
+  ✅ 425281: Block 283644
+  🎨 425282: 0x7f3d682057... (nonce: 431395, rpc: PUB)
+  ✅ 425282: Block 283645
+📊 Batch 70 complete: 5 success, 0 failed in 82.9s
+📈 Total progress: 25282 minted, 493 failed, 74225 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 71/15014: 5 tokens
+🎯 Range: 425283 to 425287
+  🎨 425283: 0xb686af3a5f... (nonce: 431396, rpc: DEV)
+  ❌ 425283: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425283: Retry 1/2 in 15.0s
+  🎨 425283: 0x3227c05667... (nonce: 431397, rpc: PUB)
+  ✅ 425283: Block 283647
+  🎨 425284: 0x2b0ffa27d5... (nonce: 431398, rpc: DEV)
+  ✅ 425284: Block 283648
+  🎨 425285: 0x709da124ac... (nonce: 431399, rpc: PUB)
+  ✅ 425285: Block 283649
+  🎨 425286: 0xfbc6f8df0b... (nonce: 431400, rpc: DEV)
+  ❌ 425286: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425286: Retry 1/2 in 15.0s
+  🎨 425286: 0x46d68d6c92... (nonce: 431401, rpc: PUB)
+  ✅ 425286: Block 283651
+  🎨 425287: 0x19373014eb... (nonce: 431402, rpc: DEV)
+  ✅ 425287: Block 283652
+📊 Batch 71 complete: 5 success, 0 failed in 208.3s
+📈 Total progress: 25287 minted, 493 failed, 74220 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 72/15014: 5 tokens
+🎯 Range: 425288 to 425292
+  🎨 425288: 0xef7dac1be5... (nonce: 431403, rpc: PUB)
+  ✅ 425288: Block 283653
+  🎨 425289: 0x314f4a8fd4... (nonce: 431404, rpc: DEV)
+  ✅ 425289: Block 283654
+  🎨 425290: 0x77477ff50b... (nonce: 431405, rpc: PUB)
+  ✅ 425290: Block 283655
+  🎨 425291: 0x08e68a6acd... (nonce: 431406, rpc: DEV)
+  ✅ 425291: Block 283656
+  🎨 425292: 0xd24669a848... (nonce: 431407, rpc: PUB)
+  ✅ 425292: Block 283657
+📊 Batch 72 complete: 5 success, 0 failed in 43.1s
+📈 Total progress: 25292 minted, 493 failed, 74215 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 73/15014: 5 tokens
+🎯 Range: 425293 to 425297
+  🎨 425293: 0x9d90152f57... (nonce: 431408, rpc: DEV)
+  ✅ 425293: Block 283658
+  🎨 425294: 0x479ac888da... (nonce: 431409, rpc: PUB)
+  ✅ 425294: Block 283659
+  🎨 425295: 0xa6ba546138... (nonce: 431410, rpc: DEV)
+  ✅ 425295: Block 283660
+  🎨 425296: 0x0ad821c8f3... (nonce: 431411, rpc: PUB)
+  ✅ 425296: Block 283661
+  🎨 425297: 0x17815e87e1... (nonce: 431412, rpc: DEV)
+  ✅ 425297: Block 283662
+📊 Batch 73 complete: 5 success, 0 failed in 13.5s
+📈 Total progress: 25297 minted, 493 failed, 74210 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 74/15014: 5 tokens
+🎯 Range: 425298 to 425302
+  🎨 425298: 0x2668f61325... (nonce: 431413, rpc: PUB)
+  ✅ 425298: Block 283663
+  🎨 425299: 0x2d62eb9785... (nonce: 431414, rpc: DEV)
+  ✅ 425299: Block 283664
+  🎨 425300: 0x18e966fa7f... (nonce: 431415, rpc: PUB)
+  ✅ 425300: Block 283665
+  🎨 425301: 0x102cf6fbf9... (nonce: 431416, rpc: DEV)
+  ✅ 425301: Block 283666
+  🎨 425302: 0x83e4245de0... (nonce: 431417, rpc: PUB)
+  ✅ 425302: Block 283667
+📊 Batch 74 complete: 5 success, 0 failed in 14.6s
+📈 Total progress: 25302 minted, 493 failed, 74205 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 75/15014: 5 tokens
+🎯 Range: 425303 to 425307
+  🎨 425303: 0x5b3ee67078... (nonce: 431418, rpc: DEV)
+  ✅ 425303: Block 283668
+  🎨 425304: 0x81ad2785c3... (nonce: 431419, rpc: PUB)
+  ✅ 425304: Block 283669
+  🎨 425305: 0x15bb447b20... (nonce: 431420, rpc: DEV)
+  ✅ 425305: Block 283670
+  🎨 425306: 0x63b971ee36... (nonce: 431421, rpc: PUB)
+  ✅ 425306: Block 283671
+  🎨 425307: 0xe850bf57cc... (nonce: 431422, rpc: DEV)
+  ✅ 425307: Block 283672
+📊 Batch 75 complete: 5 success, 0 failed in 17.1s
+📈 Total progress: 25307 minted, 493 failed, 74200 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 76/15014: 5 tokens
+🎯 Range: 425308 to 425312
+  🎨 425308: 0xca9b7ae253... (nonce: 431423, rpc: PUB)
+  ✅ 425308: Block 283673
+  🎨 425309: 0xe6276f1a1b... (nonce: 431424, rpc: DEV)
+  ❌ 425309: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425309: Retry 1/2 in 15.0s
+  🎨 425309: 0xff0bb75f08... (nonce: 431425, rpc: PUB)
+  ✅ 425309: Block 283675
+  🎨 425310: 0xc6a9c8b7b7... (nonce: 431426, rpc: DEV)
+  ✅ 425310: Block 283676
+  🎨 425311: 0x8d68051425... (nonce: 431427, rpc: PUB)
+  ✅ 425311: Block 283677
+  🎨 425312: 0x0c4fc534d3... (nonce: 431428, rpc: DEV)
+  ✅ 425312: Block 283678
+📊 Batch 76 complete: 5 success, 0 failed in 73.9s
+📈 Total progress: 25312 minted, 493 failed, 74195 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 77/15014: 5 tokens
+🎯 Range: 425313 to 425317
+  🎨 425313: 0x99a2720c38... (nonce: 431429, rpc: PUB)
+  ✅ 425313: Block 283679
+  🎨 425314: 0x8ed297fe9f... (nonce: 431430, rpc: DEV)
+  ✅ 425314: Block 283680
+  🎨 425315: 0xc54079d86d... (nonce: 431431, rpc: PUB)
+  ✅ 425315: Block 283681
+  🎨 425316: 0x16c385b311... (nonce: 431432, rpc: DEV)
+  ✅ 425316: Block 283682
+  🎨 425317: 0xac2670f269... (nonce: 431433, rpc: PUB)
+  ✅ 425317: Block 283683
+📊 Batch 77 complete: 5 success, 0 failed in 13.2s
+📈 Total progress: 25317 minted, 493 failed, 74190 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 78/15014: 5 tokens
+🎯 Range: 425318 to 425322
+  🎨 425318: 0x0062056202... (nonce: 431434, rpc: DEV)
+  ❌ 425318: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425318: Retry 1/2 in 15.0s
+  🎨 425318: 0xe510fa8eea... (nonce: 431435, rpc: PUB)
+  ✅ 425318: Block 283685
+  🎨 425319: 0x9913bef7b5... (nonce: 431436, rpc: DEV)
+  ✅ 425319: Block 283686
+  🎨 425320: 0xe5ea5be7fa... (nonce: 431437, rpc: PUB)
+  ✅ 425320: Block 283687
+  🎨 425321: 0x02bd30cd2f... (nonce: 431438, rpc: DEV)
+  ✅ 425321: Block 283688
+  🎨 425322: 0xa3ac556b1e... (nonce: 431439, rpc: PUB)
+  ✅ 425322: Block 283689
+📊 Batch 78 complete: 5 success, 0 failed in 224.0s
+📈 Total progress: 25322 minted, 493 failed, 74185 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 79/15014: 5 tokens
+🎯 Range: 425323 to 425327
+  🎨 425323: 0xf2ee1e84c4... (nonce: 431440, rpc: DEV)
+  ❌ 425323: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425323: Retry 1/2 in 15.0s
+  🎨 425323: 0xe5b58f784c... (nonce: 431441, rpc: PUB)
+  ✅ 425323: Block 283691
+  🎨 425324: 0x18e8531518... (nonce: 431442, rpc: DEV)
+  ✅ 425324: Block 283692
+  🎨 425325: 0x176595c5f5... (nonce: 431443, rpc: PUB)
+  ✅ 425325: Block 283693
+  🎨 425326: 0x61e8639da2... (nonce: 431444, rpc: DEV)
+  ✅ 425326: Block 283694
+  🎨 425327: 0x409a76b479... (nonce: 431445, rpc: PUB)
+  ✅ 425327: Block 283695
+📊 Batch 79 complete: 5 success, 0 failed in 620.7s
+📈 Total progress: 25327 minted, 493 failed, 74180 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 80/15014: 5 tokens
+🎯 Range: 425328 to 425332
+  🎨 425328: 0x38deccc2b1... (nonce: 431446, rpc: DEV)
+  ✅ 425328: Block 283696
+  🎨 425329: 0xd91d0e3fb8... (nonce: 431447, rpc: PUB)
+  ✅ 425329: Block 283697
+  🎨 425330: 0xe767554e49... (nonce: 431448, rpc: DEV)
+  ✅ 425330: Block 283698
+  🎨 425331: 0x59750bd15d... (nonce: 431449, rpc: PUB)
+  ✅ 425331: Block 283699
+  🎨 425332: 0xe86bd7ac25... (nonce: 431450, rpc: DEV)
+  ✅ 425332: Block 283700
+📊 Batch 80 complete: 5 success, 0 failed in 25.5s
+📈 Total progress: 25332 minted, 493 failed, 74175 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 81/15014: 5 tokens
+🎯 Range: 425333 to 425337
+  🎨 425333: 0x1941831aea... (nonce: 431451, rpc: PUB)
+  ✅ 425333: Block 283701
+  🎨 425334: 0x39c093cf8e... (nonce: 431452, rpc: DEV)
+  ✅ 425334: Block 283702
+  🎨 425335: 0xbfbd5dc690... (nonce: 431453, rpc: PUB)
+  ✅ 425335: Block 283703
+  🎨 425336: 0xbe271fcec1... (nonce: 431454, rpc: DEV)
+  ✅ 425336: Block 283704
+  🎨 425337: 0xa646be0b7b... (nonce: 431455, rpc: PUB)
+  ✅ 425337: Block 283705
+📊 Batch 81 complete: 5 success, 0 failed in 12.6s
+📈 Total progress: 25337 minted, 493 failed, 74170 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 82/15014: 5 tokens
+🎯 Range: 425338 to 425342
+  🎨 425338: 0xc0da00c6cf... (nonce: 431456, rpc: DEV)
+  ❌ 425338: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425338: Retry 1/2 in 15.0s
+  🎨 425338: 0xc1656ba997... (nonce: 431457, rpc: PUB)
+  ✅ 425338: Block 283707
+  🎨 425339: 0xf52c9c45c3... (nonce: 431458, rpc: DEV)
+  ✅ 425339: Block 283708
+  🎨 425340: 0x54c5aee897... (nonce: 431459, rpc: PUB)
+  ✅ 425340: Block 283709
+  🎨 425341: 0xc0eb203799... (nonce: 431460, rpc: DEV)
+  ✅ 425341: Block 283710
+  🎨 425342: 0x8ba50561b6... (nonce: 431461, rpc: PUB)
+  ✅ 425342: Block 283711
+📊 Batch 82 complete: 5 success, 0 failed in 68.8s
+📈 Total progress: 25342 minted, 493 failed, 74165 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 83/15014: 5 tokens
+🎯 Range: 425343 to 425347
+  🎨 425343: 0x98ae60f757... (nonce: 431462, rpc: DEV)
+  ✅ 425343: Block 283712
+  🎨 425344: 0xc90246d57a... (nonce: 431463, rpc: PUB)
+  ✅ 425344: Block 283713
+  🎨 425345: 0x4296bd49b9... (nonce: 431464, rpc: DEV)
+  ✅ 425345: Block 283714
+  🎨 425346: 0x26a8a58335... (nonce: 431465, rpc: PUB)
+  ✅ 425346: Block 283715
+  🎨 425347: 0xd0fa36ccbd... (nonce: 431466, rpc: DEV)
+  ✅ 425347: Block 283716
+📊 Batch 83 complete: 5 success, 0 failed in 16.6s
+📈 Total progress: 25347 minted, 493 failed, 74160 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 84/15014: 5 tokens
+🎯 Range: 425348 to 425352
+  🎨 425348: 0xae82967fa2... (nonce: 431467, rpc: PUB)
+  ✅ 425348: Block 283717
+  🎨 425349: 0x9fa6984489... (nonce: 431468, rpc: DEV)
+  ✅ 425349: Block 283718
+  🎨 425350: 0x2021a9d010... (nonce: 431469, rpc: PUB)
+  ✅ 425350: Block 283719
+  🎨 425351: 0x4d7efa1d0f... (nonce: 431470, rpc: DEV)
+  ✅ 425351: Block 283720
+  🎨 425352: 0x2f29b39c76... (nonce: 431471, rpc: PUB)
+  ✅ 425352: Block 283721
+📊 Batch 84 complete: 5 success, 0 failed in 13.2s
+📈 Total progress: 25352 minted, 493 failed, 74155 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 85/15014: 5 tokens
+🎯 Range: 425353 to 425357
+  🎨 425353: 0xf13d42e697... (nonce: 431472, rpc: DEV)
+  ✅ 425353: Block 283722
+  🎨 425354: 0x689d130822... (nonce: 431473, rpc: PUB)
+  ✅ 425354: Block 283723
+  🎨 425355: 0x1c7ce0aff7... (nonce: 431474, rpc: DEV)
+  ✅ 425355: Block 283724
+  🎨 425356: 0xfada34ef21... (nonce: 431475, rpc: PUB)
+  ✅ 425356: Block 283725
+  🎨 425357: 0xc5b966ff88... (nonce: 431476, rpc: DEV)
+  ✅ 425357: Block 283726
+📊 Batch 85 complete: 5 success, 0 failed in 17.1s
+📈 Total progress: 25357 minted, 493 failed, 74150 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 86/15014: 5 tokens
+🎯 Range: 425358 to 425362
+  🎨 425358: 0x1f2f85c597... (nonce: 431477, rpc: PUB)
+  ✅ 425358: Block 283727
+  🎨 425359: 0xec5ed5ce9f... (nonce: 431478, rpc: DEV)
+  ✅ 425359: Block 283728
+  🎨 425360: 0xa6cf2e830f... (nonce: 431479, rpc: PUB)
+  ✅ 425360: Block 283729
+  🎨 425361: 0x87a602fc19... (nonce: 431480, rpc: DEV)
+  ✅ 425361: Block 283730
+  🎨 425362: 0x9a349490ab... (nonce: 431481, rpc: PUB)
+  ✅ 425362: Block 283731
+📊 Batch 86 complete: 5 success, 0 failed in 21.7s
+📈 Total progress: 25362 minted, 493 failed, 74145 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 87/15014: 5 tokens
+🎯 Range: 425363 to 425367
+  🎨 425363: 0x5c1810a766... (nonce: 431482, rpc: DEV)
+  ❌ 425363: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425363: Retry 1/2 in 15.0s
+  🎨 425363: 0xbfb958a8ad... (nonce: 431483, rpc: PUB)
+  ✅ 425363: Block 283733
+  🎨 425364: 0xb6d5932ea6... (nonce: 431484, rpc: DEV)
+  ✅ 425364: Block 283734
+  🎨 425365: 0xc404d96d6f... (nonce: 431485, rpc: PUB)
+  ✅ 425365: Block 283735
+  🎨 425366: 0x3a8bd379cc... (nonce: 431486, rpc: DEV)
+  ✅ 425366: Block 283736
+  🎨 425367: 0x294808ced7... (nonce: 431487, rpc: PUB)
+  ✅ 425367: Block 283737
+📊 Batch 87 complete: 5 success, 0 failed in 271.3s
+📈 Total progress: 25367 minted, 493 failed, 74140 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 88/15014: 5 tokens
+🎯 Range: 425368 to 425372
+  🎨 425368: 0xa781e32993... (nonce: 431488, rpc: DEV)
+  ✅ 425368: Block 283738
+  🎨 425369: 0x5127675e01... (nonce: 431489, rpc: PUB)
+  ✅ 425369: Block 283739
+  🎨 425370: 0x790b79397d... (nonce: 431490, rpc: DEV)
+  ✅ 425370: Block 283740
+  🎨 425371: 0x08bae60736... (nonce: 431491, rpc: PUB)
+  ✅ 425371: Block 283741
+  🎨 425372: 0x203122c872... (nonce: 431492, rpc: DEV)
+  ✅ 425372: Block 283742
+📊 Batch 88 complete: 5 success, 0 failed in 22.2s
+📈 Total progress: 25372 minted, 493 failed, 74135 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 89/15014: 5 tokens
+🎯 Range: 425373 to 425377
+  🎨 425373: 0xd7a4ce5ce9... (nonce: 431493, rpc: PUB)
+  ✅ 425373: Block 283743
+  🎨 425374: 0x05b5113dd6... (nonce: 431494, rpc: DEV)
+  ✅ 425374: Block 283744
+  🎨 425375: 0xf0b9793c1c... (nonce: 431495, rpc: PUB)
+  ✅ 425375: Block 283745
+  🎨 425376: 0x569be0d9af... (nonce: 431496, rpc: DEV)
+  ✅ 425376: Block 283746
+  🎨 425377: 0xe1c8a2bbd4... (nonce: 431497, rpc: PUB)
+  ✅ 425377: Block 283747
+📊 Batch 89 complete: 5 success, 0 failed in 45.6s
+📈 Total progress: 25377 minted, 493 failed, 74130 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 90/15014: 5 tokens
+🎯 Range: 425378 to 425382
+  🎨 425378: 0x697f5f9a60... (nonce: 431498, rpc: DEV)
+  ✅ 425378: Block 283748
+  🎨 425379: 0x157c0ef8bd... (nonce: 431499, rpc: PUB)
+  ✅ 425379: Block 283749
+  🎨 425380: 0xfe845f1d51... (nonce: 431500, rpc: DEV)
+  ✅ 425380: Block 283750
+  🎨 425381: 0xf232da1006... (nonce: 431501, rpc: PUB)
+  ✅ 425381: Block 283751
+  🎨 425382: 0x2c36b6f8b1... (nonce: 431502, rpc: DEV)
+  ✅ 425382: Block 283752
+📊 Batch 90 complete: 5 success, 0 failed in 12.5s
+📈 Total progress: 25382 minted, 493 failed, 74125 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 91/15014: 5 tokens
+🎯 Range: 425383 to 425387
+  🎨 425383: 0x81a311078e... (nonce: 431503, rpc: PUB)
+  ❌ 425383: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425383: Retry 1/2 in 15.0s
+  🎨 425383: 0x3dbeae644d... (nonce: 431504, rpc: DEV)
+  ✅ 425383: Block 283754
+  🎨 425384: 0x3029f97cee... (nonce: 431505, rpc: PUB)
+  ✅ 425384: Block 283755
+  🎨 425385: 0xf5049cbf1d... (nonce: 431506, rpc: DEV)
+  ✅ 425385: Block 283756
+  🎨 425386: 0x56b10fc18a... (nonce: 431507, rpc: PUB)
+  ✅ 425386: Block 283757
+  🎨 425387: 0x21a3766d5f... (nonce: 431508, rpc: DEV)
+  ✅ 425387: Block 283758
+📊 Batch 91 complete: 5 success, 0 failed in 151.5s
+📈 Total progress: 25387 minted, 493 failed, 74120 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 92/15014: 5 tokens
+🎯 Range: 425388 to 425392
+  🎨 425388: 0xfaac272a62... (nonce: 431509, rpc: PUB)
+  ✅ 425388: Block 283759
+  🎨 425389: 0x409df8ac51... (nonce: 431510, rpc: DEV)
+  ✅ 425389: Block 283760
+  🎨 425390: 0x91e2bcb55b... (nonce: 431511, rpc: PUB)
+  ✅ 425390: Block 283761
+  🎨 425391: 0xe88f668b89... (nonce: 431512, rpc: DEV)
+  ❌ 425391: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425391: Retry 1/2 in 15.0s
+  🎨 425391: 0xa58d5d0db1... (nonce: 431513, rpc: PUB)
+  ✅ 425391: Block 283763
+  🎨 425392: 0x31bfa500d1... (nonce: 431514, rpc: DEV)
+  ✅ 425392: Block 283764
+📊 Batch 92 complete: 5 success, 0 failed in 72.7s
+📈 Total progress: 25392 minted, 493 failed, 74115 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 93/15014: 5 tokens
+🎯 Range: 425393 to 425397
+  🎨 425393: 0xe46105d481... (nonce: 431515, rpc: PUB)
+  ✅ 425393: Block 283765
+  🎨 425394: 0x8db616017f... (nonce: 431516, rpc: DEV)
+  ✅ 425394: Block 283766
+  🎨 425395: 0xa8b60169aa... (nonce: 431517, rpc: PUB)
+  ✅ 425395: Block 283767
+  🎨 425396: 0xf77aadf22d... (nonce: 431518, rpc: DEV)
+  ✅ 425396: Block 283768
+  🎨 425397: 0xc4163a4ecf... (nonce: 431519, rpc: PUB)
+  ✅ 425397: Block 283769
+📊 Batch 93 complete: 5 success, 0 failed in 12.6s
+📈 Total progress: 25397 minted, 493 failed, 74110 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 94/15014: 5 tokens
+🎯 Range: 425398 to 425402
+  🎨 425398: 0x7b1025dbb5... (nonce: 431520, rpc: DEV)
+  ❌ 425398: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425398: Retry 1/2 in 15.0s
+  🎨 425398: 0xb45cb644ab... (nonce: 431521, rpc: PUB)
+  ✅ 425398: Block 283771
+  🎨 425399: 0x0e639363c3... (nonce: 431522, rpc: DEV)
+  ✅ 425399: Block 283772
+  🎨 425400: 0x873a817950... (nonce: 431523, rpc: PUB)
+  ✅ 425400: Block 283773
+  🎨 425401: 0xf0faa97398... (nonce: 431524, rpc: DEV)
+  ✅ 425401: Block 283774
+  🎨 425402: 0x3a898b7e2e... (nonce: 431525, rpc: PUB)
+  ✅ 425402: Block 283775
+📊 Batch 94 complete: 5 success, 0 failed in 68.6s
+📈 Total progress: 25402 minted, 493 failed, 74105 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 95/15014: 5 tokens
+🎯 Range: 425403 to 425407
+  🎨 425403: 0x3fd7ea696c... (nonce: 431526, rpc: DEV)
+  ✅ 425403: Block 283776
+  🎨 425404: 0x76d1bc8fa0... (nonce: 431527, rpc: PUB)
+  ✅ 425404: Block 283777
+  🎨 425405: 0xb49a6e0cae... (nonce: 431528, rpc: DEV)
+  ✅ 425405: Block 283778
+  🎨 425406: 0x074e854aed... (nonce: 431529, rpc: PUB)
+  ✅ 425406: Block 283779
+  🎨 425407: 0x069dd2865e... (nonce: 431530, rpc: DEV)
+  ✅ 425407: Block 283780
+📊 Batch 95 complete: 5 success, 0 failed in 16.8s
+📈 Total progress: 25407 minted, 493 failed, 74100 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 96/15014: 5 tokens
+🎯 Range: 425408 to 425412
+  🎨 425408: 0x49016f877f... (nonce: 431531, rpc: PUB)
+  ✅ 425408: Block 283781
+  🎨 425409: 0xfc219fd044... (nonce: 431532, rpc: DEV)
+  ✅ 425409: Block 283782
+  🎨 425410: 0x846b275613... (nonce: 431533, rpc: PUB)
+  ✅ 425410: Block 283783
+  🎨 425411: 0xb4efca88c1... (nonce: 431534, rpc: DEV)
+  ✅ 425411: Block 283784
+  🎨 425412: 0xe73ca41277... (nonce: 431535, rpc: PUB)
+  ✅ 425412: Block 283785
+📊 Batch 96 complete: 5 success, 0 failed in 19.1s
+📈 Total progress: 25412 minted, 493 failed, 74095 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 97/15014: 5 tokens
+🎯 Range: 425413 to 425417
+  🎨 425413: 0x565290e544... (nonce: 431536, rpc: DEV)
+  ✅ 425413: Block 283786
+  🎨 425414: 0x5c5334a212... (nonce: 431537, rpc: PUB)
+  ✅ 425414: Block 283787
+  🎨 425415: 0xa795c56d03... (nonce: 431538, rpc: DEV)
+  ✅ 425415: Block 283788
+  🎨 425416: 0x57fe4a5fca... (nonce: 431539, rpc: PUB)
+  ✅ 425416: Block 283789
+  🎨 425417: 0x8cc2a88fa8... (nonce: 431540, rpc: DEV)
+  ✅ 425417: Block 283790
+📊 Batch 97 complete: 5 success, 0 failed in 18.0s
+📈 Total progress: 25417 minted, 493 failed, 74090 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 98/15014: 5 tokens
+🎯 Range: 425418 to 425422
+  🎨 425418: 0x6d4493e84f... (nonce: 431541, rpc: PUB)
+  ✅ 425418: Block 283791
+  🎨 425419: 0xc76be256b6... (nonce: 431542, rpc: DEV)
+  ✅ 425419: Block 283792
+  🎨 425420: 0xaf231fc412... (nonce: 431543, rpc: PUB)
+  ✅ 425420: Block 283793
+  🎨 425421: 0xdaba1680fb... (nonce: 431544, rpc: DEV)
+  ✅ 425421: Block 283794
+  🎨 425422: 0xce871b4b3b... (nonce: 431545, rpc: PUB)
+  ✅ 425422: Block 283795
+📊 Batch 98 complete: 5 success, 0 failed in 12.9s
+📈 Total progress: 25422 minted, 493 failed, 74085 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 99/15014: 5 tokens
+🎯 Range: 425423 to 425427
+  🎨 425423: 0xfeb4a503ce... (nonce: 431546, rpc: DEV)
+  ✅ 425423: Block 283796
+  🎨 425424: 0x547081f75c... (nonce: 431547, rpc: PUB)
+  ✅ 425424: Block 283797
+  🎨 425425: 0x2549a85f25... (nonce: 431548, rpc: DEV)
+  ✅ 425425: Block 283798
+  🎨 425426: 0x25ec6445d6... (nonce: 431549, rpc: PUB)
+  ✅ 425426: Block 283799
+  🎨 425427: 0xd3759f30c1... (nonce: 431550, rpc: DEV)
+  ✅ 425427: Block 283800
+📊 Batch 99 complete: 5 success, 0 failed in 20.6s
+📈 Total progress: 25427 minted, 493 failed, 74080 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 100/15014: 5 tokens
+🎯 Range: 425428 to 425432
+  🎨 425428: 0xf2cc8e0d1d... (nonce: 431551, rpc: PUB)
+  ✅ 425428: Block 283801
+  🎨 425429: 0x03d1f7b8f9... (nonce: 431552, rpc: DEV)
+  ✅ 425429: Block 283802
+  🎨 425430: 0x0ea910d520... (nonce: 431553, rpc: PUB)
+  ✅ 425430: Block 283803
+  🎨 425431: 0xd4e70dac89... (nonce: 431554, rpc: DEV)
+  ✅ 425431: Block 283804
+  🎨 425432: 0x1a5b6b126a... (nonce: 431555, rpc: PUB)
+  ✅ 425432: Block 283805
+📊 Batch 100 complete: 5 success, 0 failed in 14.2s
+📈 Total progress: 25432 minted, 493 failed, 74075 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 101/15014: 5 tokens
+🎯 Range: 425433 to 425437
+  🎨 425433: 0x8ffd141265... (nonce: 431556, rpc: DEV)
+  ✅ 425433: Block 283806
+  🎨 425434: 0xd4285d6808... (nonce: 431557, rpc: PUB)
+  ✅ 425434: Block 283807
+  🎨 425435: 0x62e571bff2... (nonce: 431558, rpc: DEV)
+  ❌ 425435: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425435: Retry 1/2 in 15.0s
+  🎨 425435: 0xc0b1f4f786... (nonce: 431559, rpc: PUB)
+  ✅ 425435: Block 283809
+  🎨 425436: 0x5f69dc2787... (nonce: 431560, rpc: DEV)
+  ✅ 425436: Block 283810
+  🎨 425437: 0x164fc7cc90... (nonce: 431561, rpc: PUB)
+  ✅ 425437: Block 283811
+📊 Batch 101 complete: 5 success, 0 failed in 139.3s
+📈 Total progress: 25437 minted, 493 failed, 74070 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 102/15014: 5 tokens
+🎯 Range: 425438 to 425442
+  🎨 425438: 0xea0809ba8f... (nonce: 431562, rpc: DEV)
+  ✅ 425438: Block 283812
+  🎨 425439: 0x8adc518b27... (nonce: 431563, rpc: PUB)
+  ❌ 425439: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425439: Retry 1/2 in 15.0s
+  🎨 425439: 0x1d0590fa83... (nonce: 431564, rpc: DEV)
+  ✅ 425439: Block 283814
+  🎨 425440: 0x510a10b472... (nonce: 431565, rpc: PUB)
+  ✅ 425440: Block 283815
+  🎨 425441: 0x1dc8c492cb... (nonce: 431566, rpc: DEV)
+  ❌ 425441: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425441: Retry 1/2 in 15.0s
+  🎨 425441: 0x93d337017c... (nonce: 431567, rpc: PUB)
+  ✅ 425441: Block 283817
+  🎨 425442: 0xb6faa47751... (nonce: 431568, rpc: DEV)
+  ✅ 425442: Block 283818
+📊 Batch 102 complete: 5 success, 0 failed in 338.6s
+📈 Total progress: 25442 minted, 493 failed, 74065 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 103/15014: 5 tokens
+🎯 Range: 425443 to 425447
+  🎨 425443: 0xc04e00a547... (nonce: 431569, rpc: PUB)
+  ✅ 425443: Block 283819
+  🎨 425444: 0xb0c7b65fd9... (nonce: 431570, rpc: DEV)
+  ✅ 425444: Block 283820
+  🎨 425445: 0x27802ea75a... (nonce: 431571, rpc: PUB)
+  ✅ 425445: Block 283821
+  🎨 425446: 0xfc4020a8c5... (nonce: 431572, rpc: DEV)
+  ✅ 425446: Block 283822
+  🎨 425447: 0x21ff5e431d... (nonce: 431573, rpc: PUB)
+  ✅ 425447: Block 283823
+📊 Batch 103 complete: 5 success, 0 failed in 12.9s
+📈 Total progress: 25447 minted, 493 failed, 74060 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 104/15014: 5 tokens
+🎯 Range: 425448 to 425452
+  🎨 425448: 0xcbe656953a... (nonce: 431574, rpc: DEV)
+  ✅ 425448: Block 283824
+  🎨 425449: 0xb8328583bb... (nonce: 431575, rpc: PUB)
+  ✅ 425449: Block 283825
+  🎨 425450: 0x515dd7b06b... (nonce: 431576, rpc: DEV)
+  ✅ 425450: Block 283826
+  🎨 425451: 0x7904de712d... (nonce: 431577, rpc: PUB)
+  ✅ 425451: Block 283827
+  🎨 425452: 0xa16a67f062... (nonce: 431578, rpc: DEV)
+  ✅ 425452: Block 283828
+📊 Batch 104 complete: 5 success, 0 failed in 17.6s
+📈 Total progress: 25452 minted, 493 failed, 74055 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 105/15014: 5 tokens
+🎯 Range: 425453 to 425457
+  🎨 425453: 0x6bf139ea95... (nonce: 431579, rpc: PUB)
+  ✅ 425453: Block 283829
+  🎨 425454: 0x178b09e0dd... (nonce: 431580, rpc: DEV)
+  ✅ 425454: Block 283830
+  🎨 425455: 0xd507d01e03... (nonce: 431581, rpc: PUB)
+  ✅ 425455: Block 283831
+  🎨 425456: 0x2c9a568afd... (nonce: 431582, rpc: DEV)
+  ✅ 425456: Block 283832
+  🎨 425457: 0xd936e21d96... (nonce: 431583, rpc: PUB)
+  ✅ 425457: Block 283833
+📊 Batch 105 complete: 5 success, 0 failed in 12.9s
+📈 Total progress: 25457 minted, 493 failed, 74050 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 106/15014: 5 tokens
+🎯 Range: 425458 to 425462
+  🎨 425458: 0xa42fb84f04... (nonce: 431584, rpc: DEV)
+  ❌ 425458: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425458: Retry 1/2 in 15.0s
+  🎨 425458: 0x765c452955... (nonce: 431585, rpc: PUB)
+  ✅ 425458: Block 283835
+  🎨 425459: 0x2f1634de56... (nonce: 431586, rpc: DEV)
+  ✅ 425459: Block 283836
+  🎨 425460: 0x00f8a4693d... (nonce: 431587, rpc: PUB)
+  ✅ 425460: Block 283837
+  🎨 425461: 0x631ad923bb... (nonce: 431588, rpc: DEV)
+  ✅ 425461: Block 283838
+  🎨 425462: 0x549bbf73c9... (nonce: 431589, rpc: PUB)
+  ✅ 425462: Block 283839
+📊 Batch 106 complete: 5 success, 0 failed in 68.3s
+📈 Total progress: 25462 minted, 493 failed, 74045 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 107/15014: 5 tokens
+🎯 Range: 425463 to 425467
+  🎨 425463: 0x8ae1f24cee... (nonce: 431590, rpc: DEV)
+  ✅ 425463: Block 283840
+  🎨 425464: 0xfc28e47e71... (nonce: 431591, rpc: PUB)
+  ✅ 425464: Block 283841
+  🎨 425465: 0x3bf276354b... (nonce: 431592, rpc: DEV)
+  ❌ 425465: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425465: Retry 1/2 in 15.0s
+  🎨 425465: 0xae8e762079... (nonce: 431593, rpc: PUB)
+  ✅ 425465: Block 283843
+  🎨 425466: 0x2327799ec3... (nonce: 431594, rpc: DEV)
+  ✅ 425466: Block 283844
+  🎨 425467: 0x79e58a6457... (nonce: 431595, rpc: PUB)
+  ✅ 425467: Block 283845
+📊 Batch 107 complete: 5 success, 0 failed in 547.6s
+📈 Total progress: 25467 minted, 493 failed, 74040 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 108/15014: 5 tokens
+🎯 Range: 425468 to 425472
+  🎨 425468: 0x7009799bdc... (nonce: 431596, rpc: DEV)
+  ✅ 425468: Block 283846
+  🎨 425469: 0xd22458bfcc... (nonce: 431597, rpc: PUB)
+  ❌ 425469: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425469: Retry 1/2 in 15.0s
+  🎨 425469: 0xf20b0687fe... (nonce: 431598, rpc: DEV)
+  ✅ 425469: Block 283848
+  🎨 425470: 0xa6a9e5145f... (nonce: 431599, rpc: PUB)
+  ✅ 425470: Block 283849
+  🎨 425471: 0x340be3e36b... (nonce: 431600, rpc: DEV)
+  ✅ 425471: Block 283850
+  🎨 425472: 0xff19327693... (nonce: 431601, rpc: PUB)
+  ✅ 425472: Block 283851
+📊 Batch 108 complete: 5 success, 0 failed in 615.0s
+📈 Total progress: 25472 minted, 493 failed, 74035 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 109/15014: 5 tokens
+🎯 Range: 425473 to 425477
+  🎨 425473: 0x03032ff711... (nonce: 431602, rpc: DEV)
+  ❌ 425473: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425473: Retry 1/2 in 15.0s
+  🎨 425473: 0xca42f4106d... (nonce: 431603, rpc: PUB)
+  ✅ 425473: Block 283853
+  🎨 425474: 0x77f6aa7ad9... (nonce: 431604, rpc: DEV)
+  ✅ 425474: Block 283854
+  🎨 425475: 0x8936a2d1c1... (nonce: 431605, rpc: PUB)
+  ✅ 425475: Block 283855
+  🎨 425476: 0x5b3ddb9caf... (nonce: 431606, rpc: DEV)
+  ✅ 425476: Block 283856
+  🎨 425477: 0xa92b960366... (nonce: 431607, rpc: PUB)
+  ✅ 425477: Block 283857
+📊 Batch 109 complete: 5 success, 0 failed in 124.9s
+📈 Total progress: 25477 minted, 493 failed, 74030 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 110/15014: 5 tokens
+🎯 Range: 425478 to 425482
+  🎨 425478: 0xdd7a74ed56... (nonce: 431608, rpc: DEV)
+  ✅ 425478: Block 283858
+  🎨 425479: 0x197899edac... (nonce: 431609, rpc: PUB)
+  ✅ 425479: Block 283859
+  🎨 425480: 0x73e3823451... (nonce: 431610, rpc: DEV)
+  ❌ 425480: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425480: Retry 1/2 in 15.0s
+  🎨 425480: 0x1d680dfce7... (nonce: 431611, rpc: PUB)
+  ✅ 425480: Block 283861
+  🎨 425481: 0x011e906cbb... (nonce: 431612, rpc: DEV)
+  ✅ 425481: Block 283862
+  🎨 425482: 0x18ab17ace6... (nonce: 431613, rpc: PUB)
+  ✅ 425482: Block 283863
+📊 Batch 110 complete: 5 success, 0 failed in 69.1s
+📈 Total progress: 25482 minted, 493 failed, 74025 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 111/15014: 5 tokens
+🎯 Range: 425483 to 425487
+  🎨 425483: 0xb8c338a184... (nonce: 431614, rpc: DEV)
+  ✅ 425483: Block 283864
+  🎨 425484: 0x525010c864... (nonce: 431615, rpc: PUB)
+  ✅ 425484: Block 283865
+  🎨 425485: 0x0ccd6451b1... (nonce: 431616, rpc: DEV)
+  ✅ 425485: Block 283866
+  🎨 425486: 0x6c95d7abe8... (nonce: 431617, rpc: PUB)
+  ✅ 425486: Block 283867
+  🎨 425487: 0xae918ec75b... (nonce: 431618, rpc: DEV)
+  ✅ 425487: Block 283868
+📊 Batch 111 complete: 5 success, 0 failed in 17.0s
+📈 Total progress: 25487 minted, 493 failed, 74020 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 112/15014: 5 tokens
+🎯 Range: 425488 to 425492
+  🎨 425488: 0xe747c4b92b... (nonce: 431619, rpc: PUB)
+  ✅ 425488: Block 283869
+  🎨 425489: 0x1c0952608f... (nonce: 431620, rpc: DEV)
+  ✅ 425489: Block 283870
+  🎨 425490: 0x491f1d7b9f... (nonce: 431621, rpc: PUB)
+  ✅ 425490: Block 283871
+  🎨 425491: 0x6b97bafd9b... (nonce: 431622, rpc: DEV)
+  ✅ 425491: Block 283872
+  🎨 425492: 0xae8b080f98... (nonce: 431623, rpc: PUB)
+  ✅ 425492: Block 283873
+📊 Batch 112 complete: 5 success, 0 failed in 47.8s
+📈 Total progress: 25492 minted, 493 failed, 74015 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 113/15014: 5 tokens
+🎯 Range: 425493 to 425497
+  🎨 425493: 0x1eed91ca56... (nonce: 431624, rpc: DEV)
+  ✅ 425493: Block 283874
+  🎨 425494: 0x35f0408125... (nonce: 431625, rpc: PUB)
+  ✅ 425494: Block 283875
+  🎨 425495: 0x820ceed91b... (nonce: 431626, rpc: DEV)
+  ✅ 425495: Block 283876
+  🎨 425496: 0xa949660296... (nonce: 431627, rpc: PUB)
+  ✅ 425496: Block 283877
+  🎨 425497: 0xb53af66ed2... (nonce: 431628, rpc: DEV)
+  ✅ 425497: Block 283878
+📊 Batch 113 complete: 5 success, 0 failed in 39.1s
+📈 Total progress: 25497 minted, 493 failed, 74010 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 114/15014: 5 tokens
+🎯 Range: 425498 to 425502
+  🎨 425498: 0x215b9f187c... (nonce: 431629, rpc: PUB)
+  ✅ 425498: Block 283879
+  🎨 425499: 0x49df006259... (nonce: 431630, rpc: DEV)
+  ✅ 425499: Block 283880
+  🎨 425500: 0x650f98a778... (nonce: 431631, rpc: PUB)
+  ✅ 425500: Block 283881
+  🎨 425501: 0x2b922d38da... (nonce: 431632, rpc: DEV)
+  ✅ 425501: Block 283882
+  🎨 425502: 0x47452be87a... (nonce: 431633, rpc: PUB)
+  ✅ 425502: Block 283883
+📊 Batch 114 complete: 5 success, 0 failed in 19.5s
+📈 Total progress: 25502 minted, 493 failed, 74005 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 115/15014: 5 tokens
+🎯 Range: 425503 to 425507
+  🎨 425503: 0xa23ba13fcd... (nonce: 431634, rpc: DEV)
+  ❌ 425503: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425503: Retry 1/2 in 15.0s
+  🎨 425503: 0xbefc98190f... (nonce: 431635, rpc: PUB)
+  ✅ 425503: Block 283885
+  🎨 425504: 0x8f478054d5... (nonce: 431636, rpc: DEV)
+  ✅ 425504: Block 283886
+  🎨 425505: 0x62f60a40e9... (nonce: 431637, rpc: PUB)
+  ✅ 425505: Block 283887
+  🎨 425506: 0xb23e68eb64... (nonce: 431638, rpc: DEV)
+  ✅ 425506: Block 283888
+  🎨 425507: 0x4362bacb62... (nonce: 431639, rpc: PUB)
+  ✅ 425507: Block 283889
+📊 Batch 115 complete: 5 success, 0 failed in 79.2s
+📈 Total progress: 25507 minted, 493 failed, 74000 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 116/15014: 5 tokens
+🎯 Range: 425508 to 425512
+  🎨 425508: 0xd11ff8dc5b... (nonce: 431640, rpc: DEV)
+  ❌ 425508: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425508: Retry 1/2 in 15.0s
+  🎨 425508: 0xee5a33c7d0... (nonce: 431641, rpc: PUB)
+  ✅ 425508: Block 283891
+  🎨 425509: 0xf145f936f9... (nonce: 431642, rpc: DEV)
+  ✅ 425509: Block 283892
+  🎨 425510: 0x9eb54ecb2c... (nonce: 431643, rpc: PUB)
+  ✅ 425510: Block 283893
+  🎨 425511: 0x365ecd4040... (nonce: 431644, rpc: DEV)
+  ✅ 425511: Block 283894
+  🎨 425512: 0x639db2f23c... (nonce: 431645, rpc: PUB)
+  ✅ 425512: Block 283895
+📊 Batch 116 complete: 5 success, 0 failed in 94.4s
+📈 Total progress: 25512 minted, 493 failed, 73995 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 117/15014: 5 tokens
+🎯 Range: 425513 to 425517
+  🎨 425513: 0x2a1c2e1569... (nonce: 431646, rpc: DEV)
+  ❌ 425513: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425513: Retry 1/2 in 15.0s
+  🎨 425513: 0xaafba64e6e... (nonce: 431647, rpc: PUB)
+  ✅ 425513: Block 283897
+  🎨 425514: 0xf3214f518c... (nonce: 431648, rpc: DEV)
+  ✅ 425514: Block 283898
+  🎨 425515: 0x3347cd0536... (nonce: 431649, rpc: PUB)
+  ✅ 425515: Block 283899
+  🎨 425516: 0xd06e92ddcf... (nonce: 431650, rpc: DEV)
+  ✅ 425516: Block 283900
+  🎨 425517: 0xe4513fd13a... (nonce: 431651, rpc: PUB)
+  ✅ 425517: Block 283901
+📊 Batch 117 complete: 5 success, 0 failed in 444.7s
+📈 Total progress: 25517 minted, 493 failed, 73990 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 118/15014: 5 tokens
+🎯 Range: 425518 to 425522
+  🎨 425518: 0x2ab58c06a4... (nonce: 431652, rpc: DEV)
+  ❌ 425518: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425518: Retry 1/2 in 15.0s
+  🎨 425518: 0x126d2b31c8... (nonce: 431653, rpc: PUB)
+  ✅ 425518: Block 283903
+  🎨 425519: 0x9b3a44b97e... (nonce: 431654, rpc: DEV)
+  ✅ 425519: Block 283904
+  🎨 425520: 0xd0379e7b72... (nonce: 431655, rpc: PUB)
+  ✅ 425520: Block 283905
+  🎨 425521: 0x353708ed1a... (nonce: 431656, rpc: DEV)
+  ✅ 425521: Block 283906
+  🎨 425522: 0x3f238ff35e... (nonce: 431657, rpc: PUB)
+  ✅ 425522: Block 283907
+📊 Batch 118 complete: 5 success, 0 failed in 779.9s
+📈 Total progress: 25522 minted, 493 failed, 73985 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 119/15014: 5 tokens
+🎯 Range: 425523 to 425527
+  🎨 425523: 0x8a5743b6f4... (nonce: 431658, rpc: DEV)
+  ✅ 425523: Block 283908
+  🎨 425524: 0xefffd8ca10... (nonce: 431659, rpc: PUB)
+  ✅ 425524: Block 283909
+  🎨 425525: 0x4243309ac8... (nonce: 431660, rpc: DEV)
+  ❌ 425525: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425525: Retry 1/2 in 15.0s
+  🎨 425525: 0xb4861a19d4... (nonce: 431661, rpc: PUB)
+  ✅ 425525: Block 283911
+  🎨 425526: 0x583bae7971... (nonce: 431662, rpc: DEV)
+  ✅ 425526: Block 283912
+  🎨 425527: 0x8f69916ce3... (nonce: 431663, rpc: PUB)
+  ✅ 425527: Block 283913
+📊 Batch 119 complete: 5 success, 0 failed in 113.6s
+📈 Total progress: 25527 minted, 493 failed, 73980 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 120/15014: 5 tokens
+🎯 Range: 425528 to 425532
+  🎨 425528: 0x1e34b183a5... (nonce: 431664, rpc: DEV)
+  ✅ 425528: Block 283914
+  🎨 425529: 0x95ff9ae20a... (nonce: 431665, rpc: PUB)
+  ✅ 425529: Block 283915
+  🎨 425530: 0x262666d543... (nonce: 431666, rpc: DEV)
+  ❌ 425530: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425530: Retry 1/2 in 15.0s
+  🎨 425530: 0x25404555c3... (nonce: 431667, rpc: PUB)
+  ✅ 425530: Block 283917
+  🎨 425531: 0x119f3eca4c... (nonce: 431668, rpc: DEV)
+  ✅ 425531: Block 283918
+  🎨 425532: 0xba6e9895fa... (nonce: 431669, rpc: PUB)
+  ✅ 425532: Block 283919
+📊 Batch 120 complete: 5 success, 0 failed in 69.5s
+📈 Total progress: 25532 minted, 493 failed, 73975 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 121/15014: 5 tokens
+🎯 Range: 425533 to 425537
+  🎨 425533: 0x728a072308... (nonce: 431670, rpc: DEV)
+  ✅ 425533: Block 283920
+  🎨 425534: 0xa946f48c92... (nonce: 431671, rpc: PUB)
+  ✅ 425534: Block 283921
+  🎨 425535: 0xd5e377196e... (nonce: 431672, rpc: DEV)
+  ✅ 425535: Block 283922
+  🎨 425536: 0x684995b081... (nonce: 431673, rpc: PUB)
+  ✅ 425536: Block 283923
+  🎨 425537: 0xb40760e998... (nonce: 431674, rpc: DEV)
+  ✅ 425537: Block 283924
+📊 Batch 121 complete: 5 success, 0 failed in 16.4s
+📈 Total progress: 25537 minted, 493 failed, 73970 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 122/15014: 5 tokens
+🎯 Range: 425538 to 425542
+  🎨 425538: 0x095aa861de... (nonce: 431675, rpc: PUB)
+  ✅ 425538: Block 283925
+  🎨 425539: 0x1be9f9b4cf... (nonce: 431676, rpc: DEV)
+  ✅ 425539: Block 283926
+  🎨 425540: 0xda3122a2a9... (nonce: 431677, rpc: PUB)
+  ✅ 425540: Block 283927
+  🎨 425541: 0xef3dc7fccf... (nonce: 431678, rpc: DEV)
+  ✅ 425541: Block 283928
+  🎨 425542: 0x1159cfe3c6... (nonce: 431679, rpc: PUB)
+  ✅ 425542: Block 283929
+📊 Batch 122 complete: 5 success, 0 failed in 12.8s
+📈 Total progress: 25542 minted, 493 failed, 73965 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 123/15014: 5 tokens
+🎯 Range: 425543 to 425547
+  🎨 425543: 0x444970c0aa... (nonce: 431680, rpc: DEV)
+  ❌ 425543: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425543: Retry 1/2 in 15.0s
+  🎨 425543: 0xce35664da3... (nonce: 431681, rpc: PUB)
+  ✅ 425543: Block 283931
+  🎨 425544: 0xf40e0638f6... (nonce: 431682, rpc: DEV)
+  ✅ 425544: Block 283932
+  🎨 425545: 0xd46d5f0cc9... (nonce: 431683, rpc: PUB)
+  ✅ 425545: Block 283933
+  🎨 425546: 0x9ecaadb0af... (nonce: 431684, rpc: DEV)
+  ✅ 425546: Block 283934
+  🎨 425547: 0xdfd3fa0e86... (nonce: 431685, rpc: PUB)
+  ✅ 425547: Block 283935
+📊 Batch 123 complete: 5 success, 0 failed in 425.0s
+📈 Total progress: 25547 minted, 493 failed, 73960 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 124/15014: 5 tokens
+🎯 Range: 425548 to 425552
+  🎨 425548: 0x7ed7c440ae... (nonce: 431686, rpc: DEV)
+  ❌ 425548: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425548: Retry 1/2 in 15.0s
+  ❌ 425548: Transaction timeout after 45000ms
+  🔄 425548: Retry 2/2 in 17.0s
+  🎨 425548: 0x477365576e... (nonce: 431688, rpc: DEV)
+  🎨 425548: 0x7455f43c31... (nonce: 431687, rpc: PUB)
+  ❌ 425548: wait for transaction timeout (code=TIMEOUT, versio
+  🎨 425549: 0x47c76f7ea2... (nonce: 431689, rpc: PUB)
+  ✅ 425549: Block 283938
+  🎨 425550: 0x9a1cb36c3e... (nonce: 431690, rpc: DEV)
+  ✅ 425550: Block 283939
+  🎨 425551: 0x0694c0e695... (nonce: 431691, rpc: PUB)
+  ✅ 425551: Block 283940
+  🎨 425552: 0x04f590efbd... (nonce: 431692, rpc: DEV)
+  ✅ 425552: Block 283941
+📊 Batch 124 complete: 4 success, 1 failed in 1202.9s
+📈 Total progress: 25551 minted, 494 failed, 73955 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 125/15014: 5 tokens
+🎯 Range: 425553 to 425557
+  🎨 425553: 0x1bb8eadc23... (nonce: 431693, rpc: PUB)
+  ✅ 425553: Block 283942
+  🎨 425554: 0x545006425c... (nonce: 431694, rpc: DEV)
+  ✅ 425554: Block 283943
+  🎨 425555: 0xd8305e15e7... (nonce: 431695, rpc: PUB)
+  ✅ 425555: Block 283944
+  🎨 425556: 0xd621b888ba... (nonce: 431696, rpc: DEV)
+  ✅ 425556: Block 283945
+  🎨 425557: 0xf5c5855c59... (nonce: 431697, rpc: PUB)
+  ✅ 425557: Block 283946
+📊 Batch 125 complete: 5 success, 0 failed in 12.7s
+📈 Total progress: 25556 minted, 494 failed, 73950 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 126/15014: 5 tokens
+🎯 Range: 425558 to 425562
+  🎨 425558: 0xaa2eeff8f5... (nonce: 431698, rpc: DEV)
+  ❌ 425558: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425558: Retry 1/2 in 15.0s
+  🎨 425558: 0xd466198dc0... (nonce: 431699, rpc: PUB)
+  ✅ 425558: Block 283948
+  🎨 425559: 0x245cb4ad7f... (nonce: 431700, rpc: DEV)
+  ✅ 425559: Block 283949
+  🎨 425560: 0x1abff0a9e1... (nonce: 431701, rpc: PUB)
+  ✅ 425560: Block 283950
+  🎨 425561: 0xed626ae74a... (nonce: 431702, rpc: DEV)
+  ✅ 425561: Block 283951
+  🎨 425562: 0xd7dd770411... (nonce: 431703, rpc: PUB)
+  ✅ 425562: Block 283952
+📊 Batch 126 complete: 5 success, 0 failed in 195.5s
+📈 Total progress: 25561 minted, 494 failed, 73945 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 127/15014: 5 tokens
+🎯 Range: 425563 to 425567
+  🎨 425563: 0xa3bfd47c97... (nonce: 431704, rpc: DEV)
+  ✅ 425563: Block 283953
+  🎨 425564: 0xb52fc95b06... (nonce: 431705, rpc: PUB)
+  ✅ 425564: Block 283954
+  🎨 425565: 0x680afdfe6f... (nonce: 431706, rpc: DEV)
+  ✅ 425565: Block 283955
+  🎨 425566: 0xd126a4ac83... (nonce: 431707, rpc: PUB)
+  ✅ 425566: Block 283956
+  🎨 425567: 0x04205e5dba... (nonce: 431708, rpc: DEV)
+  ✅ 425567: Block 283957
+📊 Batch 127 complete: 5 success, 0 failed in 17.4s
+📈 Total progress: 25566 minted, 494 failed, 73940 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 128/15014: 5 tokens
+🎯 Range: 425568 to 425572
+  🎨 425568: 0x261b5383f4... (nonce: 431709, rpc: PUB)
+  ✅ 425568: Block 283958
+  🎨 425569: 0x99a8e9d626... (nonce: 431710, rpc: DEV)
+  ❌ 425569: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425569: Retry 1/2 in 15.0s
+  🎨 425569: 0xabf28fa8e1... (nonce: 431711, rpc: PUB)
+  ✅ 425569: Block 283960
+  🎨 425570: 0x80c1108371... (nonce: 431712, rpc: DEV)
+  ✅ 425570: Block 283961
+  🎨 425571: 0x2a42d1e64d... (nonce: 431713, rpc: PUB)
+  ✅ 425571: Block 283962
+  🎨 425572: 0x28d14cfc22... (nonce: 431714, rpc: DEV)
+  ✅ 425572: Block 283963
+📊 Batch 128 complete: 5 success, 0 failed in 211.1s
+📈 Total progress: 25571 minted, 494 failed, 73935 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 129/15014: 5 tokens
+🎯 Range: 425573 to 425577
+  🎨 425573: 0x2bc7bd3326... (nonce: 431715, rpc: PUB)
+  ✅ 425573: Block 283964
+  🎨 425574: 0x6e86edfaa3... (nonce: 431716, rpc: DEV)
+  ✅ 425574: Block 283965
+  🎨 425575: 0xbab8e10eaf... (nonce: 431717, rpc: PUB)
+  ✅ 425575: Block 283966
+  🎨 425576: 0xbdc7d66b04... (nonce: 431718, rpc: DEV)
+  ✅ 425576: Block 283967
+  🎨 425577: 0xdca8b75d11... (nonce: 431719, rpc: PUB)
+  ✅ 425577: Block 283968
+📊 Batch 129 complete: 5 success, 0 failed in 18.1s
+📈 Total progress: 25576 minted, 494 failed, 73930 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 130/15014: 5 tokens
+🎯 Range: 425578 to 425582
+  🎨 425578: 0xc701264dd8... (nonce: 431720, rpc: DEV)
+  ✅ 425578: Block 283969
+  🎨 425579: 0x1c23e80762... (nonce: 431721, rpc: PUB)
+  ✅ 425579: Block 283970
+  🎨 425580: 0x14fbea6623... (nonce: 431722, rpc: DEV)
+  ✅ 425580: Block 283971
+  🎨 425581: 0xa4d7b33778... (nonce: 431723, rpc: PUB)
+  ✅ 425581: Block 283972
+  🎨 425582: 0xb7dd53d2bd... (nonce: 431724, rpc: DEV)
+  ❌ 425582: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425582: Retry 1/2 in 15.0s
+  🎨 425582: 0x35746df88a... (nonce: 431725, rpc: PUB)
+  ✅ 425582: Block 283974
+📊 Batch 130 complete: 5 success, 0 failed in 70.9s
+📈 Total progress: 25581 minted, 494 failed, 73925 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 131/15014: 5 tokens
+🎯 Range: 425583 to 425587
+  🎨 425583: 0x937b0841a6... (nonce: 431726, rpc: DEV)
+  ✅ 425583: Block 283975
+  🎨 425584: 0xb2957a9429... (nonce: 431727, rpc: PUB)
+  ✅ 425584: Block 283976
+  🎨 425585: 0xbd39c8e63f... (nonce: 431728, rpc: DEV)
+  ✅ 425585: Block 283977
+  🎨 425586: 0x1fcb71b1a4... (nonce: 431729, rpc: PUB)
+  ✅ 425586: Block 283978
+  🎨 425587: 0xb4b8b1bb34... (nonce: 431730, rpc: DEV)
+  ❌ 425587: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425587: Retry 1/2 in 15.0s
+  🎨 425587: 0x9cbb5c7755... (nonce: 431731, rpc: PUB)
+  ✅ 425587: Block 283980
+📊 Batch 131 complete: 5 success, 0 failed in 199.0s
+📈 Total progress: 25586 minted, 494 failed, 73920 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 132/15014: 5 tokens
+🎯 Range: 425588 to 425592
+  🎨 425588: 0x9e0462fe93... (nonce: 431732, rpc: DEV)
+  ✅ 425588: Block 283981
+  🎨 425589: 0xa1161240b2... (nonce: 431733, rpc: PUB)
+  ✅ 425589: Block 283982
+  🎨 425590: 0x77cf454ae9... (nonce: 431734, rpc: DEV)
+  ✅ 425590: Block 283983
+  🎨 425591: 0x6968d8b799... (nonce: 431735, rpc: PUB)
+  ❌ 425591: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425591: Retry 1/2 in 15.0s
+  🎨 425591: 0x67f484b3a0... (nonce: 431736, rpc: DEV)
+  ✅ 425591: Block 283985
+  🎨 425592: 0x390aaf6ee2... (nonce: 431737, rpc: PUB)
+  ✅ 425592: Block 283986
+📊 Batch 132 complete: 5 success, 0 failed in 70.0s
+📈 Total progress: 25591 minted, 494 failed, 73915 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 133/15014: 5 tokens
+🎯 Range: 425593 to 425597
+  🎨 425593: 0x1409e0289a... (nonce: 431738, rpc: DEV)
+  ❌ 425593: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425593: Retry 1/2 in 15.0s
+  🎨 425593: 0xcb700faf41... (nonce: 431739, rpc: PUB)
+  ✅ 425593: Block 283988
+  🎨 425594: 0xdc85e75e91... (nonce: 431740, rpc: DEV)
+  ✅ 425594: Block 283989
+  🎨 425595: 0xd9b506c9fd... (nonce: 431741, rpc: PUB)
+  ✅ 425595: Block 283990
+  🎨 425596: 0x8661db202d... (nonce: 431742, rpc: DEV)
+  ✅ 425596: Block 283991
+  🎨 425597: 0xf6d29d4aba... (nonce: 431743, rpc: PUB)
+  ✅ 425597: Block 283992
+📊 Batch 133 complete: 5 success, 0 failed in 473.7s
+📈 Total progress: 25596 minted, 494 failed, 73910 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 134/15014: 5 tokens
+🎯 Range: 425598 to 425602
+  🎨 425598: 0x3c67bec160... (nonce: 431744, rpc: DEV)
+  ✅ 425598: Block 283993
+  🎨 425599: 0x460db8d290... (nonce: 431745, rpc: PUB)
+  ✅ 425599: Block 283994
+  🎨 425600: 0x081053ecfb... (nonce: 431746, rpc: DEV)
+  ✅ 425600: Block 283995
+  🎨 425601: 0x30d50cf0db... (nonce: 431747, rpc: PUB)
+  ✅ 425601: Block 283996
+  🎨 425602: 0x060e25d666... (nonce: 431748, rpc: DEV)
+  ✅ 425602: Block 283997
+📊 Batch 134 complete: 5 success, 0 failed in 16.7s
+📈 Total progress: 25601 minted, 494 failed, 73905 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 135/15014: 5 tokens
+🎯 Range: 425603 to 425607
+  🎨 425603: 0x2479099752... (nonce: 431749, rpc: PUB)
+  ✅ 425603: Block 283998
+  🎨 425604: 0xeda38814de... (nonce: 431750, rpc: DEV)
+  ✅ 425604: Block 283999
+  🎨 425605: 0xe9685b2d56... (nonce: 431751, rpc: PUB)
+  ✅ 425605: Block 284000
+  🎨 425606: 0x7be8907b82... (nonce: 431752, rpc: DEV)
+  ❌ 425606: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425606: Retry 1/2 in 15.0s
+  🎨 425606: 0x44d847e834... (nonce: 431753, rpc: PUB)
+  ✅ 425606: Block 284002
+  🎨 425607: 0x7633701e62... (nonce: 431754, rpc: DEV)
+  ✅ 425607: Block 284003
+📊 Batch 135 complete: 5 success, 0 failed in 72.4s
+📈 Total progress: 25606 minted, 494 failed, 73900 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 136/15014: 5 tokens
+🎯 Range: 425608 to 425612
+  🎨 425608: 0x3793d757bb... (nonce: 431755, rpc: PUB)
+  ✅ 425608: Block 284004
+  🎨 425609: 0x9e8eb83833... (nonce: 431756, rpc: DEV)
+  ✅ 425609: Block 284005
+  🎨 425610: 0xe4ecb1a724... (nonce: 431757, rpc: PUB)
+  ✅ 425610: Block 284006
+  🎨 425611: 0x15dd40705b... (nonce: 431758, rpc: DEV)
+  ❌ 425611: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425611: Retry 1/2 in 15.0s
+  🎨 425611: 0xdf79694634... (nonce: 431759, rpc: PUB)
+  ✅ 425611: Block 284008
+  🎨 425612: 0xeb529e3c60... (nonce: 431760, rpc: DEV)
+  ❌ 425612: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425612: Retry 1/2 in 15.0s
+  🎨 425612: 0x16c430b89d... (nonce: 431761, rpc: PUB)
+  ✅ 425612: Block 284010
+📊 Batch 136 complete: 5 success, 0 failed in 1111.9s
+📈 Total progress: 25611 minted, 494 failed, 73895 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 137/15014: 5 tokens
+🎯 Range: 425613 to 425617
+  🎨 425613: 0x62ddf3b821... (nonce: 431762, rpc: DEV)
+  ✅ 425613: Block 284011
+  🎨 425614: 0x54f318fe64... (nonce: 431763, rpc: PUB)
+  ✅ 425614: Block 284012
+  🎨 425615: 0x07593826cd... (nonce: 431764, rpc: DEV)
+  ✅ 425615: Block 284013
+  🎨 425616: 0x886c9ee573... (nonce: 431765, rpc: PUB)
+  ✅ 425616: Block 284014
+  🎨 425617: 0x7e29825bff... (nonce: 431766, rpc: DEV)
+  ✅ 425617: Block 284015
+📊 Batch 137 complete: 5 success, 0 failed in 13.9s
+📈 Total progress: 25616 minted, 494 failed, 73890 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 138/15014: 5 tokens
+🎯 Range: 425618 to 425622
+  🎨 425618: 0xe8a9da8e95... (nonce: 431767, rpc: PUB)
+  ✅ 425618: Block 284016
+  🎨 425619: 0x38f3d72f53... (nonce: 431768, rpc: DEV)
+  ✅ 425619: Block 284017
+  🎨 425620: 0xc109610c47... (nonce: 431769, rpc: PUB)
+  ✅ 425620: Block 284018
+  🎨 425621: 0x1fdd93a943... (nonce: 431770, rpc: DEV)
+  ✅ 425621: Block 284019
+  🎨 425622: 0x3fda10bfbc... (nonce: 431771, rpc: PUB)
+  ✅ 425622: Block 284020
+📊 Batch 138 complete: 5 success, 0 failed in 17.8s
+📈 Total progress: 25621 minted, 494 failed, 73885 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 139/15014: 5 tokens
+🎯 Range: 425623 to 425627
+  🎨 425623: 0xda2db4fb77... (nonce: 431772, rpc: DEV)
+  ✅ 425623: Block 284021
+  🎨 425624: 0xf1d92da7bc... (nonce: 431773, rpc: PUB)
+  ✅ 425624: Block 284022
+  🎨 425625: 0xcb35a36a3e... (nonce: 431774, rpc: DEV)
+  ✅ 425625: Block 284023
+  🎨 425626: 0xce132ca588... (nonce: 431775, rpc: PUB)
+  ❌ 425626: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425626: Retry 1/2 in 15.0s
+  🎨 425626: 0x36695f7eae... (nonce: 431776, rpc: DEV)
+  ❌ 425626: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425626: Retry 2/2 in 17.0s
+  🎨 425626: 0xf1d48b9627... (nonce: 431777, rpc: PUB)
+  ✅ 425626: Block 284026
+  🎨 425627: 0xfd9e5f82e3... (nonce: 431778, rpc: DEV)
+  ❌ 425627: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425627: Retry 1/2 in 15.0s
+  🎨 425627: 0x30ae2753a6... (nonce: 431779, rpc: PUB)
+  ✅ 425627: Block 284028
+📊 Batch 139 complete: 5 success, 0 failed in 1369.6s
+📈 Total progress: 25626 minted, 494 failed, 73880 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 140/15014: 5 tokens
+🎯 Range: 425628 to 425632
+  🎨 425628: 0xb4740a702f... (nonce: 431780, rpc: DEV)
+  ❌ 425628: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425628: Retry 1/2 in 15.0s
+  🎨 425628: 0x90539377de... (nonce: 431781, rpc: PUB)
+  ✅ 425628: Block 284030
+  🎨 425629: 0xfe404c9837... (nonce: 431782, rpc: DEV)
+  ✅ 425629: Block 284031
+  🎨 425630: 0xbb8d506989... (nonce: 431783, rpc: PUB)
+  ✅ 425630: Block 284032
+  🎨 425631: 0x8ee3c6a080... (nonce: 431784, rpc: DEV)
+  ✅ 425631: Block 284033
+  🎨 425632: 0xc11ecd811a... (nonce: 431785, rpc: PUB)
+  ✅ 425632: Block 284034
+📊 Batch 140 complete: 5 success, 0 failed in 127.7s
+📈 Total progress: 25631 minted, 494 failed, 73875 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 141/15014: 5 tokens
+🎯 Range: 425633 to 425637
+  🎨 425633: 0x6245e4f8fd... (nonce: 431786, rpc: DEV)
+  ❌ 425633: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425633: Retry 1/2 in 15.0s
+  🎨 425633: 0x4b8b5e5d77... (nonce: 431787, rpc: PUB)
+  ✅ 425633: Block 284036
+  🎨 425634: 0x2a8a03fff5... (nonce: 431788, rpc: DEV)
+  ✅ 425634: Block 284037
+  🎨 425635: 0xc03b6734e7... (nonce: 431789, rpc: PUB)
+  ✅ 425635: Block 284038
+  🎨 425636: 0xfbf180dfaa... (nonce: 431790, rpc: DEV)
+  ✅ 425636: Block 284039
+  🎨 425637: 0x34642ae9e3... (nonce: 431791, rpc: PUB)
+  ✅ 425637: Block 284040
+📊 Batch 141 complete: 5 success, 0 failed in 106.9s
+📈 Total progress: 25636 minted, 494 failed, 73870 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 142/15014: 5 tokens
+🎯 Range: 425638 to 425642
+  🎨 425638: 0x8fb9144761... (nonce: 431792, rpc: DEV)
+  ❌ 425638: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425638: Retry 1/2 in 15.0s
+  🎨 425638: 0x17ce32fd0a... (nonce: 431793, rpc: PUB)
+  ✅ 425638: Block 284042
+  🎨 425639: 0xefffe81645... (nonce: 431794, rpc: DEV)
+  ✅ 425639: Block 284043
+  🎨 425640: 0xcf4c45a678... (nonce: 431795, rpc: PUB)
+  ✅ 425640: Block 284044
+  🎨 425641: 0xcb057acbfe... (nonce: 431796, rpc: DEV)
+  ✅ 425641: Block 284045
+  🎨 425642: 0x65f8961541... (nonce: 431797, rpc: PUB)
+  ✅ 425642: Block 284046
+📊 Batch 142 complete: 5 success, 0 failed in 81.5s
+📈 Total progress: 25641 minted, 494 failed, 73865 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 143/15014: 5 tokens
+🎯 Range: 425643 to 425647
+  🎨 425643: 0x4dac570b09... (nonce: 431798, rpc: DEV)
+  ✅ 425643: Block 284047
+  🎨 425644: 0xcbb1fb55ba... (nonce: 431799, rpc: PUB)
+  ✅ 425644: Block 284048
+  🎨 425645: 0xd93a8830f8... (nonce: 431800, rpc: DEV)
+  ✅ 425645: Block 284049
+  🎨 425646: 0x04ee377032... (nonce: 431801, rpc: PUB)
+  ✅ 425646: Block 284050
+  🎨 425647: 0x2b7425437c... (nonce: 431802, rpc: DEV)
+  ✅ 425647: Block 284051
+📊 Batch 143 complete: 5 success, 0 failed in 16.5s
+📈 Total progress: 25646 minted, 494 failed, 73860 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 144/15014: 5 tokens
+🎯 Range: 425648 to 425652
+  🎨 425648: 0x47be84abd4... (nonce: 431803, rpc: PUB)
+  ✅ 425648: Block 284052
+  🎨 425649: 0xdce1d795e9... (nonce: 431804, rpc: DEV)
+  ✅ 425649: Block 284053
+  🎨 425650: 0xd5c6867c32... (nonce: 431805, rpc: PUB)
+  ✅ 425650: Block 284054
+  🎨 425651: 0x14746c8e4c... (nonce: 431806, rpc: DEV)
+  ✅ 425651: Block 284055
+  🎨 425652: 0xab5bd2d738... (nonce: 431807, rpc: PUB)
+  ✅ 425652: Block 284056
+📊 Batch 144 complete: 5 success, 0 failed in 44.6s
+📈 Total progress: 25651 minted, 494 failed, 73855 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 145/15014: 5 tokens
+🎯 Range: 425653 to 425657
+  🎨 425653: 0x10a08a72a7... (nonce: 431808, rpc: DEV)
+  ✅ 425653: Block 284057
+  🎨 425654: 0xe9d607b451... (nonce: 431809, rpc: PUB)
+  ✅ 425654: Block 284058
+  🎨 425655: 0xbba04a9a62... (nonce: 431810, rpc: DEV)
+  ✅ 425655: Block 284059
+  🎨 425656: 0xb7aa4e7be7... (nonce: 431811, rpc: PUB)
+  ✅ 425656: Block 284060
+  🎨 425657: 0xc083653b81... (nonce: 431812, rpc: DEV)
+  ❌ 425657: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425657: Retry 1/2 in 15.0s
+  🎨 425657: 0x7d3c958689... (nonce: 431813, rpc: PUB)
+  ✅ 425657: Block 284062
+📊 Batch 145 complete: 5 success, 0 failed in 76.3s
+📈 Total progress: 25656 minted, 494 failed, 73850 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 146/15014: 5 tokens
+🎯 Range: 425658 to 425662
+  🎨 425658: 0x0ae92f7bc4... (nonce: 431814, rpc: DEV)
+  ❌ 425658: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425658: Retry 1/2 in 15.0s
+  🎨 425658: 0xbc9b0492b8... (nonce: 431815, rpc: PUB)
+  ✅ 425658: Block 284064
+  🎨 425659: 0x5f7d8fe7cc... (nonce: 431816, rpc: DEV)
+  ✅ 425659: Block 284065
+  🎨 425660: 0xd29d86a3de... (nonce: 431817, rpc: PUB)
+  ✅ 425660: Block 284066
+  🎨 425661: 0xbe3927fb91... (nonce: 431818, rpc: DEV)
+  ❌ 425661: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425661: Retry 1/2 in 15.0s
+  🎨 425661: 0xc9eb211359... (nonce: 431819, rpc: PUB)
+  ✅ 425661: Block 284068
+  🎨 425662: 0x7eb6f7247f... (nonce: 431820, rpc: DEV)
+  ✅ 425662: Block 284069
+📊 Batch 146 complete: 5 success, 0 failed in 143.7s
+📈 Total progress: 25661 minted, 494 failed, 73845 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 147/15014: 5 tokens
+🎯 Range: 425663 to 425667
+  🎨 425663: 0x842c461c87... (nonce: 431821, rpc: PUB)
+  ✅ 425663: Block 284070
+  🎨 425664: 0x130fffd808... (nonce: 431822, rpc: DEV)
+  ✅ 425664: Block 284071
+  ❌ 425665: Transaction timeout after 45000ms
+  🔄 425665: Retry 1/2 in 15.0s
+  🎨 425665: 0x0966d02ec5... (nonce: 431824, rpc: DEV)
+  🎨 425665: 0x2344d66277... (nonce: 431823, rpc: PUB)
+  ✅ 425665: Block 284072
+  🎨 425666: 0x460866afe4... (nonce: 431825, rpc: PUB)
+  ✅ 425666: Block 284073
+  🎨 425667: 0x079e440174... (nonce: 431826, rpc: DEV)
+  ✅ 425667: Block 284074
+📊 Batch 147 complete: 5 success, 0 failed in 133.7s
+📈 Total progress: 25666 minted, 494 failed, 73840 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 148/15014: 5 tokens
+🎯 Range: 425668 to 425672
+  ❌ 425668: Transaction timeout after 45000ms
+  🔄 425668: Retry 1/2 in 15.0s
+  🎨 425668: 0xb9cbfd5b67... (nonce: 431827, rpc: PUB)
+  🎨 425668: 0x61b64fc871... (nonce: 431828, rpc: DEV)
+  ✅ 425668: Block 284076
+  🎨 425669: 0x594548c9dd... (nonce: 431829, rpc: PUB)
+  ✅ 425669: Block 284077
+  🎨 425670: 0x4e6730c800... (nonce: 431830, rpc: DEV)
+  ❌ 425670: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425670: Retry 1/2 in 15.0s
+  🎨 425670: 0x3e9534dda7... (nonce: 431831, rpc: PUB)
+  ✅ 425670: Block 284079
+  🎨 425671: 0x5d76cacba9... (nonce: 431832, rpc: DEV)
+  ✅ 425671: Block 284080
+  🎨 425672: 0x2b7a38e715... (nonce: 431833, rpc: PUB)
+  ✅ 425672: Block 284081
+📊 Batch 148 complete: 5 success, 0 failed in 215.7s
+📈 Total progress: 25671 minted, 494 failed, 73835 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 149/15014: 5 tokens
+🎯 Range: 425673 to 425677
+  🎨 425673: 0xe5c8b2b808... (nonce: 431834, rpc: DEV)
+  ❌ 425673: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425673: Retry 1/2 in 15.0s
+  🎨 425673: 0x9abe827e4a... (nonce: 431835, rpc: PUB)
+  ✅ 425673: Block 284083
+  🎨 425674: 0x059384cdf5... (nonce: 431836, rpc: DEV)
+  ✅ 425674: Block 284084
+  🎨 425675: 0xcd8a9c47a4... (nonce: 431837, rpc: PUB)
+  ✅ 425675: Block 284085
+  🎨 425676: 0x25603441cf... (nonce: 431838, rpc: DEV)
+  ✅ 425676: Block 284086
+  🎨 425677: 0x078fe6a91c... (nonce: 431839, rpc: PUB)
+  ✅ 425677: Block 284087
+📊 Batch 149 complete: 5 success, 0 failed in 243.7s
+📈 Total progress: 25676 minted, 494 failed, 73830 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 150/15014: 5 tokens
+🎯 Range: 425678 to 425682
+  🎨 425678: 0x51f6924876... (nonce: 431840, rpc: DEV)
+  ✅ 425678: Block 284088
+  🎨 425679: 0x01e12816cb... (nonce: 431841, rpc: PUB)
+  ✅ 425679: Block 284089
+  🎨 425680: 0x6b7204e6a5... (nonce: 431842, rpc: DEV)
+  ✅ 425680: Block 284090
+  🎨 425681: 0x27d0de8090... (nonce: 431843, rpc: PUB)
+  ✅ 425681: Block 284091
+  🎨 425682: 0x0da4de9a4f... (nonce: 431844, rpc: DEV)
+  ✅ 425682: Block 284092
+📊 Batch 150 complete: 5 success, 0 failed in 16.7s
+📈 Total progress: 25681 minted, 494 failed, 73825 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 151/15014: 5 tokens
+🎯 Range: 425683 to 425687
+  🎨 425683: 0xcf7e99cb96... (nonce: 431845, rpc: PUB)
+  ✅ 425683: Block 284093
+  🎨 425684: 0x5a9eb22635... (nonce: 431846, rpc: DEV)
+  ✅ 425684: Block 284094
+  🎨 425685: 0x7ddc646912... (nonce: 431847, rpc: PUB)
+  ✅ 425685: Block 284095
+  🎨 425686: 0x828e406b75... (nonce: 431848, rpc: DEV)
+  ✅ 425686: Block 284096
+  🎨 425687: 0x765214ed43... (nonce: 431849, rpc: PUB)
+  ✅ 425687: Block 284097
+📊 Batch 151 complete: 5 success, 0 failed in 12.7s
+📈 Total progress: 25686 minted, 494 failed, 73820 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 152/15014: 5 tokens
+🎯 Range: 425688 to 425692
+  🎨 425688: 0xb465e2eb82... (nonce: 431850, rpc: DEV)
+  ✅ 425688: Block 284098
+  🎨 425689: 0x4bb3b76680... (nonce: 431851, rpc: PUB)
+  ✅ 425689: Block 284099
+  🎨 425690: 0x70d2e887d5... (nonce: 431852, rpc: DEV)
+  ✅ 425690: Block 284100
+  🎨 425691: 0x073b5df0a3... (nonce: 431853, rpc: PUB)
+  ✅ 425691: Block 284101
+  🎨 425692: 0x84a32d12af... (nonce: 431854, rpc: DEV)
+  ✅ 425692: Block 284102
+📊 Batch 152 complete: 5 success, 0 failed in 16.9s
+📈 Total progress: 25691 minted, 494 failed, 73815 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 153/15014: 5 tokens
+🎯 Range: 425693 to 425697
+  🎨 425693: 0x99725515d2... (nonce: 431855, rpc: PUB)
+  ✅ 425693: Block 284103
+  🎨 425694: 0xbfcb29e9eb... (nonce: 431856, rpc: DEV)
+  ✅ 425694: Block 284104
+  🎨 425695: 0x552a259327... (nonce: 431857, rpc: PUB)
+  ✅ 425695: Block 284105
+  🎨 425696: 0xc6aefa7c31... (nonce: 431858, rpc: DEV)
+  ✅ 425696: Block 284106
+  🎨 425697: 0x9aa739f2d5... (nonce: 431859, rpc: PUB)
+  ✅ 425697: Block 284107
+📊 Batch 153 complete: 5 success, 0 failed in 12.8s
+📈 Total progress: 25696 minted, 494 failed, 73810 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 154/15014: 5 tokens
+🎯 Range: 425698 to 425702
+  🎨 425698: 0x8ddb94b6c2... (nonce: 431860, rpc: DEV)
+  ✅ 425698: Block 284108
+  🎨 425699: 0x42ee3e0a3e... (nonce: 431861, rpc: PUB)
+  ✅ 425699: Block 284109
+  🎨 425700: 0xe949f9c8bd... (nonce: 431862, rpc: DEV)
+  ✅ 425700: Block 284110
+  🎨 425701: 0x9f3939108c... (nonce: 431863, rpc: PUB)
+  ✅ 425701: Block 284111
+  🎨 425702: 0x23dab55b40... (nonce: 431864, rpc: DEV)
+  ✅ 425702: Block 284112
+📊 Batch 154 complete: 5 success, 0 failed in 16.9s
+📈 Total progress: 25701 minted, 494 failed, 73805 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 155/15014: 5 tokens
+🎯 Range: 425703 to 425707
+  🎨 425703: 0x5bef7c6e90... (nonce: 431865, rpc: PUB)
+  ✅ 425703: Block 284113
+  🎨 425704: 0x1c9c7d3ade... (nonce: 431866, rpc: DEV)
+  ❌ 425704: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425704: Retry 1/2 in 15.0s
+  🎨 425704: 0x1cf80a55ca... (nonce: 431867, rpc: PUB)
+  ✅ 425704: Block 284115
+  🎨 425705: 0x196e6a6fb7... (nonce: 431868, rpc: DEV)
+  ✅ 425705: Block 284116
+  🎨 425706: 0x8ba419b6b5... (nonce: 431869, rpc: PUB)
+  ✅ 425706: Block 284117
+  🎨 425707: 0x27a30ee06a... (nonce: 431870, rpc: DEV)
+  ✅ 425707: Block 284118
+📊 Batch 155 complete: 5 success, 0 failed in 155.3s
+📈 Total progress: 25706 minted, 494 failed, 73800 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 156/15014: 5 tokens
+🎯 Range: 425708 to 425712
+  🎨 425708: 0xf8c378cb13... (nonce: 431871, rpc: PUB)
+  ✅ 425708: Block 284119
+  🎨 425709: 0x6aaad3a1f8... (nonce: 431872, rpc: DEV)
+  ✅ 425709: Block 284120
+  🎨 425710: 0x129f225a55... (nonce: 431873, rpc: PUB)
+  ✅ 425710: Block 284121
+  🎨 425711: 0x196d0465ce... (nonce: 431874, rpc: DEV)
+  ✅ 425711: Block 284122
+  🎨 425712: 0xf9743ed70c... (nonce: 431875, rpc: PUB)
+  ✅ 425712: Block 284123
+📊 Batch 156 complete: 5 success, 0 failed in 17.8s
+📈 Total progress: 25711 minted, 494 failed, 73795 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 157/15014: 5 tokens
+🎯 Range: 425713 to 425717
+  🎨 425713: 0x7c5eed61e2... (nonce: 431876, rpc: DEV)
+  ✅ 425713: Block 284124
+  🎨 425714: 0xb15a7b5468... (nonce: 431877, rpc: PUB)
+  ✅ 425714: Block 284125
+  🎨 425715: 0x5062d8400c... (nonce: 431878, rpc: DEV)
+  ❌ 425715: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425715: Retry 1/2 in 15.0s
+  🎨 425715: 0x067060d977... (nonce: 431879, rpc: PUB)
+  ✅ 425715: Block 284127
+  🎨 425716: 0xde1c680593... (nonce: 431880, rpc: DEV)
+  ✅ 425716: Block 284128
+  🎨 425717: 0xf170a0370e... (nonce: 431881, rpc: PUB)
+  ✅ 425717: Block 284129
+📊 Batch 157 complete: 5 success, 0 failed in 85.3s
+📈 Total progress: 25716 minted, 494 failed, 73790 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 158/15014: 5 tokens
+🎯 Range: 425718 to 425722
+  🎨 425718: 0xa4288561bf... (nonce: 431882, rpc: DEV)
+  ❌ 425718: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425718: Retry 1/2 in 15.0s
+  🎨 425718: 0x6a374b6ded... (nonce: 431883, rpc: PUB)
+  ✅ 425718: Block 284131
+  🎨 425719: 0xac1694d28b... (nonce: 431884, rpc: DEV)
+  ✅ 425719: Block 284132
+  🎨 425720: 0x4288416c08... (nonce: 431885, rpc: PUB)
+  ✅ 425720: Block 284133
+  🎨 425721: 0x4707abb1c9... (nonce: 431886, rpc: DEV)
+  ✅ 425721: Block 284134
+  🎨 425722: 0x88763c56d9... (nonce: 431887, rpc: PUB)
+  ✅ 425722: Block 284135
+📊 Batch 158 complete: 5 success, 0 failed in 69.0s
+📈 Total progress: 25721 minted, 494 failed, 73785 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 159/15014: 5 tokens
+🎯 Range: 425723 to 425727
+  🎨 425723: 0x3ebf1ad378... (nonce: 431888, rpc: DEV)
+  ✅ 425723: Block 284136
+  🎨 425724: 0xee339a3407... (nonce: 431889, rpc: PUB)
+  ✅ 425724: Block 284137
+  🎨 425725: 0x1037bcc09f... (nonce: 431890, rpc: DEV)
+  ✅ 425725: Block 284138
+  🎨 425726: 0xa4dbf53bb9... (nonce: 431891, rpc: PUB)
+  ✅ 425726: Block 284139
+  🎨 425727: 0xf0c61a755b... (nonce: 431892, rpc: DEV)
+  ✅ 425727: Block 284140
+📊 Batch 159 complete: 5 success, 0 failed in 13.3s
+📈 Total progress: 25726 minted, 494 failed, 73780 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 160/15014: 5 tokens
+🎯 Range: 425728 to 425732
+  🎨 425728: 0x0463665b09... (nonce: 431893, rpc: PUB)
+  ✅ 425728: Block 284141
+  🎨 425729: 0x47293ef8c2... (nonce: 431894, rpc: DEV)
+  ✅ 425729: Block 284142
+  🎨 425730: 0x5e06449c41... (nonce: 431895, rpc: PUB)
+  ✅ 425730: Block 284143
+  🎨 425731: 0x443a3d7757... (nonce: 431896, rpc: DEV)
+  ❌ 425731: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425731: Retry 1/2 in 15.0s
+  🎨 425731: 0xb9ef745001... (nonce: 431897, rpc: PUB)
+  ✅ 425731: Block 284145
+  🎨 425732: 0x839a4ad803... (nonce: 431898, rpc: DEV)
+  ✅ 425732: Block 284146
+📊 Batch 160 complete: 5 success, 0 failed in 123.5s
+📈 Total progress: 25731 minted, 494 failed, 73775 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 161/15014: 5 tokens
+🎯 Range: 425733 to 425737
+  🎨 425733: 0x0fb7f9d63e... (nonce: 431899, rpc: PUB)
+  ✅ 425733: Block 284147
+  🎨 425734: 0x48620f1922... (nonce: 431900, rpc: DEV)
+  ✅ 425734: Block 284148
+  🎨 425735: 0x1d6180b8aa... (nonce: 431901, rpc: PUB)
+  ✅ 425735: Block 284149
+  🎨 425736: 0x6624e64cb3... (nonce: 431902, rpc: DEV)
+  ✅ 425736: Block 284150
+  🎨 425737: 0x885c4d0bd7... (nonce: 431903, rpc: PUB)
+  ✅ 425737: Block 284151
+📊 Batch 161 complete: 5 success, 0 failed in 15.5s
+📈 Total progress: 25736 minted, 494 failed, 73770 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 162/15014: 5 tokens
+🎯 Range: 425738 to 425742
+  🎨 425738: 0x5166df4a8c... (nonce: 431904, rpc: DEV)
+  ✅ 425738: Block 284152
+  🎨 425739: 0x5acbc179ac... (nonce: 431905, rpc: PUB)
+  ✅ 425739: Block 284153
+  🎨 425740: 0xfdad9658f9... (nonce: 431906, rpc: DEV)
+  ❌ 425740: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425740: Retry 1/2 in 15.0s
+  🎨 425740: 0x6c78e40b57... (nonce: 431907, rpc: PUB)
+  ✅ 425740: Block 284155
+  🎨 425741: 0x595764e471... (nonce: 431908, rpc: DEV)
+  ✅ 425741: Block 284156
+  🎨 425742: 0xd1ade66ea0... (nonce: 431909, rpc: PUB)
+  ✅ 425742: Block 284157
+📊 Batch 162 complete: 5 success, 0 failed in 911.3s
+📈 Total progress: 25741 minted, 494 failed, 73765 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 163/15014: 5 tokens
+🎯 Range: 425743 to 425747
+  🎨 425743: 0x6467cfd8c1... (nonce: 431910, rpc: DEV)
+  ✅ 425743: Block 284158
+  🎨 425744: 0x4a46e5eb7e... (nonce: 431911, rpc: PUB)
+  ❌ 425744: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425744: Retry 1/2 in 15.0s
+  🎨 425744: 0xea0a20ec03... (nonce: 431912, rpc: DEV)
+  ❌ 425744: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425744: Retry 2/2 in 17.0s
+  🎨 425744: 0x2add2f4cb6... (nonce: 431913, rpc: PUB)
+  ✅ 425744: Block 284161
+  🎨 425745: 0xc84e09d25d... (nonce: 431914, rpc: DEV)
+  ✅ 425745: Block 284162
+  🎨 425746: 0x37f1c54155... (nonce: 431915, rpc: PUB)
+  ✅ 425746: Block 284163
+  🎨 425747: 0x6398f64b2b... (nonce: 431916, rpc: DEV)
+  ✅ 425747: Block 284164
+📊 Batch 163 complete: 5 success, 0 failed in 1418.2s
+📈 Total progress: 25746 minted, 494 failed, 73760 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 164/15014: 5 tokens
+🎯 Range: 425748 to 425752
+  🎨 425748: 0x441c1ef484... (nonce: 431917, rpc: PUB)
+  ✅ 425748: Block 284165
+  🎨 425749: 0x66117f07a7... (nonce: 431918, rpc: DEV)
+  ✅ 425749: Block 284166
+  🎨 425750: 0x402b97a8f0... (nonce: 431919, rpc: PUB)
+  ✅ 425750: Block 284167
+  🎨 425751: 0x571b5b90de... (nonce: 431920, rpc: DEV)
+  ❌ 425751: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425751: Retry 1/2 in 15.0s
+  🎨 425751: 0x4a45503437... (nonce: 431921, rpc: PUB)
+  ✅ 425751: Block 284169
+  🎨 425752: 0x7fa1e2b499... (nonce: 431922, rpc: DEV)
+  ✅ 425752: Block 284170
+📊 Batch 164 complete: 5 success, 0 failed in 163.7s
+📈 Total progress: 25751 minted, 494 failed, 73755 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 165/15014: 5 tokens
+🎯 Range: 425753 to 425757
+  🎨 425753: 0xf9e8f5d714... (nonce: 431923, rpc: PUB)
+  ✅ 425753: Block 284171
+  🎨 425754: 0x6780fedd6d... (nonce: 431924, rpc: DEV)
+  ❌ 425754: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425754: Retry 1/2 in 15.0s
+  🎨 425754: 0x78ff4e6818... (nonce: 431925, rpc: PUB)
+  ✅ 425754: Block 284173
+  🎨 425755: 0xaee1d59c95... (nonce: 431926, rpc: DEV)
+  ✅ 425755: Block 284174
+  🎨 425756: 0x68379fa663... (nonce: 431927, rpc: PUB)
+  ✅ 425756: Block 284175
+  🎨 425757: 0xb96780f3ff... (nonce: 431928, rpc: DEV)
+  ✅ 425757: Block 284176
+📊 Batch 165 complete: 5 success, 0 failed in 245.3s
+📈 Total progress: 25756 minted, 494 failed, 73750 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 166/15014: 5 tokens
+🎯 Range: 425758 to 425762
+  🎨 425758: 0x7a84d4c128... (nonce: 431929, rpc: PUB)
+  ✅ 425758: Block 284177
+  🎨 425759: 0x088416797f... (nonce: 431930, rpc: DEV)
+  ✅ 425759: Block 284178
+  🎨 425760: 0xdf1078b359... (nonce: 431931, rpc: PUB)
+  ✅ 425760: Block 284179
+  🎨 425761: 0xb8807b30a9... (nonce: 431932, rpc: DEV)
+  ✅ 425761: Block 284180
+  🎨 425762: 0x4263944555... (nonce: 431933, rpc: PUB)
+  ✅ 425762: Block 284181
+📊 Batch 166 complete: 5 success, 0 failed in 18.0s
+📈 Total progress: 25761 minted, 494 failed, 73745 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 167/15014: 5 tokens
+🎯 Range: 425763 to 425767
+  🎨 425763: 0x427419733c... (nonce: 431934, rpc: DEV)
+  ✅ 425763: Block 284182
+  🎨 425764: 0x04c9c0421b... (nonce: 431935, rpc: PUB)
+  ✅ 425764: Block 284183
+  🎨 425765: 0xe9d7b23893... (nonce: 431936, rpc: DEV)
+  ❌ 425765: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425765: Retry 1/2 in 15.0s
+  🎨 425765: 0x892fa5b679... (nonce: 431937, rpc: PUB)
+  ✅ 425765: Block 284185
+  🎨 425766: 0x73c588e793... (nonce: 431938, rpc: DEV)
+  ✅ 425766: Block 284186
+  🎨 425767: 0x632b11908a... (nonce: 431939, rpc: PUB)
+  ✅ 425767: Block 284187
+📊 Batch 167 complete: 5 success, 0 failed in 183.7s
+📈 Total progress: 25766 minted, 494 failed, 73740 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 168/15014: 5 tokens
+🎯 Range: 425768 to 425772
+  🎨 425768: 0x8932025f3d... (nonce: 431940, rpc: DEV)
+  ❌ 425768: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425768: Retry 1/2 in 15.0s
+  🎨 425768: 0xee0934c6ea... (nonce: 431941, rpc: PUB)
+  ✅ 425768: Block 284189
+  🎨 425769: 0x38d827558f... (nonce: 431942, rpc: DEV)
+  ✅ 425769: Block 284190
+  🎨 425770: 0x0440ce8558... (nonce: 431943, rpc: PUB)
+  ✅ 425770: Block 284191
+  🎨 425771: 0x8a3291369b... (nonce: 431944, rpc: DEV)
+  ✅ 425771: Block 284192
+  🎨 425772: 0xd3d11dc2f3... (nonce: 431945, rpc: PUB)
+  ✅ 425772: Block 284193
+📊 Batch 168 complete: 5 success, 0 failed in 368.7s
+📈 Total progress: 25771 minted, 494 failed, 73735 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 169/15014: 5 tokens
+🎯 Range: 425773 to 425777
+  🎨 425773: 0x083198e8a6... (nonce: 431946, rpc: DEV)
+  ✅ 425773: Block 284194
+  🎨 425774: 0x8cc83344e9... (nonce: 431947, rpc: PUB)
+  ✅ 425774: Block 284195
+  🎨 425775: 0xc4581e2480... (nonce: 431948, rpc: DEV)
+  ❌ 425775: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425775: Retry 1/2 in 15.0s
+  🎨 425775: 0x7b9110e4b4... (nonce: 431949, rpc: PUB)
+  ✅ 425775: Block 284197
+  🎨 425776: 0x486f29134a... (nonce: 431950, rpc: DEV)
+  ✅ 425776: Block 284198
+  🎨 425777: 0x1205336a92... (nonce: 431951, rpc: PUB)
+  ✅ 425777: Block 284199
+📊 Batch 169 complete: 5 success, 0 failed in 95.5s
+📈 Total progress: 25776 minted, 494 failed, 73730 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 170/15014: 5 tokens
+🎯 Range: 425778 to 425782
+  🎨 425778: 0xfad1b1232e... (nonce: 431952, rpc: DEV)
+  ✅ 425778: Block 284200
+  🎨 425779: 0x22df8fe18a... (nonce: 431953, rpc: PUB)
+  ✅ 425779: Block 284201
+  🎨 425780: 0x839583dde3... (nonce: 431954, rpc: DEV)
+  ✅ 425780: Block 284202
+  🎨 425781: 0x11174dc145... (nonce: 431955, rpc: PUB)
+  ✅ 425781: Block 284203
+  🎨 425782: 0xf452bb61f7... (nonce: 431956, rpc: DEV)
+  ✅ 425782: Block 284204
+📊 Batch 170 complete: 5 success, 0 failed in 22.4s
+📈 Total progress: 25781 minted, 494 failed, 73725 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 171/15014: 5 tokens
+🎯 Range: 425783 to 425787
+  🎨 425783: 0x9d1a06ce9e... (nonce: 431957, rpc: PUB)
+  ✅ 425783: Block 284205
+  🎨 425784: 0x9e5916cde7... (nonce: 431958, rpc: DEV)
+  ✅ 425784: Block 284206
+  🎨 425785: 0x8053e9d404... (nonce: 431959, rpc: PUB)
+  ✅ 425785: Block 284207
+  🎨 425786: 0xac14992038... (nonce: 431960, rpc: DEV)
+  ✅ 425786: Block 284208
+  🎨 425787: 0x06df500957... (nonce: 431961, rpc: PUB)
+  ✅ 425787: Block 284209
+📊 Batch 171 complete: 5 success, 0 failed in 17.5s
+📈 Total progress: 25786 minted, 494 failed, 73720 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 172/15014: 5 tokens
+🎯 Range: 425788 to 425792
+  🎨 425788: 0x32c2f7e26b... (nonce: 431962, rpc: DEV)
+  ✅ 425788: Block 284210
+  🎨 425789: 0x52bba7ad66... (nonce: 431963, rpc: PUB)
+  ✅ 425789: Block 284211
+  🎨 425790: 0x672ea23ba5... (nonce: 431964, rpc: DEV)
+  ✅ 425790: Block 284212
+  🎨 425791: 0x610be20be0... (nonce: 431965, rpc: PUB)
+  ✅ 425791: Block 284213
+  🎨 425792: 0x0bfcff21e2... (nonce: 431966, rpc: DEV)
+  ✅ 425792: Block 284214
+📊 Batch 172 complete: 5 success, 0 failed in 16.9s
+📈 Total progress: 25791 minted, 494 failed, 73715 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 173/15014: 5 tokens
+🎯 Range: 425793 to 425797
+  🎨 425793: 0xb5687bde16... (nonce: 431967, rpc: PUB)
+  ✅ 425793: Block 284215
+  🎨 425794: 0xee3670eae5... (nonce: 431968, rpc: DEV)
+  ✅ 425794: Block 284216
+  🎨 425795: 0xd1e19ac6b0... (nonce: 431969, rpc: PUB)
+  ✅ 425795: Block 284217
+  🎨 425796: 0x6c1f563f08... (nonce: 431970, rpc: DEV)
+  ✅ 425796: Block 284218
+  🎨 425797: 0xc1a9be52b0... (nonce: 431971, rpc: PUB)
+  ✅ 425797: Block 284219
+📊 Batch 173 complete: 5 success, 0 failed in 12.7s
+📈 Total progress: 25796 minted, 494 failed, 73710 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 174/15014: 5 tokens
+🎯 Range: 425798 to 425802
+  🎨 425798: 0x43c0db6e04... (nonce: 431972, rpc: DEV)
+  ✅ 425798: Block 284220
+  🎨 425799: 0x62438d1e71... (nonce: 431973, rpc: PUB)
+  ✅ 425799: Block 284221
+  🎨 425800: 0x7c852333b7... (nonce: 431974, rpc: DEV)
+  ✅ 425800: Block 284222
+  🎨 425801: 0x50342cd35c... (nonce: 431975, rpc: PUB)
+  ✅ 425801: Block 284223
+  🎨 425802: 0xfc41a82097... (nonce: 431976, rpc: DEV)
+  ✅ 425802: Block 284224
+📊 Batch 174 complete: 5 success, 0 failed in 17.9s
+📈 Total progress: 25801 minted, 494 failed, 73705 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 175/15014: 5 tokens
+🎯 Range: 425803 to 425807
+  🎨 425803: 0x567979c59e... (nonce: 431977, rpc: PUB)
+  ✅ 425803: Block 284225
+  🎨 425804: 0xdd44fb1829... (nonce: 431978, rpc: DEV)
+  ✅ 425804: Block 284226
+  🎨 425805: 0x1c6732746f... (nonce: 431979, rpc: PUB)
+  ✅ 425805: Block 284227
+  🎨 425806: 0x2042b7cd27... (nonce: 431980, rpc: DEV)
+  ✅ 425806: Block 284228
+  🎨 425807: 0x5cde6f45f3... (nonce: 431981, rpc: PUB)
+  ✅ 425807: Block 284229
+📊 Batch 175 complete: 5 success, 0 failed in 12.3s
+📈 Total progress: 25806 minted, 494 failed, 73700 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 176/15014: 5 tokens
+🎯 Range: 425808 to 425812
+  🎨 425808: 0xa0ec9729d8... (nonce: 431982, rpc: DEV)
+  ❌ 425808: Transaction timeout after 45000ms
+  🔄 425808: Retry 1/2 in 15.0s
+  🎨 425808: 0xf459d4b982... (nonce: 431983, rpc: PUB)
+  ✅ 425808: Block 284231
+  🎨 425809: 0x23de7c34db... (nonce: 431984, rpc: DEV)
+  ✅ 425809: Block 284232
+  🎨 425810: 0xc21f9caa82... (nonce: 431985, rpc: PUB)
+  ✅ 425810: Block 284233
+  🎨 425811: 0x096e0cf368... (nonce: 431986, rpc: DEV)
+  ✅ 425811: Block 284234
+  🎨 425812: 0xb73ef7fe39... (nonce: 431987, rpc: PUB)
+  ✅ 425812: Block 284235
+📊 Batch 176 complete: 5 success, 0 failed in 73.0s
+📈 Total progress: 25811 minted, 494 failed, 73695 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 177/15014: 5 tokens
+🎯 Range: 425813 to 425817
+  🎨 425813: 0x0400f4dcae... (nonce: 431988, rpc: DEV)
+  ✅ 425813: Block 284236
+  🎨 425814: 0x72db11ccfb... (nonce: 431989, rpc: PUB)
+  ✅ 425814: Block 284237
+  🎨 425815: 0xda1de71821... (nonce: 431990, rpc: DEV)
+  ✅ 425815: Block 284238
+  🎨 425816: 0x4048be0fac... (nonce: 431991, rpc: PUB)
+  ✅ 425816: Block 284239
+  🎨 425817: 0x1b5cd4db82... (nonce: 431992, rpc: DEV)
+  ✅ 425817: Block 284240
+📊 Batch 177 complete: 5 success, 0 failed in 27.2s
+📈 Total progress: 25816 minted, 494 failed, 73690 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 178/15014: 5 tokens
+🎯 Range: 425818 to 425822
+  🎨 425818: 0xc9b0b5751e... (nonce: 431993, rpc: PUB)
+  ✅ 425818: Block 284241
+  🎨 425819: 0xb95d966b99... (nonce: 431994, rpc: DEV)
+  ✅ 425819: Block 284242
+  🎨 425820: 0x207b220404... (nonce: 431995, rpc: PUB)
+  ✅ 425820: Block 284243
+  🎨 425821: 0xb340094843... (nonce: 431996, rpc: DEV)
+  ✅ 425821: Block 284244
+  🎨 425822: 0xd050c3d6d1... (nonce: 431997, rpc: PUB)
+  ✅ 425822: Block 284245
+📊 Batch 178 complete: 5 success, 0 failed in 12.9s
+📈 Total progress: 25821 minted, 494 failed, 73685 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 179/15014: 5 tokens
+🎯 Range: 425823 to 425827
+  🎨 425823: 0x7484d993dd... (nonce: 431998, rpc: DEV)
+  ✅ 425823: Block 284246
+  🎨 425824: 0x99d6d45b5f... (nonce: 431999, rpc: PUB)
+  ✅ 425824: Block 284247
+  🎨 425825: 0x6918ce22c3... (nonce: 432000, rpc: DEV)
+  ✅ 425825: Block 284248
+  🎨 425826: 0x8450886f29... (nonce: 432001, rpc: PUB)
+  ✅ 425826: Block 284249
+  🎨 425827: 0x1dc3323284... (nonce: 432002, rpc: DEV)
+  ❌ 425827: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425827: Retry 1/2 in 15.0s
+  🎨 425827: 0xeb995f3ebe... (nonce: 432003, rpc: PUB)
+  ✅ 425827: Block 284251
+📊 Batch 179 complete: 5 success, 0 failed in 88.4s
+📈 Total progress: 25826 minted, 494 failed, 73680 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 180/15014: 5 tokens
+🎯 Range: 425828 to 425832
+  🎨 425828: 0x9716dc865e... (nonce: 432004, rpc: DEV)
+  ✅ 425828: Block 284252
+  🎨 425829: 0x1192c07650... (nonce: 432005, rpc: PUB)
+  ✅ 425829: Block 284253
+  🎨 425830: 0xac8b7a41cd... (nonce: 432006, rpc: DEV)
+  ❌ 425830: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425830: Retry 1/2 in 15.0s
+  🎨 425830: 0x3ddf431adc... (nonce: 432007, rpc: PUB)
+  ✅ 425830: Block 284255
+  🎨 425831: 0x8ac5d6eb77... (nonce: 432008, rpc: DEV)
+  ✅ 425831: Block 284256
+  🎨 425832: 0x21aee0e4fe... (nonce: 432009, rpc: PUB)
+  ✅ 425832: Block 284257
+📊 Batch 180 complete: 5 success, 0 failed in 193.1s
+📈 Total progress: 25831 minted, 494 failed, 73675 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 181/15014: 5 tokens
+🎯 Range: 425833 to 425837
+  🎨 425833: 0xcbf6b70cb1... (nonce: 432010, rpc: DEV)
+  ✅ 425833: Block 284258
+  🎨 425834: 0x0f049e6091... (nonce: 432011, rpc: PUB)
+  ✅ 425834: Block 284259
+  🎨 425835: 0x11416c9769... (nonce: 432012, rpc: DEV)
+  ✅ 425835: Block 284260
+  🎨 425836: 0x23c2cc51cd... (nonce: 432013, rpc: PUB)
+  ✅ 425836: Block 284261
+  🎨 425837: 0xc48a8b3bb2... (nonce: 432014, rpc: DEV)
+  ✅ 425837: Block 284262
+📊 Batch 181 complete: 5 success, 0 failed in 21.7s
+📈 Total progress: 25836 minted, 494 failed, 73670 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 182/15014: 5 tokens
+🎯 Range: 425838 to 425842
+  🎨 425838: 0xb41d34a612... (nonce: 432015, rpc: PUB)
+  ✅ 425838: Block 284263
+  🎨 425839: 0x273818a920... (nonce: 432016, rpc: DEV)
+  ✅ 425839: Block 284264
+  🎨 425840: 0xda93b76baf... (nonce: 432017, rpc: PUB)
+  ✅ 425840: Block 284265
+  🎨 425841: 0x2ef3c6f5d0... (nonce: 432018, rpc: DEV)
+  ✅ 425841: Block 284266
+  🎨 425842: 0x19de9fb83f... (nonce: 432019, rpc: PUB)
+  ✅ 425842: Block 284267
+📊 Batch 182 complete: 5 success, 0 failed in 13.0s
+📈 Total progress: 25841 minted, 494 failed, 73665 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 183/15014: 5 tokens
+🎯 Range: 425843 to 425847
+  🎨 425843: 0xad5c8541ed... (nonce: 432020, rpc: DEV)
+  ✅ 425843: Block 284268
+  🎨 425844: 0x3fade94fc4... (nonce: 432021, rpc: PUB)
+  ✅ 425844: Block 284269
+  🎨 425845: 0x7e15716626... (nonce: 432022, rpc: DEV)
+  ❌ 425845: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425845: Retry 1/2 in 15.0s
+  🎨 425845: 0x4ab5609445... (nonce: 432023, rpc: PUB)
+  ✅ 425845: Block 284271
+  🎨 425846: 0xfb06ea8b19... (nonce: 432024, rpc: DEV)
+  ✅ 425846: Block 284272
+  🎨 425847: 0x88f180374c... (nonce: 432025, rpc: PUB)
+  ✅ 425847: Block 284273
+📊 Batch 183 complete: 5 success, 0 failed in 77.0s
+📈 Total progress: 25846 minted, 494 failed, 73660 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 184/15014: 5 tokens
+🎯 Range: 425848 to 425852
+  🎨 425848: 0x5d919c3277... (nonce: 432026, rpc: DEV)
+  ❌ 425848: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425848: Retry 1/2 in 15.0s
+  🎨 425848: 0xbbced686bf... (nonce: 432027, rpc: PUB)
+  ✅ 425848: Block 284275
+  ❌ 425849: Transaction timeout after 45000ms
+  🔄 425849: Retry 1/2 in 15.0s
+  🎨 425849: 0x7c3f6554f9... (nonce: 432028, rpc: DEV)
+  🎨 425849: 0x60858e8b19... (nonce: 432029, rpc: PUB)
+  ✅ 425849: Block 284277
+  🎨 425850: 0x88f8f4fd10... (nonce: 432030, rpc: DEV)
+  ✅ 425850: Block 284278
+  🎨 425851: 0xcddadc8e15... (nonce: 432031, rpc: PUB)
+  ✅ 425851: Block 284279
+  🎨 425852: 0xa79ad3c0b4... (nonce: 432032, rpc: DEV)
+  ✅ 425852: Block 284280
+📊 Batch 184 complete: 5 success, 0 failed in 162.3s
+📈 Total progress: 25851 minted, 494 failed, 73655 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 185/15014: 5 tokens
+🎯 Range: 425853 to 425857
+  🎨 425853: 0x439b0c1698... (nonce: 432033, rpc: PUB)
+  ✅ 425853: Block 284281
+  🎨 425854: 0x7e4b721d12... (nonce: 432034, rpc: DEV)
+  ✅ 425854: Block 284282
+  🎨 425855: 0x03f8e264ef... (nonce: 432035, rpc: PUB)
+  ✅ 425855: Block 284283
+  🎨 425856: 0x7289e608d3... (nonce: 432036, rpc: DEV)
+  ✅ 425856: Block 284284
+  🎨 425857: 0x108bae2b87... (nonce: 432037, rpc: PUB)
+  ✅ 425857: Block 284285
+📊 Batch 185 complete: 5 success, 0 failed in 13.1s
+📈 Total progress: 25856 minted, 494 failed, 73650 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 186/15014: 5 tokens
+🎯 Range: 425858 to 425862
+  🎨 425858: 0xcb95a3be36... (nonce: 432038, rpc: DEV)
+  ❌ 425858: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425858: Retry 1/2 in 15.0s
+  🎨 425858: 0xa167dc93f1... (nonce: 432039, rpc: PUB)
+  ✅ 425858: Block 284287
+  🎨 425859: 0xeb53fa1fb6... (nonce: 432040, rpc: DEV)
+  ✅ 425859: Block 284288
+  🎨 425860: 0x98630a71d1... (nonce: 432041, rpc: PUB)
+  ✅ 425860: Block 284289
+  🎨 425861: 0x462e066093... (nonce: 432042, rpc: DEV)
+  ✅ 425861: Block 284290
+  🎨 425862: 0xb70d143f8d... (nonce: 432043, rpc: PUB)
+  ✅ 425862: Block 284291
+📊 Batch 186 complete: 5 success, 0 failed in 158.9s
+📈 Total progress: 25861 minted, 494 failed, 73645 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 187/15014: 5 tokens
+🎯 Range: 425863 to 425867
+  🎨 425863: 0xbd4f3ce8e8... (nonce: 432044, rpc: DEV)
+  ❌ 425863: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425863: Retry 1/2 in 15.0s
+  🎨 425863: 0x21723cfd30... (nonce: 432045, rpc: PUB)
+  ✅ 425863: Block 284293
+  🎨 425864: 0x960ec0496d... (nonce: 432046, rpc: DEV)
+  ✅ 425864: Block 284294
+  ❌ 425865: Transaction timeout after 45000ms
+  🔄 425865: Retry 1/2 in 15.0s
+  🎨 425865: 0x7d9fd3adbd... (nonce: 432048, rpc: DEV)
+  🎨 425865: 0x8133935c64... (nonce: 432047, rpc: PUB)
+  ❌ 425865: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425865: Retry 2/2 in 17.0s
+  🎨 425865: 0x3ab49cd933... (nonce: 432049, rpc: PUB)
+  ✅ 425865: Block 284296
+  🎨 425866: 0x6f74656c3a... (nonce: 432050, rpc: DEV)
+  ✅ 425866: Block 284297
+  🎨 425867: 0x85556b0b54... (nonce: 432051, rpc: PUB)
+  ✅ 425867: Block 284298
+📊 Batch 187 complete: 5 success, 0 failed in 342.4s
+📈 Total progress: 25866 minted, 494 failed, 73640 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 188/15014: 5 tokens
+🎯 Range: 425868 to 425872
+  ❌ 425868: Transaction timeout after 45000ms
+  🔄 425868: Retry 1/2 in 15.0s
+  🎨 425868: 0x42e7123e3b... (nonce: 432052, rpc: DEV)
+  🎨 425868: 0x2709395071... (nonce: 432053, rpc: PUB)
+  ✅ 425868: Block 284300
+  🎨 425869: 0xd97543848d... (nonce: 432054, rpc: DEV)
+  ✅ 425869: Block 284301
+  🎨 425870: 0x7930eaebe5... (nonce: 432055, rpc: PUB)
+  ✅ 425870: Block 284302
+  🎨 425871: 0x969b7dd990... (nonce: 432056, rpc: DEV)
+  ✅ 425871: Block 284303
+  🎨 425872: 0x02ebfd547f... (nonce: 432057, rpc: PUB)
+  ✅ 425872: Block 284304
+📊 Batch 188 complete: 5 success, 0 failed in 140.7s
+📈 Total progress: 25871 minted, 494 failed, 73635 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 189/15014: 5 tokens
+🎯 Range: 425873 to 425877
+  🎨 425873: 0xeefebe5e06... (nonce: 432058, rpc: DEV)
+  ✅ 425873: Block 284305
+  🎨 425874: 0xef16d3c2d7... (nonce: 432059, rpc: PUB)
+  ✅ 425874: Block 284306
+  🎨 425875: 0x22d67fcad8... (nonce: 432060, rpc: DEV)
+  ✅ 425875: Block 284307
+  🎨 425876: 0xa86d38c585... (nonce: 432061, rpc: PUB)
+  ✅ 425876: Block 284308
+  🎨 425877: 0x38ea2669ae... (nonce: 432062, rpc: DEV)
+  ✅ 425877: Block 284309
+📊 Batch 189 complete: 5 success, 0 failed in 17.0s
+📈 Total progress: 25876 minted, 494 failed, 73630 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 190/15014: 5 tokens
+🎯 Range: 425878 to 425882
+  🎨 425878: 0x756f38e2be... (nonce: 432063, rpc: PUB)
+  ✅ 425878: Block 284310
+  🎨 425879: 0x9812eb9ea4... (nonce: 432064, rpc: DEV)
+  ✅ 425879: Block 284311
+  🎨 425880: 0x0e9a3ca942... (nonce: 432065, rpc: PUB)
+  ✅ 425880: Block 284312
+  🎨 425881: 0x3409589002... (nonce: 432066, rpc: DEV)
+  ❌ 425881: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425881: Retry 1/2 in 15.0s
+  🎨 425881: 0xef61e71aac... (nonce: 432067, rpc: PUB)
+  ✅ 425881: Block 284314
+  🎨 425882: 0xa7c8022dfc... (nonce: 432068, rpc: DEV)
+  ✅ 425882: Block 284315
+📊 Batch 190 complete: 5 success, 0 failed in 493.7s
+📈 Total progress: 25881 minted, 494 failed, 73625 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 191/15014: 5 tokens
+🎯 Range: 425883 to 425887
+  🎨 425883: 0x320303e338... (nonce: 432069, rpc: PUB)
+  ✅ 425883: Block 284316
+  🎨 425884: 0x08e9c221b2... (nonce: 432070, rpc: DEV)
+  ✅ 425884: Block 284317
+  🎨 425885: 0x3bdc47a3f3... (nonce: 432071, rpc: PUB)
+  ✅ 425885: Block 284318
+  🎨 425886: 0x6bacaa746a... (nonce: 432072, rpc: DEV)
+  ✅ 425886: Block 284319
+  🎨 425887: 0xf27346bf61... (nonce: 432073, rpc: PUB)
+  ✅ 425887: Block 284320
+📊 Batch 191 complete: 5 success, 0 failed in 12.7s
+📈 Total progress: 25886 minted, 494 failed, 73620 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 192/15014: 5 tokens
+🎯 Range: 425888 to 425892
+  🎨 425888: 0xfbf10d3b56... (nonce: 432074, rpc: DEV)
+  ✅ 425888: Block 284321
+  🎨 425889: 0xba47ac2641... (nonce: 432075, rpc: PUB)
+  ✅ 425889: Block 284322
+  🎨 425890: 0x7b9618f561... (nonce: 432076, rpc: DEV)
+  ✅ 425890: Block 284323
+  🎨 425891: 0xe76c4997dd... (nonce: 432077, rpc: PUB)
+  ✅ 425891: Block 284324
+  🎨 425892: 0x9ed3e3a236... (nonce: 432078, rpc: DEV)
+  ✅ 425892: Block 284325
+📊 Batch 192 complete: 5 success, 0 failed in 16.8s
+📈 Total progress: 25891 minted, 494 failed, 73615 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 193/15014: 5 tokens
+🎯 Range: 425893 to 425897
+  🎨 425893: 0xe64841eb5e... (nonce: 432079, rpc: PUB)
+  ✅ 425893: Block 284326
+  🎨 425894: 0x936acc3d93... (nonce: 432080, rpc: DEV)
+  ✅ 425894: Block 284327
+  🎨 425895: 0x3cfeaeb9c2... (nonce: 432081, rpc: PUB)
+  ✅ 425895: Block 284328
+  🎨 425896: 0x168ef1f74d... (nonce: 432082, rpc: DEV)
+  ❌ 425896: wait for transaction timeout (code=TIMEOUT, versio
+  🔄 425896: Retry 1/2 in 15.0s
+  🎨 425896: 0x66a592047d... (nonce: 432083, rpc: PUB)
+  ✅ 425896: Block 284330
+  🎨 425897: 0x5beeb9b625... (nonce: 432084, rpc: DEV)
+  ✅ 425897: Block 284331
+📊 Batch 193 complete: 5 success, 0 failed in 148.7s
+📈 Total progress: 25896 minted, 494 failed, 73610 pending
+⏸️  Stability pause 20s...
+
+📦 Batch 194/15014: 5 tokens
+🎯 Range: 425898 to 425902
+  🎨 425898: 0x4bb7d2b975... (nonce: 432085, rpc: PUB)
+  ✅ 425898: Block 284332
+  🎨 425899: 0x3b7d1ee9c4... (nonce: 432086, rpc: DEV)
+/Users/zanzibar/blockticity-l1-minting/placeholder-pia-test/node_modules/ethers/lib.commonjs/utils/errors.js:137
+            error = new Error(message);
+                    ^
+
+Error: request timeout (code=TIMEOUT, version=6.14.4)
+    at makeError (/Users/zanzibar/blockticity-l1-minting/placeholder-pia-test/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/Users/zanzibar/blockticity-l1-minting/placeholder-pia-test/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:507:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:621:28)
+    at TLSSocket.emit (node:events:519:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+
+Node.js v24.3.0

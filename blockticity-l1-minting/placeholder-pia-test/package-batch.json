@@ -1,0 +1,31 @@
+{
+  "name": "batch-minting-optimization",
+  "version": "1.0.0",
+  "description": "Optimized batch minting for LayerZero-enabled ERC721 contracts",
+  "main": "batch-mint-optimized.js",
+  "scripts": {
+    "mint:single": "node batch-mint-optimized.js",
+    "mint:multi": "node multi-signer-batch-mint.js",
+    "create-example": "node batch-mint-optimized.js --create-example",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ethers": "^6.8.0",
+    "fs-extra": "^11.1.1",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  },
+  "keywords": [
+    "ethereum",
+    "nft",
+    "batch",
+    "minting",
+    "layerzero",
+    "erc721"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

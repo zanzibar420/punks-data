@@ -69,3 +69,31 @@ The following scripts have been updated to use the new environment variables:
 - `multi-signer-batch-mint.js`
 
 All scripts now use `process.env.MAINNET_CONTRACT` with fallback to `process.env.CONTRACT_ADDRESS`.
+
+## Contract Verification (cast commands)
+
+**Mainnet:**
+```bash
+cast code 0x7D1955F814f25Ec2065C01B9bFc0AcC29B3f2926 --rpc-url=https://subnets.avax.network/btic/mainnet/rpc
+```
+
+**Testnet:**
+```bash
+cast code 0x600D115075768548527BCcd156ccC921D7861f87 --rpc-url=https://subnets.avax.network/btest/testnet/rpc
+```
+
+If you don't have `cast` installed, use curl instead:
+
+**Mainnet (curl):**
+```bash
+curl -X POST -H "Content-Type: application/json" \
+  --data '{"jsonrpc":"2.0","method":"eth_getCode","params":["0x7D1955F814f25Ec2065C01B9bFc0AcC29B3f2926", "latest"],"id":1}' \
+  https://subnets.avax.network/btic/mainnet/rpc
+```
+
+**Testnet (curl):**
+```bash
+curl -X POST -H "Content-Type: application/json" \
+  --data '{"jsonrpc":"2.0","method":"eth_getCode","params":["0x600D115075768548527BCcd156ccC921D7861f87", "latest"],"id":1}' \
+  https://subnets.avax.network/btest/testnet/rpc
+```

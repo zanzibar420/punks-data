@@ -1,0 +1,2511 @@
+🚀 Blockticity Batch 200k-300k Robust Minting
+==================================================
+🎯 Token Range: 200,001 - 300,000
+⚡ Settings: 5 concurrent, 25 per batch (ROBUST MODE)
+✅ Loaded existing progress
+📊 Status: 75175 minted, 0 failed, 24825 pending
+
+🎯 Tokens to process: 24,825
+
+🔗 Connecting to Blockticity L1 Mainnet...
+🌐 Using Standard (AvaCloud integration pending) RPC endpoint
+⏳ AvaCloud API key available but integration pending correct endpoint format
+✅ Connected to network: chainId 28530
+💰 Wallet balance: 999998987.434110566068847692 BTIC
+🔑 Minting from: 0xE2A506B43dF9c4e3B3c284F8cc18cF47Ac266929
+🔢 Reset nonce sequence to: 275195
+
+📦 Batch 1/993: 25 tokens
+🎯 Range: 275176 to 275200
+  🎨 275176: 0xa435dcfa... (nonce: 275195)
+  🎨 275177: 0x59a086e5... (nonce: 275196)
+  🎨 275178: 0x3e3c851d... (nonce: 275197)
+  🎨 275179: 0x97566bbb... (nonce: 275198)
+  🎨 275180: 0xe39c89d6... (nonce: 275199)
+  ✅ 275176: Block 217775
+  ✅ 275177: Block 217775
+  🎨 275181: 0x6bea9766... (nonce: 275200)
+  🎨 275182: 0x7e2728f9... (nonce: 275201)
+  ✅ 275180: Block 217776
+  ✅ 275179: Block 217776
+  ✅ 275178: Block 217776
+  🎨 275183: 0xf6f18adf... (nonce: 275202)
+  🎨 275185: 0x33edddfa... (nonce: 275204)
+  🎨 275184: 0x40554440... (nonce: 275203)
+  ✅ 275181: Block 217777
+  ✅ 275182: Block 217777
+  ✅ 275183: Block 217778
+  🎨 275186: 0x4ccb71b5... (nonce: 275205)
+  🎨 275187: 0x69a5d497... (nonce: 275206)
+  🎨 275188: 0x15aa6d4a... (nonce: 275207)
+  ✅ 275186: Block 217780
+  🎨 275189: 0x2cce5bdf... (nonce: 275208)
+  ✅ 275184: Block 217779
+  ✅ 275185: Block 217779
+  🎨 275190: 0x7f7c3053... (nonce: 275209)
+  🎨 275191: 0x1a49cd01... (nonce: 275210)
+  ✅ 275188: Block 217781
+  ✅ 275189: Block 217781
+  ✅ 275187: Block 217781
+  ✅ 275191: Block 217782
+  ✅ 275190: Block 217782
+  🎨 275194: 0xe8630d73... (nonce: 275213)
+  🎨 275195: 0xaf4e93b5... (nonce: 275214)
+  🎨 275192: 0xa6716db9... (nonce: 275211)
+  🎨 275193: 0xfa5544cf... (nonce: 275212)
+  🎨 275196: 0x2c50a270... (nonce: 275215)
+  ✅ 275192: Block 217783
+  🎨 275197: 0x65903d69... (nonce: 275216)
+  ✅ 275195: Block 217784
+  ✅ 275196: Block 217784
+  ✅ 275197: Block 217784
+  ✅ 275193: Block 217784
+  ✅ 275194: Block 217784
+  🎨 275198: 0xc6161956... (nonce: 275217)
+  🎨 275199: 0x8d3e3579... (nonce: 275218)
+  🎨 275200: 0xf5c76ba6... (nonce: 275219)
+  ✅ 275198: Block 217785
+  ✅ 275199: Block 217786
+  ✅ 275200: Block 217786
+📊 Batch 1 complete: 25 success, 0 failed in 29.7s (0.8 tokens/sec)
+📈 Total progress: 75200 minted, 0 failed, 24800 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 2/993: 25 tokens
+🎯 Range: 275201 to 275225
+  🎨 275201: 0xdc235a45... (nonce: 275220)
+  🎨 275202: 0x68514e7e... (nonce: 275221)
+  🎨 275205: 0x9dfddca8... (nonce: 275224)
+  🎨 275204: 0x81b4547d... (nonce: 275223)
+  🎨 275203: 0x783c13e0... (nonce: 275222)
+  ✅ 275202: Block 217787
+  ✅ 275201: Block 217787
+  🎨 275206: 0xab038c70... (nonce: 275225)
+  🎨 275207: 0x846aff8d... (nonce: 275226)
+  ✅ 275206: Block 217788
+  ✅ 275204: Block 217788
+  ✅ 275203: Block 217788
+  ✅ 275207: Block 217788
+  ✅ 275205: Block 217788
+  🎨 275208: 0x6dc6a70e... (nonce: 275227)
+  🎨 275209: 0x781ec793... (nonce: 275228)
+  🎨 275211: 0x852a5cd0... (nonce: 275230)
+  🎨 275212: 0xffc85f34... (nonce: 275231)
+  🎨 275210: 0x8f683236... (nonce: 275229)
+  ✅ 275208: Block 217789
+  ✅ 275212: Block 217789
+  ✅ 275211: Block 217789
+  ✅ 275209: Block 217789
+  ✅ 275210: Block 217789
+  🎨 275215: 0x7381703f... (nonce: 275234)
+  🎨 275214: 0xc14b6e17... (nonce: 275233)
+  🎨 275213: 0x21cdef96... (nonce: 275232)
+  🎨 275216: 0x7a4ad087... (nonce: 275235)
+  🎨 275217: 0xd6e6220b... (nonce: 275236)
+  ✅ 275216: Block 217790
+  ✅ 275215: Block 217790
+  ✅ 275217: Block 217790
+  ✅ 275213: Block 217790
+  ✅ 275214: Block 217790
+  🎨 275220: 0xf473d4be... (nonce: 275239)
+  🎨 275221: 0xa003a9ef... (nonce: 275240)
+  🎨 275222: 0x7e145c86... (nonce: 275241)
+  🎨 275219: 0xa873124e... (nonce: 275238)
+  🎨 275218: 0xfeed31cf... (nonce: 275237)
+  ✅ 275221: Block 217791
+  ✅ 275219: Block 217791
+  ✅ 275218: Block 217791
+  🎨 275223: 0xa9efa8e7... (nonce: 275242)
+  🎨 275224: 0x2831a446... (nonce: 275243)
+  🎨 275225: 0x0ca1acc4... (nonce: 275244)
+  ✅ 275220: Block 217791
+  ✅ 275225: Block 217792
+  ✅ 275224: Block 217792
+  ✅ 275223: Block 217792
+  ✅ 275222: Block 217791
+📊 Batch 2 complete: 25 success, 0 failed in 17.8s (1.4 tokens/sec)
+📈 Total progress: 75225 minted, 0 failed, 24775 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 3/993: 25 tokens
+🎯 Range: 275226 to 275250
+  🎨 275226: 0xb3cddf1e... (nonce: 275245)
+  🎨 275227: 0x3debc7d4... (nonce: 275246)
+  🎨 275229: 0x182b0a9f... (nonce: 275248)
+  🎨 275230: 0x76324f07... (nonce: 275249)
+  🎨 275228: 0x8f501b43... (nonce: 275247)
+  ✅ 275227: Block 217793
+  ✅ 275226: Block 217793
+  🎨 275231: 0xb8aaa8ce... (nonce: 275250)
+  🎨 275232: 0x44b6e66a... (nonce: 275251)
+  ✅ 275229: Block 217794
+  ✅ 275228: Block 217794
+  ✅ 275232: Block 217794
+  ✅ 275230: Block 217794
+  ✅ 275231: Block 217794
+  🎨 275233: 0xbff70f9e... (nonce: 275252)
+  🎨 275234: 0xe39efbea... (nonce: 275253)
+  🎨 275235: 0x4851f601... (nonce: 275254)
+  🎨 275236: 0x88b9bde5... (nonce: 275255)
+  🎨 275237: 0xab07c8f4... (nonce: 275256)
+  ✅ 275233: Block 217795
+  🎨 275238: 0x23686f93... (nonce: 275257)
+  ✅ 275235: Block 217796
+  ✅ 275237: Block 217796
+  ✅ 275238: Block 217796
+  ✅ 275234: Block 217796
+  ✅ 275236: Block 217796
+  🎨 275239: 0x82f84ca0... (nonce: 275258)
+  🎨 275240: 0x3e6bdf4c... (nonce: 275259)
+  🎨 275241: 0xd8b5b7ff... (nonce: 275260)
+  🎨 275242: 0xd13d0dcc... (nonce: 275261)
+  🎨 275243: 0x1438615b... (nonce: 275262)
+  ✅ 275243: Block 217797
+  ✅ 275240: Block 217797
+  🎨 275245: 0xbe2d80dd... (nonce: 275264)
+  🎨 275244: 0x283f2ce3... (nonce: 275263)
+  ✅ 275245: Block 217798
+  ✅ 275239: Block 217797
+  ✅ 275244: Block 217798
+  ✅ 275242: Block 217797
+  ✅ 275241: Block 217797
+  🎨 275246: 0x0133a4ac... (nonce: 275265)
+  🎨 275247: 0xb228b930... (nonce: 275266)
+  🎨 275248: 0xe038ba42... (nonce: 275267)
+  🎨 275249: 0x773b2e33... (nonce: 275268)
+  🎨 275250: 0x9d68581e... (nonce: 275269)
+  ✅ 275247: Block 217799
+  ✅ 275246: Block 217799
+  ✅ 275248: Block 217800
+  ✅ 275250: Block 217800
+  ✅ 275249: Block 217800
+📊 Batch 3 complete: 25 success, 0 failed in 22.1s (1.1 tokens/sec)
+📈 Total progress: 75250 minted, 0 failed, 24750 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 4/993: 25 tokens
+🎯 Range: 275251 to 275275
+  🎨 275251: 0x0ec92d72... (nonce: 275270)
+  🎨 275252: 0x22fd075c... (nonce: 275271)
+  🎨 275253: 0x0edf81b6... (nonce: 275272)
+  🎨 275254: 0x829bd4ec... (nonce: 275273)
+  🎨 275255: 0xc3015b55... (nonce: 275274)
+  ✅ 275251: Block 217801
+  🎨 275256: 0x3b64a9e6... (nonce: 275275)
+  ✅ 275252: Block 217802
+  ✅ 275255: Block 217802
+  ✅ 275254: Block 217802
+  ✅ 275253: Block 217802
+  ✅ 275256: Block 217802
+  🎨 275257: 0x90c2f6df... (nonce: 275276)
+  🎨 275258: 0x363557f9... (nonce: 275277)
+  🎨 275259: 0xb53133b0... (nonce: 275278)
+  🎨 275260: 0x0479f494... (nonce: 275279)
+  🎨 275261: 0x365d9400... (nonce: 275280)
+  ✅ 275257: Block 217803
+  🎨 275262: 0xf26876a6... (nonce: 275281)
+  ✅ 275261: Block 217804
+  ✅ 275262: Block 217804
+  ✅ 275258: Block 217804
+  ✅ 275260: Block 217804
+  ✅ 275259: Block 217804
+  🎨 275263: 0x3e8c071a... (nonce: 275282)
+  🎨 275264: 0xae7fae8e... (nonce: 275283)
+  🎨 275265: 0x920f3ae9... (nonce: 275284)
+  🎨 275266: 0x09eb888e... (nonce: 275285)
+  🎨 275267: 0xb03b8368... (nonce: 275286)
+  ✅ 275263: Block 217805
+  🎨 275268: 0x9055f651... (nonce: 275287)
+  ✅ 275265: Block 217806
+  ✅ 275267: Block 217806
+  ✅ 275264: Block 217806
+  ✅ 275268: Block 217806
+  ✅ 275266: Block 217806
+  🎨 275269: 0x74e78bbc... (nonce: 275288)
+  🎨 275270: 0x8615e0ce... (nonce: 275289)
+  🎨 275271: 0xd6e826ee... (nonce: 275290)
+  🎨 275272: 0x1baf6c7f... (nonce: 275291)
+  🎨 275273: 0x498fa049... (nonce: 275292)
+  ✅ 275270: Block 217807
+  ✅ 275269: Block 217807
+  ✅ 275272: Block 217808
+  ✅ 275271: Block 217808
+  ✅ 275273: Block 217808
+  🎨 275274: 0x2e548180... (nonce: 275293)
+  🎨 275275: 0xb785108c... (nonce: 275294)
+  ✅ 275274: Block 217809
+  ✅ 275275: Block 217809
+📊 Batch 4 complete: 25 success, 0 failed in 23.2s (1.1 tokens/sec)
+📈 Total progress: 75275 minted, 0 failed, 24725 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 5/993: 25 tokens
+🎯 Range: 275276 to 275300
+  🎨 275276: 0xfee32a9a... (nonce: 275295)
+  🎨 275279: 0x3587057e... (nonce: 275298)
+  🎨 275280: 0x8f7c3f96... (nonce: 275299)
+  🎨 275277: 0x85ae4161... (nonce: 275296)
+  🎨 275278: 0x911f8199... (nonce: 275297)
+  ✅ 275276: Block 217810
+  🎨 275281: 0x3fb36fcf... (nonce: 275300)
+  ✅ 275277: Block 217811
+  ✅ 275279: Block 217811
+  ✅ 275281: Block 217811
+  ✅ 275280: Block 217811
+  ✅ 275278: Block 217811
+  🎨 275282: 0x67bc9a3e... (nonce: 275301)
+  🎨 275283: 0x626dd14c... (nonce: 275302)
+  🎨 275285: 0xd6f2ef92... (nonce: 275304)
+  🎨 275286: 0x1b7459d0... (nonce: 275305)
+  🎨 275284: 0x6607bc1d... (nonce: 275303)
+  ✅ 275283: Block 217812
+  ✅ 275282: Block 217812
+  🎨 275288: 0x0592164f... (nonce: 275307)
+  🎨 275287: 0x98be1d0e... (nonce: 275306)
+  ✅ 275286: Block 217813
+  ✅ 275288: Block 217813
+  ✅ 275284: Block 217813
+  ✅ 275285: Block 217813
+  ✅ 275287: Block 217813
+  🎨 275291: 0x6d4a981a... (nonce: 275310)
+  🎨 275292: 0xd923264f... (nonce: 275311)
+  🎨 275293: 0xc0d9139d... (nonce: 275312)
+  🎨 275289: 0x85a78a72... (nonce: 275308)
+  🎨 275290: 0x730942ed... (nonce: 275309)
+  ✅ 275289: Block 217814
+  🎨 275294: 0xda2edeb4... (nonce: 275313)
+  ✅ 275294: Block 217815
+  🎨 275295: 0xc1c26e06... (nonce: 275314)
+  ✅ 275291: Block 217815
+  ✅ 275290: Block 217815
+  ✅ 275293: Block 217815
+  ✅ 275292: Block 217815
+  ✅ 275295: Block 217816
+  🎨 275296: 0x026f3d82... (nonce: 275315)
+  🎨 275297: 0xde596129... (nonce: 275316)
+  🎨 275298: 0xea857e5d... (nonce: 275317)
+  🎨 275299: 0xb5b525c1... (nonce: 275318)
+  🎨 275300: 0x47a72c69... (nonce: 275319)
+  ✅ 275296: Block 217817
+  ✅ 275297: Block 217817
+  ✅ 275299: Block 217817
+  ✅ 275298: Block 217817
+  ✅ 275300: Block 217818
+📊 Batch 5 complete: 25 success, 0 failed in 22.9s (1.1 tokens/sec)
+📈 Total progress: 75300 minted, 0 failed, 24700 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 275320
+
+📦 Batch 6/993: 25 tokens
+🎯 Range: 275301 to 275325
+  🎨 275301: 0x9e4d8b4d... (nonce: 275320)
+  🎨 275302: 0xe41fd52c... (nonce: 275321)
+  🎨 275303: 0x59423656... (nonce: 275322)
+  🎨 275304: 0x8599de4a... (nonce: 275323)
+  🎨 275305: 0x4d51089e... (nonce: 275324)
+  ✅ 275301: Block 217819
+  🎨 275306: 0x7d625f0a... (nonce: 275325)
+  ✅ 275306: Block 217820
+  ✅ 275302: Block 217820
+  ✅ 275303: Block 217820
+  ✅ 275305: Block 217820
+  ✅ 275304: Block 217820
+  🎨 275307: 0xe6a590e5... (nonce: 275326)
+  🎨 275308: 0x25310d8f... (nonce: 275327)
+  🎨 275309: 0x539797c5... (nonce: 275328)
+  🎨 275311: 0x581fabac... (nonce: 275330)
+  🎨 275310: 0x3bf76bdc... (nonce: 275329)
+  ✅ 275307: Block 217821
+  🎨 275312: 0x682cf2f7... (nonce: 275331)
+  ✅ 275308: Block 217822
+  ✅ 275309: Block 217822
+  ✅ 275311: Block 217822
+  ✅ 275312: Block 217822
+  ✅ 275310: Block 217822
+  🎨 275313: 0x50c34241... (nonce: 275332)
+  🎨 275314: 0x38453f82... (nonce: 275333)
+  🎨 275315: 0x0e9279d8... (nonce: 275334)
+  🎨 275316: 0xd09a79da... (nonce: 275335)
+  🎨 275317: 0x82213659... (nonce: 275336)
+  ✅ 275314: Block 217823
+  ✅ 275315: Block 217823
+  ✅ 275313: Block 217823
+  🎨 275318: 0xce97fd08... (nonce: 275337)
+  🎨 275319: 0x63624c2c... (nonce: 275338)
+  🎨 275320: 0x3fc9f713... (nonce: 275339)
+  ✅ 275320: Block 217824
+  ✅ 275319: Block 217824
+  ✅ 275318: Block 217824
+  ✅ 275316: Block 217824
+  ✅ 275317: Block 217824
+  🎨 275321: 0x3fc93e3e... (nonce: 275340)
+  🎨 275322: 0x367583bb... (nonce: 275341)
+  🎨 275323: 0xc7f38581... (nonce: 275342)
+  🎨 275324: 0xc3a03b71... (nonce: 275343)
+  🎨 275325: 0xfe4ad4bf... (nonce: 275344)
+  ✅ 275322: Block 217825
+  ✅ 275321: Block 217825
+  ❌ 275323: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275324: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275325: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 275345
+🔢 Reset nonce sequence to: 275345
+🔢 Reset nonce sequence to: 275345
+  🔄 275323: Retry 1/8 in 3.5s
+  🔄 275324: Retry 1/8 in 3.3s
+  🔄 275325: Retry 1/8 in 3.9s
+  🎨 275324: 0xb033ea19... (nonce: 275345)
+  ✅ 275324: Block 217827
+  🎨 275323: 0x85fc2e25... (nonce: 275346)
+  🎨 275325: 0x5429d2d7... (nonce: 275347)
+  ✅ 275325: Block 217828
+  ✅ 275323: Block 217828
+📊 Batch 6 complete: 25 success, 0 failed in 283.3s (0.1 tokens/sec)
+📈 Total progress: 75325 minted, 0 failed, 24675 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 7/993: 25 tokens
+🎯 Range: 275326 to 275350
+  🎨 275327: 0xc702a471... (nonce: 275349)
+  🎨 275326: 0xbce689ad... (nonce: 275348)
+  🎨 275328: 0x192831ff... (nonce: 275350)
+  🎨 275329: 0x4d266a3f... (nonce: 275351)
+  🎨 275330: 0x334c1f56... (nonce: 275352)
+  ✅ 275326: Block 217829
+  🎨 275331: 0x628ebb6a... (nonce: 275353)
+  ✅ 275330: Block 217830
+  ✅ 275331: Block 217830
+  ✅ 275327: Block 217830
+  ✅ 275328: Block 217830
+  ✅ 275329: Block 217830
+  🎨 275332: 0xd4dc627e... (nonce: 275354)
+  🎨 275333: 0x269d2112... (nonce: 275355)
+  🎨 275334: 0x96a82afc... (nonce: 275356)
+  🎨 275335: 0x09e68ad5... (nonce: 275357)
+  🎨 275336: 0x7b62a229... (nonce: 275358)
+  ✅ 275332: Block 217831
+  ✅ 275334: Block 217832
+  ✅ 275335: Block 217832
+  ✅ 275333: Block 217832
+  ✅ 275336: Block 217832
+  🎨 275337: 0x5387fbda... (nonce: 275359)
+  🎨 275340: 0x7e34bd13... (nonce: 275362)
+  🎨 275339: 0xa8681945... (nonce: 275361)
+  🎨 275338: 0x3a2c45de... (nonce: 275360)
+  🎨 275341: 0x1d545c28... (nonce: 275363)
+  ✅ 275337: Block 217833
+  ✅ 275340: Block 217833
+  ✅ 275338: Block 217833
+  ✅ 275339: Block 217833
+  🎨 275342: 0x5de4ef09... (nonce: 275364)
+  🎨 275343: 0xb77f4765... (nonce: 275365)
+  🎨 275344: 0x8bbb6219... (nonce: 275366)
+  🎨 275345: 0xfc040c64... (nonce: 275367)
+  ✅ 275343: Block 217834
+  ✅ 275345: Block 217834
+  ✅ 275342: Block 217834
+  ✅ 275341: Block 217834
+  ✅ 275344: Block 217834
+  ❌ 275346: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275347: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275348: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275349: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275350: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 275368
+🔢 Reset nonce sequence to: 275368
+🔢 Reset nonce sequence to: 275368
+🔢 Reset nonce sequence to: 275368
+🔢 Reset nonce sequence to: 275368
+  🔄 275346: Retry 1/8 in 3.8s
+  🔄 275347: Retry 1/8 in 4.0s
+  🔄 275348: Retry 1/8 in 3.9s
+  🔄 275349: Retry 1/8 in 3.3s
+  🔄 275350: Retry 1/8 in 3.9s
+  🎨 275349: 0x46852127... (nonce: 275368)
+  ✅ 275349: Block 217835
+  🎨 275346: 0xc4c70417... (nonce: 275369)
+  🎨 275350: 0x5d281a53... (nonce: 275370)
+  🎨 275348: 0x080f9e72... (nonce: 275371)
+  🎨 275347: 0xe8504710... (nonce: 275372)
+  ❌ 275346: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275350: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275348: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275347: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 275373
+🔢 Reset nonce sequence to: 275373
+🔢 Reset nonce sequence to: 275373
+🔢 Reset nonce sequence to: 275373
+  🔄 275346: Retry 2/8 in 6.1s
+  🔄 275350: Retry 2/8 in 6.4s
+  🔄 275348: Retry 2/8 in 6.6s
+  🔄 275347: Retry 2/8 in 6.8s
+  🎨 275346: 0x8a0525d9... (nonce: 275373)
+  ✅ 275346: Block 217837
+  🎨 275350: 0x9bd0e60a... (nonce: 275374)
+  🎨 275348: 0x9ce4a916... (nonce: 275375)
+  🎨 275347: 0x5d7c27b2... (nonce: 275376)
+  ❌ 275350: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275348: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275347: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 275377
+🔢 Reset nonce sequence to: 275377
+🔢 Reset nonce sequence to: 275377
+  🔄 275350: Retry 3/8 in 12.2s
+  🔄 275348: Retry 3/8 in 12.0s
+  🔄 275347: Retry 3/8 in 12.8s
+  🎨 275348: 0x16661683... (nonce: 275377)
+  🎨 275350: 0xd4b80ad2... (nonce: 275378)
+  🎨 275347: 0x43e85e48... (nonce: 275379)
+  ✅ 275348: Block 217839
+  ✅ 275350: Block 217839
+  ✅ 275347: Block 217840
+📊 Batch 7 complete: 25 success, 0 failed in 948.1s (0.0 tokens/sec)
+📈 Total progress: 75350 minted, 0 failed, 24650 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 8/993: 25 tokens
+🎯 Range: 275351 to 275375
+  🎨 275351: 0xf075a01a... (nonce: 275380)
+  🎨 275352: 0x37a4e839... (nonce: 275381)
+  🎨 275354: 0x9dbd2bfe... (nonce: 275383)
+  🎨 275355: 0xb1be4923... (nonce: 275384)
+  🎨 275353: 0x249b5a60... (nonce: 275382)
+  ✅ 275352: Block 217841
+  ✅ 275351: Block 217841
+  ❌ 275353: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275354: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275355: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275356: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275357: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 275387
+🔢 Reset nonce sequence to: 275387
+🔢 Reset nonce sequence to: 275387
+🔢 Reset nonce sequence to: 275387
+🔢 Reset nonce sequence to: 275387
+  🔄 275353: Retry 1/8 in 3.7s
+  🔄 275354: Retry 1/8 in 3.0s
+  🔄 275355: Retry 1/8 in 3.5s
+  🔄 275356: Retry 1/8 in 3.9s
+  🔄 275357: Retry 1/8 in 3.9s
+  🎨 275354: 0x889e14bd... (nonce: 275387)
+  🎨 275355: 0xd82cf822... (nonce: 275388)
+  🎨 275353: 0x85250609... (nonce: 275389)
+  🎨 275357: 0x61b21356... (nonce: 275390)
+  🎨 275356: 0x45c8c879... (nonce: 275391)
+  ✅ 275354: Block 217844
+  ✅ 275355: Block 217845
+  ✅ 275356: Block 217845
+  ✅ 275357: Block 217845
+  ✅ 275353: Block 217845
+  🎨 275358: 0x77189b59... (nonce: 275392)
+  🎨 275359: 0x58ee83b4... (nonce: 275393)
+  🎨 275360: 0xc400f759... (nonce: 275394)
+  🎨 275361: 0x10bf7ebb... (nonce: 275395)
+  🎨 275362: 0xc33e02b7... (nonce: 275396)
+  ✅ 275358: Block 217846
+  🎨 275363: 0x421e3733... (nonce: 275397)
+  ✅ 275361: Block 217847
+  ✅ 275360: Block 217847
+  ✅ 275359: Block 217847
+  ✅ 275362: Block 217847
+  🎨 275365: 0xd6077606... (nonce: 275399)
+  🎨 275366: 0x2d955627... (nonce: 275400)
+  🎨 275364: 0x65e7df29... (nonce: 275398)
+  🎨 275367: 0x695b9e10... (nonce: 275401)
+  ✅ 275363: Block 217848
+  ✅ 275365: Block 217849
+  ✅ 275366: Block 217849
+  ✅ 275367: Block 217850
+  ✅ 275364: Block 217849
+  🎨 275368: 0x0d2828a0... (nonce: 275402)
+  🎨 275371: 0x79d983d4... (nonce: 275405)
+  🎨 275370: 0xe778318f... (nonce: 275404)
+  🎨 275369: 0x8212f100... (nonce: 275403)
+  🎨 275372: 0x3d02f039... (nonce: 275406)
+  ✅ 275368: Block 217851
+  🎨 275373: 0x99f5f338... (nonce: 275407)
+  ✅ 275373: Block 217852
+  🎨 275374: 0x096e1f8b... (nonce: 275408)
+  ✅ 275374: Block 217853
+  ✅ 275372: Block 217852
+  ✅ 275371: Block 217852
+  ✅ 275369: Block 217852
+  ✅ 275370: Block 217852
+  🎨 275375: 0x1884b94c... (nonce: 275409)
+  ✅ 275375: Block 217854
+📊 Batch 8 complete: 25 success, 0 failed in 207.7s (0.1 tokens/sec)
+📈 Total progress: 75375 minted, 0 failed, 24625 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 9/993: 25 tokens
+🎯 Range: 275376 to 275400
+  🎨 275376: 0xa07e47b4... (nonce: 275410)
+  🎨 275378: 0x7da4fc52... (nonce: 275412)
+  🎨 275380: 0x626cfe82... (nonce: 275414)
+  🎨 275377: 0x20baeceb... (nonce: 275411)
+  🎨 275379: 0x064d196d... (nonce: 275413)
+  ✅ 275376: Block 217855
+  🎨 275381: 0x3d3d8b9d... (nonce: 275415)
+  ✅ 275379: Block 217856
+  ✅ 275381: Block 217856
+  ✅ 275378: Block 217856
+  ✅ 275380: Block 217856
+  ✅ 275377: Block 217856
+  🎨 275382: 0x5fd36bc3... (nonce: 275416)
+  🎨 275383: 0x3b196545... (nonce: 275417)
+  🎨 275384: 0x4069ea4d... (nonce: 275418)
+  🎨 275385: 0xe60131c0... (nonce: 275419)
+  🎨 275386: 0xbad8238c... (nonce: 275420)
+  ✅ 275382: Block 217857
+  ✅ 275386: Block 217857
+  ✅ 275383: Block 217857
+  🎨 275387: 0x0baaad30... (nonce: 275421)
+  🎨 275388: 0x84c99f42... (nonce: 275422)
+  🎨 275389: 0x5fc38e65... (nonce: 275423)
+  ✅ 275389: Block 217858
+  ✅ 275388: Block 217858
+  ✅ 275385: Block 217857
+  ✅ 275387: Block 217858
+  ✅ 275384: Block 217857
+  🎨 275391: 0x7d837674... (nonce: 275425)
+  🎨 275393: 0xfa48fd79... (nonce: 275427)
+  🎨 275394: 0xfe997e66... (nonce: 275428)
+  🎨 275390: 0x3bbd1a97... (nonce: 275424)
+  🎨 275392: 0xd63747d0... (nonce: 275426)
+  ✅ 275390: Block 217859
+  🎨 275395: 0xad6edeb8... (nonce: 275429)
+  ✅ 275393: Block 217860
+  ✅ 275391: Block 217859
+  ✅ 275395: Block 217860
+  ✅ 275392: Block 217860
+  ✅ 275394: Block 217860
+  🎨 275397: 0x00a51760... (nonce: 275431)
+  🎨 275398: 0xde5bdca8... (nonce: 275432)
+  🎨 275399: 0xdac455b7... (nonce: 275433)
+  🎨 275396: 0x493195ca... (nonce: 275430)
+  🎨 275400: 0xc556f837... (nonce: 275434)
+  ✅ 275397: Block 217861
+  ✅ 275396: Block 217861
+  🎨 275356: 0x4212eddf... (nonce: 275385)
+  🎨 275357: 0xf18447f6... (nonce: 275386)
+  ✅ 275400: Block 217862
+  ✅ 275399: Block 217862
+  ✅ 275398: Block 217862
+📊 Batch 9 complete: 25 success, 0 failed in 22.5s (1.1 tokens/sec)
+📈 Total progress: 75400 minted, 0 failed, 24600 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 10/993: 25 tokens
+🎯 Range: 275401 to 275425
+  🎨 275403: 0xe98e7e16... (nonce: 275437)
+  🎨 275402: 0x0e438367... (nonce: 275436)
+  🎨 275405: 0xd26ab215... (nonce: 275439)
+  🎨 275401: 0x1d374585... (nonce: 275435)
+  🎨 275404: 0x89ce853a... (nonce: 275438)
+  ✅ 275404: Block 217863
+  ✅ 275401: Block 217863
+  🎨 275406: 0x57dde70f... (nonce: 275440)
+  🎨 275407: 0x49731db4... (nonce: 275441)
+  ✅ 275403: Block 217863
+  ✅ 275402: Block 217863
+  ✅ 275406: Block 217864
+  ✅ 275407: Block 217864
+  ✅ 275405: Block 217863
+  🎨 275408: 0xdcc2ee1a... (nonce: 275442)
+  🎨 275409: 0xa102ae74... (nonce: 275443)
+  🎨 275410: 0xb9c1f24e... (nonce: 275444)
+  🎨 275411: 0x6255e0c8... (nonce: 275445)
+  🎨 275412: 0xa71d5359... (nonce: 275446)
+  ✅ 275409: Block 217865
+  ✅ 275411: Block 217865
+  ✅ 275410: Block 217865
+  ✅ 275408: Block 217865
+  🎨 275413: 0x2a58b1f7... (nonce: 275447)
+  🎨 275414: 0x69a05e76... (nonce: 275448)
+  🎨 275416: 0xeff34f2b... (nonce: 275450)
+  🎨 275415: 0x57c8c68c... (nonce: 275449)
+  ✅ 275413: Block 217866
+  ✅ 275412: Block 217866
+  ✅ 275414: Block 217866
+  ✅ 275416: Block 217866
+  ✅ 275415: Block 217866
+  🎨 275417: 0x015cda11... (nonce: 275451)
+  🎨 275418: 0x5cbbd4a2... (nonce: 275452)
+  🎨 275420: 0xc6106381... (nonce: 275454)
+  🎨 275421: 0x26d9bf6d... (nonce: 275455)
+  🎨 275419: 0x9709d694... (nonce: 275453)
+  ✅ 275418: Block 217867
+  ✅ 275417: Block 217867
+  🎨 275422: 0x9eba027f... (nonce: 275456)
+  🎨 275423: 0xdcba74c2... (nonce: 275457)
+  ✅ 275422: Block 217868
+  ✅ 275420: Block 217868
+  ✅ 275421: Block 217868
+  ✅ 275423: Block 217868
+  ✅ 275419: Block 217868
+  🎨 275424: 0x813fdf26... (nonce: 275458)
+  🎨 275425: 0xfb9ba33f... (nonce: 275459)
+  ✅ 275424: Block 217869
+  ✅ 275425: Block 217870
+📊 Batch 10 complete: 25 success, 0 failed in 22.7s (1.1 tokens/sec)
+📈 Total progress: 75425 minted, 0 failed, 24575 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 275460
+
+📦 Batch 11/993: 25 tokens
+🎯 Range: 275426 to 275450
+  🎨 275426: 0x133c6123... (nonce: 275460)
+  🎨 275427: 0x9c223750... (nonce: 275461)
+  🎨 275428: 0x163c02d7... (nonce: 275462)
+  🎨 275430: 0x13385191... (nonce: 275464)
+  🎨 275429: 0x6b23770b... (nonce: 275463)
+  ✅ 275427: Block 217871
+  ✅ 275426: Block 217871
+  🎨 275431: 0xaf70b97a... (nonce: 275465)
+  🎨 275432: 0x7a83284d... (nonce: 275466)
+  ✅ 275431: Block 217872
+  ✅ 275428: Block 217872
+  ✅ 275432: Block 217872
+  ✅ 275429: Block 217872
+  ✅ 275430: Block 217872
+  🎨 275433: 0xf692f915... (nonce: 275467)
+  🎨 275434: 0x3b573c37... (nonce: 275468)
+  🎨 275435: 0x38e57e85... (nonce: 275469)
+  🎨 275436: 0xa989a7f9... (nonce: 275470)
+  🎨 275437: 0xd3344f5e... (nonce: 275471)
+  ✅ 275433: Block 217873
+  ✅ 275434: Block 217873
+  🎨 275438: 0x9a661314... (nonce: 275472)
+  🎨 275439: 0x07efc357... (nonce: 275473)
+  ✅ 275436: Block 217874
+  ✅ 275439: Block 217874
+  ✅ 275435: Block 217874
+  ✅ 275438: Block 217874
+  ✅ 275437: Block 217874
+  🎨 275440: 0xb773a953... (nonce: 275474)
+  🎨 275443: 0x3bc2fd6b... (nonce: 275477)
+  🎨 275444: 0x366f0e76... (nonce: 275478)
+  🎨 275442: 0x2e08d314... (nonce: 275476)
+  🎨 275441: 0x633506ae... (nonce: 275475)
+  ✅ 275440: Block 217875
+  🎨 275445: 0x7674fb57... (nonce: 275479)
+  ✅ 275441: Block 217876
+  ✅ 275445: Block 217876
+  ✅ 275443: Block 217876
+  ✅ 275442: Block 217876
+  ✅ 275444: Block 217876
+  🎨 275446: 0x02e1374d... (nonce: 275480)
+  🎨 275447: 0x0397fdaf... (nonce: 275481)
+  🎨 275448: 0x37b4fa36... (nonce: 275482)
+  🎨 275449: 0xa464040e... (nonce: 275483)
+  🎨 275450: 0xf1109839... (nonce: 275484)
+  ✅ 275446: Block 217877
+  ✅ 275450: Block 217877
+  ✅ 275448: Block 217877
+  ✅ 275449: Block 217877
+  ✅ 275447: Block 217877
+📊 Batch 11 complete: 25 success, 0 failed in 21.7s (1.2 tokens/sec)
+📈 Total progress: 75450 minted, 0 failed, 24550 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 12/993: 25 tokens
+🎯 Range: 275451 to 275475
+  🎨 275452: 0x15e0be47... (nonce: 275486)
+  🎨 275454: 0x2a0dda3b... (nonce: 275488)
+  🎨 275451: 0x74baee8e... (nonce: 275485)
+  🎨 275455: 0x39f028bf... (nonce: 275489)
+  🎨 275453: 0x38f1c990... (nonce: 275487)
+  ✅ 275451: Block 217878
+  🎨 275456: 0xc02aba8c... (nonce: 275490)
+  ✅ 275456: Block 217879
+  ✅ 275453: Block 217879
+  ✅ 275452: Block 217878
+  ✅ 275454: Block 217879
+  ✅ 275455: Block 217879
+  🎨 275458: 0xee19d3bf... (nonce: 275492)
+  🎨 275460: 0x9d4f8fb6... (nonce: 275494)
+  🎨 275457: 0xc7b2a746... (nonce: 275491)
+  🎨 275459: 0x5709ff4c... (nonce: 275493)
+  🎨 275461: 0x0c283fa6... (nonce: 275495)
+  ✅ 275458: Block 217880
+  ✅ 275459: Block 217880
+  ✅ 275461: Block 217881
+  ✅ 275457: Block 217880
+  ✅ 275460: Block 217880
+  🎨 275463: 0xcf90ec17... (nonce: 275497)
+  🎨 275464: 0x3a30ac88... (nonce: 275498)
+  🎨 275465: 0x1639854b... (nonce: 275499)
+  🎨 275466: 0xc2ff76ef... (nonce: 275500)
+  🎨 275462: 0x455a2786... (nonce: 275496)
+  ✅ 275462: Block 217882
+  🎨 275467: 0xafa9f178... (nonce: 275501)
+  ✅ 275463: Block 217882
+  ✅ 275465: Block 217882
+  ✅ 275467: Block 217883
+  ✅ 275464: Block 217882
+  ✅ 275466: Block 217882
+  🎨 275468: 0x9ea30a39... (nonce: 275502)
+  🎨 275469: 0x81d90ee8... (nonce: 275503)
+  🎨 275471: 0x255f2df1... (nonce: 275505)
+  🎨 275472: 0x73f0b358... (nonce: 275506)
+  🎨 275470: 0x80836496... (nonce: 275504)
+  ✅ 275472: Block 217884
+  ✅ 275469: Block 217884
+  ✅ 275471: Block 217884
+  ✅ 275468: Block 217884
+  ✅ 275470: Block 217884
+  🎨 275473: 0x9a6f136d... (nonce: 275507)
+  🎨 275474: 0x58e66f45... (nonce: 275508)
+  🎨 275475: 0xace333a1... (nonce: 275509)
+  ✅ 275474: Block 217885
+  ✅ 275475: Block 217885
+  ✅ 275473: Block 217885
+📊 Batch 12 complete: 25 success, 0 failed in 22.6s (1.1 tokens/sec)
+📈 Total progress: 75475 minted, 0 failed, 24525 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 13/993: 25 tokens
+🎯 Range: 275476 to 275500
+  🎨 275476: 0x36ec58b4... (nonce: 275510)
+  🎨 275477: 0xaf928dff... (nonce: 275511)
+  🎨 275480: 0x5faba4e0... (nonce: 275514)
+  🎨 275479: 0xf4585696... (nonce: 275513)
+  🎨 275478: 0x231a742c... (nonce: 275512)
+  ✅ 275476: Block 217886
+  ✅ 275477: Block 217886
+  🎨 275482: 0xbdf7857e... (nonce: 275516)
+  🎨 275481: 0x0abe5e4b... (nonce: 275515)
+  ✅ 275479: Block 217887
+  ✅ 275482: Block 217887
+  ✅ 275480: Block 217887
+  ✅ 275478: Block 217887
+  ✅ 275481: Block 217887
+  🎨 275483: 0x3f846610... (nonce: 275517)
+  🎨 275484: 0x02a16adb... (nonce: 275518)
+  🎨 275485: 0x02c1b75d... (nonce: 275519)
+  🎨 275486: 0x34591a55... (nonce: 275520)
+  🎨 275487: 0x32c5b788... (nonce: 275521)
+  ✅ 275487: Block 217888
+  ✅ 275484: Block 217888
+  ✅ 275486: Block 217888
+  ✅ 275485: Block 217888
+  ✅ 275483: Block 217888
+  🎨 275488: 0xb621c849... (nonce: 275522)
+  🎨 275489: 0x6864ab39... (nonce: 275523)
+  🎨 275491: 0x68d5cf61... (nonce: 275525)
+  🎨 275492: 0xb8a6464f... (nonce: 275526)
+  🎨 275490: 0xcd1237fd... (nonce: 275524)
+  ✅ 275488: Block 217889
+  ✅ 275492: Block 217889
+  ✅ 275491: Block 217889
+  ✅ 275490: Block 217889
+  ✅ 275489: Block 217889
+  🎨 275493: 0x29f9fbd2... (nonce: 275527)
+  🎨 275494: 0x47f1dad6... (nonce: 275528)
+  🎨 275495: 0x8e2faa1d... (nonce: 275529)
+  🎨 275496: 0xc3a31fe6... (nonce: 275530)
+  🎨 275497: 0xd0dcf70d... (nonce: 275531)
+  ✅ 275493: Block 217890
+  ✅ 275496: Block 217890
+  ✅ 275495: Block 217890
+  ✅ 275494: Block 217890
+  ✅ 275497: Block 217890
+  🎨 275498: 0x5a9e86eb... (nonce: 275532)
+  🎨 275499: 0xe8285679... (nonce: 275533)
+  🎨 275500: 0xced277ed... (nonce: 275534)
+  ✅ 275499: Block 217891
+  ✅ 275498: Block 217891
+  ✅ 275500: Block 217891
+📊 Batch 13 complete: 25 success, 0 failed in 18.6s (1.3 tokens/sec)
+📈 Total progress: 75500 minted, 0 failed, 24500 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 14/993: 25 tokens
+🎯 Range: 275501 to 275525
+  🎨 275501: 0x9a6e3c0d... (nonce: 275535)
+  🎨 275502: 0x08aa1e05... (nonce: 275536)
+  🎨 275503: 0x31bc2c82... (nonce: 275537)
+  🎨 275504: 0xefe090a3... (nonce: 275538)
+  🎨 275505: 0x15820adc... (nonce: 275539)
+  ✅ 275501: Block 217892
+  🎨 275506: 0xa3a30d40... (nonce: 275540)
+  ✅ 275506: Block 217893
+  ✅ 275504: Block 217893
+  ✅ 275505: Block 217893
+  ✅ 275502: Block 217893
+  ✅ 275503: Block 217893
+  🎨 275509: 0xc442fc69... (nonce: 275543)
+  🎨 275510: 0x47987e1f... (nonce: 275544)
+  🎨 275511: 0x5007aaca... (nonce: 275545)
+  🎨 275507: 0xae1370f3... (nonce: 275541)
+  🎨 275508: 0xde4c3a8f... (nonce: 275542)
+  ✅ 275510: Block 217894
+  ✅ 275509: Block 217894
+  ✅ 275508: Block 217894
+  ✅ 275511: Block 217894
+  ✅ 275507: Block 217894
+  🎨 275512: 0x55318437... (nonce: 275546)
+  ✅ 275512: Block 217895
+  🎨 275514: 0xb6b4cb9f... (nonce: 275548)
+  🎨 275515: 0x583c1d24... (nonce: 275549)
+  🎨 275516: 0xd15c4ccd... (nonce: 275550)
+  🎨 275513: 0xf513267b... (nonce: 275547)
+  🎨 275517: 0x79a58cb9... (nonce: 275551)
+  ✅ 275514: Block 217896
+  ✅ 275513: Block 217896
+  ✅ 275516: Block 217896
+  ✅ 275515: Block 217896
+  ✅ 275517: Block 217896
+  🎨 275521: 0xfd11127f... (nonce: 275555)
+  🎨 275522: 0xb08f86ae... (nonce: 275556)
+  🎨 275518: 0x17aebce9... (nonce: 275552)
+  🎨 275519: 0xb66fbc19... (nonce: 275553)
+  🎨 275520: 0x57722164... (nonce: 275554)
+  ✅ 275518: Block 217897
+  ✅ 275519: Block 217897
+  🎨 275523: 0x3bbb10fb... (nonce: 275557)
+  🎨 275524: 0xfe516fd3... (nonce: 275558)
+  ✅ 275523: Block 217898
+  ✅ 275520: Block 217898
+  ✅ 275521: Block 217898
+  ✅ 275522: Block 217898
+  ✅ 275524: Block 217898
+  🎨 275525: 0xae603ad6... (nonce: 275559)
+  ✅ 275525: Block 217899
+📊 Batch 14 complete: 25 success, 0 failed in 35.9s (0.7 tokens/sec)
+📈 Total progress: 75525 minted, 0 failed, 24475 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 15/993: 25 tokens
+🎯 Range: 275526 to 275550
+  🎨 275526: 0x61cb55dc... (nonce: 275560)
+  🎨 275527: 0x7cb51f5e... (nonce: 275561)
+  🎨 275528: 0x041de5e8... (nonce: 275562)
+  🎨 275529: 0xbf0359e4... (nonce: 275563)
+  🎨 275530: 0xb4e57aa9... (nonce: 275564)
+  ✅ 275528: Block 217900
+  ✅ 275526: Block 217900
+  ✅ 275529: Block 217900
+  ✅ 275527: Block 217900
+  ✅ 275530: Block 217900
+  🎨 275531: 0xad658d5f... (nonce: 275565)
+  🎨 275532: 0x3f0d6a8e... (nonce: 275566)
+  🎨 275534: 0x3d4554e5... (nonce: 275568)
+  🎨 275535: 0xed1d6800... (nonce: 275569)
+  🎨 275533: 0x7a69bb49... (nonce: 275567)
+  ✅ 275535: Block 217901
+  ✅ 275531: Block 217901
+  ✅ 275533: Block 217901
+  ✅ 275532: Block 217901
+  ✅ 275534: Block 217901
+  🎨 275536: 0x38d51681... (nonce: 275570)
+  🎨 275538: 0xff61f6da... (nonce: 275572)
+  🎨 275539: 0x462a75b8... (nonce: 275573)
+  🎨 275537: 0x506c2cbb... (nonce: 275571)
+  🎨 275540: 0xdc6fd16d... (nonce: 275574)
+  ✅ 275536: Block 217902
+  ✅ 275537: Block 217903
+  ✅ 275539: Block 217903
+  ✅ 275538: Block 217903
+  ✅ 275540: Block 217903
+  🎨 275542: 0x9ff06950... (nonce: 275576)
+  🎨 275544: 0xf1bbfca4... (nonce: 275578)
+  🎨 275545: 0xff5d701f... (nonce: 275579)
+  🎨 275541: 0xe121d0d7... (nonce: 275575)
+  🎨 275543: 0x5ac6a907... (nonce: 275577)
+  ✅ 275542: Block 217904
+  🎨 275546: 0x816dbd90... (nonce: 275580)
+  ✅ 275544: Block 217905
+  ✅ 275546: Block 217905
+  ✅ 275543: Block 217905
+  ✅ 275545: Block 217905
+  ✅ 275541: Block 217904
+  🎨 275549: 0xcde77227... (nonce: 275583)
+  🎨 275548: 0x3a5c2afc... (nonce: 275582)
+  🎨 275550: 0x3335d347... (nonce: 275584)
+  🎨 275547: 0xa4b7008a... (nonce: 275581)
+  ✅ 275549: Block 217906
+  ✅ 275547: Block 217906
+  ✅ 275548: Block 217906
+  ✅ 275550: Block 217906
+📊 Batch 15 complete: 25 success, 0 failed in 23.5s (1.1 tokens/sec)
+📈 Total progress: 75550 minted, 0 failed, 24450 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 275585
+
+📦 Batch 16/993: 25 tokens
+🎯 Range: 275551 to 275575
+  🎨 275551: 0x76785c00... (nonce: 275585)
+  🎨 275553: 0xb4585319... (nonce: 275587)
+  🎨 275552: 0x104cac11... (nonce: 275586)
+  🎨 275554: 0x73a37903... (nonce: 275588)
+  🎨 275555: 0x9cca9dd2... (nonce: 275589)
+  ✅ 275551: Block 217907
+  🎨 275556: 0x28fa1a59... (nonce: 275590)
+  ✅ 275553: Block 217908
+  ✅ 275552: Block 217908
+  ✅ 275556: Block 217908
+  ✅ 275555: Block 217908
+  ✅ 275554: Block 217908
+  🎨 275557: 0x287e3009... (nonce: 275591)
+  🎨 275558: 0xdf45da0a... (nonce: 275592)
+  🎨 275560: 0x41c5bc0c... (nonce: 275594)
+  🎨 275561: 0x3b0a6f64... (nonce: 275595)
+  🎨 275559: 0x093ca7c1... (nonce: 275593)
+  ✅ 275558: Block 217909
+  ✅ 275557: Block 217909
+  🎨 275562: 0x78a1200c... (nonce: 275596)
+  🎨 275563: 0x9dd868f0... (nonce: 275597)
+  ✅ 275561: Block 217910
+  ✅ 275559: Block 217910
+  ✅ 275563: Block 217910
+  ✅ 275562: Block 217910
+  ✅ 275560: Block 217910
+  🎨 275564: 0x7f03efa0... (nonce: 275598)
+  🎨 275565: 0xa76656f8... (nonce: 275599)
+  🎨 275567: 0xec172d90... (nonce: 275601)
+  🎨 275568: 0xa747190a... (nonce: 275602)
+  🎨 275566: 0x5f935a4d... (nonce: 275600)
+  ✅ 275564: Block 217911
+  🎨 275569: 0x8f858923... (nonce: 275603)
+  ✅ 275568: Block 217912
+  ✅ 275569: Block 217912
+  ✅ 275567: Block 217912
+  ✅ 275566: Block 217912
+  ✅ 275565: Block 217912
+  🎨 275570: 0xdc186b60... (nonce: 275604)
+  🎨 275573: 0x1133b634... (nonce: 275607)
+  🎨 275571: 0x93331f13... (nonce: 275605)
+  🎨 275574: 0xf78e1d52... (nonce: 275608)
+  🎨 275572: 0x25a1282b... (nonce: 275606)
+  ✅ 275571: Block 217913
+  ✅ 275570: Block 217913
+  🎨 275575: 0xd9fa4e3e... (nonce: 275609)
+  ✅ 275572: Block 217914
+  ✅ 275575: Block 217914
+  ✅ 275574: Block 217914
+  ✅ 275573: Block 217914
+📊 Batch 16 complete: 25 success, 0 failed in 22.3s (1.1 tokens/sec)
+📈 Total progress: 75575 minted, 0 failed, 24425 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 17/993: 25 tokens
+🎯 Range: 275576 to 275600
+  🎨 275576: 0x079e2628... (nonce: 275610)
+  🎨 275577: 0xacb16162... (nonce: 275611)
+  🎨 275578: 0x2557e721... (nonce: 275612)
+  🎨 275579: 0xf1bc0256... (nonce: 275613)
+  🎨 275580: 0xa6925a7e... (nonce: 275614)
+  ✅ 275576: Block 217915
+  🎨 275581: 0x1401a19b... (nonce: 275615)
+  ✅ 275581: Block 217916
+  🎨 275582: 0x6c5df98a... (nonce: 275616)
+  ✅ 275578: Block 217916
+  ✅ 275580: Block 217916
+  ✅ 275582: Block 217917
+  ✅ 275579: Block 217916
+  ✅ 275577: Block 217916
+  🎨 275583: 0x185b0c68... (nonce: 275617)
+  🎨 275584: 0x8cc9f5c7... (nonce: 275618)
+  🎨 275585: 0x0d980227... (nonce: 275619)
+  🎨 275586: 0xe95a09e5... (nonce: 275620)
+  🎨 275587: 0xd4dd9d49... (nonce: 275621)
+  ✅ 275585: Block 217918
+  ✅ 275584: Block 217918
+  ✅ 275586: Block 217918
+  ✅ 275583: Block 217918
+  🎨 275590: 0xe3d12ccd... (nonce: 275624)
+  🎨 275589: 0x95d60aae... (nonce: 275623)
+  🎨 275588: 0xb1d61603... (nonce: 275622)
+  🎨 275591: 0x2ae2c48f... (nonce: 275625)
+  ✅ 275587: Block 217919
+  ✅ 275589: Block 217919
+  ✅ 275588: Block 217919
+  ✅ 275591: Block 217919
+  ✅ 275590: Block 217919
+  🎨 275595: 0x18be99d5... (nonce: 275629)
+  🎨 275594: 0xe5ba2e94... (nonce: 275628)
+  🎨 275593: 0x9f55d656... (nonce: 275627)
+  🎨 275592: 0xc2b00353... (nonce: 275626)
+  🎨 275596: 0x73a65bf3... (nonce: 275630)
+  ✅ 275592: Block 217920
+  ✅ 275596: Block 217920
+  🎨 275597: 0xef9d435b... (nonce: 275631)
+  🎨 275598: 0x24247748... (nonce: 275632)
+  ✅ 275594: Block 217920
+  ✅ 275595: Block 217920
+  ✅ 275593: Block 217920
+  🎨 275599: 0x486d3e50... (nonce: 275633)
+  🎨 275600: 0x3d1ef658... (nonce: 275634)
+  ✅ 275600: Block 217922
+  ✅ 275599: Block 217922
+  ✅ 275598: Block 217921
+  ✅ 275597: Block 217921
+📊 Batch 17 complete: 25 success, 0 failed in 21.3s (1.2 tokens/sec)
+📈 Total progress: 75600 minted, 0 failed, 24400 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 18/993: 25 tokens
+🎯 Range: 275601 to 275625
+  🎨 275601: 0x373e554c... (nonce: 275635)
+  🎨 275602: 0x5e2e2b75... (nonce: 275636)
+  🎨 275604: 0x50253891... (nonce: 275638)
+  🎨 275605: 0x1ab880cb... (nonce: 275639)
+  🎨 275603: 0x1f389183... (nonce: 275637)
+  ✅ 275601: Block 217923
+  ✅ 275602: Block 217923
+  🎨 275606: 0x046bff83... (nonce: 275640)
+  🎨 275607: 0xf347b6d8... (nonce: 275641)
+  ✅ 275603: Block 217924
+  ✅ 275607: Block 217924
+  ✅ 275604: Block 217924
+  ✅ 275605: Block 217924
+  ✅ 275606: Block 217924
+  🎨 275608: 0x32e057fe... (nonce: 275642)
+  🎨 275609: 0xf36f18d7... (nonce: 275643)
+  🎨 275610: 0x2762c504... (nonce: 275644)
+  🎨 275611: 0xcce2eb7a... (nonce: 275645)
+  🎨 275612: 0xee8f1bf1... (nonce: 275646)
+  ✅ 275608: Block 217925
+  🎨 275613: 0x5027c930... (nonce: 275647)
+  ✅ 275612: Block 217926
+  ✅ 275611: Block 217926
+  ✅ 275613: Block 217926
+  ✅ 275610: Block 217926
+  ✅ 275609: Block 217926
+  🎨 275614: 0x8685214d... (nonce: 275648)
+  🎨 275616: 0xfdddb204... (nonce: 275650)
+  🎨 275617: 0x73ebeda0... (nonce: 275651)
+  🎨 275615: 0x3d1f09a3... (nonce: 275649)
+  🎨 275618: 0xe90b05b0... (nonce: 275652)
+  ✅ 275614: Block 217927
+  🎨 275619: 0x8a1dd6ff... (nonce: 275653)
+  ✅ 275617: Block 217928
+  ✅ 275616: Block 217928
+  ✅ 275615: Block 217928
+  ✅ 275619: Block 217928
+  ✅ 275618: Block 217928
+  🎨 275620: 0x8f574c9a... (nonce: 275654)
+  🎨 275621: 0x457ac1d7... (nonce: 275655)
+  🎨 275622: 0x3450cfaa... (nonce: 275656)
+  🎨 275623: 0xc615c4ec... (nonce: 275657)
+  🎨 275624: 0x74717365... (nonce: 275658)
+  ✅ 275621: Block 217929
+  ✅ 275622: Block 217929
+  ✅ 275620: Block 217929
+  ✅ 275623: Block 217929
+  🎨 275625: 0x07698d6a... (nonce: 275659)
+  ✅ 275624: Block 217930
+  ✅ 275625: Block 217930
+📊 Batch 18 complete: 25 success, 0 failed in 21.1s (1.2 tokens/sec)
+📈 Total progress: 75625 minted, 0 failed, 24375 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 19/993: 25 tokens
+🎯 Range: 275626 to 275650
+  🎨 275626: 0x14a3d0bc... (nonce: 275660)
+  🎨 275627: 0x296e034a... (nonce: 275661)
+  🎨 275629: 0x7dacc4ef... (nonce: 275663)
+  🎨 275630: 0x0cb458de... (nonce: 275664)
+  🎨 275628: 0xb07b3397... (nonce: 275662)
+  ✅ 275627: Block 217931
+  ✅ 275626: Block 217931
+  🎨 275632: 0xf2598b64... (nonce: 275666)
+  🎨 275631: 0x872c3cd2... (nonce: 275665)
+  ✅ 275632: Block 217932
+  ✅ 275631: Block 217932
+  ✅ 275629: Block 217932
+  ✅ 275628: Block 217932
+  ✅ 275630: Block 217932
+  🎨 275633: 0xe05369f8... (nonce: 275667)
+  🎨 275634: 0xf1eb84f5... (nonce: 275668)
+  🎨 275635: 0xf578f1d1... (nonce: 275669)
+  🎨 275636: 0xe882d571... (nonce: 275670)
+  🎨 275637: 0xfdf865f3... (nonce: 275671)
+  ✅ 275634: Block 217933
+  ✅ 275633: Block 217933
+  ✅ 275635: Block 217933
+  ✅ 275636: Block 217933
+  🎨 275639: 0xef7c5d81... (nonce: 275673)
+  🎨 275641: 0x00e25ac7... (nonce: 275675)
+  🎨 275640: 0xd1119dc7... (nonce: 275674)
+  🎨 275638: 0x77305ee4... (nonce: 275672)
+  ✅ 275637: Block 217934
+  ✅ 275641: Block 217934
+  ✅ 275639: Block 217934
+  ✅ 275640: Block 217934
+  ✅ 275638: Block 217934
+  🎨 275642: 0xd7fcf151... (nonce: 275676)
+  🎨 275644: 0x3946403f... (nonce: 275678)
+  🎨 275646: 0x08168ad1... (nonce: 275680)
+  🎨 275645: 0xaa3cd61b... (nonce: 275679)
+  🎨 275643: 0x5a0a96fe... (nonce: 275677)
+  ✅ 275642: Block 217935
+  🎨 275647: 0x47ecf509... (nonce: 275681)
+  ✅ 275644: Block 217936
+  ✅ 275647: Block 217936
+  ✅ 275646: Block 217936
+  ✅ 275643: Block 217936
+  ✅ 275645: Block 217936
+  🎨 275650: 0xb69a0137... (nonce: 275684)
+  🎨 275648: 0x73459709... (nonce: 275682)
+  🎨 275649: 0x312cbaf0... (nonce: 275683)
+  ✅ 275648: Block 217937
+  ✅ 275650: Block 217938
+  ✅ 275649: Block 217938
+📊 Batch 19 complete: 25 success, 0 failed in 25.1s (1.0 tokens/sec)
+📈 Total progress: 75650 minted, 0 failed, 24350 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 20/993: 25 tokens
+🎯 Range: 275651 to 275675
+  🎨 275651: 0x4adfa203... (nonce: 275685)
+  🎨 275652: 0x103a3b60... (nonce: 275686)
+  🎨 275655: 0xc79d4944... (nonce: 275689)
+  🎨 275653: 0xfab50346... (nonce: 275687)
+  🎨 275654: 0x297a6195... (nonce: 275688)
+  ✅ 275651: Block 217939
+  🎨 275656: 0xdd379be5... (nonce: 275690)
+  ✅ 275653: Block 217940
+  ✅ 275655: Block 217940
+  ✅ 275652: Block 217940
+  ✅ 275656: Block 217940
+  ✅ 275654: Block 217940
+  🎨 275658: 0x26f106bf... (nonce: 275692)
+  🎨 275659: 0x01092d20... (nonce: 275693)
+  🎨 275660: 0x393fa3d4... (nonce: 275694)
+  🎨 275661: 0x2ec11e1c... (nonce: 275695)
+  🎨 275657: 0x4ff7c6a3... (nonce: 275691)
+  ✅ 275661: Block 217941
+  ✅ 275657: Block 217941
+  ✅ 275658: Block 217941
+  ✅ 275660: Block 217941
+  ✅ 275659: Block 217941
+  🎨 275662: 0x6239ed41... (nonce: 275696)
+  🎨 275663: 0x2ee9002e... (nonce: 275697)
+  🎨 275664: 0x70a114a4... (nonce: 275698)
+  🎨 275665: 0x78c6e35a... (nonce: 275699)
+  🎨 275666: 0x2867f90f... (nonce: 275700)
+  ✅ 275662: Block 217942
+  ✅ 275665: Block 217942
+  ✅ 275664: Block 217942
+  ✅ 275663: Block 217942
+  ✅ 275666: Block 217942
+  🎨 275671: 0x96ac100c... (nonce: 275705)
+  🎨 275668: 0x4314df1a... (nonce: 275702)
+  🎨 275669: 0x393dfc4d... (nonce: 275703)
+  🎨 275667: 0x432d4037... (nonce: 275701)
+  🎨 275670: 0x7f0026d1... (nonce: 275704)
+  ✅ 275669: Block 217943
+  ✅ 275668: Block 217943
+  ✅ 275671: Block 217944
+  ✅ 275670: Block 217944
+  ✅ 275667: Block 217943
+  🎨 275674: 0x06d49c0f... (nonce: 275708)
+  🎨 275672: 0x1e1362c9... (nonce: 275706)
+  🎨 275673: 0xed220632... (nonce: 275707)
+  🎨 275675: 0xcfa0ca2b... (nonce: 275709)
+  ✅ 275674: Block 217945
+  ✅ 275672: Block 217945
+  ✅ 275673: Block 217945
+  ✅ 275675: Block 217945
+📊 Batch 20 complete: 25 success, 0 failed in 18.2s (1.4 tokens/sec)
+📈 Total progress: 75675 minted, 0 failed, 24325 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 275710
+
+📦 Batch 21/993: 25 tokens
+🎯 Range: 275676 to 275700
+  🎨 275676: 0x32abad34... (nonce: 275710)
+  🎨 275677: 0x72b09ce8... (nonce: 275711)
+  🎨 275679: 0x719f3cc5... (nonce: 275713)
+  🎨 275680: 0xfae76a13... (nonce: 275714)
+  🎨 275678: 0x552a7709... (nonce: 275712)
+  ✅ 275676: Block 217946
+  🎨 275681: 0xcb35e0f5... (nonce: 275715)
+  ✅ 275679: Block 217947
+  ✅ 275677: Block 217947
+  ✅ 275678: Block 217947
+  ✅ 275681: Block 217947
+  ✅ 275680: Block 217947
+  🎨 275682: 0x7e14c825... (nonce: 275716)
+  🎨 275683: 0x86905875... (nonce: 275717)
+  🎨 275684: 0xc4564ce6... (nonce: 275718)
+  🎨 275685: 0x52c5d746... (nonce: 275719)
+  🎨 275686: 0x0885f6d6... (nonce: 275720)
+  ✅ 275682: Block 217948
+  🎨 275687: 0x719cc5d2... (nonce: 275721)
+  ✅ 275687: Block 217949
+  🎨 275688: 0x881ac3a3... (nonce: 275722)
+  ✅ 275685: Block 217949
+  ✅ 275684: Block 217949
+  ✅ 275686: Block 217949
+  ✅ 275683: Block 217949
+  ✅ 275688: Block 217950
+  🎨 275690: 0x2850a0f7... (nonce: 275724)
+  🎨 275691: 0x315176f8... (nonce: 275725)
+  🎨 275692: 0x95bbb5cb... (nonce: 275726)
+  🎨 275689: 0x56969d85... (nonce: 275723)
+  🎨 275693: 0x651149a1... (nonce: 275727)
+  ✅ 275691: Block 217951
+  ✅ 275690: Block 217951
+  ✅ 275693: Block 217951
+  🎨 275694: 0x2d497b90... (nonce: 275728)
+  🎨 275695: 0x4a5988e0... (nonce: 275729)
+  🎨 275696: 0xa0bfb134... (nonce: 275730)
+  ✅ 275694: Block 217952
+  ✅ 275695: Block 217952
+  ✅ 275696: Block 217952
+  ✅ 275692: Block 217951
+  ✅ 275689: Block 217951
+  🎨 275697: 0xc83489dd... (nonce: 275731)
+  🎨 275698: 0x57009f84... (nonce: 275732)
+  🎨 275699: 0xbc62852a... (nonce: 275733)
+  🎨 275700: 0x7534d89b... (nonce: 275734)
+  ✅ 275699: Block 217953
+  ✅ 275700: Block 217953
+  ✅ 275698: Block 217953
+  ✅ 275697: Block 217953
+📊 Batch 21 complete: 25 success, 0 failed in 17.4s (1.4 tokens/sec)
+📈 Total progress: 75700 minted, 0 failed, 24300 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 22/993: 25 tokens
+🎯 Range: 275701 to 275725
+  🎨 275702: 0x89f36b16... (nonce: 275736)
+  🎨 275701: 0x4df36c96... (nonce: 275735)
+  🎨 275705: 0x73312023... (nonce: 275739)
+  🎨 275704: 0x0dd40838... (nonce: 275738)
+  🎨 275703: 0x5fe3682e... (nonce: 275737)
+  ✅ 275703: Block 217955
+  ✅ 275704: Block 217955
+  ✅ 275705: Block 217955
+  ✅ 275702: Block 217954
+  ✅ 275701: Block 217954
+  🎨 275707: 0xcf5a7311... (nonce: 275741)
+  🎨 275708: 0x54126250... (nonce: 275742)
+  🎨 275709: 0x39f46753... (nonce: 275743)
+  🎨 275706: 0xfb3cfe4d... (nonce: 275740)
+  🎨 275710: 0x639e04ae... (nonce: 275744)
+  ✅ 275709: Block 217956
+  ✅ 275706: Block 217956
+  ✅ 275707: Block 217956
+  ✅ 275708: Block 217956
+  🎨 275711: 0x24a54787... (nonce: 275745)
+  🎨 275712: 0x70939657... (nonce: 275746)
+  🎨 275714: 0xb4da5803... (nonce: 275748)
+  🎨 275713: 0xb77fb5b6... (nonce: 275747)
+  ✅ 275713: Block 217957
+  ✅ 275711: Block 217957
+  ✅ 275712: Block 217957
+  ✅ 275714: Block 217957
+  ✅ 275710: Block 217957
+  🎨 275715: 0x977775d1... (nonce: 275749)
+  🎨 275716: 0xfee9d17b... (nonce: 275750)
+  🎨 275717: 0x73b21bea... (nonce: 275751)
+  🎨 275718: 0xb6e030f8... (nonce: 275752)
+  🎨 275719: 0xca2cf584... (nonce: 275753)
+  ✅ 275715: Block 217958
+  ✅ 275717: Block 217958
+  ✅ 275716: Block 217958
+  🎨 275720: 0xed3512db... (nonce: 275754)
+  🎨 275722: 0x79d687e9... (nonce: 275756)
+  🎨 275721: 0x69cfe72e... (nonce: 275755)
+  ✅ 275720: Block 217959
+  ✅ 275719: Block 217959
+  ✅ 275718: Block 217959
+  ✅ 275722: Block 217959
+  ✅ 275721: Block 217959
+  🎨 275724: 0x5b64c931... (nonce: 275758)
+  🎨 275725: 0xcd27f4ef... (nonce: 275759)
+  🎨 275723: 0x147376c6... (nonce: 275757)
+  ✅ 275724: Block 217960
+  ✅ 275725: Block 217960
+  ✅ 275723: Block 217960
+📊 Batch 22 complete: 25 success, 0 failed in 22.4s (1.1 tokens/sec)
+📈 Total progress: 75725 minted, 0 failed, 24275 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 23/993: 25 tokens
+🎯 Range: 275726 to 275750
+  🎨 275726: 0xf4ffdf44... (nonce: 275760)
+  🎨 275727: 0x6445b5f1... (nonce: 275761)
+  🎨 275728: 0x47351afd... (nonce: 275762)
+  🎨 275729: 0x8d5f7efe... (nonce: 275763)
+  🎨 275730: 0xfc6744bc... (nonce: 275764)
+  ✅ 275726: Block 217961
+  🎨 275731: 0x1993d823... (nonce: 275765)
+  ✅ 275731: Block 217962
+  🎨 275732: 0x87933425... (nonce: 275766)
+  ✅ 275732: Block 217963
+  ✅ 275730: Block 217962
+  ✅ 275729: Block 217962
+  ✅ 275727: Block 217962
+  ✅ 275728: Block 217962
+  🎨 275734: 0x4f6986b9... (nonce: 275768)
+  🎨 275736: 0x572b6338... (nonce: 275770)
+  🎨 275737: 0x4143da5e... (nonce: 275771)
+  🎨 275735: 0xe75db73f... (nonce: 275769)
+  🎨 275733: 0x635f887a... (nonce: 275767)
+  ✅ 275735: Block 217964
+  ✅ 275733: Block 217964
+  🎨 275738: 0x43c50f06... (nonce: 275772)
+  🎨 275739: 0xe1f5f58d... (nonce: 275773)
+  ✅ 275736: Block 217964
+  ✅ 275734: Block 217964
+  ✅ 275737: Block 217964
+  ✅ 275739: Block 217965
+  ✅ 275738: Block 217965
+  🎨 275741: 0xfcf3f7ba... (nonce: 275775)
+  🎨 275740: 0xb9bd4234... (nonce: 275774)
+  🎨 275743: 0x6456166b... (nonce: 275777)
+  🎨 275742: 0xd24b5c6b... (nonce: 275776)
+  ✅ 275740: Block 217966
+  🎨 275744: 0xa407a579... (nonce: 275778)
+  🎨 275745: 0x1a4e465a... (nonce: 275779)
+  ✅ 275743: Block 217967
+  ✅ 275744: Block 217967
+  ✅ 275741: Block 217967
+  ✅ 275742: Block 217967
+  ✅ 275745: Block 217967
+  🎨 275746: 0x516fdcb8... (nonce: 275780)
+  🎨 275747: 0x2bd660f0... (nonce: 275781)
+  🎨 275748: 0x30d2d8c9... (nonce: 275782)
+  🎨 275749: 0xf13e4091... (nonce: 275783)
+  🎨 275750: 0x9475e170... (nonce: 275784)
+  ✅ 275746: Block 217968
+  ✅ 275748: Block 217968
+  ✅ 275747: Block 217968
+  ✅ 275749: Block 217969
+  ✅ 275750: Block 217969
+📊 Batch 23 complete: 25 success, 0 failed in 22.9s (1.1 tokens/sec)
+📈 Total progress: 75750 minted, 0 failed, 24250 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 24/993: 25 tokens
+🎯 Range: 275751 to 275775
+  🎨 275751: 0x106def7f... (nonce: 275785)
+  🎨 275755: 0xad1711ae... (nonce: 275789)
+  🎨 275752: 0xcf5f169a... (nonce: 275786)
+  ✅ 275751: Block 217970
+  🎨 275754: 0x779ef1a7... (nonce: 275788)
+  🎨 275753: 0xcf25dd57... (nonce: 275787)
+  🎨 275756: 0x873c0d7d... (nonce: 275790)
+  ✅ 275755: Block 217971
+  ✅ 275752: Block 217971
+  ✅ 275753: Block 217971
+  ✅ 275754: Block 217971
+  ✅ 275756: Block 217971
+  🎨 275759: 0xee3a52d3... (nonce: 275793)
+  🎨 275758: 0xbf30d67c... (nonce: 275792)
+  🎨 275760: 0xd02d0280... (nonce: 275794)
+  🎨 275757: 0x978f57e8... (nonce: 275791)
+  ✅ 275758: Block 217972
+  ✅ 275760: Block 217972
+  ✅ 275759: Block 217972
+  ✅ 275757: Block 217972
+  🎨 275761: 0xf54e3882... (nonce: 275795)
+  🎨 275762: 0x07ebc611... (nonce: 275796)
+  🎨 275764: 0xb8e91ac4... (nonce: 275798)
+  🎨 275765: 0xc5d97aa6... (nonce: 275799)
+  🎨 275763: 0xb9c015d0... (nonce: 275797)
+  ✅ 275762: Block 217973
+  ✅ 275765: Block 217973
+  ✅ 275764: Block 217973
+  ✅ 275761: Block 217973
+  ✅ 275763: Block 217973
+  🎨 275766: 0xa0cf5218... (nonce: 275800)
+  🎨 275768: 0xc3c8f510... (nonce: 275802)
+  🎨 275770: 0x6c2bb87a... (nonce: 275804)
+  🎨 275767: 0xaafcfa55... (nonce: 275801)
+  🎨 275769: 0x33204977... (nonce: 275803)
+  ✅ 275766: Block 217974
+  🎨 275771: 0x56e03406... (nonce: 275805)
+  ✅ 275767: Block 217975
+  ✅ 275769: Block 217975
+  ✅ 275768: Block 217975
+  ✅ 275770: Block 217975
+  ✅ 275771: Block 217975
+  🎨 275772: 0xc24d441d... (nonce: 275806)
+  🎨 275773: 0x014c61d4... (nonce: 275807)
+  🎨 275774: 0xfc27be17... (nonce: 275808)
+  🎨 275775: 0x475d8f44... (nonce: 275809)
+  ✅ 275772: Block 217976
+  ✅ 275773: Block 217976
+  ✅ 275774: Block 217976
+  ✅ 275775: Block 217977
+📊 Batch 24 complete: 25 success, 0 failed in 23.2s (1.1 tokens/sec)
+📈 Total progress: 75775 minted, 0 failed, 24225 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 25/993: 25 tokens
+🎯 Range: 275776 to 275800
+  🎨 275777: 0xb83a76bf... (nonce: 275811)
+  🎨 275776: 0x4adcee52... (nonce: 275810)
+  🎨 275778: 0x3132ae68... (nonce: 275812)
+  🎨 275779: 0xd1c6953e... (nonce: 275813)
+  🎨 275780: 0x4de46ebc... (nonce: 275814)
+  ✅ 275778: Block 217978
+  ✅ 275777: Block 217978
+  ✅ 275779: Block 217978
+  🎨 275782: 0x93c015f7... (nonce: 275816)
+  🎨 275783: 0xee4b58b3... (nonce: 275817)
+  🎨 275781: 0x3dc1983d... (nonce: 275815)
+  ✅ 275776: Block 217978
+  ✅ 275782: Block 217979
+  ✅ 275780: Block 217979
+  ✅ 275783: Block 217979
+  ✅ 275781: Block 217979
+  🎨 275784: 0xe55fc47f... (nonce: 275818)
+  🎨 275785: 0x5515505a... (nonce: 275819)
+  🎨 275786: 0xd2a96933... (nonce: 275820)
+  🎨 275787: 0xae491171... (nonce: 275821)
+  🎨 275788: 0x633cac50... (nonce: 275822)
+  ✅ 275785: Block 217980
+  ✅ 275784: Block 217980
+  🎨 275789: 0x6503a197... (nonce: 275823)
+  🎨 275790: 0x27356cd2... (nonce: 275824)
+  ✅ 275786: Block 217981
+  ✅ 275790: Block 217982
+  ✅ 275788: Block 217981
+  ✅ 275787: Block 217981
+  ✅ 275789: Block 217982
+  🎨 275791: 0x8c7eb594... (nonce: 275825)
+  🎨 275792: 0x1fb071f8... (nonce: 275826)
+  🎨 275793: 0x5c96bef0... (nonce: 275827)
+  🎨 275794: 0x198e1102... (nonce: 275828)
+  🎨 275795: 0x05a7f4ad... (nonce: 275829)
+  ✅ 275791: Block 217983
+  🎨 275796: 0xfa96f6a9... (nonce: 275830)
+  ✅ 275792: Block 217984
+  ✅ 275795: Block 217984
+  ✅ 275796: Block 217984
+  ✅ 275794: Block 217984
+  ✅ 275793: Block 217984
+  🎨 275798: 0xb8d996ab... (nonce: 275832)
+  🎨 275799: 0x3748a1e9... (nonce: 275833)
+  🎨 275797: 0xd4866d28... (nonce: 275831)
+  🎨 275800: 0x4a20bc4c... (nonce: 275834)
+  ✅ 275799: Block 217985
+  ✅ 275797: Block 217985
+  ✅ 275800: Block 217985
+  ✅ 275798: Block 217985
+📊 Batch 25 complete: 25 success, 0 failed in 18.0s (1.4 tokens/sec)
+📈 Total progress: 75800 minted, 0 failed, 24200 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 275835
+
+📦 Batch 26/993: 25 tokens
+🎯 Range: 275801 to 275825
+  🎨 275801: 0xf2cfe90b... (nonce: 275835)
+  🎨 275802: 0x038d90cf... (nonce: 275836)
+  🎨 275803: 0x11756048... (nonce: 275837)
+  🎨 275804: 0x260711e6... (nonce: 275838)
+  🎨 275805: 0x086f7c9d... (nonce: 275839)
+  ✅ 275801: Block 217986
+  ✅ 275802: Block 217986
+  🎨 275806: 0xc7dc562e... (nonce: 275840)
+  🎨 275807: 0x73c73fad... (nonce: 275841)
+  ✅ 275805: Block 217987
+  ✅ 275804: Block 217987
+  ✅ 275806: Block 217987
+  ✅ 275807: Block 217987
+  ✅ 275803: Block 217987
+  🎨 275808: 0x3018af3a... (nonce: 275842)
+  🎨 275810: 0x4abb1376... (nonce: 275844)
+  🎨 275809: 0x765aeaff... (nonce: 275843)
+  🎨 275811: 0x01c30ab5... (nonce: 275845)
+  ✅ 275810: Block 217988
+  ✅ 275809: Block 217988
+  ✅ 275808: Block 217988
+  🎨 275812: 0xe14dc23b... (nonce: 275846)
+  🎨 275813: 0xf04079e6... (nonce: 275847)
+  🎨 275814: 0xaeda49c7... (nonce: 275848)
+  🎨 275815: 0x40f73abc... (nonce: 275849)
+  ✅ 275813: Block 217989
+  ✅ 275814: Block 217989
+  ✅ 275815: Block 217989
+  ✅ 275812: Block 217989
+  ✅ 275811: Block 217989
+  🎨 275817: 0x874f4381... (nonce: 275851)
+  🎨 275818: 0xafcb456f... (nonce: 275852)
+  🎨 275819: 0x5c426a9f... (nonce: 275853)
+  🎨 275820: 0xf2023e63... (nonce: 275854)
+  🎨 275816: 0xd84d953a... (nonce: 275850)
+  ✅ 275818: Block 217990
+  🎨 275821: 0xaee6b2b3... (nonce: 275855)
+  ✅ 275820: Block 217990
+  ✅ 275817: Block 217990
+  ✅ 275819: Block 217990
+  ✅ 275816: Block 217990
+  ✅ 275821: Block 217991
+  🎨 275823: 0xf05c1eee... (nonce: 275857)
+  🎨 275824: 0x08475c2b... (nonce: 275858)
+  🎨 275822: 0x557a4d35... (nonce: 275856)
+  🎨 275825: 0xa25522af... (nonce: 275859)
+  ✅ 275823: Block 217992
+  ✅ 275822: Block 217992
+  ✅ 275825: Block 217993
+  ✅ 275824: Block 217993
+📊 Batch 26 complete: 25 success, 0 failed in 21.7s (1.2 tokens/sec)
+📈 Total progress: 75825 minted, 0 failed, 24175 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 27/993: 25 tokens
+🎯 Range: 275826 to 275850
+  🎨 275826: 0xccdcf1f5... (nonce: 275860)
+  🎨 275827: 0x46c7ae1a... (nonce: 275861)
+  🎨 275828: 0x23853f54... (nonce: 275862)
+  🎨 275829: 0xef2474d3... (nonce: 275863)
+  🎨 275830: 0x0c74785e... (nonce: 275864)
+  ✅ 275827: Block 217994
+  ✅ 275826: Block 217994
+  🎨 275831: 0xe3946a0b... (nonce: 275865)
+  🎨 275832: 0x21bb7151... (nonce: 275866)
+  ✅ 275829: Block 217995
+  ✅ 275832: Block 217995
+  ✅ 275831: Block 217995
+  ✅ 275828: Block 217995
+  ✅ 275830: Block 217995
+  🎨 275833: 0x995eeb1a... (nonce: 275867)
+  🎨 275834: 0x7a888e26... (nonce: 275868)
+  🎨 275835: 0xab610615... (nonce: 275869)
+  🎨 275836: 0x58a80bd6... (nonce: 275870)
+  🎨 275837: 0x1838b43a... (nonce: 275871)
+  ✅ 275833: Block 217996
+  ✅ 275834: Block 217996
+  🎨 275838: 0x16df27f1... (nonce: 275872)
+  🎨 275839: 0xa6ea0e39... (nonce: 275873)
+  ✅ 275838: Block 217997
+  ✅ 275837: Block 217997
+  ✅ 275836: Block 217997
+  ✅ 275839: Block 217997
+  ✅ 275835: Block 217997
+  🎨 275841: 0xd145b79f... (nonce: 275875)
+  🎨 275842: 0xef4149a6... (nonce: 275876)
+  🎨 275843: 0x25b57b41... (nonce: 275877)
+  🎨 275844: 0x9737e28a... (nonce: 275878)
+  🎨 275840: 0x26d89ac6... (nonce: 275874)
+  ✅ 275840: Block 217998
+  🎨 275845: 0x226c8802... (nonce: 275879)
+  ✅ 275844: Block 217999
+  ✅ 275843: Block 217998
+  ✅ 275845: Block 217999
+  ✅ 275841: Block 217998
+  ✅ 275842: Block 217998
+  🎨 275846: 0x2d30da36... (nonce: 275880)
+  🎨 275847: 0x039f379c... (nonce: 275881)
+  🎨 275848: 0x04473381... (nonce: 275882)
+  🎨 275849: 0xc9241ad0... (nonce: 275883)
+  🎨 275850: 0x00117f7a... (nonce: 275884)
+  ✅ 275846: Block 218000
+  ✅ 275850: Block 218001
+  ✅ 275847: Block 218001
+  ✅ 275848: Block 218001
+  ✅ 275849: Block 218001
+📊 Batch 27 complete: 25 success, 0 failed in 22.0s (1.1 tokens/sec)
+📈 Total progress: 75850 minted, 0 failed, 24150 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 28/993: 25 tokens
+🎯 Range: 275851 to 275875
+  🎨 275851: 0x040974e7... (nonce: 275885)
+  🎨 275852: 0x69733027... (nonce: 275886)
+  🎨 275853: 0x3ff858bb... (nonce: 275887)
+  🎨 275855: 0x02c1ba3b... (nonce: 275889)
+  🎨 275854: 0x3dc3c9bd... (nonce: 275888)
+  ✅ 275852: Block 218002
+  ✅ 275851: Block 218002
+  🎨 275856: 0x35b6da9d... (nonce: 275890)
+  🎨 275857: 0xaacf81cb... (nonce: 275891)
+  ✅ 275856: Block 218003
+  ✅ 275854: Block 218003
+  ✅ 275857: Block 218003
+  ✅ 275855: Block 218003
+  ✅ 275853: Block 218002
+  🎨 275858: 0x795a6251... (nonce: 275892)
+  🎨 275859: 0x938c6a63... (nonce: 275893)
+  🎨 275860: 0xd44b8718... (nonce: 275894)
+  🎨 275861: 0xf53ba882... (nonce: 275895)
+  🎨 275862: 0x16a2d1af... (nonce: 275896)
+  ✅ 275859: Block 218004
+  ✅ 275858: Block 218004
+  ✅ 275860: Block 218004
+  🎨 275863: 0x9b512e85... (nonce: 275897)
+  🎨 275864: 0x60609c68... (nonce: 275898)
+  🎨 275865: 0x05777536... (nonce: 275899)
+  ✅ 275861: Block 218005
+  ✅ 275862: Block 218005
+  ✅ 275864: Block 218005
+  ✅ 275865: Block 218005
+  ✅ 275863: Block 218005
+  🎨 275866: 0xd01baaa7... (nonce: 275900)
+  🎨 275867: 0xcbb64216... (nonce: 275901)
+  🎨 275868: 0xeb5aec7b... (nonce: 275902)
+  🎨 275869: 0x67861825... (nonce: 275903)
+  🎨 275870: 0xca4da00f... (nonce: 275904)
+  ✅ 275866: Block 218006
+  ✅ 275870: Block 218006
+  ✅ 275868: Block 218006
+  🎨 275871: 0x355a41b3... (nonce: 275905)
+  🎨 275873: 0x44384023... (nonce: 275907)
+  🎨 275872: 0x90d8afa1... (nonce: 275906)
+  ✅ 275873: Block 218007
+  ✅ 275869: Block 218006
+  ✅ 275871: Block 218007
+  ✅ 275867: Block 218006
+  ✅ 275872: Block 218007
+  🎨 275874: 0x041b3e71... (nonce: 275908)
+  🎨 275875: 0x4e3e798f... (nonce: 275909)
+  ✅ 275874: Block 218008
+  ✅ 275875: Block 218009
+📊 Batch 28 complete: 25 success, 0 failed in 22.2s (1.1 tokens/sec)
+📈 Total progress: 75875 minted, 0 failed, 24125 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 29/993: 25 tokens
+🎯 Range: 275876 to 275900
+  🎨 275876: 0xd81193bb... (nonce: 275910)
+  🎨 275877: 0xd60c51a0... (nonce: 275911)
+  🎨 275878: 0x2f58dc95... (nonce: 275912)
+  🎨 275880: 0x2033a486... (nonce: 275914)
+  🎨 275879: 0xbe711213... (nonce: 275913)
+  ✅ 275876: Block 218010
+  🎨 275881: 0xda298b2c... (nonce: 275915)
+  ✅ 275878: Block 218011
+  ✅ 275879: Block 218011
+  ✅ 275881: Block 218011
+  ✅ 275880: Block 218011
+  ✅ 275877: Block 218011
+  🎨 275882: 0x2a67566d... (nonce: 275916)
+  🎨 275883: 0xf47088d5... (nonce: 275917)
+  🎨 275885: 0xd2af78c6... (nonce: 275919)
+  🎨 275886: 0xf014af67... (nonce: 275920)
+  🎨 275884: 0x915d139e... (nonce: 275918)
+  ✅ 275882: Block 218012
+  🎨 275887: 0x244bd731... (nonce: 275921)
+  ✅ 275886: Block 218013
+  ✅ 275885: Block 218013
+  ✅ 275887: Block 218013
+  ✅ 275884: Block 218013
+  ✅ 275883: Block 218013
+  🎨 275888: 0x7c85a70c... (nonce: 275922)
+  🎨 275889: 0x1f28a0d2... (nonce: 275923)
+  🎨 275892: 0x212e6f16... (nonce: 275926)
+  🎨 275891: 0x29afa4a6... (nonce: 275925)
+  🎨 275890: 0xd8b729eb... (nonce: 275924)
+  ✅ 275889: Block 218014
+  ✅ 275888: Block 218014
+  🎨 275893: 0xf546306b... (nonce: 275927)
+  🎨 275894: 0xe399d5df... (nonce: 275928)
+  ✅ 275894: Block 218015
+  ✅ 275890: Block 218015
+  ✅ 275891: Block 218015
+  ✅ 275892: Block 218015
+  ✅ 275893: Block 218015
+  🎨 275895: 0xc214ef38... (nonce: 275929)
+  🎨 275897: 0x7a880011... (nonce: 275931)
+  🎨 275898: 0xadd61ca5... (nonce: 275932)
+  🎨 275896: 0x7eb64ab7... (nonce: 275930)
+  🎨 275899: 0xbda37483... (nonce: 275933)
+  ✅ 275895: Block 218016
+  🎨 275900: 0xb80c174a... (nonce: 275934)
+  ✅ 275896: Block 218017
+  ✅ 275897: Block 218017
+  ✅ 275899: Block 218017
+  ✅ 275900: Block 218017
+  ✅ 275898: Block 218017
+📊 Batch 29 complete: 25 success, 0 failed in 21.6s (1.2 tokens/sec)
+📈 Total progress: 75900 minted, 0 failed, 24100 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 30/993: 25 tokens
+🎯 Range: 275901 to 275925
+  🎨 275901: 0x375c14c9... (nonce: 275935)
+  🎨 275902: 0xa9046ffb... (nonce: 275936)
+  🎨 275903: 0x4eebaf79... (nonce: 275937)
+  🎨 275905: 0x36c06796... (nonce: 275939)
+  🎨 275904: 0x253fe1c8... (nonce: 275938)
+  ✅ 275902: Block 218018
+  ✅ 275901: Block 218018
+  ✅ 275903: Block 218018
+  🎨 275906: 0xa6d62b96... (nonce: 275940)
+  🎨 275907: 0x855c6e2a... (nonce: 275941)
+  🎨 275908: 0x39788857... (nonce: 275942)
+  ❌ 275904: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275905: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 275943
+🔢 Reset nonce sequence to: 275943
+  🔄 275904: Retry 1/8 in 3.8s
+  🔄 275905: Retry 1/8 in 3.9s
+  ❌ 275906: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275907: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275908: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 275943
+🔢 Reset nonce sequence to: 275943
+🔢 Reset nonce sequence to: 275943
+  🔄 275906: Retry 1/8 in 3.2s
+  🔄 275907: Retry 1/8 in 3.9s
+  🔄 275908: Retry 1/8 in 3.2s
+  🎨 275904: 0xde42e4d2... (nonce: 275943)
+  🎨 275905: 0x717c2328... (nonce: 275944)
+  ✅ 275904: Block 218020
+  🎨 275906: 0x382904c5... (nonce: 275945)
+  🎨 275908: 0x819518c2... (nonce: 275946)
+  🎨 275907: 0xddf519bc... (nonce: 275947)
+  🎨 275909: 0x3863cf66... (nonce: 275948)
+  ✅ 275905: Block 218021
+  ✅ 275908: Block 218021
+  ✅ 275907: Block 218021
+  ✅ 275906: Block 218021
+  ✅ 275909: Block 218021
+  🎨 275910: 0x8a663e7a... (nonce: 275949)
+  🎨 275913: 0x57af0628... (nonce: 275952)
+  🎨 275911: 0xd681acbc... (nonce: 275950)
+  🎨 275914: 0x65bfa6be... (nonce: 275953)
+  🎨 275912: 0xbf88116f... (nonce: 275951)
+  ✅ 275910: Block 218022
+  🎨 275915: 0xf95f200a... (nonce: 275954)
+  ✅ 275911: Block 218023
+  ✅ 275913: Block 218023
+  ✅ 275914: Block 218023
+  ✅ 275912: Block 218023
+  ✅ 275915: Block 218023
+  🎨 275916: 0xfd4f99da... (nonce: 275955)
+  🎨 275917: 0x1815abce... (nonce: 275956)
+  🎨 275918: 0xcfc29f31... (nonce: 275957)
+  🎨 275919: 0x0bf39296... (nonce: 275958)
+  🎨 275920: 0x19495c5f... (nonce: 275959)
+  ✅ 275916: Block 218024
+  🎨 275921: 0x05f9d475... (nonce: 275960)
+  ✅ 275919: Block 218025
+  ✅ 275920: Block 218025
+  ✅ 275921: Block 218025
+  ✅ 275917: Block 218025
+  ✅ 275918: Block 218025
+  🎨 275923: 0x095c2fff... (nonce: 275962)
+  🎨 275925: 0x86073fc5... (nonce: 275964)
+  🎨 275924: 0xa52f4c20... (nonce: 275963)
+  🎨 275922: 0xd97c0043... (nonce: 275961)
+  ✅ 275924: Block 218026
+  ✅ 275923: Block 218026
+  ✅ 275925: Block 218026
+  ✅ 275922: Block 218026
+📊 Batch 30 complete: 25 success, 0 failed in 82.1s (0.3 tokens/sec)
+📈 Total progress: 75925 minted, 0 failed, 24075 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 275965
+
+📦 Batch 31/993: 25 tokens
+🎯 Range: 275926 to 275950
+  🎨 275929: 0x56c4b02b... (nonce: 275968)
+  🎨 275926: 0x2b683ea3... (nonce: 275965)
+  🎨 275927: 0x1a278da7... (nonce: 275966)
+  🎨 275928: 0x8bcf5b30... (nonce: 275967)
+  🎨 275930: 0xcabdec0f... (nonce: 275969)
+  ✅ 275926: Block 218027
+  ✅ 275930: Block 218028
+  ✅ 275927: Block 218027
+  ✅ 275929: Block 218028
+  ✅ 275928: Block 218028
+  🎨 275933: 0x4864c7a6... (nonce: 275972)
+  🎨 275932: 0x0bb3ae59... (nonce: 275971)
+  🎨 275934: 0xcb489881... (nonce: 275973)
+  🎨 275931: 0x6fbb578f... (nonce: 275970)
+  🎨 275935: 0xa404e9e7... (nonce: 275974)
+  ✅ 275931: Block 218029
+  🎨 275936: 0xab005e32... (nonce: 275975)
+  ✅ 275934: Block 218030
+  ✅ 275933: Block 218030
+  ✅ 275935: Block 218030
+  ✅ 275932: Block 218030
+  ✅ 275936: Block 218030
+  🎨 275938: 0xe97c9ab4... (nonce: 275977)
+  🎨 275940: 0x34cb11a7... (nonce: 275979)
+  🎨 275941: 0xf9550b7e... (nonce: 275980)
+  🎨 275939: 0xabeccdd9... (nonce: 275978)
+  🎨 275937: 0x10b30aee... (nonce: 275976)
+  ✅ 275938: Block 218031
+  ✅ 275937: Block 218031
+  🎨 275942: 0x0643c619... (nonce: 275981)
+  🎨 275943: 0x9051917d... (nonce: 275982)
+  ✅ 275940: Block 218031
+  ✅ 275943: Block 218032
+  ✅ 275942: Block 218032
+  ✅ 275939: Block 218031
+  ✅ 275941: Block 218031
+  🎨 275947: 0xd45ce883... (nonce: 275986)
+  🎨 275945: 0x2fbb17cc... (nonce: 275984)
+  🎨 275948: 0x7f04a964... (nonce: 275987)
+  🎨 275944: 0x0b8df282... (nonce: 275983)
+  🎨 275946: 0x4d2b3c77... (nonce: 275985)
+  ✅ 275947: Block 218033
+  ✅ 275944: Block 218033
+  ✅ 275948: Block 218033
+  ✅ 275946: Block 218033
+  🎨 275949: 0xe4224640... (nonce: 275988)
+  🎨 275950: 0x8aee4197... (nonce: 275989)
+  ✅ 275945: Block 218033
+  ✅ 275950: Block 218034
+  ✅ 275949: Block 218034
+📊 Batch 31 complete: 25 success, 0 failed in 21.8s (1.1 tokens/sec)
+📈 Total progress: 75950 minted, 0 failed, 24050 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 32/993: 25 tokens
+🎯 Range: 275951 to 275975
+  🎨 275951: 0x14d2c7e3... (nonce: 275990)
+  🎨 275952: 0xdcf0f60f... (nonce: 275991)
+  🎨 275955: 0x1cbdd596... (nonce: 275994)
+  🎨 275954: 0xc3c899fa... (nonce: 275993)
+  🎨 275953: 0x10a2c57c... (nonce: 275992)
+  ✅ 275952: Block 218035
+  ✅ 275951: Block 218035
+  🎨 275956: 0xf4bcb437... (nonce: 275995)
+  🎨 275957: 0x62e20593... (nonce: 275996)
+  ✅ 275955: Block 218036
+  ✅ 275957: Block 218036
+  ✅ 275956: Block 218036
+  ✅ 275953: Block 218036
+  ✅ 275954: Block 218036
+  🎨 275959: 0x6e6dbb1f... (nonce: 275998)
+  🎨 275960: 0x69cf9fd8... (nonce: 275999)
+  🎨 275962: 0x49f4b885... (nonce: 276001)
+  🎨 275961: 0x03e0efa1... (nonce: 276000)
+  🎨 275958: 0x20ff105c... (nonce: 275997)
+  ✅ 275960: Block 218037
+  ✅ 275958: Block 218037
+  ✅ 275959: Block 218037
+  🎨 275963: 0xd3e6344b... (nonce: 276002)
+  🎨 275964: 0x89f5cbc5... (nonce: 276003)
+  🎨 275965: 0xd8062746... (nonce: 276004)
+  ✅ 275965: Block 218038
+  ✅ 275964: Block 218038
+  ✅ 275962: Block 218038
+  ✅ 275963: Block 218038
+  ✅ 275961: Block 218038
+  🎨 275966: 0xed320505... (nonce: 276005)
+  🎨 275967: 0x593369a7... (nonce: 276006)
+  🎨 275968: 0x2315592a... (nonce: 276007)
+  🎨 275970: 0xc984329b... (nonce: 276009)
+  🎨 275969: 0x8905de0c... (nonce: 276008)
+  ✅ 275966: Block 218039
+  🎨 275971: 0xd4ba8857... (nonce: 276010)
+  ✅ 275967: Block 218040
+  ✅ 275968: Block 218040
+  ✅ 275970: Block 218040
+  ✅ 275969: Block 218040
+  ✅ 275971: Block 218040
+  🎨 275973: 0xaa0a7be6... (nonce: 276012)
+  🎨 275974: 0x570ab675... (nonce: 276013)
+  🎨 275975: 0xf1edb731... (nonce: 276014)
+  🎨 275972: 0x365a554e... (nonce: 276011)
+  ✅ 275975: Block 218041
+  ✅ 275974: Block 218041
+  ✅ 275972: Block 218041
+  ✅ 275973: Block 218041
+📊 Batch 32 complete: 25 success, 0 failed in 22.0s (1.1 tokens/sec)
+📈 Total progress: 75975 minted, 0 failed, 24025 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 33/993: 25 tokens
+🎯 Range: 275976 to 276000
+  🎨 275976: 0x3d9519f5... (nonce: 276015)
+  🎨 275977: 0x7bb9f8dd... (nonce: 276016)
+  🎨 275978: 0xab72e561... (nonce: 276017)
+  🎨 275979: 0x413597aa... (nonce: 276018)
+  🎨 275980: 0x17c4de77... (nonce: 276019)
+  ✅ 275976: Block 218042
+  🎨 275981: 0xb97b5fca... (nonce: 276020)
+  ✅ 275980: Block 218043
+  ✅ 275981: Block 218043
+  ✅ 275979: Block 218043
+  ✅ 275977: Block 218043
+  ✅ 275978: Block 218043
+  🎨 275982: 0x627ddf75... (nonce: 276021)
+  🎨 275984: 0x063ee00c... (nonce: 276023)
+  🎨 275985: 0xd14f5cf8... (nonce: 276024)
+  🎨 275983: 0x974f81db... (nonce: 276022)
+  🎨 275986: 0x272d01d2... (nonce: 276025)
+  ✅ 275982: Block 218044
+  🎨 275987: 0x523d6f16... (nonce: 276026)
+  ❌ 275983: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275984: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275985: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 275986: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 276027
+🔢 Reset nonce sequence to: 276027
+🔢 Reset nonce sequence to: 276027
+🔢 Reset nonce sequence to: 276027
+  🔄 275983: Retry 1/8 in 3.9s
+  🔄 275984: Retry 1/8 in 3.1s
+  🔄 275985: Retry 1/8 in 3.4s
+  🔄 275986: Retry 1/8 in 3.7s
+  ❌ 275987: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 276027
+  🔄 275987: Retry 1/8 in 3.4s
+  🎨 275984: 0xacb0e291... (nonce: 276027)
+  🎨 275985: 0xbd31d5c6... (nonce: 276028)
+  🎨 275986: 0xfffb6656... (nonce: 276029)
+  🎨 275983: 0xb720d703... (nonce: 276030)
+  ✅ 275984: Block 218046
+  🎨 275988: 0x1f4a70f9... (nonce: 276032)
+  🎨 275987: 0x801fe32c... (nonce: 276031)
+  ✅ 275985: Block 218047
+  ✅ 275988: Block 218047
+  ✅ 275986: Block 218047
+  ✅ 275987: Block 218047
+  ✅ 275983: Block 218047
+  🎨 275989: 0x397ec01e... (nonce: 276033)
+  🎨 275991: 0x8e9e6373... (nonce: 276035)
+  🎨 275993: 0xc890a980... (nonce: 276037)
+  🎨 275992: 0x8d23417d... (nonce: 276036)
+  🎨 275990: 0x7154f979... (nonce: 276034)
+  ✅ 275990: Block 218049
+  ✅ 275992: Block 218049
+  ✅ 275993: Block 218049
+  ✅ 275989: Block 218048
+  ✅ 275991: Block 218049
+  🎨 275996: 0x2a81cfd7... (nonce: 276040)
+  🎨 275997: 0xcb5a294d... (nonce: 276041)
+  🎨 275995: 0x317236af... (nonce: 276039)
+  🎨 275994: 0xdbc7687d... (nonce: 276038)
+  🎨 275998: 0x7224cbc7... (nonce: 276042)
+  ✅ 275996: Block 218050
+  🎨 275999: 0x90ede1d0... (nonce: 276043)
+  ✅ 275999: Block 218051
+  ✅ 275997: Block 218050
+  ✅ 275995: Block 218050
+  ✅ 275998: Block 218051
+  ✅ 275994: Block 218050
+  🎨 276000: 0x146e4d8d... (nonce: 276044)
+  ✅ 276000: Block 218052
+📊 Batch 33 complete: 25 success, 0 failed in 91.8s (0.3 tokens/sec)
+📈 Total progress: 76000 minted, 0 failed, 24000 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 34/993: 25 tokens
+🎯 Range: 276001 to 276025
+  🎨 276001: 0xe98e1138... (nonce: 276045)
+  🎨 276002: 0x5b402b67... (nonce: 276046)
+  🎨 276003: 0x568a5fcb... (nonce: 276047)
+  🎨 276005: 0x3166c5b8... (nonce: 276049)
+  🎨 276004: 0x58abf3d6... (nonce: 276048)
+  ✅ 276001: Block 218053
+  🎨 276006: 0x8cc52264... (nonce: 276050)
+  ✅ 276003: Block 218054
+  ✅ 276006: Block 218054
+  ✅ 276005: Block 218054
+  ✅ 276002: Block 218054
+  ✅ 276004: Block 218054
+  🎨 276008: 0xdfab33e2... (nonce: 276052)
+  🎨 276009: 0xecc1bbec... (nonce: 276053)
+  🎨 276011: 0x43287e52... (nonce: 276055)
+  🎨 276007: 0x38e2f37f... (nonce: 276051)
+  🎨 276010: 0xc0b4db75... (nonce: 276054)
+  ✅ 276009: Block 218055
+  ✅ 276007: Block 218055
+  ✅ 276008: Block 218055
+  🎨 276013: 0x080da9c2... (nonce: 276057)
+  🎨 276014: 0x2985f3f3... (nonce: 276058)
+  🎨 276012: 0x613af74a... (nonce: 276056)
+  ✅ 276013: Block 218056
+  ✅ 276010: Block 218056
+  ✅ 276014: Block 218056
+  ✅ 276012: Block 218056
+  ✅ 276011: Block 218056
+  🎨 276015: 0xe59691bc... (nonce: 276059)
+  🎨 276016: 0xc2ca9043... (nonce: 276060)
+  🎨 276017: 0x5e1a9423... (nonce: 276061)
+  🎨 276018: 0x6ef625d7... (nonce: 276062)
+  🎨 276019: 0xe824628a... (nonce: 276063)
+  ✅ 276015: Block 218057
+  ✅ 276017: Block 218057
+  ✅ 276018: Block 218057
+  ✅ 276019: Block 218057
+  ✅ 276016: Block 218057
+  🎨 276020: 0xf8da57ad... (nonce: 276064)
+  🎨 276021: 0x96585ce1... (nonce: 276065)
+  🎨 276022: 0x00ea1f8e... (nonce: 276066)
+  🎨 276024: 0x1681c24c... (nonce: 276068)
+  🎨 276023: 0x3ca8af44... (nonce: 276067)
+  ✅ 276020: Block 218058
+  ✅ 276022: Block 218058
+  ✅ 276021: Block 218058
+  ✅ 276024: Block 218058
+  ✅ 276023: Block 218058
+  🎨 276025: 0xe24a79af... (nonce: 276069)
+  ✅ 276025: Block 218059
+📊 Batch 34 complete: 25 success, 0 failed in 18.7s (1.3 tokens/sec)
+📈 Total progress: 76025 minted, 0 failed, 23975 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 35/993: 25 tokens
+🎯 Range: 276026 to 276050
+  🎨 276026: 0x6bed61da... (nonce: 276070)
+  🎨 276027: 0x335d5b4c... (nonce: 276071)
+  🎨 276030: 0x53366c9d... (nonce: 276074)
+  🎨 276028: 0xe747470b... (nonce: 276072)
+  🎨 276029: 0xa529134e... (nonce: 276073)
+  ✅ 276027: Block 218060
+  🎨 276031: 0x2bceeba5... (nonce: 276075)
+  ✅ 276031: Block 218061
+  ✅ 276030: Block 218061
+  ✅ 276026: Block 218060
+  ✅ 276028: Block 218061
+  ✅ 276029: Block 218061
+  🎨 276032: 0x37ba92f0... (nonce: 276076)
+  🎨 276033: 0xc3972960... (nonce: 276077)
+  🎨 276034: 0x8ca5f438... (nonce: 276078)
+  🎨 276035: 0x40ff1807... (nonce: 276079)
+  🎨 276036: 0xd164b803... (nonce: 276080)
+  ✅ 276032: Block 218062
+  🎨 276037: 0x7cdafcd3... (nonce: 276081)
+  ✅ 276034: Block 218063
+  ✅ 276033: Block 218063
+  ✅ 276035: Block 218063
+  ✅ 276037: Block 218063
+  ✅ 276036: Block 218063
+  🎨 276038: 0x8f15d2db... (nonce: 276082)
+  🎨 276039: 0xf86326bc... (nonce: 276083)
+  🎨 276040: 0x10d60e13... (nonce: 276084)
+  🎨 276042: 0x7f3889c9... (nonce: 276086)
+  🎨 276041: 0xf86c913d... (nonce: 276085)
+  ✅ 276038: Block 218064
+  ✅ 276040: Block 218064
+  ✅ 276039: Block 218064
+  🎨 276043: 0x34423a8e... (nonce: 276087)
+  🎨 276044: 0xd086d17a... (nonce: 276088)
+  🎨 276045: 0xfcc5e42f... (nonce: 276089)
+  ✅ 276045: Block 218065
+  ✅ 276043: Block 218065
+  ✅ 276044: Block 218065
+  ✅ 276041: Block 218065
+  ✅ 276042: Block 218065
+  🎨 276046: 0xff88b09c... (nonce: 276090)
+  🎨 276047: 0x8dd4474a... (nonce: 276091)
+  🎨 276048: 0x8461466b... (nonce: 276092)
+  🎨 276049: 0x0a56d250... (nonce: 276093)
+  🎨 276050: 0x5b933edf... (nonce: 276094)
+  ✅ 276047: Block 218066
+  ✅ 276048: Block 218066
+  ✅ 276046: Block 218066
+  ✅ 276049: Block 218067
+  ✅ 276050: Block 218067
+📊 Batch 35 complete: 25 success, 0 failed in 35.9s (0.7 tokens/sec)
+📈 Total progress: 76050 minted, 0 failed, 23950 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 276095
+
+📦 Batch 36/993: 25 tokens
+🎯 Range: 276051 to 276075
+  🎨 276051: 0x5807be20... (nonce: 276095)
+  🎨 276052: 0xe705a1eb... (nonce: 276096)
+  🎨 276053: 0x79d74371... (nonce: 276097)
+  🎨 276055: 0xf6cbc903... (nonce: 276099)
+  🎨 276054: 0x724f47b5... (nonce: 276098)
+  ✅ 276051: Block 218068
+  🎨 276056: 0x5894c90d... (nonce: 276100)
+  ✅ 276056: Block 218069
+  ✅ 276054: Block 218069
+  ✅ 276052: Block 218069
+  ✅ 276055: Block 218069
+  ✅ 276053: Block 218069
+  🎨 276057: 0xb38a596a... (nonce: 276101)
+  🎨 276058: 0x030ed881... (nonce: 276102)
+  🎨 276060: 0x9ef44967... (nonce: 276104)
+  🎨 276059: 0xa237fd8c... (nonce: 276103)
+  ✅ 276058: Block 218070
+  ✅ 276057: Block 218070
+  🎨 276061: 0x3e0b5af9... (nonce: 276105)
+  🎨 276062: 0xe4eb820e... (nonce: 276106)
+  🎨 276063: 0xbc9ef23f... (nonce: 276107)
+  ✅ 276060: Block 218071
+  ✅ 276063: Block 218071
+  ✅ 276061: Block 218071
+  ✅ 276062: Block 218071
+  ✅ 276059: Block 218071
+  🎨 276066: 0xf4850629... (nonce: 276110)
+  🎨 276067: 0xe0d5ab78... (nonce: 276111)
+  🎨 276065: 0x5b9426d2... (nonce: 276109)
+  🎨 276064: 0x3fc7b161... (nonce: 276108)
+  🎨 276068: 0xcd95412c... (nonce: 276112)
+  ✅ 276064: Block 218072
+  ✅ 276066: Block 218072
+  🎨 276069: 0xc7a8319b... (nonce: 276113)
+  🎨 276070: 0x08e36d52... (nonce: 276114)
+  ✅ 276070: Block 218073
+  ✅ 276067: Block 218072
+  ✅ 276065: Block 218072
+  ✅ 276069: Block 218073
+  ✅ 276068: Block 218073
+  🎨 276071: 0x79e31c7d... (nonce: 276115)
+  🎨 276072: 0x7436a25e... (nonce: 276116)
+  🎨 276073: 0x4fcb4e98... (nonce: 276117)
+  🎨 276074: 0x2f2c765d... (nonce: 276118)
+  🎨 276075: 0x79a3d55d... (nonce: 276119)
+  ✅ 276071: Block 218074
+  ✅ 276072: Block 218075
+  ✅ 276073: Block 218075
+  ✅ 276074: Block 218075
+  ✅ 276075: Block 218075
+📊 Batch 36 complete: 25 success, 0 failed in 22.4s (1.1 tokens/sec)
+📈 Total progress: 76075 minted, 0 failed, 23925 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 37/993: 25 tokens
+🎯 Range: 276076 to 276100
+  🎨 276080: 0xaaebba05... (nonce: 276124)
+  🎨 276079: 0xaab35307... (nonce: 276123)
+  🎨 276078: 0xcca24924... (nonce: 276122)
+  🎨 276076: 0x086f69b3... (nonce: 276120)
+  🎨 276077: 0xe768f9bf... (nonce: 276121)
+  ✅ 276076: Block 218076
+  ✅ 276078: Block 218076
+  🎨 276081: 0xe398643c... (nonce: 276125)
+  🎨 276082: 0x8bf9fc7a... (nonce: 276126)
+  ✅ 276080: Block 218076
+  ✅ 276079: Block 218076
+  ✅ 276082: Block 218077
+  ✅ 276077: Block 218076
+  ✅ 276081: Block 218077
+  🎨 276083: 0x54f95a44... (nonce: 276127)
+  🎨 276084: 0x7bf23fa0... (nonce: 276128)
+  🎨 276085: 0xe21296dc... (nonce: 276129)
+  🎨 276086: 0x9c26a0a8... (nonce: 276130)
+  🎨 276087: 0x7d0af9d9... (nonce: 276131)
+  ✅ 276084: Block 218078
+  ✅ 276083: Block 218078
+  ✅ 276085: Block 218078
+  🎨 276088: 0x0ad70a02... (nonce: 276132)
+  🎨 276089: 0x6d8a1ca5... (nonce: 276133)
+  🎨 276090: 0x17f862e6... (nonce: 276134)
+  ✅ 276088: Block 218079
+  ✅ 276089: Block 218079
+  ✅ 276087: Block 218079
+  ✅ 276090: Block 218079
+  ✅ 276086: Block 218079
+  🎨 276091: 0x9846ac9b... (nonce: 276135)
+  🎨 276092: 0xb2adfc62... (nonce: 276136)
+  🎨 276093: 0x402db9c7... (nonce: 276137)
+  🎨 276094: 0xadc5348e... (nonce: 276138)
+  🎨 276095: 0x538292ad... (nonce: 276139)
+  ✅ 276091: Block 218080
+  ✅ 276093: Block 218080
+  ✅ 276092: Block 218080
+  🎨 276096: 0x8dd483be... (nonce: 276140)
+  🎨 276098: 0x6bd89903... (nonce: 276142)
+  🎨 276097: 0x2204bf0d... (nonce: 276141)
+  ✅ 276098: Block 218081
+  ✅ 276094: Block 218081
+  ✅ 276095: Block 218081
+  ✅ 276096: Block 218081
+  ✅ 276097: Block 218081
+  🎨 276099: 0x35378529... (nonce: 276143)
+  🎨 276100: 0x538fd89c... (nonce: 276144)
+  ✅ 276099: Block 218082
+  ✅ 276100: Block 218083
+📊 Batch 37 complete: 25 success, 0 failed in 21.9s (1.1 tokens/sec)
+📈 Total progress: 76100 minted, 0 failed, 23900 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 38/993: 25 tokens
+🎯 Range: 276101 to 276125
+  🎨 276101: 0x146a85b8... (nonce: 276145)
+  🎨 276103: 0xb30a69c5... (nonce: 276147)
+  🎨 276104: 0xf42f1ca8... (nonce: 276148)
+  🎨 276105: 0x2d2d57ac... (nonce: 276149)
+  🎨 276102: 0x4bc1ae27... (nonce: 276146)
+  ✅ 276101: Block 218084
+  🎨 276106: 0x819afc4a... (nonce: 276150)
+  ✅ 276106: Block 218085
+  ✅ 276105: Block 218085
+  ✅ 276103: Block 218085
+  ✅ 276102: Block 218085
+  ✅ 276104: Block 218085
+  🎨 276107: 0x37a574c7... (nonce: 276151)
+  🎨 276109: 0x99ce8316... (nonce: 276153)
+  🎨 276110: 0x6fba51d5... (nonce: 276154)
+  🎨 276111: 0xf1f448fc... (nonce: 276155)
+  🎨 276108: 0x1706483c... (nonce: 276152)
+  ✅ 276107: Block 218086
+  🎨 276112: 0x08874636... (nonce: 276156)
+  ✅ 276112: Block 218087
+  ✅ 276108: Block 218087
+  ✅ 276111: Block 218087
+  ✅ 276110: Block 218087
+  ✅ 276109: Block 218087
+  🎨 276113: 0xcb52565a... (nonce: 276157)
+  🎨 276115: 0x40c1fa4d... (nonce: 276159)
+  🎨 276116: 0x5e67c8d1... (nonce: 276160)
+  🎨 276117: 0x6d0b3cbd... (nonce: 276161)
+  🎨 276114: 0x33a6479f... (nonce: 276158)
+  ✅ 276113: Block 218088
+  🎨 276118: 0x3d98a149... (nonce: 276162)
+  ✅ 276115: Block 218089
+  ✅ 276114: Block 218089
+  ✅ 276116: Block 218089
+  ✅ 276117: Block 218089
+  ✅ 276118: Block 218089
+  🎨 276119: 0x947bdd20... (nonce: 276163)
+  🎨 276121: 0xcfccc271... (nonce: 276165)
+  🎨 276123: 0x27bc12b3... (nonce: 276167)
+  🎨 276120: 0x789a4cb1... (nonce: 276164)
+  🎨 276122: 0x7da0ac9b... (nonce: 276166)
+  ✅ 276121: Block 218091
+  ✅ 276123: Block 218091
+  ✅ 276119: Block 218090
+  ✅ 276120: Block 218091
+  ✅ 276122: Block 218091
+  🎨 276124: 0x3ee0562e... (nonce: 276168)
+  🎨 276125: 0x53b1b91b... (nonce: 276169)
+  ✅ 276124: Block 218092
+  ✅ 276125: Block 218092
+📊 Batch 38 complete: 25 success, 0 failed in 22.7s (1.1 tokens/sec)
+📈 Total progress: 76125 minted, 0 failed, 23875 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 39/993: 25 tokens
+🎯 Range: 276126 to 276150
+  🎨 276126: 0xb28781c3... (nonce: 276170)
+  🎨 276128: 0x5f9fc48b... (nonce: 276172)
+  🎨 276129: 0x98e0e2f3... (nonce: 276173)
+  🎨 276127: 0x887716dc... (nonce: 276171)
+  🎨 276130: 0xe70e8f90... (nonce: 276174)
+  ✅ 276126: Block 218093
+  🎨 276131: 0xda6eaba5... (nonce: 276175)
+  ✅ 276128: Block 218094
+  ✅ 276127: Block 218094
+  ✅ 276129: Block 218094
+  ✅ 276131: Block 218094
+  ✅ 276130: Block 218094
+  🎨 276132: 0xe434efe0... (nonce: 276176)
+  🎨 276133: 0x2cabae15... (nonce: 276177)
+  🎨 276134: 0x74cbc4a8... (nonce: 276178)
+  🎨 276135: 0x0c9659ce... (nonce: 276179)
+  🎨 276136: 0x69f5dcf1... (nonce: 276180)
+  ✅ 276132: Block 218095
+  🎨 276137: 0x588a24ce... (nonce: 276181)
+  ✅ 276136: Block 218096
+  ✅ 276135: Block 218096
+  ✅ 276133: Block 218096
+  ✅ 276137: Block 218096
+  ✅ 276134: Block 218096
+  🎨 276139: 0xb18cbe1a... (nonce: 276183)
+  🎨 276141: 0x02260c8b... (nonce: 276185)
+  🎨 276138: 0xd886b04e... (nonce: 276182)
+  🎨 276142: 0xe9308c9a... (nonce: 276186)
+  🎨 276140: 0xf26d5c14... (nonce: 276184)
+  ✅ 276139: Block 218097
+  🎨 276143: 0xe0adcb60... (nonce: 276187)
+  ✅ 276143: Block 218098
+  ✅ 276140: Block 218098
+  ✅ 276141: Block 218098
+  ✅ 276142: Block 218098
+  ✅ 276138: Block 218097
+  🎨 276144: 0xfc843f23... (nonce: 276188)
+  🎨 276145: 0xda99e36d... (nonce: 276189)
+  🎨 276146: 0xad204f0c... (nonce: 276190)
+  🎨 276147: 0xfda6ae14... (nonce: 276191)
+  🎨 276148: 0x336b2e2a... (nonce: 276192)
+  ✅ 276145: Block 218099
+  ✅ 276144: Block 218099
+  ✅ 276146: Block 218099
+  ✅ 276148: Block 218100
+  ✅ 276147: Block 218100
+  🎨 276149: 0x15689199... (nonce: 276193)
+  🎨 276150: 0xaff2a00b... (nonce: 276194)
+  ✅ 276150: Block 218101
+  ✅ 276149: Block 218101
+📊 Batch 39 complete: 25 success, 0 failed in 23.3s (1.1 tokens/sec)
+📈 Total progress: 76150 minted, 0 failed, 23850 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 40/993: 25 tokens
+🎯 Range: 276151 to 276175
+  🎨 276151: 0x4cb2170a... (nonce: 276195)
+  🎨 276152: 0x1d84a9e6... (nonce: 276196)
+  🎨 276154: 0x8c504ca4... (nonce: 276198)
+  ✅ 276151: Block 218102
+  🎨 276153: 0x57742db3... (nonce: 276197)
+  ✅ 276152: Block 218102
+  🎨 276155: 0x88ae269f... (nonce: 276199)
+  🎨 276156: 0xe0fca62f... (nonce: 276200)
+  🎨 276157: 0xfc510044... (nonce: 276201)
+  ✅ 276155: Block 218103
+  ✅ 276153: Block 218103
+  ✅ 276154: Block 218103
+  ✅ 276156: Block 218103
+  ✅ 276157: Block 218103
+  🎨 276158: 0x3ed352f4... (nonce: 276202)
+  🎨 276159: 0x2b4e9593... (nonce: 276203)
+  🎨 276160: 0xafc5043a... (nonce: 276204)
+  🎨 276161: 0x46d46884... (nonce: 276205)
+  ✅ 276158: Block 218104
+  ✅ 276159: Block 218104
+  🎨 276162: 0x2fd8323c... (nonce: 276206)
+  🎨 276163: 0x02358242... (nonce: 276207)
+  🎨 276164: 0x26d773e6... (nonce: 276208)
+  ✅ 276162: Block 218105
+  ✅ 276164: Block 218106
+  ✅ 276160: Block 218105
+  ✅ 276161: Block 218105
+  ✅ 276163: Block 218106
+  🎨 276165: 0xb36f6e84... (nonce: 276209)
+  🎨 276166: 0x6cc1bd6a... (nonce: 276210)
+  🎨 276168: 0x4d580ce9... (nonce: 276212)
+  🎨 276167: 0x3594cd7e... (nonce: 276211)
+  🎨 276169: 0xa2612fef... (nonce: 276213)
+  ✅ 276165: Block 218107
+  🎨 276170: 0xc31de677... (nonce: 276214)
+  ✅ 276170: Block 218108
+  ✅ 276169: Block 218108
+  ✅ 276168: Block 218108
+  ✅ 276167: Block 218108
+  ✅ 276166: Block 218108
+  🎨 276172: 0xc47aa738... (nonce: 276216)
+  🎨 276173: 0xa1f955bb... (nonce: 276217)
+  🎨 276174: 0x8accf8de... (nonce: 276218)
+  🎨 276175: 0x52663214... (nonce: 276219)
+  🎨 276171: 0xc78a215b... (nonce: 276215)
+  ✅ 276171: Block 218109
+  ✅ 276173: Block 218109
+  ✅ 276172: Block 218109
+  ✅ 276174: Block 218109
+  ✅ 276175: Block 218109
+📊 Batch 40 complete: 25 success, 0 failed in 22.1s (1.1 tokens/sec)
+📈 Total progress: 76175 minted, 0 failed, 23825 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 276220
+
+📦 Batch 41/993: 25 tokens
+🎯 Range: 276176 to 276200
+  🎨 276176: 0x742fe122... (nonce: 276220)
+  🎨 276179: 0x3942c3fd... (nonce: 276223)
+  🎨 276180: 0x6dfda7e5... (nonce: 276224)
+  🎨 276177: 0x7bd06508... (nonce: 276221)
+  🎨 276178: 0x5bdc70a6... (nonce: 276222)
+  ✅ 276176: Block 218110
+  🎨 276181: 0xff40a2e6... (nonce: 276225)
+  ❌ 276177: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 276178: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 276179: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 276180: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+  ❌ 276181: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 276226
+🔢 Reset nonce sequence to: 276226
+🔢 Reset nonce sequence to: 276226
+🔢 Reset nonce sequence to: 276226
+🔢 Reset nonce sequence to: 276226
+  🔄 276177: Retry 1/8 in 3.4s
+  🔄 276178: Retry 1/8 in 3.5s
+  🔄 276179: Retry 1/8 in 3.9s
+  🔄 276180: Retry 1/8 in 3.9s
+  🔄 276181: Retry 1/8 in 3.5s
+  🎨 276177: 0x84581ccf... (nonce: 276226)
+  🎨 276178: 0x6a9586dd... (nonce: 276227)
+  🎨 276181: 0x4fa2e514... (nonce: 276228)
+  ✅ 276178: Block 218112
+  ✅ 276177: Block 218112
+  ✅ 276181: Block 218112
+  🎨 276180: 0x14cea8b6... (nonce: 276229)
+  🎨 276179: 0x393b4909... (nonce: 276230)
+  🎨 276182: 0x69f6815b... (nonce: 276231)
+  🎨 276183: 0x3be1b066... (nonce: 276232)
+  🎨 276184: 0xf251e2c8... (nonce: 276233)
+  ✅ 276179: Block 218113
+  ✅ 276180: Block 218113
+  ✅ 276183: Block 218113
+  ✅ 276182: Block 218113
+  ✅ 276184: Block 218113
+  🎨 276185: 0x88d1fe51... (nonce: 276234)
+  🎨 276186: 0xf96eadfe... (nonce: 276235)
+  🎨 276187: 0xbc843491... (nonce: 276236)
+  🎨 276189: 0x83f32d0d... (nonce: 276238)
+  🎨 276188: 0x0b548750... (nonce: 276237)
+  ✅ 276185: Block 218114
+  🎨 276190: 0x41af2fbd... (nonce: 276239)
+  ✅ 276188: Block 218115
+  ✅ 276189: Block 218115
+  ✅ 276190: Block 218116
+  ✅ 276186: Block 218115
+  ✅ 276187: Block 218115
+  🎨 276191: 0xf16d7418... (nonce: 276240)
+  🎨 276192: 0x969cbbeb... (nonce: 276241)
+  🎨 276193: 0x295ad527... (nonce: 276242)
+  🎨 276194: 0xc97cc9d3... (nonce: 276243)
+  🎨 276195: 0xdf2a5d30... (nonce: 276244)
+  ✅ 276194: Block 218117
+  ✅ 276195: Block 218117
+  ✅ 276192: Block 218117
+  ✅ 276191: Block 218117
+  ✅ 276193: Block 218117
+  🎨 276198: 0xbe53e723... (nonce: 276247)
+  🎨 276199: 0xfb8f9aaf... (nonce: 276248)
+  🎨 276197: 0x63d4a620... (nonce: 276246)
+  🎨 276196: 0x29bc1bfc... (nonce: 276245)
+  🎨 276200: 0x47ee9778... (nonce: 276249)
+  ✅ 276200: Block 218118
+  ✅ 276196: Block 218118
+  ✅ 276199: Block 218118
+  ✅ 276197: Block 218118
+  ✅ 276198: Block 218118
+📊 Batch 41 complete: 25 success, 0 failed in 101.3s (0.2 tokens/sec)
+📈 Total progress: 76200 minted, 0 failed, 23800 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 42/993: 25 tokens
+🎯 Range: 276201 to 276225
+  🎨 276202: 0xce2ae1c2... (nonce: 276251)
+  🎨 276203: 0x469468e8... (nonce: 276252)
+  🎨 276204: 0xbf35cb8a... (nonce: 276253)
+  🎨 276201: 0xa67e6a4c... (nonce: 276250)
+  🎨 276205: 0x0ff30810... (nonce: 276254)
+  ✅ 276204: Block 218119
+  ✅ 276203: Block 218119
+  ✅ 276202: Block 218119
+  ✅ 276201: Block 218119
+  🎨 276206: 0x14e561eb... (nonce: 276255)
+  🎨 276207: 0xa88fc104... (nonce: 276256)
+  🎨 276209: 0x39f1b8e8... (nonce: 276258)
+  🎨 276208: 0x4185f489... (nonce: 276257)
+  ✅ 276205: Block 218120
+  ✅ 276207: Block 218120
+  ✅ 276209: Block 218120
+  ✅ 276208: Block 218120
+  ✅ 276206: Block 218120

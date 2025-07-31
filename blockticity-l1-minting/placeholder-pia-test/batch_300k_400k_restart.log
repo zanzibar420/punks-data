@@ -1,0 +1,1373 @@
+🚀 Blockticity Batch 300k-400k Minting
+==================================================
+🎯 Token Range: 300,001 - 400,000
+⚡ Settings: 5 concurrent, 25 per batch
+✅ Loaded existing progress
+📊 Status: 7900 minted, 0 failed, 92100 pending
+
+🎯 Tokens to process: 92,100
+
+🔗 Connecting to Blockticity L1 Mainnet...
+🔄 Setting up round-robin with 2 RPC endpoints
+  1. Public RPC
+  2. Developer RPC
+✅ Connected to network: chainId 28530
+💰 Wallet balance: 999998872.539776981514810452 BTIC
+🔑 Minting from: 0xE2A506B43dF9c4e3B3c284F8cc18cF47Ac266929
+🔢 Reset nonce sequence to: 310677
+
+📦 Batch 1/3684: 25 tokens
+🎯 Range: 307901 to 307925
+  🎨 307902: 0xe100f5c8... (nonce: 310678, rpc: PUB)
+  🎨 307904: 0x5cb3fd60... (nonce: 310680, rpc: PUB)
+  🎨 307901: 0x98a646ab... (nonce: 310677, rpc: PUB)
+  🎨 307903: 0xe75e6f46... (nonce: 310679, rpc: PUB)
+  🎨 307905: 0xe1c1d7e5... (nonce: 310681, rpc: PUB)
+  ✅ 307901: Block 232513
+  🎨 307906: 0xa2a032b8... (nonce: 310682, rpc: DEV)
+  ✅ 307906: Block 232514
+  ✅ 307902: Block 232513
+  ✅ 307904: Block 232514
+  🎨 307908: 0x6b34b449... (nonce: 310684, rpc: PUB)
+  ✅ 307903: Block 232514
+  🎨 307909: 0xe08f78cd... (nonce: 310685, rpc: PUB)
+  ✅ 307905: Block 232514
+  🎨 307907: 0x76a66a24... (nonce: 310683, rpc: PUB)
+  ✅ 307907: Block 232515
+  ✅ 307909: Block 232515
+  🎨 307910: 0x09c9c0a8... (nonce: 310686, rpc: PUB)
+  🎨 307912: 0xd51a814f... (nonce: 310688, rpc: PUB)
+  🎨 307911: 0x224622bf... (nonce: 310687, rpc: PUB)
+  🎨 307913: 0x87dc78f0... (nonce: 310689, rpc: PUB)
+  ✅ 307910: Block 232516
+  ✅ 307912: Block 232516
+  ✅ 307908: Block 232515
+  🎨 307914: 0xbc1e3b56... (nonce: 310690, rpc: DEV)
+  🎨 307916: 0xe438523d... (nonce: 310692, rpc: DEV)
+  🎨 307915: 0xa0054320... (nonce: 310691, rpc: DEV)
+  ✅ 307913: Block 232516
+  ✅ 307911: Block 232516
+  🎨 307918: 0xf6850c27... (nonce: 310694, rpc: DEV)
+  🎨 307917: 0x22d275a6... (nonce: 310693, rpc: DEV)
+  ✅ 307918: Block 232519
+  ✅ 307914: Block 232517
+  ✅ 307916: Block 232518
+  🎨 307920: 0x1b525ebb... (nonce: 310696, rpc: PUB)
+  🎨 307919: 0x5fad95a9... (nonce: 310695, rpc: PUB)
+  🎨 307921: 0xe066f184... (nonce: 310697, rpc: PUB)
+  ✅ 307915: Block 232518
+  🎨 307922: 0x5bae418b... (nonce: 310698, rpc: DEV)
+  ✅ 307920: Block 232520
+  ✅ 307922: Block 232520
+  🎨 307924: 0xcf572482... (nonce: 310700, rpc: DEV)
+  ✅ 307917: Block 232519
+  ✅ 307919: Block 232520
+  🎨 307923: 0x8f78984d... (nonce: 310699, rpc: PUB)
+  ✅ 307921: Block 232520
+  ✅ 307923: Block 232521
+  🎨 307925: 0x96897505... (nonce: 310701, rpc: PUB)
+  ✅ 307924: Block 232521
+  ✅ 307925: Block 232522
+📊 Batch 1 complete: 25 success, 0 failed in 25.7s (1.0 tokens/sec)
+📈 Total progress: 7925 minted, 0 failed, 92075 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 2/3684: 25 tokens
+🎯 Range: 307926 to 307950
+  🎨 307926: 0x0a4c7867... (nonce: 310702, rpc: DEV)
+  🎨 307928: 0x1a2890fa... (nonce: 310704, rpc: DEV)
+  ✅ 307926: Block 232523
+  🎨 307930: 0x0e24059e... (nonce: 310706, rpc: PUB)
+  🎨 307927: 0x833c44a2... (nonce: 310703, rpc: PUB)
+  🎨 307929: 0x7920b9c2... (nonce: 310705, rpc: PUB)
+  🎨 307931: 0x7f855db2... (nonce: 310707, rpc: PUB)
+  ✅ 307928: Block 232524
+  ✅ 307930: Block 232524
+  🎨 307932: 0xa8fc1d64... (nonce: 310708, rpc: PUB)
+  ✅ 307931: Block 232524
+  ✅ 307929: Block 232524
+  ✅ 307927: Block 232524
+  🎨 307933: 0x800593a8... (nonce: 310709, rpc: DEV)
+  🎨 307934: 0x8acb3327... (nonce: 310710, rpc: DEV)
+  🎨 307936: 0xeab2f8f0... (nonce: 310712, rpc: DEV)
+  🎨 307935: 0x7273b9fe... (nonce: 310711, rpc: DEV)
+  ✅ 307936: Block 232526
+  ✅ 307934: Block 232526
+  ✅ 307932: Block 232525
+  🎨 307938: 0x50fb9abe... (nonce: 310714, rpc: PUB)
+  ✅ 307935: Block 232526
+  ✅ 307933: Block 232526
+  🎨 307937: 0xa6c4bb14... (nonce: 310713, rpc: PUB)
+  🎨 307939: 0xb7b711bd... (nonce: 310715, rpc: PUB)
+  ✅ 307937: Block 232527
+  ✅ 307939: Block 232527
+  🎨 307940: 0x2b1a4dd7... (nonce: 310716, rpc: PUB)
+  🎨 307941: 0x5fef7a2a... (nonce: 310717, rpc: PUB)
+  🎨 307942: 0x9b5e7591... (nonce: 310718, rpc: PUB)
+  🎨 307943: 0x81be94c4... (nonce: 310719, rpc: PUB)
+  ✅ 307940: Block 232528
+  ✅ 307942: Block 232528
+  ✅ 307938: Block 232527
+  🎨 307944: 0x3c65cb6d... (nonce: 310720, rpc: DEV)
+  🎨 307946: 0x5eb710b9... (nonce: 310722, rpc: DEV)
+  🎨 307945: 0x47243721... (nonce: 310721, rpc: DEV)
+  ✅ 307941: Block 232528
+  ✅ 307943: Block 232528
+  🎨 307948: 0x527fc82d... (nonce: 310724, rpc: DEV)
+  🎨 307947: 0x0bdae232... (nonce: 310723, rpc: DEV)
+  ✅ 307948: Block 232530
+  ✅ 307946: Block 232530
+  ✅ 307944: Block 232529
+  🎨 307950: 0x05b42be0... (nonce: 310726, rpc: DEV)
+  ✅ 307945: Block 232530
+  🎨 307949: 0xd9e9e96e... (nonce: 310725, rpc: DEV)
+  ✅ 307947: Block 232530
+  ✅ 307949: Block 232531
+  ✅ 307950: Block 232531
+📊 Batch 2 complete: 25 success, 0 failed in 24.0s (1.0 tokens/sec)
+📈 Total progress: 7950 minted, 0 failed, 92050 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 3/3684: 25 tokens
+🎯 Range: 307951 to 307975
+  🎨 307951: 0x1bba92ad... (nonce: 310727, rpc: PUB)
+  ✅ 307951: Block 232532
+  🎨 307953: 0x156e658b... (nonce: 310729, rpc: DEV)
+  🎨 307952: 0xd19bfb6b... (nonce: 310728, rpc: DEV)
+  🎨 307954: 0x37c63bc3... (nonce: 310730, rpc: DEV)
+  🎨 307955: 0x7b9f1039... (nonce: 310731, rpc: DEV)
+  🎨 307956: 0x64bc8c51... (nonce: 310732, rpc: DEV)
+  ✅ 307954: Block 232533
+  ✅ 307956: Block 232533
+  ✅ 307952: Block 232533
+  ✅ 307955: Block 232533
+  ✅ 307953: Block 232533
+  🎨 307958: 0xd96251b2... (nonce: 310734, rpc: PUB)
+  🎨 307957: 0x234646a5... (nonce: 310733, rpc: PUB)
+  🎨 307959: 0xa5a8d66a... (nonce: 310735, rpc: PUB)
+  ✅ 307957: Block 232534
+  🎨 307960: 0xb13dfdce... (nonce: 310736, rpc: DEV)
+  🎨 307962: 0x8a981c58... (nonce: 310738, rpc: DEV)
+  🎨 307961: 0x1258d0b9... (nonce: 310737, rpc: DEV)
+  ✅ 307958: Block 232534
+  ✅ 307960: Block 232535
+  ✅ 307962: Block 232535
+  🎨 307964: 0x57364170... (nonce: 310740, rpc: PUB)
+  ✅ 307959: Block 232535
+  ✅ 307961: Block 232535
+  🎨 307963: 0x1dbcb3fd... (nonce: 310739, rpc: PUB)
+  🎨 307965: 0x154a8973... (nonce: 310741, rpc: PUB)
+  ✅ 307963: Block 232536
+  ✅ 307965: Block 232536
+  🎨 307966: 0x61a6a431... (nonce: 310742, rpc: PUB)
+  🎨 307968: 0x15557176... (nonce: 310744, rpc: PUB)
+  🎨 307967: 0xc66d71ec... (nonce: 310743, rpc: PUB)
+  🎨 307969: 0x9f2ad3b2... (nonce: 310745, rpc: PUB)
+  ✅ 307964: Block 232536
+  ✅ 307966: Block 232537
+  ✅ 307968: Block 232537
+  🎨 307972: 0xc37f4891... (nonce: 310748, rpc: DEV)
+  🎨 307970: 0x4aff3f5d... (nonce: 310746, rpc: DEV)
+  🎨 307971: 0xe9d23b28... (nonce: 310747, rpc: DEV)
+  ✅ 307969: Block 232537
+  ✅ 307967: Block 232537
+  🎨 307974: 0xe4c83323... (nonce: 310750, rpc: DEV)
+  🎨 307973: 0x6a1e88c8... (nonce: 310749, rpc: DEV)
+  ✅ 307972: Block 232539
+  ✅ 307970: Block 232538
+  ✅ 307974: Block 232539
+  ✅ 307971: Block 232539
+  ✅ 307973: Block 232539
+  🎨 307975: 0xf31b67aa... (nonce: 310751, rpc: PUB)
+  ✅ 307975: Block 232540
+📊 Batch 3 complete: 25 success, 0 failed in 20.2s (1.2 tokens/sec)
+📈 Total progress: 7975 minted, 0 failed, 92025 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 4/3684: 25 tokens
+🎯 Range: 307976 to 308000
+  🎨 307976: 0x19a0419c... (nonce: 310752, rpc: DEV)
+  🎨 307978: 0x46c0bbba... (nonce: 310754, rpc: DEV)
+  ✅ 307976: Block 232541
+  🎨 307980: 0xba9b85a6... (nonce: 310756, rpc: PUB)
+  🎨 307977: 0x9168e766... (nonce: 310753, rpc: PUB)
+  🎨 307979: 0x46e6242c... (nonce: 310755, rpc: PUB)
+  🎨 307981: 0x0e21c649... (nonce: 310757, rpc: PUB)
+  ✅ 307978: Block 232542
+  ✅ 307980: Block 232542
+  🎨 307982: 0x344bc27b... (nonce: 310758, rpc: PUB)
+  ✅ 307982: Block 232543
+  ✅ 307977: Block 232542
+  ✅ 307981: Block 232542
+  ✅ 307979: Block 232542
+  🎨 307983: 0x44df59fd... (nonce: 310759, rpc: PUB)
+  🎨 307986: 0xb92f8a4a... (nonce: 310762, rpc: PUB)
+  🎨 307984: 0x3254e8eb... (nonce: 310760, rpc: PUB)
+  🎨 307985: 0x7a0b20d0... (nonce: 310761, rpc: PUB)
+  🎨 307987: 0x8430ab29... (nonce: 310763, rpc: PUB)
+  ✅ 307984: Block 232544
+  ✅ 307986: Block 232544
+  🎨 307988: 0x75895cae... (nonce: 310764, rpc: PUB)
+  ✅ 307985: Block 232544
+  ✅ 307983: Block 232544
+  ✅ 307987: Block 232544
+  🎨 307989: 0x64c09ceb... (nonce: 310765, rpc: DEV)
+  🎨 307992: 0xb0e322f8... (nonce: 310768, rpc: DEV)
+  🎨 307990: 0x483109e1... (nonce: 310766, rpc: DEV)
+  🎨 307991: 0x17e002b1... (nonce: 310767, rpc: DEV)
+  ✅ 307992: Block 232546
+  ✅ 307990: Block 232546
+  ✅ 307988: Block 232545
+  🎨 307994: 0x5e93a2b8... (nonce: 310770, rpc: PUB)
+  ✅ 307989: Block 232546
+  🎨 307993: 0x50006be5... (nonce: 310769, rpc: PUB)
+  🎨 307995: 0xab528f6f... (nonce: 310771, rpc: PUB)
+  ✅ 307991: Block 232546
+  ✅ 307995: Block 232547
+  ✅ 307993: Block 232547
+  🎨 307998: 0x7cc45668... (nonce: 310774, rpc: PUB)
+  🎨 307996: 0xa81c4550... (nonce: 310772, rpc: PUB)
+  🎨 307997: 0xc1ac853d... (nonce: 310773, rpc: PUB)
+  🎨 307999: 0x14471e2d... (nonce: 310775, rpc: PUB)
+  ✅ 307998: Block 232548
+  ✅ 307996: Block 232548
+  ✅ 307994: Block 232547
+  🎨 308000: 0xf928c171... (nonce: 310776, rpc: DEV)
+  ✅ 307997: Block 232548
+  ✅ 307999: Block 232548
+  ✅ 308000: Block 232549
+📊 Batch 4 complete: 25 success, 0 failed in 24.4s (1.0 tokens/sec)
+📈 Total progress: 8000 minted, 0 failed, 92000 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 5/3684: 25 tokens
+🎯 Range: 308001 to 308025
+  🎨 308004: 0xe91bcfae... (nonce: 310780, rpc: PUB)
+  🎨 308002: 0x63eefa63... (nonce: 310778, rpc: PUB)
+  🎨 308003: 0x68a7e788... (nonce: 310779, rpc: PUB)
+  🎨 308001: 0x706933c0... (nonce: 310777, rpc: PUB)
+  🎨 308005: 0x7a2eb2ea... (nonce: 310781, rpc: PUB)
+  ✅ 308003: Block 232550
+  ✅ 308001: Block 232550
+  🎨 308006: 0xaa61ed96... (nonce: 310782, rpc: PUB)
+  🎨 308007: 0x8a18e9ab... (nonce: 310783, rpc: PUB)
+  ✅ 308007: Block 232551
+  🎨 308008: 0x330fb2c3... (nonce: 310784, rpc: DEV)
+  ✅ 308006: Block 232551
+  ✅ 308002: Block 232550
+  ✅ 308004: Block 232550
+  ✅ 308008: Block 232552
+  🎨 308010: 0xa0969565... (nonce: 310786, rpc: DEV)
+  🎨 308009: 0x200c333f... (nonce: 310785, rpc: DEV)
+  🎨 308012: 0xb4f7a5c6... (nonce: 310788, rpc: DEV)
+  🎨 308011: 0x3d33a637... (nonce: 310787, rpc: DEV)
+  ✅ 308005: Block 232551
+  🎨 308013: 0xa815134d... (nonce: 310789, rpc: PUB)
+  ✅ 308010: Block 232553
+  ✅ 308012: Block 232553
+  ✅ 308011: Block 232553
+  ✅ 308009: Block 232553
+  ✅ 308013: Block 232554
+  🎨 308014: 0xa2905a03... (nonce: 310790, rpc: DEV)
+  🎨 308018: 0xe944dc8b... (nonce: 310794, rpc: DEV)
+  🎨 308016: 0x74350912... (nonce: 310792, rpc: DEV)
+  🎨 308015: 0x7e59fa45... (nonce: 310791, rpc: DEV)
+  🎨 308017: 0x9e2a020b... (nonce: 310793, rpc: DEV)
+  ✅ 308016: Block 232556
+  ✅ 308014: Block 232555
+  ✅ 308018: Block 232556
+  🎨 308020: 0xe3af156c... (nonce: 310796, rpc: PUB)
+  🎨 308019: 0x75844412... (nonce: 310795, rpc: PUB)
+  🎨 308021: 0x297d68ca... (nonce: 310797, rpc: PUB)
+  ✅ 308017: Block 232556
+  ✅ 308015: Block 232556
+  ✅ 308021: Block 232557
+  ✅ 308019: Block 232557
+  🎨 308022: 0x875e6c08... (nonce: 310798, rpc: PUB)
+  🎨 308024: 0x87363683... (nonce: 310800, rpc: PUB)
+  🎨 308023: 0x0c3bda90... (nonce: 310799, rpc: PUB)
+  🎨 308025: 0x31877c51... (nonce: 310801, rpc: PUB)
+  ✅ 308020: Block 232557
+  ✅ 308022: Block 232558
+  ✅ 308024: Block 232558
+  ✅ 308023: Block 232558
+  ✅ 308025: Block 232558
+📊 Batch 5 complete: 25 success, 0 failed in 20.7s (1.2 tokens/sec)
+📈 Total progress: 8025 minted, 0 failed, 91975 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 310802
+
+📦 Batch 6/3684: 25 tokens
+🎯 Range: 308026 to 308050
+  🎨 308029: 0xcdccaa73... (nonce: 310805, rpc: DEV)
+  🎨 308027: 0xa0eff0e2... (nonce: 310803, rpc: DEV)
+  🎨 308026: 0x6225696c... (nonce: 310802, rpc: DEV)
+  🎨 308028: 0xb035fbdf... (nonce: 310804, rpc: DEV)
+  🎨 308030: 0x3f113352... (nonce: 310806, rpc: DEV)
+  ✅ 308027: Block 232559
+  🎨 308031: 0x2d77213c... (nonce: 310807, rpc: PUB)
+  ✅ 308026: Block 232559
+  ✅ 308028: Block 232559
+  ✅ 308029: Block 232559
+  ✅ 308030: Block 232560
+  🎨 308034: 0x1d2f3a66... (nonce: 310810, rpc: PUB)
+  🎨 308032: 0xc9471f28... (nonce: 310808, rpc: PUB)
+  ✅ 308032: Block 232561
+  🎨 308033: 0xd872b01c... (nonce: 310809, rpc: DEV)
+  🎨 308035: 0x7c696c23... (nonce: 310811, rpc: DEV)
+  🎨 308036: 0x37dafa20... (nonce: 310812, rpc: DEV)
+  ✅ 308031: Block 232560
+  ✅ 308033: Block 232562
+  ✅ 308035: Block 232562
+  ✅ 308034: Block 232562
+  🎨 308038: 0xe273417c... (nonce: 310814, rpc: DEV)
+  🎨 308040: 0xaa00af8a... (nonce: 310816, rpc: DEV)
+  ✅ 308036: Block 232562
+  🎨 308039: 0xc52ff37c... (nonce: 310815, rpc: PUB)
+  🎨 308037: 0x75c980bd... (nonce: 310813, rpc: PUB)
+  ✅ 308037: Block 232563
+  🎨 308042: 0xd2a53297... (nonce: 310818, rpc: DEV)
+  🎨 308041: 0x88008c00... (nonce: 310817, rpc: DEV)
+  ✅ 308042: Block 232564
+  ✅ 308040: Block 232563
+  ✅ 308038: Block 232563
+  🎨 308044: 0x8faf68f9... (nonce: 310820, rpc: PUB)
+  🎨 308043: 0x36859a2f... (nonce: 310819, rpc: PUB)
+  🎨 308045: 0xf04faa7a... (nonce: 310821, rpc: PUB)
+  ✅ 308043: Block 232565
+  ✅ 308041: Block 232564
+  ✅ 308039: Block 232563
+  🎨 308048: 0xedcc46a8... (nonce: 310824, rpc: DEV)
+  🎨 308046: 0x62a7b276... (nonce: 310822, rpc: DEV)
+  🎨 308047: 0x38a600a2... (nonce: 310823, rpc: DEV)
+  ✅ 308046: Block 232566
+  ✅ 308048: Block 232566
+  ✅ 308047: Block 232566
+  ✅ 308045: Block 232566
+  ✅ 308044: Block 232565
+  🎨 308049: 0xf6ca20cb... (nonce: 310825, rpc: DEV)
+  🎨 308050: 0xcb3f8bf8... (nonce: 310826, rpc: DEV)
+  ✅ 308050: Block 232568
+  ✅ 308049: Block 232567
+📊 Batch 6 complete: 25 success, 0 failed in 23.8s (1.1 tokens/sec)
+📈 Total progress: 8050 minted, 0 failed, 91950 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 7/3684: 25 tokens
+🎯 Range: 308051 to 308075
+  🎨 308052: 0x65cd75b6... (nonce: 310828, rpc: PUB)
+  🎨 308054: 0xb102e734... (nonce: 310830, rpc: PUB)
+  🎨 308051: 0x3d2331ea... (nonce: 310827, rpc: PUB)
+  🎨 308053: 0x1b26a2fb... (nonce: 310829, rpc: PUB)
+  🎨 308055: 0x1c897c4c... (nonce: 310831, rpc: PUB)
+  ✅ 308051: Block 232569
+  🎨 308056: 0x1d7c90d6... (nonce: 310832, rpc: DEV)
+  ✅ 308056: Block 232570
+  ✅ 308052: Block 232569
+  ✅ 308054: Block 232569
+  🎨 308058: 0xfeed49c5... (nonce: 310834, rpc: PUB)
+  ✅ 308053: Block 232569
+  ✅ 308055: Block 232569
+  🎨 308060: 0x095583fc... (nonce: 310836, rpc: PUB)
+  🎨 308057: 0x44a6d4ea... (nonce: 310833, rpc: PUB)
+  🎨 308059: 0x0f783392... (nonce: 310835, rpc: PUB)
+  ✅ 308057: Block 232571
+  🎨 308061: 0x36451c91... (nonce: 310837, rpc: DEV)
+  🎨 308062: 0x86fed64f... (nonce: 310838, rpc: DEV)
+  ✅ 308062: Block 232572
+  ✅ 308060: Block 232572
+  ✅ 308058: Block 232571
+  🎨 308064: 0x5f7463d8... (nonce: 310840, rpc: PUB)
+  🎨 308063: 0x44e9efff... (nonce: 310839, rpc: PUB)
+  🎨 308065: 0x2cb778ad... (nonce: 310841, rpc: PUB)
+  ✅ 308061: Block 232572
+  ✅ 308059: Block 232572
+  🎨 308066: 0x251740da... (nonce: 310842, rpc: PUB)
+  🎨 308067: 0x9b4e55a7... (nonce: 310843, rpc: PUB)
+  ✅ 308066: Block 232574
+  ✅ 308064: Block 232573
+  🎨 308068: 0x27af6d22... (nonce: 310844, rpc: PUB)
+  ✅ 308065: Block 232573
+  ✅ 308067: Block 232574
+  ✅ 308063: Block 232573
+  🎨 308069: 0x9c939aed... (nonce: 310845, rpc: DEV)
+  🎨 308070: 0x253f07f3... (nonce: 310846, rpc: DEV)
+  🎨 308072: 0xc06e8a0f... (nonce: 310848, rpc: DEV)
+  🎨 308071: 0x7e96f3b4... (nonce: 310847, rpc: DEV)
+  ✅ 308070: Block 232576
+  ✅ 308072: Block 232576
+  ✅ 308068: Block 232575
+  🎨 308074: 0x6fb315b6... (nonce: 310850, rpc: PUB)
+  🎨 308073: 0x727bf824... (nonce: 310849, rpc: PUB)
+  🎨 308075: 0x5e6e803a... (nonce: 310851, rpc: PUB)
+  ✅ 308071: Block 232576
+  ✅ 308069: Block 232576
+  ✅ 308074: Block 232577
+  ✅ 308073: Block 232577
+  ✅ 308075: Block 232578
+📊 Batch 7 complete: 25 success, 0 failed in 24.7s (1.0 tokens/sec)
+📈 Total progress: 8075 minted, 0 failed, 91925 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 8/3684: 25 tokens
+🎯 Range: 308076 to 308100
+  🎨 308077: 0xef58b3d5... (nonce: 310853, rpc: DEV)
+  🎨 308079: 0xf9822fd5... (nonce: 310855, rpc: DEV)
+  🎨 308078: 0x6e5bba7a... (nonce: 310854, rpc: DEV)
+  🎨 308076: 0xcad8ff4e... (nonce: 310852, rpc: DEV)
+  🎨 308080: 0xe33e71c3... (nonce: 310856, rpc: DEV)
+  ✅ 308080: Block 232580
+  ✅ 308078: Block 232579
+  ✅ 308076: Block 232579
+  🎨 308082: 0xfb81140a... (nonce: 310858, rpc: PUB)
+  ✅ 308079: Block 232579
+  ✅ 308077: Block 232579
+  🎨 308081: 0x1031caa6... (nonce: 310857, rpc: PUB)
+  🎨 308084: 0x7c5278b5... (nonce: 310860, rpc: PUB)
+  🎨 308083: 0xd8faa33f... (nonce: 310859, rpc: PUB)
+  ✅ 308081: Block 232581
+  🎨 308085: 0xd683b95f... (nonce: 310861, rpc: DEV)
+  🎨 308086: 0xafb1fc53... (nonce: 310862, rpc: DEV)
+  ✅ 308084: Block 232582
+  ✅ 308086: Block 232582
+  ✅ 308082: Block 232581
+  🎨 308088: 0xbb59ddc9... (nonce: 310864, rpc: PUB)
+  🎨 308089: 0xa996ac11... (nonce: 310865, rpc: PUB)
+  🎨 308087: 0xc6a04238... (nonce: 310863, rpc: PUB)
+  ✅ 308087: Block 232583
+  ✅ 308089: Block 232583
+  ✅ 308085: Block 232582
+  ✅ 308083: Block 232582
+  🎨 308092: 0x99f1ba92... (nonce: 310868, rpc: PUB)
+  🎨 308090: 0x6d99666c... (nonce: 310866, rpc: PUB)
+  🎨 308093: 0x5a950c92... (nonce: 310869, rpc: PUB)
+  🎨 308091: 0xf0403031... (nonce: 310867, rpc: PUB)
+  ✅ 308092: Block 232584
+  ✅ 308090: Block 232584
+  ✅ 308088: Block 232583
+  🎨 308094: 0xd9432b50... (nonce: 310870, rpc: DEV)
+  🎨 308096: 0x8b395792... (nonce: 310872, rpc: DEV)
+  🎨 308095: 0xe0f60718... (nonce: 310871, rpc: DEV)
+  ✅ 308091: Block 232584
+  ✅ 308093: Block 232584
+  🎨 308098: 0x1aad0752... (nonce: 310874, rpc: DEV)
+  🎨 308097: 0xfc91050c... (nonce: 310873, rpc: DEV)
+  ✅ 308098: Block 232587
+  ✅ 308094: Block 232585
+  ✅ 308096: Block 232586
+  🎨 308100: 0x92d25d69... (nonce: 310876, rpc: DEV)
+  🎨 308099: 0x1d85de37... (nonce: 310875, rpc: DEV)
+  ✅ 308097: Block 232587
+  ✅ 308095: Block 232586
+  ✅ 308100: Block 232588
+  ✅ 308099: Block 232588
+📊 Batch 8 complete: 25 success, 0 failed in 24.7s (1.0 tokens/sec)
+📈 Total progress: 8100 minted, 0 failed, 91900 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 9/3684: 25 tokens
+🎯 Range: 308101 to 308125
+  🎨 308102: 0x5d561752... (nonce: 310878, rpc: PUB)
+  🎨 308104: 0x4c400c7a... (nonce: 310880, rpc: PUB)
+  🎨 308101: 0xc4ee81f2... (nonce: 310877, rpc: PUB)
+  🎨 308103: 0xb073f332... (nonce: 310879, rpc: PUB)
+  🎨 308105: 0x8cc1e66f... (nonce: 310881, rpc: PUB)
+  ✅ 308103: Block 232589
+  ✅ 308101: Block 232589
+  🎨 308106: 0xa4ac0579... (nonce: 310882, rpc: PUB)
+  🎨 308107: 0x7f7c8294... (nonce: 310883, rpc: PUB)
+  ✅ 308106: Block 232590
+  ✅ 308104: Block 232589
+  ✅ 308102: Block 232589
+  🎨 308108: 0x376022f3... (nonce: 310884, rpc: DEV)
+  🎨 308110: 0x9eb1ad18... (nonce: 310886, rpc: DEV)
+  ✅ 308105: Block 232589
+  ✅ 308107: Block 232590
+  🎨 308109: 0x4563ed71... (nonce: 310885, rpc: DEV)
+  🎨 308112: 0x48a9f206... (nonce: 310888, rpc: DEV)
+  🎨 308111: 0x014e28c9... (nonce: 310887, rpc: DEV)
+  ✅ 308112: Block 232592
+  ✅ 308110: Block 232592
+  ✅ 308108: Block 232591
+  🎨 308114: 0x48ff9f99... (nonce: 310890, rpc: PUB)
+  ✅ 308111: Block 232592
+  ✅ 308109: Block 232592
+  🎨 308113: 0xe7f8114a... (nonce: 310889, rpc: PUB)
+  🎨 308115: 0x6e300156... (nonce: 310891, rpc: PUB)
+  ✅ 308115: Block 232593
+  ✅ 308113: Block 232593
+  🎨 308116: 0x5c202987... (nonce: 310892, rpc: PUB)
+  🎨 308118: 0xd87f207c... (nonce: 310894, rpc: PUB)
+  🎨 308117: 0x725a0a9c... (nonce: 310893, rpc: PUB)
+  🎨 308119: 0x6249e651... (nonce: 310895, rpc: PUB)
+  ✅ 308118: Block 232594
+  ✅ 308114: Block 232593
+  ✅ 308116: Block 232594
+  🎨 308122: 0x51c6f407... (nonce: 310898, rpc: DEV)
+  🎨 308120: 0x875a4aea... (nonce: 310896, rpc: DEV)
+  🎨 308121: 0x9e6c0473... (nonce: 310897, rpc: DEV)
+  ✅ 308119: Block 232594
+  ✅ 308117: Block 232594
+  🎨 308123: 0x686c07cf... (nonce: 310899, rpc: DEV)
+  🎨 308124: 0xda4660b3... (nonce: 310900, rpc: DEV)
+  ✅ 308120: Block 232595
+  ✅ 308124: Block 232597
+  ✅ 308122: Block 232596
+  🎨 308125: 0x2a58fd81... (nonce: 310901, rpc: PUB)
+  ✅ 308121: Block 232596
+  ✅ 308123: Block 232597
+  ✅ 308125: Block 232598
+📊 Batch 9 complete: 25 success, 0 failed in 24.6s (1.0 tokens/sec)
+📈 Total progress: 8125 minted, 0 failed, 91875 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 10/3684: 25 tokens
+🎯 Range: 308126 to 308150
+  🎨 308126: 0x895cb461... (nonce: 310902, rpc: DEV)
+  🎨 308128: 0x1d31ad4b... (nonce: 310904, rpc: DEV)
+  🎨 308127: 0x09da195b... (nonce: 310903, rpc: DEV)
+  🎨 308129: 0xe9c2b2c9... (nonce: 310905, rpc: DEV)
+  🎨 308130: 0xa8f7325d... (nonce: 310906, rpc: DEV)
+  ✅ 308127: Block 232599
+  ✅ 308129: Block 232599
+  🎨 308132: 0x5ed26617... (nonce: 310908, rpc: DEV)
+  🎨 308131: 0x29dcacfe... (nonce: 310907, rpc: DEV)
+  ✅ 308132: Block 232600
+  ✅ 308130: Block 232600
+  ✅ 308126: Block 232599
+  ✅ 308128: Block 232599
+  🎨 308134: 0x40121100... (nonce: 310910, rpc: DEV)
+  🎨 308136: 0xe02a7f74... (nonce: 310912, rpc: DEV)
+  🎨 308133: 0x4b319528... (nonce: 310909, rpc: DEV)
+  🎨 308135: 0x46136418... (nonce: 310911, rpc: DEV)
+  ✅ 308133: Block 232601
+  ✅ 308135: Block 232601
+  🎨 308138: 0xb304f1e8... (nonce: 310914, rpc: DEV)
+  ✅ 308131: Block 232600
+  🎨 308137: 0x38ebab4d... (nonce: 310913, rpc: PUB)
+  🎨 308139: 0x7e8e3c13... (nonce: 310915, rpc: PUB)
+  ✅ 308139: Block 232602
+  🎨 308140: 0x3ca7d610... (nonce: 310916, rpc: DEV)
+  ✅ 308138: Block 232602
+  ✅ 308136: Block 232601
+  ✅ 308134: Block 232601
+  ✅ 308140: Block 232603
+  🎨 308144: 0x9c1f2ceb... (nonce: 310920, rpc: DEV)
+  🎨 308142: 0x150a3bf8... (nonce: 310918, rpc: DEV)
+  🎨 308143: 0xdfb67aa9... (nonce: 310919, rpc: DEV)
+  🎨 308141: 0x90d989cf... (nonce: 310917, rpc: DEV)
+  ✅ 308137: Block 232602
+  🎨 308145: 0xd2b6cc18... (nonce: 310921, rpc: PUB)
+  ✅ 308144: Block 232604
+  ✅ 308142: Block 232604
+  🎨 308146: 0x0a17c339... (nonce: 310922, rpc: PUB)
+  🎨 308147: 0xb759e778... (nonce: 310923, rpc: PUB)
+  ✅ 308147: Block 232606
+  ✅ 308143: Block 232604
+  ✅ 308141: Block 232604
+  ✅ 308145: Block 232605
+  🎨 308148: 0xef42d397... (nonce: 310924, rpc: DEV)
+  🎨 308150: 0xff289d1a... (nonce: 310926, rpc: DEV)
+  🎨 308149: 0xab1eab27... (nonce: 310925, rpc: DEV)
+  ✅ 308148: Block 232607
+  ✅ 308146: Block 232606
+  ✅ 308150: Block 232607
+  ✅ 308149: Block 232607
+📊 Batch 10 complete: 25 success, 0 failed in 21.4s (1.2 tokens/sec)
+📈 Total progress: 8150 minted, 0 failed, 91850 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 310927
+
+📦 Batch 11/3684: 25 tokens
+🎯 Range: 308151 to 308175
+  🎨 308153: 0xd5ba4dbe... (nonce: 310929, rpc: PUB)
+  🎨 308155: 0xae94c14c... (nonce: 310931, rpc: PUB)
+  🎨 308151: 0x17dd8bd5... (nonce: 310927, rpc: PUB)
+  🎨 308152: 0x6f11d79f... (nonce: 310928, rpc: PUB)
+  🎨 308154: 0x5a5a3d6f... (nonce: 310930, rpc: PUB)
+  ✅ 308151: Block 232608
+  🎨 308156: 0xcb290139... (nonce: 310932, rpc: DEV)
+  ✅ 308154: Block 232609
+  ✅ 308152: Block 232609
+  ✅ 308156: Block 232609
+  ✅ 308155: Block 232609
+  🎨 308158: 0xc15a6ee2... (nonce: 310934, rpc: DEV)
+  ✅ 308153: Block 232609
+  🎨 308157: 0x00b708e8... (nonce: 310933, rpc: DEV)
+  🎨 308159: 0x14f891db... (nonce: 310935, rpc: PUB)
+  ✅ 308157: Block 232610
+  🎨 308160: 0x0e721a6c... (nonce: 310936, rpc: DEV)
+  🎨 308162: 0x56eae7fb... (nonce: 310938, rpc: DEV)
+  🎨 308161: 0x4a6159b1... (nonce: 310937, rpc: DEV)
+  ✅ 308158: Block 232610
+  ✅ 308160: Block 232611
+  ✅ 308162: Block 232611
+  🎨 308164: 0x07653799... (nonce: 310940, rpc: PUB)
+  ✅ 308161: Block 232611
+  🎨 308165: 0xf99a8616... (nonce: 310941, rpc: PUB)
+  ✅ 308159: Block 232611
+  🎨 308163: 0x5afe69c2... (nonce: 310939, rpc: PUB)
+  🎨 308166: 0xb13a52da... (nonce: 310942, rpc: PUB)
+  ✅ 308163: Block 232612
+  🎨 308168: 0x8e03c0ad... (nonce: 310944, rpc: DEV)
+  🎨 308167: 0x9874d303... (nonce: 310943, rpc: DEV)
+  ✅ 308168: Block 232613
+  ✅ 308166: Block 232613
+  ✅ 308164: Block 232612
+  🎨 308170: 0x524aa350... (nonce: 310946, rpc: PUB)
+  ✅ 308167: Block 232613
+  ✅ 308165: Block 232612
+  🎨 308171: 0x6638a267... (nonce: 310947, rpc: PUB)
+  🎨 308169: 0x5de545f6... (nonce: 310945, rpc: PUB)
+  🎨 308172: 0x5e03cf8c... (nonce: 310948, rpc: PUB)
+  ✅ 308171: Block 232614
+  ✅ 308169: Block 232614
+  🎨 308173: 0xd430f3a3... (nonce: 310949, rpc: PUB)
+  🎨 308174: 0xa3778ec5... (nonce: 310950, rpc: PUB)
+  🎨 308175: 0xd913759c... (nonce: 310951, rpc: PUB)
+  ✅ 308174: Block 232615
+  ✅ 308172: Block 232615
+  ✅ 308170: Block 232614
+  ✅ 308173: Block 232615
+  ✅ 308175: Block 232615
+📊 Batch 11 complete: 25 success, 0 failed in 20.7s (1.2 tokens/sec)
+📈 Total progress: 8175 minted, 0 failed, 91825 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 12/3684: 25 tokens
+🎯 Range: 308176 to 308200
+  🎨 308176: 0xacc5e571... (nonce: 310952, rpc: DEV)
+  🎨 308178: 0x553da9ac... (nonce: 310954, rpc: DEV)
+  🎨 308177: 0xacd63ab0... (nonce: 310953, rpc: DEV)
+  🎨 308179: 0xfe1fec56... (nonce: 310955, rpc: DEV)
+  🎨 308180: 0x963fa1df... (nonce: 310956, rpc: DEV)
+  ✅ 308180: Block 232617
+  ✅ 308178: Block 232617
+  ✅ 308176: Block 232616
+  🎨 308182: 0x42763542... (nonce: 310958, rpc: PUB)
+  ✅ 308177: Block 232617
+  ✅ 308179: Block 232617
+  🎨 308181: 0x8e64d6fb... (nonce: 310957, rpc: PUB)
+  🎨 308183: 0x70a5f76d... (nonce: 310959, rpc: PUB)
+  🎨 308184: 0xf32cfe6b... (nonce: 310960, rpc: PUB)
+  ✅ 308183: Block 232618
+  🎨 308185: 0x71ad2211... (nonce: 310961, rpc: DEV)
+  🎨 308186: 0xf4436fd9... (nonce: 310962, rpc: DEV)
+  ✅ 308186: Block 232619
+  ✅ 308184: Block 232619
+  ✅ 308182: Block 232618
+  🎨 308188: 0xe93c50aa... (nonce: 310964, rpc: PUB)
+  🎨 308187: 0x686a4405... (nonce: 310963, rpc: PUB)
+  ✅ 308185: Block 232619
+  ✅ 308181: Block 232618
+  🎨 308189: 0x291874ac... (nonce: 310965, rpc: PUB)
+  ✅ 308187: Block 232620
+  🎨 308190: 0xbebafad2... (nonce: 310966, rpc: DEV)
+  🎨 308191: 0x17c25454... (nonce: 310967, rpc: DEV)
+  🎨 308192: 0x29d9eeb1... (nonce: 310968, rpc: DEV)
+  ✅ 308190: Block 232621
+  ✅ 308192: Block 232621
+  ✅ 308188: Block 232620
+  🎨 308194: 0xfb85c126... (nonce: 310970, rpc: PUB)
+  🎨 308195: 0xeec05e61... (nonce: 310971, rpc: PUB)
+  🎨 308193: 0x3adbbf92... (nonce: 310969, rpc: PUB)
+  ✅ 308193: Block 232622
+  ✅ 308189: Block 232621
+  ✅ 308191: Block 232621
+  🎨 308196: 0xc4110a8c... (nonce: 310972, rpc: DEV)
+  🎨 308198: 0x5c958385... (nonce: 310974, rpc: DEV)
+  🎨 308197: 0x46ffc8a7... (nonce: 310973, rpc: DEV)
+  ✅ 308196: Block 232623
+  ✅ 308198: Block 232623
+  ✅ 308194: Block 232622
+  🎨 308200: 0xa76c6b96... (nonce: 310976, rpc: DEV)
+  🎨 308199: 0x7b2f23b8... (nonce: 310975, rpc: DEV)
+  ✅ 308199: Block 232624
+  ✅ 308195: Block 232623
+  ✅ 308197: Block 232623
+  ✅ 308200: Block 232624
+📊 Batch 12 complete: 25 success, 0 failed in 24.0s (1.0 tokens/sec)
+📈 Total progress: 8200 minted, 0 failed, 91800 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 13/3684: 25 tokens
+🎯 Range: 308201 to 308225
+  🎨 308201: 0xf2320212... (nonce: 310977, rpc: PUB)
+  🎨 308205: 0xc163a105... (nonce: 310981, rpc: PUB)
+  🎨 308202: 0x21a22446... (nonce: 310978, rpc: PUB)
+  🎨 308204: 0xe6948ac1... (nonce: 310980, rpc: PUB)
+  🎨 308203: 0x792e1def... (nonce: 310979, rpc: PUB)
+  ✅ 308201: Block 232625
+  🎨 308206: 0x2513dc5d... (nonce: 310982, rpc: DEV)
+  ✅ 308206: Block 232626
+  ✅ 308204: Block 232626
+  ✅ 308202: Block 232626
+  ✅ 308205: Block 232626
+  ✅ 308203: Block 232626
+  🎨 308208: 0x9f41d705... (nonce: 310984, rpc: PUB)
+  🎨 308207: 0xe853f179... (nonce: 310983, rpc: PUB)
+  🎨 308209: 0x9b851ae0... (nonce: 310985, rpc: PUB)
+  🎨 308211: 0x765766fa... (nonce: 310987, rpc: PUB)
+  🎨 308210: 0x63fb0b31... (nonce: 310986, rpc: PUB)
+  ✅ 308207: Block 232627
+  🎨 308212: 0xbb081167... (nonce: 310988, rpc: DEV)
+  ✅ 308210: Block 232628
+  ✅ 308212: Block 232628
+  ✅ 308208: Block 232627
+  🎨 308214: 0xa5e40f95... (nonce: 310990, rpc: PUB)
+  🎨 308215: 0x3f2322af... (nonce: 310991, rpc: PUB)
+  🎨 308213: 0x00e590ca... (nonce: 310989, rpc: PUB)
+  ✅ 308209: Block 232628
+  ✅ 308211: Block 232628
+  🎨 308216: 0xe1a5826e... (nonce: 310992, rpc: PUB)
+  🎨 308217: 0xbaf74804... (nonce: 310993, rpc: PUB)
+  ✅ 308216: Block 232630
+  ✅ 308214: Block 232629
+  ✅ 308213: Block 232629
+  ✅ 308217: Block 232630
+  ✅ 308215: Block 232629
+  🎨 308218: 0x04a43a79... (nonce: 310994, rpc: DEV)
+  🎨 308221: 0x4b1d20df... (nonce: 310997, rpc: DEV)
+  🎨 308219: 0xa23e8817... (nonce: 310995, rpc: DEV)
+  🎨 308220: 0xfcf56a34... (nonce: 310996, rpc: DEV)
+  🎨 308222: 0x6dcaf454... (nonce: 310998, rpc: DEV)
+  ✅ 308220: Block 232632
+  ✅ 308222: Block 232632
+  ✅ 308218: Block 232631
+  🎨 308224: 0x079944e1... (nonce: 311000, rpc: PUB)
+  🎨 308223: 0x9813a413... (nonce: 310999, rpc: PUB)
+  🎨 308225: 0xd41e0caf... (nonce: 311001, rpc: PUB)
+  ✅ 308219: Block 232632
+  ✅ 308221: Block 232632
+  ✅ 308224: Block 232633
+  ✅ 308223: Block 232633
+  ✅ 308225: Block 232634
+📊 Batch 13 complete: 25 success, 0 failed in 24.2s (1.0 tokens/sec)
+📈 Total progress: 8225 minted, 0 failed, 91775 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 14/3684: 25 tokens
+🎯 Range: 308226 to 308250
+  🎨 308228: 0xe2d3a996... (nonce: 311004, rpc: DEV)
+  🎨 308226: 0xe8da1516... (nonce: 311002, rpc: DEV)
+  ✅ 308226: Block 232635
+  🎨 308230: 0x233c9ca7... (nonce: 311006, rpc: PUB)
+  🎨 308227: 0x2c8de0a5... (nonce: 311003, rpc: PUB)
+  🎨 308229: 0x13e81ff3... (nonce: 311005, rpc: PUB)
+  🎨 308231: 0x357815c1... (nonce: 311007, rpc: PUB)
+  ✅ 308228: Block 232636
+  ✅ 308230: Block 232636
+  🎨 308232: 0x3caeb8dd... (nonce: 311008, rpc: PUB)
+  ✅ 308232: Block 232637
+  🎨 308233: 0x3b64f0fb... (nonce: 311009, rpc: DEV)
+  ✅ 308229: Block 232636
+  ✅ 308231: Block 232636
+  ✅ 308227: Block 232636
+  🎨 308234: 0x6e634264... (nonce: 311010, rpc: PUB)
+  🎨 308236: 0x62cf933d... (nonce: 311012, rpc: PUB)
+  🎨 308235: 0x7a2d18cc... (nonce: 311011, rpc: PUB)
+  🎨 308237: 0x34a01de8... (nonce: 311013, rpc: PUB)
+  ✅ 308234: Block 232638
+  ✅ 308236: Block 232638
+  🎨 308238: 0x2c8a71a2... (nonce: 311014, rpc: PUB)
+  ✅ 308238: Block 232639
+  ✅ 308235: Block 232638
+  ✅ 308237: Block 232638
+  ✅ 308233: Block 232638
+  🎨 308240: 0x8032c506... (nonce: 311016, rpc: PUB)
+  🎨 308242: 0xf4a8e7e8... (nonce: 311018, rpc: PUB)
+  🎨 308241: 0x02e29794... (nonce: 311017, rpc: PUB)
+  🎨 308239: 0xed47a9f0... (nonce: 311015, rpc: PUB)
+  🎨 308243: 0x28c7676f... (nonce: 311019, rpc: PUB)
+  ✅ 308240: Block 232640
+  ✅ 308242: Block 232640
+  🎨 308244: 0xab309c87... (nonce: 311020, rpc: PUB)
+  ✅ 308241: Block 232640
+  ✅ 308239: Block 232640
+  ✅ 308243: Block 232640
+  🎨 308245: 0xfbee5124... (nonce: 311021, rpc: PUB)
+  🎨 308248: 0xe54b8186... (nonce: 311024, rpc: DEV)
+  🎨 308246: 0x04c89f1b... (nonce: 311022, rpc: DEV)
+  🎨 308247: 0xffb1b931... (nonce: 311023, rpc: DEV)
+  ✅ 308244: Block 232641
+  ✅ 308246: Block 232642
+  ✅ 308248: Block 232642
+  🎨 308250: 0x3e497a6c... (nonce: 311026, rpc: DEV)
+  🎨 308249: 0xf7782148... (nonce: 311025, rpc: DEV)
+  ✅ 308245: Block 232642
+  ✅ 308247: Block 232642
+  ✅ 308249: Block 232643
+  ✅ 308250: Block 232643
+📊 Batch 14 complete: 25 success, 0 failed in 24.9s (1.0 tokens/sec)
+📈 Total progress: 8250 minted, 0 failed, 91750 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 15/3684: 25 tokens
+🎯 Range: 308251 to 308275
+  🎨 308252: 0x9c65cc87... (nonce: 311028, rpc: PUB)
+  🎨 308254: 0x9d9c0306... (nonce: 311030, rpc: PUB)
+  🎨 308251: 0x93ce8be8... (nonce: 311027, rpc: PUB)
+  🎨 308253: 0xd0c44182... (nonce: 311029, rpc: PUB)
+  🎨 308255: 0x007190a1... (nonce: 311031, rpc: PUB)
+  ✅ 308251: Block 232644
+  🎨 308256: 0xa32a6a82... (nonce: 311032, rpc: DEV)
+  ✅ 308256: Block 232645
+  ✅ 308254: Block 232645
+  ✅ 308252: Block 232644
+  🎨 308258: 0x203cd898... (nonce: 311034, rpc: PUB)
+  🎨 308259: 0x80940c44... (nonce: 311035, rpc: PUB)
+  🎨 308257: 0x997f8150... (nonce: 311033, rpc: PUB)
+  ✅ 308257: Block 232646
+  ✅ 308255: Block 232645
+  ✅ 308253: Block 232645
+  🎨 308260: 0xfe1c0ff7... (nonce: 311036, rpc: DEV)
+  🎨 308262: 0xa9a7e12c... (nonce: 311038, rpc: DEV)
+  🎨 308261: 0xccb39777... (nonce: 311037, rpc: DEV)
+  ✅ 308260: Block 232647
+  ✅ 308258: Block 232646
+  ✅ 308262: Block 232647
+  ✅ 308259: Block 232646
+  ✅ 308261: Block 232647
+  🎨 308264: 0x2feb0b7f... (nonce: 311040, rpc: PUB)
+  🎨 308266: 0x8a42a63d... (nonce: 311042, rpc: PUB)
+  🎨 308263: 0xf835510c... (nonce: 311039, rpc: PUB)
+  🎨 308267: 0xa05f0426... (nonce: 311043, rpc: PUB)
+  🎨 308265: 0xe01379b5... (nonce: 311041, rpc: PUB)
+  ✅ 308263: Block 232648
+  🎨 308268: 0xacf9c717... (nonce: 311044, rpc: DEV)
+  ✅ 308268: Block 232649
+  ✅ 308266: Block 232649
+  ✅ 308264: Block 232648
+  🎨 308270: 0x7a3fa9ae... (nonce: 311046, rpc: PUB)
+  ✅ 308267: Block 232649
+  ✅ 308265: Block 232649
+  🎨 308271: 0x9207eea8... (nonce: 311047, rpc: PUB)
+  🎨 308269: 0x2b3fd138... (nonce: 311045, rpc: PUB)
+  ✅ 308269: Block 232650
+  🎨 308272: 0xf10e7870... (nonce: 311048, rpc: DEV)
+  🎨 308274: 0x8589ec0c... (nonce: 311050, rpc: DEV)
+  🎨 308273: 0x783cd17b... (nonce: 311049, rpc: DEV)
+  ✅ 308272: Block 232651
+  ✅ 308274: Block 232651
+  ✅ 308270: Block 232651
+  ✅ 308271: Block 232651
+  ✅ 308273: Block 232651
+  🎨 308275: 0xea152054... (nonce: 311051, rpc: PUB)
+  ✅ 308275: Block 232652
+📊 Batch 15 complete: 25 success, 0 failed in 20.1s (1.2 tokens/sec)
+📈 Total progress: 8275 minted, 0 failed, 91725 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 311052
+
+📦 Batch 16/3684: 25 tokens
+🎯 Range: 308276 to 308300
+  🎨 308277: 0x5a919477... (nonce: 311053, rpc: DEV)
+  🎨 308279: 0xf1720408... (nonce: 311055, rpc: DEV)
+  🎨 308276: 0x4cb0ca0b... (nonce: 311052, rpc: DEV)
+  🎨 308278: 0x03f36b73... (nonce: 311054, rpc: DEV)
+  🎨 308280: 0xdf0ac663... (nonce: 311056, rpc: DEV)
+  ✅ 308279: Block 232653
+  ✅ 308277: Block 232653
+  🎨 308282: 0xc44f6e38... (nonce: 311058, rpc: DEV)
+  🎨 308281: 0x404c0824... (nonce: 311057, rpc: DEV)
+  ✅ 308282: Block 232654
+  ✅ 308276: Block 232653
+  ✅ 308280: Block 232654
+  ✅ 308278: Block 232653
+  🎨 308284: 0x3dc730a8... (nonce: 311060, rpc: DEV)
+  🎨 308286: 0xf4305780... (nonce: 311062, rpc: DEV)
+  🎨 308285: 0x24b11e29... (nonce: 311061, rpc: DEV)
+  🎨 308283: 0x97966bd0... (nonce: 311059, rpc: DEV)
+  ✅ 308285: Block 232655
+  ✅ 308283: Block 232655
+  🎨 308288: 0x876feadb... (nonce: 311064, rpc: DEV)
+  ✅ 308281: Block 232654
+  🎨 308287: 0x9bd7b556... (nonce: 311063, rpc: PUB)
+  🎨 308289: 0xbd1ffe76... (nonce: 311065, rpc: PUB)
+  ✅ 308288: Block 232656
+  ✅ 308284: Block 232655
+  ✅ 308286: Block 232655
+  🎨 308290: 0xe9cd21ad... (nonce: 311066, rpc: DEV)
+  🎨 308292: 0x985605da... (nonce: 311068, rpc: DEV)
+  🎨 308291: 0x342aa59a... (nonce: 311067, rpc: DEV)
+  ✅ 308289: Block 232656
+  ✅ 308287: Block 232656
+  🎨 308294: 0xbaed1fad... (nonce: 311070, rpc: DEV)
+  🎨 308293: 0x8f99e35f... (nonce: 311069, rpc: DEV)
+  ✅ 308292: Block 232658
+  ✅ 308294: Block 232658
+  ✅ 308290: Block 232657
+  🎨 308296: 0xe64b655e... (nonce: 311072, rpc: PUB)
+  🎨 308297: 0xd6b31bda... (nonce: 311073, rpc: PUB)
+  🎨 308295: 0x71b24e21... (nonce: 311071, rpc: PUB)
+  ✅ 308291: Block 232658
+  ✅ 308293: Block 232658
+  🎨 308298: 0x1137c661... (nonce: 311074, rpc: PUB)
+  🎨 308299: 0x81c9eb4e... (nonce: 311075, rpc: PUB)
+  ✅ 308298: Block 232660
+  ✅ 308296: Block 232659
+  ✅ 308299: Block 232660
+  ✅ 308295: Block 232659
+  ✅ 308297: Block 232659
+  🎨 308300: 0x6926b0f1... (nonce: 311076, rpc: DEV)
+  ✅ 308300: Block 232661
+📊 Batch 16 complete: 25 success, 0 failed in 24.2s (1.0 tokens/sec)
+📈 Total progress: 8300 minted, 0 failed, 91700 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 17/3684: 25 tokens
+🎯 Range: 308301 to 308325
+  🎨 308302: 0xc9953f84... (nonce: 311078, rpc: PUB)
+  🎨 308304: 0x4dde73ac... (nonce: 311080, rpc: PUB)
+  🎨 308301: 0x61116320... (nonce: 311077, rpc: PUB)
+  🎨 308303: 0xd96af268... (nonce: 311079, rpc: PUB)
+  🎨 308305: 0x601a72f9... (nonce: 311081, rpc: PUB)
+  ✅ 308301: Block 232662
+  🎨 308306: 0x4ceae9d0... (nonce: 311082, rpc: DEV)
+  ✅ 308306: Block 232663
+  ✅ 308304: Block 232663
+  ✅ 308302: Block 232663
+  🎨 308308: 0xe0457a41... (nonce: 311084, rpc: PUB)
+  ✅ 308303: Block 232663
+  ✅ 308305: Block 232663
+  🎨 308309: 0x9872fd41... (nonce: 311085, rpc: PUB)
+  🎨 308307: 0xfc23de7d... (nonce: 311083, rpc: PUB)
+  🎨 308310: 0xe075e627... (nonce: 311086, rpc: PUB)
+  ✅ 308307: Block 232664
+  🎨 308312: 0x3b3bd7d2... (nonce: 311088, rpc: DEV)
+  🎨 308311: 0xa2fa3449... (nonce: 311087, rpc: DEV)
+  ✅ 308310: Block 232665
+  ✅ 308308: Block 232664
+  ✅ 308312: Block 232665
+  🎨 308314: 0x491f6183... (nonce: 311090, rpc: PUB)
+  🎨 308315: 0xc4b6cd23... (nonce: 311091, rpc: PUB)
+  🎨 308313: 0x74365584... (nonce: 311089, rpc: PUB)
+  ✅ 308309: Block 232665
+  ✅ 308311: Block 232665
+  🎨 308316: 0x7632de02... (nonce: 311092, rpc: PUB)
+  🎨 308317: 0x4cc0bcca... (nonce: 311093, rpc: PUB)
+  ✅ 308316: Block 232667
+  ✅ 308314: Block 232666
+  🎨 308318: 0x2c314210... (nonce: 311094, rpc: PUB)
+  ✅ 308317: Block 232667
+  ✅ 308313: Block 232666
+  ✅ 308315: Block 232666
+  ✅ 308318: Block 232668
+  🎨 308319: 0x754f2508... (nonce: 311095, rpc: PUB)
+  🎨 308320: 0x2569769d... (nonce: 311096, rpc: PUB)
+  🎨 308322: 0xe20f5592... (nonce: 311098, rpc: PUB)
+  🎨 308323: 0xe3d5f432... (nonce: 311099, rpc: PUB)
+  🎨 308321: 0x569add05... (nonce: 311097, rpc: PUB)
+  ✅ 308319: Block 232669
+  ✅ 308320: Block 232669
+  ✅ 308322: Block 232669
+  ✅ 308321: Block 232669
+  ✅ 308323: Block 232669
+  🎨 308324: 0x22c500fe... (nonce: 311100, rpc: PUB)
+  🎨 308325: 0x7688f861... (nonce: 311101, rpc: PUB)
+  ✅ 308324: Block 232670
+  ✅ 308325: Block 232671
+📊 Batch 17 complete: 25 success, 0 failed in 25.4s (1.0 tokens/sec)
+📈 Total progress: 8325 minted, 0 failed, 91675 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 18/3684: 25 tokens
+🎯 Range: 308326 to 308350
+  🎨 308326: 0x3505fd4a... (nonce: 311102, rpc: DEV)
+  🎨 308328: 0x4e6f6f2e... (nonce: 311104, rpc: DEV)
+  🎨 308330: 0xfc70e486... (nonce: 311106, rpc: DEV)
+  ✅ 308326: Block 232672
+  🎨 308327: 0x179c9c2f... (nonce: 311103, rpc: PUB)
+  🎨 308329: 0x18506225... (nonce: 311105, rpc: PUB)
+  🎨 308331: 0x604d6005... (nonce: 311107, rpc: PUB)
+  ✅ 308328: Block 232673
+  ✅ 308330: Block 232673
+  🎨 308332: 0x8be129e4... (nonce: 311108, rpc: PUB)
+  ✅ 308327: Block 232673
+  ✅ 308329: Block 232673
+  ✅ 308331: Block 232673
+  🎨 308333: 0x4bd00514... (nonce: 311109, rpc: DEV)
+  🎨 308334: 0x64cc0540... (nonce: 311110, rpc: DEV)
+  🎨 308336: 0x4d17d814... (nonce: 311112, rpc: DEV)
+  🎨 308335: 0xb4fd784d... (nonce: 311111, rpc: DEV)
+  ✅ 308336: Block 232675
+  ✅ 308334: Block 232675
+  ✅ 308332: Block 232674
+  🎨 308338: 0x17a3f25f... (nonce: 311114, rpc: PUB)
+  ✅ 308333: Block 232675
+  ✅ 308335: Block 232675
+  🎨 308337: 0xde901b55... (nonce: 311113, rpc: PUB)
+  🎨 308339: 0x2e75b5a8... (nonce: 311115, rpc: PUB)
+  ✅ 308337: Block 232676
+  🎨 308340: 0x714aad6b... (nonce: 311116, rpc: DEV)
+  🎨 308342: 0x5bd604d1... (nonce: 311118, rpc: DEV)
+  🎨 308341: 0xd17ef806... (nonce: 311117, rpc: DEV)
+  ✅ 308340: Block 232677
+  ✅ 308342: Block 232677
+  ✅ 308338: Block 232677
+  🎨 308344: 0xbcfb967c... (nonce: 311120, rpc: PUB)
+  ✅ 308339: Block 232677
+  ✅ 308341: Block 232677
+  🎨 308343: 0x2e295251... (nonce: 311119, rpc: PUB)
+  🎨 308345: 0x1034614b... (nonce: 311121, rpc: PUB)
+  ✅ 308343: Block 232678
+  ✅ 308345: Block 232678
+  🎨 308346: 0xe410b875... (nonce: 311122, rpc: PUB)
+  🎨 308348: 0x1d1fd12a... (nonce: 311124, rpc: PUB)
+  🎨 308347: 0x1af22031... (nonce: 311123, rpc: PUB)
+  🎨 308349: 0x5c9fe016... (nonce: 311125, rpc: PUB)
+  ✅ 308348: Block 232679
+  ✅ 308346: Block 232679
+  ✅ 308344: Block 232678
+  🎨 308350: 0x200e7aac... (nonce: 311126, rpc: DEV)
+  ✅ 308349: Block 232679
+  ✅ 308347: Block 232679
+  ✅ 308350: Block 232680
+📊 Batch 18 complete: 25 success, 0 failed in 24.4s (1.0 tokens/sec)
+📈 Total progress: 8350 minted, 0 failed, 91650 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 19/3684: 25 tokens
+🎯 Range: 308351 to 308375
+  🎨 308352: 0x8b3aecf6... (nonce: 311128, rpc: PUB)
+  🎨 308354: 0x65ff7849... (nonce: 311130, rpc: PUB)
+  ✅ 308352: Block 232681
+  🎨 308351: 0x81b53ca0... (nonce: 311127, rpc: DEV)
+  🎨 308355: 0xf1d378b4... (nonce: 311131, rpc: DEV)
+  🎨 308353: 0x76a70588... (nonce: 311129, rpc: DEV)
+  🎨 308356: 0x934e1b77... (nonce: 311132, rpc: DEV)
+  ✅ 308351: Block 232681
+  🎨 308357: 0x3795b728... (nonce: 311133, rpc: PUB)
+  ✅ 308357: Block 232682
+  🎨 308358: 0x6fa2f5f1... (nonce: 311134, rpc: DEV)
+  ✅ 308356: Block 232682
+  ✅ 308354: Block 232682
+  ✅ 308358: Block 232683
+  🎨 308360: 0x8425618e... (nonce: 311136, rpc: PUB)
+  ✅ 308353: Block 232682
+  ✅ 308355: Block 232682
+  🎨 308361: 0xd6f34cf2... (nonce: 311137, rpc: PUB)
+  🎨 308359: 0x9e9d01d6... (nonce: 311135, rpc: PUB)
+  ✅ 308359: Block 232684
+  🎨 308362: 0x4f75ac82... (nonce: 311138, rpc: DEV)
+  🎨 308364: 0x20228f85... (nonce: 311140, rpc: DEV)
+  🎨 308363: 0xc657a15b... (nonce: 311139, rpc: DEV)
+  ✅ 308360: Block 232684
+  ✅ 308364: Block 232685
+  ✅ 308362: Block 232685
+  🎨 308366: 0x98e29487... (nonce: 311142, rpc: PUB)
+  🎨 308365: 0xaf86be0c... (nonce: 311141, rpc: PUB)
+  🎨 308367: 0xe24002d2... (nonce: 311143, rpc: PUB)
+  ✅ 308363: Block 232685
+  ✅ 308361: Block 232684
+  ✅ 308367: Block 232686
+  ✅ 308365: Block 232686
+  🎨 308368: 0xc7940c03... (nonce: 311144, rpc: PUB)
+  🎨 308370: 0x90c62acd... (nonce: 311146, rpc: PUB)
+  🎨 308369: 0x95b7cc4b... (nonce: 311145, rpc: PUB)
+  🎨 308371: 0x13c09e65... (nonce: 311147, rpc: PUB)
+  ✅ 308366: Block 232686
+  ✅ 308370: Block 232687
+  ✅ 308368: Block 232687
+  🎨 308372: 0x1f24f3bb... (nonce: 311148, rpc: DEV)
+  🎨 308374: 0x5791b9fd... (nonce: 311150, rpc: DEV)
+  🎨 308373: 0x5eef4984... (nonce: 311149, rpc: DEV)
+  ✅ 308371: Block 232687
+  ✅ 308369: Block 232687
+  🎨 308375: 0x51d5144e... (nonce: 311151, rpc: PUB)
+  ✅ 308372: Block 232688
+  ✅ 308374: Block 232689
+  ✅ 308373: Block 232689
+  ❌ 308375: NETWORK_ERROR - Transaction timeout after 60000ms
+  🔄 NETWORK_ERROR detected, resetting nonce sequence...
+🔢 Reset nonce sequence to: 311152
+  🔄 308375: Retry 1/8 in 3.6s
+  🎨 308375: 0xe51d8ba5... (nonce: 311152, rpc: DEV)
+  ✅ 308375: Block 232690
+📊 Batch 19 complete: 25 success, 0 failed in 84.4s (0.3 tokens/sec)
+📈 Total progress: 8375 minted, 0 failed, 91625 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 20/3684: 25 tokens
+🎯 Range: 308376 to 308400
+  🎨 308379: 0x36172da2... (nonce: 311156, rpc: PUB)
+  🎨 308377: 0x19a8ab1b... (nonce: 311154, rpc: PUB)
+  🎨 308376: 0xb5a02b9a... (nonce: 311153, rpc: PUB)
+  🎨 308378: 0x7209ecc8... (nonce: 311155, rpc: PUB)
+  🎨 308380: 0xd2b0049d... (nonce: 311157, rpc: PUB)
+  ✅ 308376: Block 232691
+  ✅ 308378: Block 232691
+  🎨 308381: 0x2188b758... (nonce: 311158, rpc: PUB)
+  🎨 308382: 0x15fa4dff... (nonce: 311159, rpc: PUB)
+  ✅ 308381: Block 232692
+  ✅ 308377: Block 232691
+  ✅ 308379: Block 232691
+  🎨 308383: 0x1c2b0894... (nonce: 311160, rpc: DEV)
+  🎨 308385: 0xbabb0f89... (nonce: 311162, rpc: DEV)
+  ✅ 308383: Block 232693
+  🎨 308384: 0xad7085b3... (nonce: 311161, rpc: PUB)
+  ✅ 308380: Block 232692
+  ✅ 308382: Block 232692
+  🎨 308387: 0x8aeb8ceb... (nonce: 311164, rpc: PUB)
+  🎨 308386: 0x44c651ad... (nonce: 311163, rpc: PUB)
+  🎨 308388: 0xc7f6de57... (nonce: 311165, rpc: PUB)
+  ✅ 308387: Block 232694
+  ✅ 308385: Block 232694
+  🎨 308389: 0x478e7576... (nonce: 311166, rpc: PUB)
+  🎨 308390: 0xa479466b... (nonce: 311167, rpc: PUB)
+  ✅ 308388: Block 232694
+  ✅ 308386: Block 232694
+  ✅ 308384: Block 232694
+  🎨 308391: 0xf96100f2... (nonce: 311168, rpc: DEV)
+  🎨 308393: 0x366c35f3... (nonce: 311170, rpc: DEV)
+  🎨 308392: 0x927e31ce... (nonce: 311169, rpc: DEV)
+  ✅ 308391: Block 232696
+  ✅ 308389: Block 232695
+  ✅ 308393: Block 232697
+  🎨 308395: 0xd0312c8e... (nonce: 311172, rpc: PUB)
+  ✅ 308390: Block 232696
+  🎨 308394: 0x51740db6... (nonce: 311171, rpc: PUB)
+  ✅ 308392: Block 232697
+  🎨 308396: 0x0ac05583... (nonce: 311173, rpc: PUB)
+  🎨 308397: 0xebb2e91f... (nonce: 311174, rpc: PUB)
+  🎨 308398: 0xc912cfb4... (nonce: 311175, rpc: PUB)
+  ✅ 308397: Block 232698
+  ✅ 308395: Block 232698
+  ✅ 308396: Block 232698
+  🎨 308399: 0xaa617c91... (nonce: 311176, rpc: PUB)
+  ✅ 308394: Block 232698
+  🎨 308400: 0x1055056f... (nonce: 311177, rpc: PUB)
+  ✅ 308399: Block 232700
+  ✅ 308398: Block 232699
+  ✅ 308400: Block 232701
+📊 Batch 20 complete: 25 success, 0 failed in 24.0s (1.0 tokens/sec)
+📈 Total progress: 8400 minted, 0 failed, 91600 pending
+⏸️  Stability pause 5s...
+🔢 Reset nonce sequence to: 311178
+
+📦 Batch 21/3684: 25 tokens
+🎯 Range: 308401 to 308425
+  🎨 308401: 0xd672c6c8... (nonce: 311178, rpc: DEV)
+  🎨 308403: 0x3b2400ff... (nonce: 311180, rpc: DEV)
+  🎨 308405: 0xb00343b6... (nonce: 311182, rpc: DEV)
+  ✅ 308401: Block 232702
+  🎨 308402: 0xf6f394cf... (nonce: 311179, rpc: PUB)
+  🎨 308404: 0x8f8035f6... (nonce: 311181, rpc: PUB)
+  🎨 308406: 0x12af5134... (nonce: 311183, rpc: PUB)
+  ✅ 308405: Block 232703
+  ✅ 308403: Block 232703
+  🎨 308407: 0x85ac6a61... (nonce: 311184, rpc: PUB)
+  ✅ 308407: Block 232704
+  ✅ 308404: Block 232703
+  ✅ 308402: Block 232703
+  ✅ 308406: Block 232703
+  🎨 308408: 0xc210443e... (nonce: 311185, rpc: PUB)
+  🎨 308409: 0xdf53c28c... (nonce: 311186, rpc: PUB)
+  🎨 308411: 0xca7d3289... (nonce: 311188, rpc: PUB)
+  🎨 308412: 0x49e854c7... (nonce: 311189, rpc: PUB)
+  🎨 308410: 0xa61bdf0f... (nonce: 311187, rpc: PUB)
+  ✅ 308409: Block 232705
+  ✅ 308411: Block 232705
+  ✅ 308410: Block 232705
+  ✅ 308412: Block 232705
+  ✅ 308408: Block 232705
+  🎨 308413: 0x2262402f... (nonce: 311190, rpc: DEV)
+  🎨 308415: 0x7077c642... (nonce: 311192, rpc: DEV)
+  🎨 308417: 0x1b2f8120... (nonce: 311194, rpc: DEV)
+  ✅ 308413: Block 232706
+  🎨 308416: 0x3d62bb95... (nonce: 311193, rpc: PUB)
+  🎨 308414: 0x9ec1a880... (nonce: 311191, rpc: PUB)
+  🎨 308418: 0x3d4436a1... (nonce: 311195, rpc: PUB)
+  ✅ 308415: Block 232707
+  ✅ 308417: Block 232707
+  🎨 308419: 0x78ab56e5... (nonce: 311196, rpc: PUB)
+  🎨 308420: 0x21395c33... (nonce: 311197, rpc: PUB)
+  ✅ 308419: Block 232708
+  ✅ 308416: Block 232707
+  ✅ 308414: Block 232707
+  ✅ 308418: Block 232707
+  🎨 308423: 0xd68a0804... (nonce: 311200, rpc: PUB)
+  🎨 308421: 0xdc179c40... (nonce: 311198, rpc: PUB)
+  🎨 308424: 0x115aa756... (nonce: 311201, rpc: PUB)
+  🎨 308422: 0x17da6cdc... (nonce: 311199, rpc: PUB)
+  ✅ 308422: Block 232709
+  ✅ 308424: Block 232709
+  ✅ 308420: Block 232709
+  🎨 308425: 0x721a228f... (nonce: 311202, rpc: DEV)
+  ✅ 308421: Block 232709
+  ✅ 308423: Block 232709
+  ✅ 308425: Block 232710
+📊 Batch 21 complete: 25 success, 0 failed in 24.9s (1.0 tokens/sec)
+📈 Total progress: 8425 minted, 0 failed, 91575 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 22/3684: 25 tokens
+🎯 Range: 308426 to 308450
+  🎨 308427: 0x176d882b... (nonce: 311204, rpc: PUB)
+  🎨 308429: 0x6f6b1bf4... (nonce: 311206, rpc: PUB)
+  🎨 308428: 0x1bce47ec... (nonce: 311205, rpc: PUB)
+  🎨 308430: 0x1c70be03... (nonce: 311207, rpc: PUB)
+  🎨 308426: 0xf1aa8886... (nonce: 311203, rpc: PUB)
+  ✅ 308430: Block 232711
+  ✅ 308426: Block 232711
+  ✅ 308428: Block 232711
+  🎨 308431: 0x26525c09... (nonce: 311208, rpc: DEV)
+  🎨 308433: 0x236697ac... (nonce: 311210, rpc: DEV)
+  🎨 308432: 0xfdc8f9df... (nonce: 311209, rpc: DEV)
+  ✅ 308427: Block 232711
+  ✅ 308433: Block 232712
+  ✅ 308429: Block 232711
+  ✅ 308431: Block 232712
+  🎨 308437: 0xa1dd48ff... (nonce: 311214, rpc: DEV)
+  🎨 308435: 0xe0e0d350... (nonce: 311212, rpc: DEV)
+  🎨 308434: 0xddc71ee1... (nonce: 311211, rpc: DEV)
+  🎨 308436: 0x83e0e9c8... (nonce: 311213, rpc: DEV)
+  ✅ 308434: Block 232713
+  ✅ 308432: Block 232712
+  🎨 308438: 0x757dd249... (nonce: 311215, rpc: DEV)
+  🎨 308439: 0x6d512e3a... (nonce: 311216, rpc: DEV)
+  ✅ 308435: Block 232713
+  ✅ 308439: Block 232714
+  ✅ 308437: Block 232714
+  🎨 308441: 0x96fd95ec... (nonce: 311218, rpc: PUB)
+  🎨 308440: 0xa73c02bb... (nonce: 311217, rpc: PUB)
+  🎨 308442: 0x202df871... (nonce: 311219, rpc: PUB)
+  ✅ 308442: Block 232715
+  ✅ 308440: Block 232715
+  ✅ 308438: Block 232714
+  ✅ 308436: Block 232714
+  🎨 308443: 0xd5a9cdfb... (nonce: 311220, rpc: PUB)
+  🎨 308445: 0xc6fef76b... (nonce: 311222, rpc: PUB)
+  🎨 308444: 0xe86e41b2... (nonce: 311221, rpc: PUB)
+  🎨 308446: 0xcaef2922... (nonce: 311223, rpc: PUB)
+  ✅ 308443: Block 232716
+  ✅ 308445: Block 232716
+  ✅ 308441: Block 232715
+  🎨 308447: 0xfaaf3f12... (nonce: 311224, rpc: DEV)
+  🎨 308449: 0x1cf3dbe7... (nonce: 311226, rpc: DEV)
+  ✅ 308447: Block 232717
+  🎨 308448: 0xc6ad9b8b... (nonce: 311225, rpc: PUB)
+  🎨 308450: 0x923d94ed... (nonce: 311227, rpc: PUB)
+  ✅ 308446: Block 232716
+  ✅ 308444: Block 232716
+  ✅ 308449: Block 232718
+  ✅ 308450: Block 232718
+  ✅ 308448: Block 232718
+📊 Batch 22 complete: 25 success, 0 failed in 20.3s (1.2 tokens/sec)
+📈 Total progress: 8450 minted, 0 failed, 91550 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 23/3684: 25 tokens
+🎯 Range: 308451 to 308475
+  🎨 308453: 0x0ec0a2b7... (nonce: 311230, rpc: DEV)
+  🎨 308451: 0x537f2583... (nonce: 311228, rpc: DEV)
+  🎨 308455: 0x6620b49d... (nonce: 311232, rpc: DEV)
+  🎨 308452: 0x5c83ca47... (nonce: 311229, rpc: DEV)
+  🎨 308454: 0x66d5453c... (nonce: 311231, rpc: DEV)
+  ✅ 308453: Block 232720
+  ✅ 308455: Block 232720
+  ✅ 308451: Block 232719
+  🎨 308457: 0x0585ff74... (nonce: 311234, rpc: PUB)
+  ✅ 308454: Block 232720
+  🎨 308456: 0x7ea59387... (nonce: 311233, rpc: PUB)
+  🎨 308458: 0xe3368b21... (nonce: 311235, rpc: PUB)
+  ✅ 308452: Block 232720
+  ✅ 308458: Block 232721
+  ✅ 308456: Block 232721
+  🎨 308459: 0x00203f50... (nonce: 311236, rpc: PUB)
+  🎨 308461: 0x0a656303... (nonce: 311238, rpc: PUB)
+  🎨 308460: 0x2ca03c65... (nonce: 311237, rpc: PUB)
+  🎨 308462: 0x5256ad39... (nonce: 311239, rpc: PUB)
+  ✅ 308459: Block 232722
+  ✅ 308461: Block 232722
+  ✅ 308457: Block 232721
+  🎨 308465: 0xf33793da... (nonce: 311242, rpc: DEV)
+  🎨 308463: 0xffccbefb... (nonce: 311240, rpc: DEV)
+  ✅ 308463: Block 232723
+  🎨 308464: 0x42f48f30... (nonce: 311241, rpc: PUB)
+  ✅ 308460: Block 232722
+  ✅ 308462: Block 232722
+  🎨 308466: 0x950be8a6... (nonce: 311243, rpc: PUB)
+  🎨 308467: 0x0ab035b2... (nonce: 311244, rpc: PUB)
+  🎨 308468: 0x6783b0d0... (nonce: 311245, rpc: PUB)
+  ✅ 308465: Block 232724
+  ✅ 308467: Block 232724
+  🎨 308469: 0x262e344b... (nonce: 311246, rpc: PUB)
+  ✅ 308469: Block 232725
+  🎨 308471: 0xdd27f628... (nonce: 311248, rpc: DEV)
+  ✅ 308464: Block 232724
+  🎨 308470: 0x91868089... (nonce: 311247, rpc: DEV)
+  ✅ 308466: Block 232724
+  ✅ 308468: Block 232724
+  🎨 308473: 0x79464f47... (nonce: 311250, rpc: PUB)
+  🎨 308474: 0x066cf9b0... (nonce: 311251, rpc: PUB)
+  🎨 308472: 0x0acda5a2... (nonce: 311249, rpc: PUB)
+  ✅ 308473: Block 232726
+  ✅ 308471: Block 232726
+  🎨 308475: 0xd9d69047... (nonce: 311252, rpc: DEV)
+  ✅ 308470: Block 232726
+  ✅ 308474: Block 232726
+  ✅ 308472: Block 232726
+  ✅ 308475: Block 232727
+📊 Batch 23 complete: 25 success, 0 failed in 24.4s (1.0 tokens/sec)
+📈 Total progress: 8475 minted, 0 failed, 91525 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 24/3684: 25 tokens
+🎯 Range: 308476 to 308500
+  🎨 308479: 0xb93d45d1... (nonce: 311256, rpc: PUB)
+  🎨 308477: 0x6d74b2db... (nonce: 311254, rpc: PUB)
+  🎨 308478: 0x35e4a6db... (nonce: 311255, rpc: PUB)
+  🎨 308480: 0x0d37c7f0... (nonce: 311257, rpc: PUB)
+  🎨 308476: 0xd540557d... (nonce: 311253, rpc: PUB)
+  ✅ 308480: Block 232728
+  ✅ 308478: Block 232728
+  ✅ 308476: Block 232728
+  🎨 308481: 0xefbc1ad3... (nonce: 311258, rpc: DEV)
+  🎨 308483: 0x8008e218... (nonce: 311260, rpc: DEV)
+  🎨 308482: 0xcc4b326e... (nonce: 311259, rpc: DEV)
+  ✅ 308481: Block 232729
+  ✅ 308477: Block 232728
+  ✅ 308479: Block 232728
+  ✅ 308483: Block 232729
+  🎨 308485: 0xc43bdb9b... (nonce: 311262, rpc: DEV)
+  🎨 308487: 0x3eeb5ebc... (nonce: 311264, rpc: DEV)
+  🎨 308486: 0xa5f6fc09... (nonce: 311263, rpc: DEV)
+  🎨 308484: 0x54e942c7... (nonce: 311261, rpc: DEV)
+  ✅ 308484: Block 232730
+  🎨 308488: 0xd660e682... (nonce: 311265, rpc: PUB)
+  ✅ 308482: Block 232729
+  🎨 308489: 0xc0107e4d... (nonce: 311266, rpc: DEV)
+  ✅ 308485: Block 232730
+  ✅ 308489: Block 232732
+  ✅ 308487: Block 232731
+  🎨 308491: 0x0aef9a16... (nonce: 311268, rpc: PUB)
+  🎨 308490: 0x242f83be... (nonce: 311267, rpc: PUB)
+  🎨 308492: 0xa81f06b3... (nonce: 311269, rpc: PUB)
+  ✅ 308488: Block 232731
+  ✅ 308486: Block 232731
+  🎨 308493: 0x5a39bb10... (nonce: 311270, rpc: PUB)
+  🎨 308494: 0x9af2a6d8... (nonce: 311271, rpc: PUB)
+  ✅ 308493: Block 232734
+  ✅ 308491: Block 232733
+  🎨 308495: 0x2d2fe873... (nonce: 311272, rpc: PUB)
+  ✅ 308492: Block 232733
+  ✅ 308490: Block 232733
+  ✅ 308494: Block 232734
+  🎨 308496: 0xdfb95df0... (nonce: 311273, rpc: DEV)
+  ✅ 308496: Block 232735
+  🎨 308497: 0xab832d0f... (nonce: 311274, rpc: PUB)
+  🎨 308499: 0x7218c589... (nonce: 311276, rpc: PUB)
+  🎨 308498: 0x409baf64... (nonce: 311275, rpc: PUB)
+  🎨 308500: 0x183711e9... (nonce: 311277, rpc: PUB)
+  ✅ 308499: Block 232736
+  ✅ 308497: Block 232736
+  ✅ 308495: Block 232735
+  ✅ 308500: Block 232736
+  ✅ 308498: Block 232736
+📊 Batch 24 complete: 25 success, 0 failed in 20.8s (1.2 tokens/sec)
+📈 Total progress: 8500 minted, 0 failed, 91500 pending
+⏸️  Stability pause 5s...
+
+📦 Batch 25/3684: 25 tokens
+🎯 Range: 308501 to 308525

@@ -1,0 +1,391 @@
+🚀 Blockticity Batch 300k-400k Multi-Signer Minting
+============================================================
+🎯 Token Range: 300,001 - 400,000
+⚡ Settings: 18 concurrent, 90 per batch, 6 signers
+📥 Found single-signer progress, importing...
+✅ Imported progress from single-signer log
+📊 Status: 7075 minted, 0 failed, 92925 pending
+
+🎯 Tokens to process: 92,925
+
+🔗 Connecting to Blockticity L1 Mainnet...
+🔄 Setting up 6 signers with 2 RPC endpoints
+  RPC 1: Public
+  RPC 2: Developer
+  Signer 0: 0xE2A506B4...266929
+  Signer 1: 0x0033AbD2...dD5151
+  Signer 2: 0xaF7E548c...892B89
+  Signer 3: 0xc887fD55...871aE3
+  Signer 4: 0x3f6C65AA...cc1d0e
+  Signer 5: 0x6DbFc29F...d6e008
+✅ Connected to network: chainId 28530
+💰 Primary wallet balance: 999998881.571237231836068862 BTIC
+🔑 Using 6 signers for minting
+🔄 Resetting all signer nonces...
+  Signer 0 (0xE2A506B4...): 308171
+  Signer 1 (0x0033AbD2...): 0
+  Signer 2 (0xaF7E548c...): 0
+  Signer 4 (0x3f6C65AA...): 0
+  Signer 3 (0xc887fD55...): 0
+  Signer 5 (0x6DbFc29F...): 0
+
+📦 Batch 1/1033: 90 tokens
+🎯 Range: 307076 to 307165
+  ❌ 307083: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307083: Retry 1/8 in 2.3s
+  ❌ 307077: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307077: Retry 1/8 in 2.9s
+  ❌ 307089: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307089: Retry 1/8 in 2.4s
+  ❌ 307084: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307084: Retry 1/8 in 2.3s
+  ❌ 307078: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307078: Retry 1/8 in 2.9s
+  🎨 307082: 0xe4f2a4d4... (S0, N308172, PUB)
+  🎨 307076: 0x086a3256... (S0, N308171, PUB)
+  ❌ 307091: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307091: Retry 1/8 in 2.0s
+  ❌ 307079: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307079: Retry 1/8 in 2.2s
+  ❌ 307085: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307085: Retry 1/8 in 2.4s
+  ❌ 307093: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307093: Retry 1/8 in 2.4s
+  ❌ 307087: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307087: Retry 1/8 in 2.6s
+  ❌ 307081: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307081: Retry 1/8 in 2.5s
+  ❌ 307092: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307092: Retry 1/8 in 2.0s
+  🎨 307088: 0x3ba31486... (S0, N308173, PUB)
+  ❌ 307090: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307090: Retry 1/8 in 2.7s
+  ❌ 307080: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307080: Retry 1/8 in 2.8s
+  ❌ 307086: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307086: Retry 1/8 in 2.8s
+  ✅ 307076: Block 230769 (S0)
+  ✅ 307082: Block 230769 (S0)
+  ❌ 307095: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307095: Retry 1/8 in 2.7s
+  🎨 307094: 0x06ff8457... (S0, N308174, PUB)
+  ❌ 307079: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307079: Retry 2/8 in 4.9s
+  ❌ 307092: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307092: Retry 2/8 in 4.1s
+  ❌ 307084: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307084: Retry 2/8 in 4.9s
+  ❌ 307091: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307091: Retry 2/8 in 4.4s
+  ❌ 307083: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307083: Retry 2/8 in 4.9s
+  ❌ 307093: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307093: Retry 2/8 in 4.2s
+  ❌ 307087: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307087: Retry 2/8 in 4.8s
+  ❌ 307085: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307085: Retry 2/8 in 4.4s
+  🎨 307089: 0x7b217ebb... (S0, N308175, DEV)
+  ❌ 307086: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307086: Retry 2/8 in 5.0s
+  ❌ 307090: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307090: Retry 2/8 in 4.8s
+  🎨 307077: 0x2f228850... (S0, N308176, PUB)
+  ❌ 307081: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307081: Retry 2/8 in 4.3s
+  ❌ 307078: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307078: Retry 2/8 in 4.4s
+  ❌ 307080: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307080: Retry 2/8 in 4.8s
+  ❌ 307095: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307095: Retry 2/8 in 4.0s
+  ✅ 307088: Block 230770 (S0)
+  ✅ 307094: Block 230770 (S0)
+  ❌ 307097: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307097: Retry 1/8 in 2.5s
+  🎨 307096: 0x93d2ce1a... (S0, N308177, PUB)
+  ❌ 307092: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307092: Retry 3/8 in 8.5s
+  ❌ 307093: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307093: Retry 3/8 in 8.1s
+  ❌ 307085: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307085: Retry 3/8 in 8.1s
+  ❌ 307084: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307084: Retry 3/8 in 8.5s
+  ❌ 307091: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307091: Retry 3/8 in 8.5s
+  🎨 307079: 0x37ec84eb... (S0, N308178, DEV)
+  ❌ 307083: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307083: Retry 3/8 in 8.7s
+  ❌ 307095: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307095: Retry 3/8 in 8.4s
+  ❌ 307090: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307090: Retry 3/8 in 8.9s
+  ✅ 307079: Block 230773 (S0)
+  ❌ 307087: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307087: Retry 3/8 in 8.1s
+  ❌ 307081: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307081: Retry 3/8 in 8.8s
+  ❌ 307086: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307086: Retry 3/8 in 8.6s
+  🎨 307078: 0x4966be5f... (S0, N308179, PUB)
+  ❌ 307097: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307097: Retry 2/8 in 4.8s
+  ❌ 307080: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307080: Retry 3/8 in 8.5s
+  ✅ 307096: Block 230772 (S0)
+  ✅ 307077: Block 230771 (S0)
+  ✅ 307089: Block 230771 (S0)
+  ❌ 307098: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307098: Retry 1/8 in 2.9s
+  ❌ 307100: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307100: Retry 1/8 in 2.9s
+  ❌ 307101: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307101: Retry 1/8 in 2.9s
+  🎨 307099: 0x043609f5... (S0, N308180, DEV)
+  ❌ 307098: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307098: Retry 2/8 in 4.8s
+  ❌ 307101: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307101: Retry 2/8 in 4.5s
+  ❌ 307100: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307100: Retry 2/8 in 4.8s
+  ✅ 307078: Block 230774 (S0)
+  ✅ 307099: Block 230774 (S0)
+  ❌ 307103: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307103: Retry 1/8 in 2.2s
+  🎨 307102: 0x1c899148... (S0, N308181, DEV)
+  ✅ 307102: Block 230775 (S0)
+  ❌ 307097: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307097: Retry 3/8 in 8.8s
+  ❌ 307104: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307104: Retry 1/8 in 2.9s
+  ❌ 307103: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307103: Retry 2/8 in 4.4s
+  ❌ 307093: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307093: Retry 4/8 in 16.0s
+  ❌ 307092: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307092: Retry 4/8 in 15.8s
+  🎨 307085: 0x97d81244... (S0, N308182, PUB)
+  ✅ 307085: Block 230776 (S0)
+  ❌ 307091: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307091: Retry 4/8 in 15.5s
+  ❌ 307084: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307084: Retry 4/8 in 15.7s
+  ❌ 307087: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307087: Retry 4/8 in 15.9s
+  ❌ 307083: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307083: Retry 4/8 in 15.9s
+  ❌ 307095: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307095: Retry 4/8 in 15.5s
+  🎨 307105: 0xaa82e632... (S0, N308183, DEV)
+  ❌ 307090: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307090: Retry 4/8 in 15.2s
+  ❌ 307086: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307086: Retry 4/8 in 15.3s
+  ❌ 307081: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307081: Retry 4/8 in 15.1s
+  ❌ 307098: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307098: Retry 3/8 in 8.2s
+  ❌ 307080: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307080: Retry 4/8 in 15.1s
+  🎨 307101: 0xb8764861... (S0, N308184, PUB)
+  ❌ 307100: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307100: Retry 3/8 in 8.0s
+  ❌ 307104: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307104: Retry 2/8 in 4.6s
+  ❌ 307103: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307103: Retry 3/8 in 8.2s
+  ✅ 307101: Block 230777 (S0)
+  ✅ 307105: Block 230777 (S0)
+  ❌ 307106: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307106: Retry 1/8 in 2.1s
+  🎨 307107: 0xdc03b7ca... (S0, N308185, PUB)
+  ❌ 307104: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307104: Retry 3/8 in 8.4s
+  ✅ 307107: Block 230778 (S0)
+  ❌ 307108: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307108: Retry 1/8 in 2.9s
+  ❌ 307097: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307097: Retry 4/8 in 15.9s
+  ❌ 307106: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307106: Retry 2/8 in 4.9s
+  ❌ 307098: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307098: Retry 4/8 in 15.8s
+  🎨 307100: 0x952e8245... (S0, N308186, PUB)
+  ❌ 307108: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307108: Retry 2/8 in 4.9s
+  ✅ 307100: Block 230779 (S0)
+  ❌ 307109: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307109: Retry 1/8 in 2.4s
+  ❌ 307103: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307103: Retry 4/8 in 15.8s
+  ❌ 307106: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307106: Retry 3/8 in 8.6s
+  ❌ 307109: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307109: Retry 2/8 in 4.7s
+  ❌ 307108: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307108: Retry 3/8 in 8.7s
+  🎨 307104: 0xa206d8a8... (S0, N308187, PUB)
+  ❌ 307091: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307091: Retry 5/8 in 15.3s
+  ❌ 307084: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307084: Retry 5/8 in 15.2s
+  ❌ 307092: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307092: Retry 5/8 in 15.0s
+  ❌ 307093: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307093: Retry 5/8 in 15.6s
+  ❌ 307090: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307090: Retry 5/8 in 15.5s
+  ❌ 307080: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307080: Retry 5/8 in 15.1s
+  ❌ 307087: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307087: Retry 5/8 in 15.9s
+  ❌ 307081: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307081: Retry 5/8 in 15.3s
+  ❌ 307086: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307086: Retry 5/8 in 15.4s
+  🎨 307095: 0x20dd52b5... (S0, N308188, DEV)
+  🎨 307083: 0xc1b39079... (S0, N308189, DEV)
+  ❌ 307109: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307109: Retry 3/8 in 8.3s
+  ✅ 307104: Block 230780 (S0)
+  ✅ 307095: Block 230781 (S0)
+  ✅ 307083: Block 230781 (S0)
+  ❌ 307111: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307111: Retry 1/8 in 2.4s
+  ❌ 307110: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307110: Retry 1/8 in 2.8s
+  ❌ 307112: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307112: Retry 1/8 in 2.6s
+  ❌ 307106: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307106: Retry 4/8 in 15.7s
+  ❌ 307111: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307111: Retry 2/8 in 4.3s
+  🎨 307097: 0x0d3bc107... (S0, N308190, PUB)
+  ✅ 307097: Block 230782 (S0)
+  ❌ 307110: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307110: Retry 2/8 in 4.7s
+  ❌ 307112: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307112: Retry 2/8 in 4.3s
+  ❌ 307108: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307108: Retry 4/8 in 15.4s
+  ❌ 307113: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307113: Retry 1/8 in 2.5s
+  🎨 307098: 0x85f10c2e... (S0, N308191, DEV)
+  ✅ 307098: Block 230783 (S0)
+  ❌ 307114: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307114: Retry 1/8 in 2.7s
+  ❌ 307109: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307109: Retry 4/8 in 15.7s
+  ❌ 307113: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307113: Retry 2/8 in 4.9s
+  ❌ 307111: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307111: Retry 3/8 in 8.4s
+  ❌ 307112: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307112: Retry 3/8 in 8.4s
+  🎨 307110: 0xb5621af6... (S0, N308192, PUB)
+  ❌ 307103: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307103: Retry 5/8 in 15.8s
+  ✅ 307110: Block 230784 (S0)
+  ❌ 307114: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307114: Retry 2/8 in 4.4s
+  ❌ 307115: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307115: Retry 1/8 in 2.5s
+  ❌ 307084: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307084: Retry 6/8 in 15.9s
+  ❌ 307092: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307092: Retry 6/8 in 15.2s
+  🎨 307091: 0x9651321a... (S0, N308193, PUB)
+  ❌ 307080: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307080: Retry 6/8 in 15.0s
+  ✅ 307091: Block 230785 (S0)
+  ❌ 307093: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307093: Retry 6/8 in 15.2s
+  ❌ 307081: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307081: Retry 6/8 in 15.9s
+  ❌ 307086: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307086: Retry 6/8 in 16.0s
+  ❌ 307090: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307090: Retry 6/8 in 15.8s
+  🎨 307116: 0x101ddba1... (S0, N308194, PUB)
+  ❌ 307087: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307087: Retry 6/8 in 15.6s
+  ❌ 307113: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307113: Retry 3/8 in 8.0s
+  ❌ 307115: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307115: Retry 2/8 in 4.9s
+  ❌ 307114: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307114: Retry 3/8 in 8.3s
+  ✅ 307116: Block 230786 (S0)
+  ❌ 307111: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307111: Retry 4/8 in 15.2s
+  ❌ 307112: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307112: Retry 4/8 in 15.8s
+  🎨 307117: 0x57335c4f... (S0, N308195, PUB)
+  ❌ 307115: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307115: Retry 3/8 in 8.9s
+  ❌ 307106: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307106: Retry 5/8 in 15.9s
+  ❌ 307108: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307108: Retry 5/8 in 15.8s
+  ❌ 307113: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307113: Retry 4/8 in 15.8s
+  ✅ 307117: Block 230787 (S0)
+  🎨 307118: 0x763ceabc... (S0, N308196, DEV)
+  ✅ 307118: Block 230788 (S0)
+  ❌ 307119: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307119: Retry 1/8 in 3.0s
+  ❌ 307114: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307114: Retry 4/8 in 15.6s
+  ❌ 307109: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307109: Retry 5/8 in 15.9s
+  ❌ 307103: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307103: Retry 6/8 in 15.6s
+  ❌ 307119: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307119: Retry 2/8 in 4.7s
+  ❌ 307080: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307080: Retry 7/8 in 15.7s
+  🎨 307092: 0x29ca9dae... (S0, N308197, PUB)
+  ✅ 307092: Block 230789 (S0)
+  ❌ 307093: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307093: Retry 7/8 in 15.6s
+  ❌ 307084: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307084: Retry 7/8 in 15.2s
+  ❌ 307115: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307115: Retry 4/8 in 15.3s
+  ❌ 307120: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307120: Retry 1/8 in 2.6s
+  ❌ 307087: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307087: Retry 7/8 in 15.8s
+  ❌ 307090: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307090: Retry 7/8 in 15.4s
+  🎨 307081: 0xb972d4b3... (S0, N308198, PUB)
+  ❌ 307086: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307086: Retry 7/8 in 15.9s
+  ❌ 307120: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307120: Retry 2/8 in 4.9s
+  ❌ 307119: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307119: Retry 3/8 in 8.1s
+  🎨 307111: 0xe20b8d61... (S0, N308199, DEV)
+  ✅ 307111: Block 230791 (S0)
+  ❌ 307121: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307121: Retry 1/8 in 2.2s
+  ✅ 307081: Block 230790 (S0)
+  ❌ 307112: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307112: Retry 5/8 in 15.4s
+  ❌ 307122: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307122: Retry 1/8 in 2.3s
+  ❌ 307106: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307106: Retry 6/8 in 15.8s
+  ❌ 307121: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307121: Retry 2/8 in 4.1s
+  ❌ 307120: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307120: Retry 3/8 in 9.0s
+  🎨 307108: 0x2f99506e... (S0, N308200, DEV)
+  ❌ 307122: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307122: Retry 2/8 in 4.2s
+  ✅ 307108: Block 230792 (S0)
+  ❌ 307123: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307123: Retry 1/8 in 2.8s
+  ❌ 307113: UNKNOWN_ERROR - insufficient funds for intrinsic transaction cost (transacti
+  🔄 307113: Retry 5/8 in 16.0s

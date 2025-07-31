@@ -1,0 +1,2690 @@
+
+> players-ink-placeholder-minter@1.0.0 start
+> node mint_playersink_placeholders.js
+
+🚀 Players Ink Authentication Placeholder Minter
+==================================================
+🔍 Validating configuration...
+✅ Pinata authentication successful
+✅ Configuration validated
+✅ Output directories created
+📊 Resuming from previous session:
+   - Completed: 10
+   - Pending: 4225
+
+🖼️  Uploading placeholder image to IPFS...
+✅ Using existing image: ipfs://QmRT8DUSsFLZrrhgyhcSwh8988xx1kKCuR5SLpDS2hWkDN
+
+📝 Generating metadata...
+
+📦 Processing batch 1-100...
+✅ Batch 1-100 metadata uploaded
+
+📦 Processing batch 101-200...
+✅ Batch 101-200 metadata uploaded
+
+📦 Processing batch 201-300...
+✅ Batch 201-300 metadata uploaded
+
+📦 Processing batch 301-400...
+✅ Batch 301-400 metadata uploaded
+
+📦 Processing batch 401-500...
+✅ Batch 401-500 metadata uploaded
+
+📦 Processing batch 501-600...
+✅ Batch 501-600 metadata uploaded
+
+📦 Processing batch 601-700...
+✅ Batch 601-700 metadata uploaded
+
+📦 Processing batch 701-800...
+✅ Batch 701-800 metadata uploaded
+
+📦 Processing batch 801-900...
+✅ Batch 801-900 metadata uploaded
+
+📦 Processing batch 901-1000...
+✅ Batch 901-1000 metadata uploaded
+
+📦 Processing batch 1001-1100...
+✅ Batch 1001-1100 metadata uploaded
+
+📦 Processing batch 1101-1200...
+✅ Batch 1101-1200 metadata uploaded
+
+📦 Processing batch 1201-1300...
+✅ Batch 1201-1300 metadata uploaded
+
+📦 Processing batch 1301-1400...
+✅ Batch 1301-1400 metadata uploaded
+
+📦 Processing batch 1401-1500...
+✅ Batch 1401-1500 metadata uploaded
+
+📦 Processing batch 1501-1600...
+✅ Batch 1501-1600 metadata uploaded
+
+📦 Processing batch 1601-1700...
+✅ Batch 1601-1700 metadata uploaded
+
+📦 Processing batch 1701-1800...
+✅ Batch 1701-1800 metadata uploaded
+
+📦 Processing batch 1801-1900...
+✅ Batch 1801-1900 metadata uploaded
+
+📦 Processing batch 1901-2000...
+✅ Batch 1901-2000 metadata uploaded
+
+📦 Processing batch 2001-2100...
+✅ Batch 2001-2100 metadata uploaded
+
+📦 Processing batch 2101-2200...
+✅ Batch 2101-2200 metadata uploaded
+
+📦 Processing batch 2201-2300...
+✅ Batch 2201-2300 metadata uploaded
+
+📦 Processing batch 2301-2400...
+✅ Batch 2301-2400 metadata uploaded
+
+📦 Processing batch 2401-2500...
+✅ Batch 2401-2500 metadata uploaded
+
+📦 Processing batch 2501-2600...
+✅ Batch 2501-2600 metadata uploaded
+
+📦 Processing batch 2601-2700...
+✅ Batch 2601-2700 metadata uploaded
+
+📦 Processing batch 2701-2800...
+✅ Batch 2701-2800 metadata uploaded
+
+📦 Processing batch 2801-2900...
+✅ Batch 2801-2900 metadata uploaded
+
+📦 Processing batch 2901-3000...
+✅ Batch 2901-3000 metadata uploaded
+
+📦 Processing batch 3001-3100...
+✅ Batch 3001-3100 metadata uploaded
+
+📦 Processing batch 3101-3200...
+✅ Batch 3101-3200 metadata uploaded
+
+📦 Processing batch 3201-3300...
+✅ Batch 3201-3300 metadata uploaded
+
+📦 Processing batch 3301-3400...
+✅ Batch 3301-3400 metadata uploaded
+
+📦 Processing batch 3401-3500...
+✅ Batch 3401-3500 metadata uploaded
+
+📦 Processing batch 3501-3600...
+✅ Batch 3501-3600 metadata uploaded
+
+📦 Processing batch 3601-3700...
+✅ Batch 3601-3700 metadata uploaded
+
+📦 Processing batch 3701-3800...
+✅ Batch 3701-3800 metadata uploaded
+
+📦 Processing batch 3801-3900...
+✅ Batch 3801-3900 metadata uploaded
+
+📦 Processing batch 3901-4000...
+✅ Batch 3901-4000 metadata uploaded
+
+📦 Processing batch 4001-4100...
+✅ Batch 4001-4100 metadata uploaded
+
+📦 Processing batch 4101-4200...
+✅ Batch 4101-4200 metadata uploaded
+
+📦 Processing batch 4201-4300...
+✅ Batch 4201-4300 metadata uploaded
+
+📦 Processing batch 4301-4400...
+✅ Batch 4301-4400 metadata uploaded
+
+📦 Processing batch 4401-4500...
+✅ Batch 4401-4500 metadata uploaded
+
+📦 Processing batch 4501-4600...
+   Processed 4600/100000
+✅ Batch 4501-4600 metadata uploaded
+
+📦 Processing batch 4601-4700...
+   ❌ Failed to process token 4615: undefined
+   ❌ Failed to process token 4617: undefined
+   ❌ Failed to process token 4618: undefined
+   ❌ Failed to process token 4619: undefined
+   ❌ Failed to process token 4622: undefined
+   ❌ Failed to process token 4625: undefined
+   ❌ Failed to process token 4637: undefined
+   ❌ Failed to process token 4639: undefined
+   ❌ Failed to process token 4638: undefined
+   ❌ Failed to process token 4651: undefined
+   ❌ Failed to process token 4658: undefined
+   ❌ Failed to process token 4660: undefined
+   ❌ Failed to process token 4662: undefined
+   ❌ Failed to process token 4672: undefined
+   ❌ Failed to process token 4678: undefined
+   ❌ Failed to process token 4681: undefined
+   ❌ Failed to process token 4688: undefined
+   Processed 4700/100000
+   ❌ Failed to process token 4690: undefined
+✅ Batch 4601-4700 metadata uploaded
+
+📦 Processing batch 4701-4800...
+   ❌ Failed to process token 4704: undefined
+   ❌ Failed to process token 4705: undefined
+   ❌ Failed to process token 4707: undefined
+   ❌ Failed to process token 4710: undefined
+   ❌ Failed to process token 4703: undefined
+   ❌ Failed to process token 4727: undefined
+   ❌ Failed to process token 4726: undefined
+   ❌ Failed to process token 4728: undefined
+   ❌ Failed to process token 4733: undefined
+   ❌ Failed to process token 4734: undefined
+   ❌ Failed to process token 4743: undefined
+   ❌ Failed to process token 4745: undefined
+   ❌ Failed to process token 4750: undefined
+   ❌ Failed to process token 4756: undefined
+   ❌ Failed to process token 4760: undefined
+   ❌ Failed to process token 4761: undefined
+   ❌ Failed to process token 4762: undefined
+   ❌ Failed to process token 4764: undefined
+   ❌ Failed to process token 4773: undefined
+   ❌ Failed to process token 4782: undefined
+   ❌ Failed to process token 4785: undefined
+   Processed 4800/100000
+✅ Batch 4701-4800 metadata uploaded
+
+📦 Processing batch 4801-4900...
+   ❌ Failed to process token 4802: undefined
+   ❌ Failed to process token 4813: undefined
+   ❌ Failed to process token 4814: undefined
+   ❌ Failed to process token 4816: undefined
+   ❌ Failed to process token 4817: undefined
+   ❌ Failed to process token 4821: undefined
+   ❌ Failed to process token 4835: undefined
+   ❌ Failed to process token 4840: undefined
+   ❌ Failed to process token 4844: undefined
+   ❌ Failed to process token 4850: undefined
+   ❌ Failed to process token 4851: undefined
+   ❌ Failed to process token 4852: undefined
+   ❌ Failed to process token 4854: undefined
+   ❌ Failed to process token 4865: undefined
+   ❌ Failed to process token 4868: undefined
+   ❌ Failed to process token 4870: undefined
+   ❌ Failed to process token 4872: undefined
+   ❌ Failed to process token 4874: undefined
+   ❌ Failed to process token 4877: undefined
+   ❌ Failed to process token 4891: undefined
+   Processed 4900/100000
+✅ Batch 4801-4900 metadata uploaded
+
+📦 Processing batch 4901-5000...
+   ❌ Failed to process token 4906: undefined
+   ❌ Failed to process token 4902: undefined
+   ❌ Failed to process token 4901: undefined
+   ❌ Failed to process token 4907: undefined
+   ❌ Failed to process token 4915: undefined
+   ❌ Failed to process token 4914: undefined
+   ❌ Failed to process token 4931: undefined
+   ❌ Failed to process token 4929: undefined
+   ❌ Failed to process token 4927: undefined
+   ❌ Failed to process token 4932: undefined
+   ❌ Failed to process token 4933: undefined
+   ❌ Failed to process token 4934: undefined
+   ❌ Failed to process token 4939: undefined
+   ❌ Failed to process token 4943: undefined
+   ❌ Failed to process token 4947: undefined
+   ❌ Failed to process token 4951: undefined
+   ❌ Failed to process token 4954: undefined
+   ❌ Failed to process token 4959: undefined
+   ❌ Failed to process token 4960: undefined
+   ❌ Failed to process token 4970: undefined
+   ❌ Failed to process token 4973: undefined
+   ❌ Failed to process token 4978: undefined
+   ❌ Failed to process token 4979: undefined
+   ❌ Failed to process token 4981: undefined
+   Processed 5000/100000
+   ❌ Failed to process token 4991: undefined
+✅ Batch 4901-5000 metadata uploaded
+
+📦 Processing batch 5001-5100...
+   ❌ Failed to process token 5009: undefined
+   ❌ Failed to process token 5005: undefined
+   ❌ Failed to process token 5002: undefined
+   ❌ Failed to process token 5003: undefined
+   ❌ Failed to process token 5006: undefined
+   ❌ Failed to process token 5013: undefined
+   ❌ Failed to process token 5028: undefined
+   ❌ Failed to process token 5026: undefined
+   ❌ Failed to process token 5027: undefined
+   ❌ Failed to process token 5043: undefined
+   ❌ Failed to process token 5045: undefined
+   ❌ Failed to process token 5046: undefined
+   ❌ Failed to process token 5052: undefined
+   ❌ Failed to process token 5057: undefined
+   ❌ Failed to process token 5060: undefined
+   ❌ Failed to process token 5064: undefined
+   ❌ Failed to process token 5065: undefined
+   ❌ Failed to process token 5070: undefined
+   ❌ Failed to process token 5071: undefined
+   ❌ Failed to process token 5079: undefined
+   ❌ Failed to process token 5082: undefined
+   Processed 5100/100000
+✅ Batch 5001-5100 metadata uploaded
+
+📦 Processing batch 5101-5200...
+   ❌ Failed to process token 5101: undefined
+   ❌ Failed to process token 5108: undefined
+   ❌ Failed to process token 5103: undefined
+   ❌ Failed to process token 5106: undefined
+   ❌ Failed to process token 5114: undefined
+   ❌ Failed to process token 5112: undefined
+   ❌ Failed to process token 5128: undefined
+   ❌ Failed to process token 5130: undefined
+   ❌ Failed to process token 5131: undefined
+   ❌ Failed to process token 5129: undefined
+   ❌ Failed to process token 5133: undefined
+   ❌ Failed to process token 5141: undefined
+   ❌ Failed to process token 5149: undefined
+   ❌ Failed to process token 5156: undefined
+   ❌ Failed to process token 5166: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5167: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5168: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5169: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5170: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5171: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5172: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5173: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5174: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5175: connect ETIMEDOUT 54.81.103.241:443
+   ❌ Failed to process token 5176: getaddrinfo ENOTFOUND api.pinata.cloud
+   ❌ Failed to process token 5177: getaddrinfo ENOTFOUND api.pinata.cloud
+   Processed 5200/100000
+✅ Batch 5101-5200 metadata uploaded
+
+📦 Processing batch 5201-5300...
+   Processed 5300/100000
+✅ Batch 5201-5300 metadata uploaded
+
+📦 Processing batch 5301-5400...
+   Processed 5400/100000
+✅ Batch 5301-5400 metadata uploaded
+
+📦 Processing batch 5401-5500...
+   Processed 5500/100000
+✅ Batch 5401-5500 metadata uploaded
+
+📦 Processing batch 5501-5600...
+   ❌ Failed to process token 5501: undefined
+   ❌ Failed to process token 5513: undefined
+   ❌ Failed to process token 5514: undefined
+   ❌ Failed to process token 5516: undefined
+   ❌ Failed to process token 5523: undefined
+   ❌ Failed to process token 5531: undefined
+   ❌ Failed to process token 5532: undefined
+   ❌ Failed to process token 5533: undefined
+   ❌ Failed to process token 5534: undefined
+   ❌ Failed to process token 5550: undefined
+   ❌ Failed to process token 5553: undefined
+   ❌ Failed to process token 5557: undefined
+   ❌ Failed to process token 5558: undefined
+   ❌ Failed to process token 5563: undefined
+   ❌ Failed to process token 5567: undefined
+   ❌ Failed to process token 5568: undefined
+   ❌ Failed to process token 5572: undefined
+   ❌ Failed to process token 5574: undefined
+   ❌ Failed to process token 5575: undefined
+   Processed 5600/100000
+   ❌ Failed to process token 5586: undefined
+✅ Batch 5501-5600 metadata uploaded
+
+📦 Processing batch 5601-5700...
+   ❌ Failed to process token 5609: undefined
+   ❌ Failed to process token 5607: undefined
+   ❌ Failed to process token 5608: undefined
+   ❌ Failed to process token 5605: undefined
+   ❌ Failed to process token 5613: undefined
+   ❌ Failed to process token 5619: undefined
+   ❌ Failed to process token 5627: undefined
+   ❌ Failed to process token 5629: undefined
+   ❌ Failed to process token 5628: undefined
+   ❌ Failed to process token 5636: undefined
+   ❌ Failed to process token 5638: undefined
+   ❌ Failed to process token 5647: undefined
+   ❌ Failed to process token 5646: undefined
+   ❌ Failed to process token 5648: undefined
+   ❌ Failed to process token 5654: undefined
+   ❌ Failed to process token 5657: undefined
+   ❌ Failed to process token 5666: undefined
+   ❌ Failed to process token 5668: undefined
+   ❌ Failed to process token 5669: undefined
+   ❌ Failed to process token 5672: undefined
+   ❌ Failed to process token 5679: undefined
+   ❌ Failed to process token 5692: undefined
+   Processed 5700/100000
+✅ Batch 5601-5700 metadata uploaded
+
+📦 Processing batch 5701-5800...
+   ❌ Failed to process token 5707: undefined
+   ❌ Failed to process token 5705: undefined
+   ❌ Failed to process token 5714: undefined
+   ❌ Failed to process token 5721: undefined
+   ❌ Failed to process token 5722: undefined
+   ❌ Failed to process token 5727: undefined
+   ❌ Failed to process token 5729: undefined
+   ❌ Failed to process token 5736: undefined
+   ❌ Failed to process token 5739: undefined
+   ❌ Failed to process token 5740: undefined
+   ❌ Failed to process token 5754: undefined
+   ❌ Failed to process token 5755: undefined
+   ❌ Failed to process token 5759: undefined
+   ❌ Failed to process token 5764: undefined
+   ❌ Failed to process token 5767: undefined
+   ❌ Failed to process token 5766: undefined
+   ❌ Failed to process token 5772: undefined
+   ❌ Failed to process token 5773: undefined
+   ❌ Failed to process token 5782: undefined
+   ❌ Failed to process token 5786: undefined
+   Processed 5800/100000
+   ❌ Failed to process token 5784: undefined
+✅ Batch 5701-5800 metadata uploaded
+
+📦 Processing batch 5801-5900...
+   ❌ Failed to process token 5816: undefined
+   ❌ Failed to process token 5813: undefined
+   ❌ Failed to process token 5817: undefined
+   ❌ Failed to process token 5814: undefined
+   ❌ Failed to process token 5818: undefined
+   ❌ Failed to process token 5831: undefined
+   ❌ Failed to process token 5832: undefined
+   ❌ Failed to process token 5835: undefined
+   ❌ Failed to process token 5836: undefined
+   ❌ Failed to process token 5838: undefined
+   ❌ Failed to process token 5852: undefined
+   ❌ Failed to process token 5855: undefined
+   ❌ Failed to process token 5854: undefined
+   ❌ Failed to process token 5868: undefined
+   ❌ Failed to process token 5869: undefined
+   ❌ Failed to process token 5871: undefined
+   ❌ Failed to process token 5872: undefined
+   ❌ Failed to process token 5873: undefined
+   Processed 5900/100000
+   ❌ Failed to process token 5892: undefined
+   ❌ Failed to process token 5891: undefined
+✅ Batch 5801-5900 metadata uploaded
+
+📦 Processing batch 5901-6000...
+   ❌ Failed to process token 5908: undefined
+   ❌ Failed to process token 5909: undefined
+   ❌ Failed to process token 5905: undefined
+   ❌ Failed to process token 5914: undefined
+   ❌ Failed to process token 5913: undefined
+   ❌ Failed to process token 5922: undefined
+   ❌ Failed to process token 5926: undefined
+   ❌ Failed to process token 5930: undefined
+   ❌ Failed to process token 5928: undefined
+   ❌ Failed to process token 5929: undefined
+   ❌ Failed to process token 5934: undefined
+   ❌ Failed to process token 5938: undefined
+   ❌ Failed to process token 5941: undefined
+   ❌ Failed to process token 5943: undefined
+   ❌ Failed to process token 5948: undefined
+   ❌ Failed to process token 5950: undefined
+   ❌ Failed to process token 5953: undefined
+   ❌ Failed to process token 5961: undefined
+   ❌ Failed to process token 5965: undefined
+   ❌ Failed to process token 5973: undefined
+   ❌ Failed to process token 5976: undefined
+   ❌ Failed to process token 5983: undefined
+   ❌ Failed to process token 5985: undefined
+   ❌ Failed to process token 5990: undefined
+   Processed 6000/100000
+✅ Batch 5901-6000 metadata uploaded
+
+📦 Processing batch 6001-6100...
+   ❌ Failed to process token 6006: undefined
+   ❌ Failed to process token 6003: undefined
+   ❌ Failed to process token 6012: undefined
+   ❌ Failed to process token 6021: undefined
+   ❌ Failed to process token 6023: undefined
+   ❌ Failed to process token 6027: undefined
+   ❌ Failed to process token 6028: undefined
+   ❌ Failed to process token 6030: undefined
+   ❌ Failed to process token 6031: undefined
+   ❌ Failed to process token 6047: undefined
+   ❌ Failed to process token 6046: undefined
+   ❌ Failed to process token 6048: undefined
+   ❌ Failed to process token 6049: undefined
+   ❌ Failed to process token 6052: undefined
+   ❌ Failed to process token 6061: undefined
+   ❌ Failed to process token 6066: undefined
+   ❌ Failed to process token 6065: undefined
+   ❌ Failed to process token 6068: undefined
+   ❌ Failed to process token 6070: undefined
+   ❌ Failed to process token 6072: undefined
+   ❌ Failed to process token 6074: undefined
+   Processed 6100/100000
+   ❌ Failed to process token 6084: undefined
+✅ Batch 6001-6100 metadata uploaded
+
+📦 Processing batch 6101-6200...
+   ❌ Failed to process token 6104: undefined
+   ❌ Failed to process token 6103: undefined
+   ❌ Failed to process token 6116: undefined
+   ❌ Failed to process token 6115: undefined
+   ❌ Failed to process token 6114: undefined
+   ❌ Failed to process token 6117: undefined
+   ❌ Failed to process token 6131: undefined
+   ❌ Failed to process token 6134: undefined
+   ❌ Failed to process token 6133: undefined
+   ❌ Failed to process token 6138: undefined
+   ❌ Failed to process token 6145: undefined
+   ❌ Failed to process token 6148: undefined
+   ❌ Failed to process token 6151: undefined
+   ❌ Failed to process token 6153: undefined
+   ❌ Failed to process token 6158: undefined
+   ❌ Failed to process token 6160: undefined
+   ❌ Failed to process token 6161: undefined
+   ❌ Failed to process token 6165: undefined
+   ❌ Failed to process token 6169: undefined
+   ❌ Failed to process token 6171: undefined
+   ❌ Failed to process token 6182: undefined
+   ❌ Failed to process token 6183: undefined
+   Processed 6200/100000
+   ❌ Failed to process token 6189: undefined
+✅ Batch 6101-6200 metadata uploaded
+
+📦 Processing batch 6201-6300...
+   ❌ Failed to process token 6207: undefined
+   ❌ Failed to process token 6201: undefined
+   ❌ Failed to process token 6215: undefined
+   ❌ Failed to process token 6216: undefined
+   ❌ Failed to process token 6231: undefined
+   ❌ Failed to process token 6233: undefined
+   ❌ Failed to process token 6235: undefined
+   ❌ Failed to process token 6241: undefined
+   ❌ Failed to process token 6244: undefined
+   ❌ Failed to process token 6243: undefined
+   ❌ Failed to process token 6245: undefined
+   ❌ Failed to process token 6246: undefined
+   ❌ Failed to process token 6247: undefined
+   ❌ Failed to process token 6249: undefined
+   ❌ Failed to process token 6263: undefined
+   ❌ Failed to process token 6268: undefined
+   ❌ Failed to process token 6269: undefined
+   ❌ Failed to process token 6267: undefined
+   ❌ Failed to process token 6270: undefined
+   ❌ Failed to process token 6271: undefined
+   ❌ Failed to process token 6277: undefined
+   Processed 6300/100000
+   ❌ Failed to process token 6289: undefined
+   ❌ Failed to process token 6290: undefined
+✅ Batch 6201-6300 metadata uploaded
+
+📦 Processing batch 6301-6400...
+   ❌ Failed to process token 6304: undefined
+   ❌ Failed to process token 6306: undefined
+   ❌ Failed to process token 6308: undefined
+   ❌ Failed to process token 6302: undefined
+   ❌ Failed to process token 6313: undefined
+   ❌ Failed to process token 6319: undefined
+   ❌ Failed to process token 6323: undefined
+   ❌ Failed to process token 6325: undefined
+   ❌ Failed to process token 6329: undefined
+   ❌ Failed to process token 6328: undefined
+   ❌ Failed to process token 6344: undefined
+   ❌ Failed to process token 6345: undefined
+   ❌ Failed to process token 6347: undefined
+   ❌ Failed to process token 6349: undefined
+   ❌ Failed to process token 6348: undefined
+   ❌ Failed to process token 6354: undefined
+   ❌ Failed to process token 6359: undefined
+   ❌ Failed to process token 6360: undefined
+   ❌ Failed to process token 6364: undefined
+   ❌ Failed to process token 6365: undefined
+   ❌ Failed to process token 6366: undefined
+   ❌ Failed to process token 6368: undefined
+   ❌ Failed to process token 6375: undefined
+   ❌ Failed to process token 6380: undefined
+   ❌ Failed to process token 6381: undefined
+   Processed 6400/100000
+✅ Batch 6301-6400 metadata uploaded
+
+📦 Processing batch 6401-6500...
+   ❌ Failed to process token 6412: undefined
+   ❌ Failed to process token 6417: undefined
+   ❌ Failed to process token 6419: undefined
+   ❌ Failed to process token 6414: undefined
+   ❌ Failed to process token 6420: undefined
+   ❌ Failed to process token 6430: undefined
+   ❌ Failed to process token 6432: undefined
+   ❌ Failed to process token 6434: undefined
+   ❌ Failed to process token 6435: undefined
+   ❌ Failed to process token 6451: undefined
+   ❌ Failed to process token 6452: undefined
+   ❌ Failed to process token 6454: undefined
+   ❌ Failed to process token 6456: undefined
+   ❌ Failed to process token 6457: undefined
+   ❌ Failed to process token 6459: undefined
+   ❌ Failed to process token 6470: undefined
+   ❌ Failed to process token 6472: undefined
+   ❌ Failed to process token 6480: undefined
+   Processed 6500/100000
+   ❌ Failed to process token 6487: undefined
+✅ Batch 6401-6500 metadata uploaded
+
+📦 Processing batch 6501-6600...
+   ❌ Failed to process token 6510: undefined
+   ❌ Failed to process token 6509: undefined
+   ❌ Failed to process token 6502: undefined
+   ❌ Failed to process token 6514: undefined
+   ❌ Failed to process token 6515: undefined
+   ❌ Failed to process token 6532: undefined
+   ❌ Failed to process token 6534: undefined
+   ❌ Failed to process token 6538: undefined
+   ❌ Failed to process token 6541: undefined
+   ❌ Failed to process token 6547: undefined
+   ❌ Failed to process token 6549: undefined
+   ❌ Failed to process token 6548: undefined
+   ❌ Failed to process token 6555: undefined
+   ❌ Failed to process token 6558: undefined
+   ❌ Failed to process token 6565: undefined
+   ❌ Failed to process token 6568: undefined
+   ❌ Failed to process token 6569: undefined
+   ❌ Failed to process token 6572: undefined
+   ❌ Failed to process token 6573: undefined
+   ❌ Failed to process token 6574: undefined
+   Processed 6600/100000
+✅ Batch 6501-6600 metadata uploaded
+
+📦 Processing batch 6601-6700...
+   ❌ Failed to process token 6604: undefined
+   ❌ Failed to process token 6605: undefined
+   ❌ Failed to process token 6603: undefined
+   ❌ Failed to process token 6613: undefined
+   ❌ Failed to process token 6618: undefined
+   ❌ Failed to process token 6628: undefined
+   ❌ Failed to process token 6631: undefined
+   ❌ Failed to process token 6632: undefined
+   ❌ Failed to process token 6633: undefined
+   ❌ Failed to process token 6634: undefined
+   ❌ Failed to process token 6635: undefined
+   ❌ Failed to process token 6641: undefined
+   ❌ Failed to process token 6644: undefined
+   ❌ Failed to process token 6653: undefined
+   ❌ Failed to process token 6661: undefined
+   ❌ Failed to process token 6662: undefined
+   ❌ Failed to process token 6665: undefined
+   ❌ Failed to process token 6667: undefined
+   ❌ Failed to process token 6674: undefined
+   ❌ Failed to process token 6678: undefined
+   ❌ Failed to process token 6683: undefined
+   Processed 6700/100000
+✅ Batch 6601-6700 metadata uploaded
+
+📦 Processing batch 6701-6800...
+   ❌ Failed to process token 6707: undefined
+   ❌ Failed to process token 6712: undefined
+   ❌ Failed to process token 6715: undefined
+   ❌ Failed to process token 6718: undefined
+   ❌ Failed to process token 6721: undefined
+   ❌ Failed to process token 6728: undefined
+   ❌ Failed to process token 6730: undefined
+   ❌ Failed to process token 6735: undefined
+   ❌ Failed to process token 6736: undefined
+   ❌ Failed to process token 6738: undefined
+   ❌ Failed to process token 6742: undefined
+   ❌ Failed to process token 6748: undefined
+   ❌ Failed to process token 6757: undefined
+   ❌ Failed to process token 6762: undefined
+   ❌ Failed to process token 6764: undefined
+   ❌ Failed to process token 6768: undefined
+   ❌ Failed to process token 6776: undefined
+   ❌ Failed to process token 6779: undefined
+   ❌ Failed to process token 6781: undefined
+   ❌ Failed to process token 6782: undefined
+   Processed 6800/100000
+✅ Batch 6701-6800 metadata uploaded
+
+📦 Processing batch 6801-6900...
+   ❌ Failed to process token 6804: undefined
+   ❌ Failed to process token 6810: undefined
+   ❌ Failed to process token 6803: undefined
+   ❌ Failed to process token 6813: undefined
+   ❌ Failed to process token 6817: undefined
+   ❌ Failed to process token 6828: undefined
+   ❌ Failed to process token 6829: undefined
+   ❌ Failed to process token 6830: undefined
+   ❌ Failed to process token 6834: undefined
+   ❌ Failed to process token 6835: undefined
+   ❌ Failed to process token 6836: undefined
+   ❌ Failed to process token 6841: undefined
+   ❌ Failed to process token 6844: undefined
+   ❌ Failed to process token 6846: undefined
+   ❌ Failed to process token 6847: undefined
+   ❌ Failed to process token 6854: undefined
+   ❌ Failed to process token 6860: undefined
+   ❌ Failed to process token 6869: undefined
+   ❌ Failed to process token 6878: undefined
+   ❌ Failed to process token 6880: undefined
+   ❌ Failed to process token 6882: undefined
+   ❌ Failed to process token 6883: undefined
+   Processed 6900/100000
+   ❌ Failed to process token 6884: undefined
+✅ Batch 6801-6900 metadata uploaded
+
+📦 Processing batch 6901-7000...
+   ❌ Failed to process token 6909: undefined
+   ❌ Failed to process token 6914: undefined
+   ❌ Failed to process token 6915: undefined
+   ❌ Failed to process token 6916: undefined
+   ❌ Failed to process token 6917: undefined
+   ❌ Failed to process token 6913: undefined
+   ❌ Failed to process token 6924: undefined
+   ❌ Failed to process token 6929: undefined
+   ❌ Failed to process token 6931: undefined
+   ❌ Failed to process token 6934: undefined
+   ❌ Failed to process token 6933: undefined
+   ❌ Failed to process token 6937: undefined
+   ❌ Failed to process token 6945: undefined
+   ❌ Failed to process token 6954: undefined
+   ❌ Failed to process token 6957: undefined
+   ❌ Failed to process token 6959: undefined
+   ❌ Failed to process token 6964: undefined
+   ❌ Failed to process token 6969: undefined
+   ❌ Failed to process token 6970: undefined
+   ❌ Failed to process token 6971: undefined
+   ❌ Failed to process token 6972: undefined
+   ❌ Failed to process token 6974: undefined
+   ❌ Failed to process token 6976: undefined
+   ❌ Failed to process token 6978: undefined
+   Processed 7000/100000
+✅ Batch 6901-7000 metadata uploaded
+
+📦 Processing batch 7001-7100...
+   ❌ Failed to process token 7008: undefined
+   ❌ Failed to process token 7010: undefined
+   ❌ Failed to process token 7001: undefined
+   ❌ Failed to process token 7004: undefined
+   ❌ Failed to process token 7012: undefined
+   ❌ Failed to process token 7014: undefined
+   ❌ Failed to process token 7026: undefined
+   ❌ Failed to process token 7027: undefined
+   ❌ Failed to process token 7036: undefined
+   ❌ Failed to process token 7035: undefined
+   ❌ Failed to process token 7037: undefined
+   ❌ Failed to process token 7042: undefined
+   ❌ Failed to process token 7050: undefined
+   ❌ Failed to process token 7051: undefined
+   ❌ Failed to process token 7055: undefined
+   ❌ Failed to process token 7061: undefined
+   ❌ Failed to process token 7059: undefined
+   ❌ Failed to process token 7071: undefined
+   ❌ Failed to process token 7073: undefined
+   ❌ Failed to process token 7079: undefined
+   ❌ Failed to process token 7080: undefined
+   ❌ Failed to process token 7084: undefined
+   Processed 7100/100000
+✅ Batch 7001-7100 metadata uploaded
+
+📦 Processing batch 7101-7200...
+   ❌ Failed to process token 7110: undefined
+   ❌ Failed to process token 7104: undefined
+   ❌ Failed to process token 7109: undefined
+   ❌ Failed to process token 7114: undefined
+   ❌ Failed to process token 7122: undefined
+   ❌ Failed to process token 7125: undefined
+   ❌ Failed to process token 7129: undefined
+   ❌ Failed to process token 7131: undefined
+   ❌ Failed to process token 7133: undefined
+   ❌ Failed to process token 7134: undefined
+   ❌ Failed to process token 7149: undefined
+   ❌ Failed to process token 7153: undefined
+   ❌ Failed to process token 7156: undefined
+   ❌ Failed to process token 7159: undefined
+   ❌ Failed to process token 7164: undefined
+   ❌ Failed to process token 7165: undefined
+   ❌ Failed to process token 7166: undefined
+   ❌ Failed to process token 7167: undefined
+   ❌ Failed to process token 7168: undefined
+   ❌ Failed to process token 7175: undefined
+   ❌ Failed to process token 7176: undefined
+   Processed 7200/100000
+✅ Batch 7101-7200 metadata uploaded
+
+📦 Processing batch 7201-7300...
+   ❌ Failed to process token 7205: undefined
+   ❌ Failed to process token 7210: undefined
+   ❌ Failed to process token 7207: undefined
+   ❌ Failed to process token 7208: undefined
+   ❌ Failed to process token 7209: undefined
+   ❌ Failed to process token 7213: undefined
+   ❌ Failed to process token 7214: undefined
+   ❌ Failed to process token 7227: undefined
+   ❌ Failed to process token 7225: undefined
+   ❌ Failed to process token 7229: undefined
+   ❌ Failed to process token 7234: undefined
+   ❌ Failed to process token 7246: undefined
+   ❌ Failed to process token 7249: undefined
+   ❌ Failed to process token 7248: undefined
+   ❌ Failed to process token 7250: undefined
+   ❌ Failed to process token 7258: undefined
+   ❌ Failed to process token 7263: undefined
+   ❌ Failed to process token 7267: undefined
+   ❌ Failed to process token 7269: undefined
+   ❌ Failed to process token 7273: undefined
+   ❌ Failed to process token 7276: undefined
+   ❌ Failed to process token 7287: undefined
+   ❌ Failed to process token 7291: undefined
+   Processed 7300/100000
+✅ Batch 7201-7300 metadata uploaded
+
+📦 Processing batch 7301-7400...
+   ❌ Failed to process token 7304: undefined
+   ❌ Failed to process token 7306: undefined
+   ❌ Failed to process token 7301: undefined
+   ❌ Failed to process token 7302: undefined
+   ❌ Failed to process token 7308: undefined
+   ❌ Failed to process token 7324: undefined
+   ❌ Failed to process token 7326: undefined
+   ❌ Failed to process token 7328: undefined
+   ❌ Failed to process token 7327: undefined
+   ❌ Failed to process token 7334: undefined
+   ❌ Failed to process token 7336: undefined
+   ❌ Failed to process token 7338: undefined
+   ❌ Failed to process token 7342: undefined
+   ❌ Failed to process token 7344: undefined
+   ❌ Failed to process token 7347: undefined
+   ❌ Failed to process token 7353: undefined
+   ❌ Failed to process token 7359: undefined
+   ❌ Failed to process token 7361: undefined
+   ❌ Failed to process token 7366: undefined
+   ❌ Failed to process token 7372: undefined
+   ❌ Failed to process token 7377: undefined
+   ❌ Failed to process token 7379: undefined
+   ❌ Failed to process token 7378: undefined
+   Processed 7400/100000
+   ❌ Failed to process token 7386: undefined
+✅ Batch 7301-7400 metadata uploaded
+
+📦 Processing batch 7401-7500...
+   ❌ Failed to process token 7403: undefined
+   ❌ Failed to process token 7408: undefined
+   ❌ Failed to process token 7409: undefined
+   ❌ Failed to process token 7412: undefined
+   ❌ Failed to process token 7415: undefined
+   ❌ Failed to process token 7414: undefined
+   ❌ Failed to process token 7420: undefined
+   ❌ Failed to process token 7429: undefined
+   ❌ Failed to process token 7431: undefined
+   ❌ Failed to process token 7434: undefined
+   ❌ Failed to process token 7436: undefined
+   ❌ Failed to process token 7441: undefined
+   ❌ Failed to process token 7444: undefined
+   ❌ Failed to process token 7448: undefined
+   ❌ Failed to process token 7452: undefined
+   ❌ Failed to process token 7453: undefined
+   ❌ Failed to process token 7455: undefined
+   ❌ Failed to process token 7466: undefined
+   ❌ Failed to process token 7467: undefined
+   ❌ Failed to process token 7468: undefined
+   ❌ Failed to process token 7470: undefined
+   ❌ Failed to process token 7473: undefined
+   ❌ Failed to process token 7479: undefined
+   Processed 7500/100000
+✅ Batch 7401-7500 metadata uploaded
+
+📦 Processing batch 7501-7600...
+   ❌ Failed to process token 7506: undefined
+   ❌ Failed to process token 7507: undefined
+   ❌ Failed to process token 7515: undefined
+   ❌ Failed to process token 7525: undefined
+   ❌ Failed to process token 7527: undefined
+   ❌ Failed to process token 7530: undefined
+   ❌ Failed to process token 7533: undefined
+   ❌ Failed to process token 7532: undefined
+   ❌ Failed to process token 7551: undefined
+   ❌ Failed to process token 7550: undefined
+   ❌ Failed to process token 7552: undefined
+   ❌ Failed to process token 7556: undefined
+   ❌ Failed to process token 7572: undefined
+   ❌ Failed to process token 7573: undefined
+   ❌ Failed to process token 7580: undefined
+   ❌ Failed to process token 7582: undefined
+   ❌ Failed to process token 7583: undefined
+   Processed 7600/100000
+✅ Batch 7501-7600 metadata uploaded
+
+📦 Processing batch 7601-7700...
+   ❌ Failed to process token 7610: undefined
+   ❌ Failed to process token 7608: undefined
+   ❌ Failed to process token 7605: undefined
+   ❌ Failed to process token 7614: undefined
+   ❌ Failed to process token 7613: undefined
+   ❌ Failed to process token 7612: undefined
+   ❌ Failed to process token 7627: undefined
+   ❌ Failed to process token 7629: undefined
+   ❌ Failed to process token 7632: undefined
+   ❌ Failed to process token 7634: undefined
+   ❌ Failed to process token 7638: undefined
+   ❌ Failed to process token 7641: undefined
+   ❌ Failed to process token 7645: undefined
+   ❌ Failed to process token 7648: undefined
+   ❌ Failed to process token 7655: undefined
+   ❌ Failed to process token 7662: undefined
+   ❌ Failed to process token 7664: undefined
+   ❌ Failed to process token 7667: undefined
+   ❌ Failed to process token 7668: undefined
+   ❌ Failed to process token 7669: undefined
+   ❌ Failed to process token 7673: undefined
+   Processed 7700/100000
+   ❌ Failed to process token 7686: undefined
+✅ Batch 7601-7700 metadata uploaded
+
+📦 Processing batch 7701-7800...
+   ❌ Failed to process token 7703: undefined
+   ❌ Failed to process token 7702: undefined
+   ❌ Failed to process token 7707: undefined
+   ❌ Failed to process token 7710: undefined
+   ❌ Failed to process token 7708: undefined
+   ❌ Failed to process token 7713: undefined
+   ❌ Failed to process token 7726: undefined
+   ❌ Failed to process token 7725: undefined
+   ❌ Failed to process token 7730: undefined
+   ❌ Failed to process token 7727: undefined
+   ❌ Failed to process token 7733: undefined
+   ❌ Failed to process token 7747: undefined
+   ❌ Failed to process token 7749: undefined
+   ❌ Failed to process token 7757: undefined
+   ❌ Failed to process token 7762: undefined
+   ❌ Failed to process token 7761: undefined
+   ❌ Failed to process token 7763: undefined
+   ❌ Failed to process token 7765: undefined
+   ❌ Failed to process token 7764: undefined
+   ❌ Failed to process token 7766: undefined
+   ❌ Failed to process token 7771: undefined
+   ❌ Failed to process token 7773: undefined
+   ❌ Failed to process token 7781: undefined
+   Processed 7800/100000
+   ❌ Failed to process token 7785: undefined
+✅ Batch 7701-7800 metadata uploaded
+
+📦 Processing batch 7801-7900...
+   ❌ Failed to process token 7802: undefined
+   ❌ Failed to process token 7805: undefined
+   ❌ Failed to process token 7810: undefined
+   ❌ Failed to process token 7809: undefined
+   ❌ Failed to process token 7807: undefined
+   ❌ Failed to process token 7803: undefined
+   ❌ Failed to process token 7826: undefined
+   ❌ Failed to process token 7828: undefined
+   ❌ Failed to process token 7830: undefined
+   ❌ Failed to process token 7829: undefined
+   ❌ Failed to process token 7832: undefined
+   ❌ Failed to process token 7833: undefined
+   ❌ Failed to process token 7836: undefined
+   ❌ Failed to process token 7848: undefined
+   ❌ Failed to process token 7850: undefined
+   ❌ Failed to process token 7853: undefined
+   ❌ Failed to process token 7856: undefined
+   ❌ Failed to process token 7858: undefined
+   ❌ Failed to process token 7865: undefined
+   ❌ Failed to process token 7867: undefined
+   ❌ Failed to process token 7866: undefined
+   ❌ Failed to process token 7870: undefined
+   ❌ Failed to process token 7871: undefined
+   ❌ Failed to process token 7881: undefined
+   Processed 7900/100000
+   ❌ Failed to process token 7884: undefined
+   ❌ Failed to process token 7883: undefined
+   ❌ Failed to process token 7886: undefined
+✅ Batch 7801-7900 metadata uploaded
+
+📦 Processing batch 7901-8000...
+   ❌ Failed to process token 7910: undefined
+   ❌ Failed to process token 7907: undefined
+   ❌ Failed to process token 7903: undefined
+   ❌ Failed to process token 7906: undefined
+   ❌ Failed to process token 7909: undefined
+   ❌ Failed to process token 7908: undefined
+   ❌ Failed to process token 7928: undefined
+   ❌ Failed to process token 7930: undefined
+   ❌ Failed to process token 7927: undefined
+   ❌ Failed to process token 7931: undefined
+   ❌ Failed to process token 7933: undefined
+   ❌ Failed to process token 7935: undefined
+   ❌ Failed to process token 7936: undefined
+   ❌ Failed to process token 7943: undefined
+   ❌ Failed to process token 7949: undefined
+   ❌ Failed to process token 7953: undefined
+   ❌ Failed to process token 7958: undefined
+   ❌ Failed to process token 7964: undefined
+   ❌ Failed to process token 7966: undefined
+   ❌ Failed to process token 7967: undefined
+   ❌ Failed to process token 7975: undefined
+   ❌ Failed to process token 7977: undefined
+   ❌ Failed to process token 7982: undefined
+   Processed 8000/100000
+✅ Batch 7901-8000 metadata uploaded
+
+📦 Processing batch 8001-8100...
+   ❌ Failed to process token 8010: undefined
+   ❌ Failed to process token 8008: undefined
+   ❌ Failed to process token 8004: undefined
+   ❌ Failed to process token 8009: undefined
+   ❌ Failed to process token 8006: undefined
+   ❌ Failed to process token 8013: undefined
+   ❌ Failed to process token 8028: undefined
+   ❌ Failed to process token 8027: undefined
+   ❌ Failed to process token 8026: undefined
+   ❌ Failed to process token 8031: undefined
+   ❌ Failed to process token 8032: undefined
+   ❌ Failed to process token 8046: undefined
+   ❌ Failed to process token 8047: undefined
+   ❌ Failed to process token 8048: undefined
+   ❌ Failed to process token 8050: undefined
+   ❌ Failed to process token 8052: undefined
+   ❌ Failed to process token 8063: undefined
+   ❌ Failed to process token 8065: undefined
+   ❌ Failed to process token 8066: undefined
+   ❌ Failed to process token 8068: undefined
+   ❌ Failed to process token 8070: undefined
+   ❌ Failed to process token 8080: undefined
+   ❌ Failed to process token 8084: undefined
+   ❌ Failed to process token 8087: undefined
+   Processed 8100/100000
+✅ Batch 8001-8100 metadata uploaded
+
+📦 Processing batch 8101-8200...
+   ❌ Failed to process token 8112: undefined
+   ❌ Failed to process token 8118: undefined
+   ❌ Failed to process token 8114: undefined
+   ❌ Failed to process token 8115: undefined
+   ❌ Failed to process token 8117: undefined
+   ❌ Failed to process token 8119: undefined
+   ❌ Failed to process token 8130: undefined
+   ❌ Failed to process token 8135: undefined
+   ❌ Failed to process token 8138: undefined
+   ❌ Failed to process token 8139: undefined
+   ❌ Failed to process token 8144: undefined
+   ❌ Failed to process token 8153: undefined
+   ❌ Failed to process token 8158: undefined
+   ❌ Failed to process token 8159: undefined
+   ❌ Failed to process token 8161: undefined
+   ❌ Failed to process token 8163: undefined
+   ❌ Failed to process token 8166: undefined
+   ❌ Failed to process token 8175: undefined
+   ❌ Failed to process token 8181: undefined
+   ❌ Failed to process token 8183: undefined
+   ❌ Failed to process token 8185: undefined
+   Processed 8200/100000
+✅ Batch 8101-8200 metadata uploaded
+
+📦 Processing batch 8201-8300...
+   ❌ Failed to process token 8207: undefined
+   ❌ Failed to process token 8203: undefined
+   ❌ Failed to process token 8204: undefined
+   ❌ Failed to process token 8209: undefined
+   ❌ Failed to process token 8214: undefined
+   ❌ Failed to process token 8220: undefined
+   ❌ Failed to process token 8226: undefined
+   ❌ Failed to process token 8228: undefined
+   ❌ Failed to process token 8230: undefined
+   ❌ Failed to process token 8232: undefined
+   ❌ Failed to process token 8241: undefined
+   ❌ Failed to process token 8245: undefined
+   ❌ Failed to process token 8246: undefined
+   ❌ Failed to process token 8248: undefined
+   ❌ Failed to process token 8247: undefined
+   ❌ Failed to process token 8251: undefined
+   ❌ Failed to process token 8256: undefined
+   ❌ Failed to process token 8261: undefined
+   ❌ Failed to process token 8265: undefined
+   ❌ Failed to process token 8266: undefined
+   ❌ Failed to process token 8267: undefined
+   ❌ Failed to process token 8275: undefined
+   ❌ Failed to process token 8276: undefined
+   ❌ Failed to process token 8288: undefined
+   ❌ Failed to process token 8289: undefined
+   Processed 8300/100000
+✅ Batch 8201-8300 metadata uploaded
+
+📦 Processing batch 8301-8400...
+   ❌ Failed to process token 8304: undefined
+   ❌ Failed to process token 8309: undefined
+   ❌ Failed to process token 8308: undefined
+   ❌ Failed to process token 8303: undefined
+   ❌ Failed to process token 8315: undefined
+   ❌ Failed to process token 8313: undefined
+   ❌ Failed to process token 8327: undefined
+   ❌ Failed to process token 8333: undefined
+   ❌ Failed to process token 8335: undefined
+   ❌ Failed to process token 8340: undefined
+   ❌ Failed to process token 8345: undefined
+   ❌ Failed to process token 8344: undefined
+   ❌ Failed to process token 8346: undefined
+   ❌ Failed to process token 8349: undefined
+   ❌ Failed to process token 8350: undefined
+   ❌ Failed to process token 8354: undefined
+   ❌ Failed to process token 8356: undefined
+   ❌ Failed to process token 8358: undefined
+   ❌ Failed to process token 8364: undefined
+   ❌ Failed to process token 8369: undefined
+   ❌ Failed to process token 8374: undefined
+   ❌ Failed to process token 8375: undefined
+   ❌ Failed to process token 8378: undefined
+   ❌ Failed to process token 8380: undefined
+   Processed 8400/100000
+✅ Batch 8301-8400 metadata uploaded
+
+📦 Processing batch 8401-8500...
+   ❌ Failed to process token 8404: undefined
+   ❌ Failed to process token 8401: undefined
+   ❌ Failed to process token 8403: undefined
+   ❌ Failed to process token 8406: undefined
+   ❌ Failed to process token 8413: undefined
+   ❌ Failed to process token 8417: undefined
+   ❌ Failed to process token 8424: undefined
+   ❌ Failed to process token 8426: undefined
+   ❌ Failed to process token 8429: undefined
+   ❌ Failed to process token 8432: undefined
+   ❌ Failed to process token 8439: undefined
+   ❌ Failed to process token 8441: undefined
+   ❌ Failed to process token 8447: undefined
+   ❌ Failed to process token 8455: undefined
+   ❌ Failed to process token 8461: undefined
+   ❌ Failed to process token 8462: undefined
+   ❌ Failed to process token 8467: undefined
+   ❌ Failed to process token 8475: undefined
+   ❌ Failed to process token 8476: undefined
+   ❌ Failed to process token 8477: undefined
+   ❌ Failed to process token 8487: undefined
+   Processed 8500/100000
+✅ Batch 8401-8500 metadata uploaded
+
+📦 Processing batch 8501-8600...
+   ❌ Failed to process token 8510: undefined
+   ❌ Failed to process token 8507: undefined
+   ❌ Failed to process token 8502: undefined
+   ❌ Failed to process token 8508: undefined
+   ❌ Failed to process token 8515: undefined
+   ❌ Failed to process token 8514: undefined
+   ❌ Failed to process token 8528: undefined
+   ❌ Failed to process token 8529: undefined
+   ❌ Failed to process token 8535: undefined
+   ❌ Failed to process token 8538: undefined
+   ❌ Failed to process token 8539: undefined
+   ❌ Failed to process token 8545: undefined
+   ❌ Failed to process token 8547: undefined
+   ❌ Failed to process token 8549: undefined
+   ❌ Failed to process token 8552: undefined
+   ❌ Failed to process token 8560: undefined
+   ❌ Failed to process token 8567: undefined
+   ❌ Failed to process token 8569: undefined
+   ❌ Failed to process token 8570: undefined
+   ❌ Failed to process token 8573: undefined
+   ❌ Failed to process token 8578: undefined
+   ❌ Failed to process token 8579: undefined
+   ❌ Failed to process token 8580: undefined
+   ❌ Failed to process token 8586: undefined
+   Processed 8600/100000
+✅ Batch 8501-8600 metadata uploaded
+
+📦 Processing batch 8601-8700...
+   ❌ Failed to process token 8615: undefined
+   ❌ Failed to process token 8616: undefined
+   ❌ Failed to process token 8617: undefined
+   ❌ Failed to process token 8618: undefined
+   ❌ Failed to process token 8620: undefined
+   ❌ Failed to process token 8623: undefined
+   ❌ Failed to process token 8633: undefined
+   ❌ Failed to process token 8636: undefined
+   ❌ Failed to process token 8638: undefined
+   ❌ Failed to process token 8647: undefined
+   ❌ Failed to process token 8648: undefined
+   ❌ Failed to process token 8653: undefined
+   ❌ Failed to process token 8657: undefined
+   ❌ Failed to process token 8660: undefined
+   ❌ Failed to process token 8665: undefined
+   ❌ Failed to process token 8668: undefined
+   ❌ Failed to process token 8673: undefined
+   ❌ Failed to process token 8675: undefined
+   ❌ Failed to process token 8680: undefined
+   ❌ Failed to process token 8685: undefined
+   Processed 8700/100000
+✅ Batch 8601-8700 metadata uploaded
+
+📦 Processing batch 8701-8800...
+   ❌ Failed to process token 8704: undefined
+   ❌ Failed to process token 8715: undefined
+   ❌ Failed to process token 8717: undefined
+   ❌ Failed to process token 8714: undefined
+   ❌ Failed to process token 8716: undefined
+   ❌ Failed to process token 8720: undefined
+   ❌ Failed to process token 8736: undefined
+   ❌ Failed to process token 8737: undefined
+   ❌ Failed to process token 8735: undefined
+   ❌ Failed to process token 8747: undefined
+   ❌ Failed to process token 8749: undefined
+   ❌ Failed to process token 8751: undefined
+   ❌ Failed to process token 8755: undefined
+   ❌ Failed to process token 8759: undefined
+   ❌ Failed to process token 8764: undefined
+   ❌ Failed to process token 8765: undefined
+   ❌ Failed to process token 8772: undefined
+   ❌ Failed to process token 8771: undefined
+   ❌ Failed to process token 8777: undefined
+   ❌ Failed to process token 8783: undefined
+   ❌ Failed to process token 8785: undefined
+   ❌ Failed to process token 8784: undefined
+   Processed 8800/100000
+✅ Batch 8701-8800 metadata uploaded
+
+📦 Processing batch 8801-8900...
+   ❌ Failed to process token 8805: undefined
+   ❌ Failed to process token 8806: undefined
+   ❌ Failed to process token 8802: undefined
+   ❌ Failed to process token 8807: undefined
+   ❌ Failed to process token 8809: undefined
+   ❌ Failed to process token 8813: undefined
+   ❌ Failed to process token 8822: undefined
+   ❌ Failed to process token 8825: undefined
+   ❌ Failed to process token 8829: undefined
+   ❌ Failed to process token 8828: undefined
+   ❌ Failed to process token 8830: undefined
+   ❌ Failed to process token 8845: undefined
+   ❌ Failed to process token 8846: undefined
+   ❌ Failed to process token 8849: undefined
+   ❌ Failed to process token 8848: undefined
+   ❌ Failed to process token 8851: undefined
+   ❌ Failed to process token 8864: undefined
+   ❌ Failed to process token 8865: undefined
+   ❌ Failed to process token 8872: undefined
+   ❌ Failed to process token 8877: undefined
+   ❌ Failed to process token 8881: undefined
+   ❌ Failed to process token 8884: undefined
+   ❌ Failed to process token 8883: undefined
+   Processed 8900/100000
+✅ Batch 8801-8900 metadata uploaded
+
+📦 Processing batch 8901-9000...
+   ❌ Failed to process token 8918: undefined
+   ❌ Failed to process token 8917: undefined
+   ❌ Failed to process token 8916: undefined
+   ❌ Failed to process token 8913: undefined
+   ❌ Failed to process token 8934: undefined
+   ❌ Failed to process token 8936: undefined
+   ❌ Failed to process token 8943: undefined
+   ❌ Failed to process token 8946: undefined
+   ❌ Failed to process token 8947: undefined
+   ❌ Failed to process token 8948: undefined
+   ❌ Failed to process token 8952: undefined
+   ❌ Failed to process token 8956: undefined
+   ❌ Failed to process token 8958: undefined
+   ❌ Failed to process token 8965: undefined
+   ❌ Failed to process token 8973: undefined
+   ❌ Failed to process token 8976: undefined
+   ❌ Failed to process token 8977: undefined
+   ❌ Failed to process token 8978: undefined
+   Processed 9000/100000
+   ❌ Failed to process token 8985: undefined
+✅ Batch 8901-9000 metadata uploaded
+
+📦 Processing batch 9001-9100...
+   ❌ Failed to process token 9005: undefined
+   ❌ Failed to process token 9008: undefined
+   ❌ Failed to process token 9010: undefined
+   ❌ Failed to process token 9006: undefined
+   ❌ Failed to process token 9009: undefined
+   ❌ Failed to process token 9013: undefined
+   ❌ Failed to process token 9028: undefined
+   ❌ Failed to process token 9031: undefined
+   ❌ Failed to process token 9026: undefined
+   ❌ Failed to process token 9037: undefined
+   ❌ Failed to process token 9045: undefined
+   ❌ Failed to process token 9048: undefined
+   ❌ Failed to process token 9050: undefined
+   ❌ Failed to process token 9054: undefined
+   ❌ Failed to process token 9056: undefined
+   ❌ Failed to process token 9060: undefined
+   ❌ Failed to process token 9067: undefined
+   ❌ Failed to process token 9078: undefined
+   ❌ Failed to process token 9081: undefined
+   ❌ Failed to process token 9082: undefined
+   Processed 9100/100000
+✅ Batch 9001-9100 metadata uploaded
+
+📦 Processing batch 9101-9200...
+   ❌ Failed to process token 9105: undefined
+   ❌ Failed to process token 9102: undefined
+   ❌ Failed to process token 9109: undefined
+   ❌ Failed to process token 9115: undefined
+   ❌ Failed to process token 9116: undefined
+   ❌ Failed to process token 9123: undefined
+   ❌ Failed to process token 9131: undefined
+   ❌ Failed to process token 9129: undefined
+   ❌ Failed to process token 9134: undefined
+   ❌ Failed to process token 9142: undefined
+   ❌ Failed to process token 9143: undefined
+   ❌ Failed to process token 9147: undefined
+   ❌ Failed to process token 9149: undefined
+   ❌ Failed to process token 9151: undefined
+   ❌ Failed to process token 9152: undefined
+   ❌ Failed to process token 9160: undefined
+   ❌ Failed to process token 9166: undefined
+   ❌ Failed to process token 9169: undefined
+   ❌ Failed to process token 9167: undefined
+   ❌ Failed to process token 9173: undefined
+   ❌ Failed to process token 9179: undefined
+   ❌ Failed to process token 9182: undefined
+   ❌ Failed to process token 9189: undefined
+   Processed 9200/100000
+✅ Batch 9101-9200 metadata uploaded
+
+📦 Processing batch 9201-9300...
+   ❌ Failed to process token 9201: undefined
+   ❌ Failed to process token 9212: undefined
+   ❌ Failed to process token 9213: undefined
+   ❌ Failed to process token 9206: undefined
+   ❌ Failed to process token 9232: undefined
+   ❌ Failed to process token 9234: undefined
+   ❌ Failed to process token 9235: undefined
+   ❌ Failed to process token 9237: undefined
+   ❌ Failed to process token 9238: undefined
+   ❌ Failed to process token 9250: undefined
+   ❌ Failed to process token 9254: undefined
+   ❌ Failed to process token 9264: undefined
+   ❌ Failed to process token 9265: undefined
+   ❌ Failed to process token 9268: undefined
+   ❌ Failed to process token 9273: undefined
+   ❌ Failed to process token 9276: undefined
+   ❌ Failed to process token 9277: undefined
+   ❌ Failed to process token 9282: undefined
+   Processed 9300/100000
+✅ Batch 9201-9300 metadata uploaded
+
+📦 Processing batch 9301-9400...
+   ❌ Failed to process token 9305: undefined
+   ❌ Failed to process token 9304: undefined
+   ❌ Failed to process token 9306: undefined
+   ❌ Failed to process token 9309: undefined
+   ❌ Failed to process token 9310: undefined
+   ❌ Failed to process token 9313: undefined
+   ❌ Failed to process token 9325: undefined
+   ❌ Failed to process token 9329: undefined
+   ❌ Failed to process token 9327: undefined
+   ❌ Failed to process token 9331: undefined
+   ❌ Failed to process token 9330: undefined
+   ❌ Failed to process token 9337: undefined
+   ❌ Failed to process token 9348: undefined
+   ❌ Failed to process token 9347: undefined
+   ❌ Failed to process token 9349: undefined
+   ❌ Failed to process token 9350: undefined
+   ❌ Failed to process token 9352: undefined
+   ❌ Failed to process token 9356: undefined
+   ❌ Failed to process token 9367: undefined
+   ❌ Failed to process token 9369: undefined
+   ❌ Failed to process token 9372: undefined
+   ❌ Failed to process token 9375: undefined
+   ❌ Failed to process token 9383: undefined
+   Processed 9400/100000
+✅ Batch 9301-9400 metadata uploaded
+
+📦 Processing batch 9401-9500...
+   ❌ Failed to process token 9402: undefined
+   ❌ Failed to process token 9406: undefined
+   ❌ Failed to process token 9410: undefined
+   ❌ Failed to process token 9414: undefined
+   ❌ Failed to process token 9423: undefined
+   ❌ Failed to process token 9429: undefined
+   ❌ Failed to process token 9431: undefined
+   ❌ Failed to process token 9437: undefined
+   ❌ Failed to process token 9445: undefined
+   ❌ Failed to process token 9447: undefined
+   ❌ Failed to process token 9446: undefined
+   ❌ Failed to process token 9449: undefined
+   ❌ Failed to process token 9452: undefined
+   ❌ Failed to process token 9455: undefined
+   ❌ Failed to process token 9463: undefined
+   ❌ Failed to process token 9464: undefined
+   ❌ Failed to process token 9466: undefined
+   ❌ Failed to process token 9465: undefined
+   ❌ Failed to process token 9478: undefined
+   ❌ Failed to process token 9482: undefined
+   ❌ Failed to process token 9484: undefined
+   ❌ Failed to process token 9486: undefined
+   Processed 9500/100000
+✅ Batch 9401-9500 metadata uploaded
+
+📦 Processing batch 9501-9600...
+   ❌ Failed to process token 9505: undefined
+   ❌ Failed to process token 9515: undefined
+   ❌ Failed to process token 9516: undefined
+   ❌ Failed to process token 9517: undefined
+   ❌ Failed to process token 9519: undefined
+   ❌ Failed to process token 9520: undefined
+   ❌ Failed to process token 9529: undefined
+   ❌ Failed to process token 9530: undefined
+   ❌ Failed to process token 9532: undefined
+   ❌ Failed to process token 9534: undefined
+   ❌ Failed to process token 9536: undefined
+   ❌ Failed to process token 9539: undefined
+   ❌ Failed to process token 9537: undefined
+   ❌ Failed to process token 9550: undefined
+   ❌ Failed to process token 9557: undefined
+   ❌ Failed to process token 9559: undefined
+   ❌ Failed to process token 9560: undefined
+   ❌ Failed to process token 9562: undefined
+   ❌ Failed to process token 9572: undefined
+   ❌ Failed to process token 9576: undefined
+   ❌ Failed to process token 9578: undefined
+   ❌ Failed to process token 9585: undefined
+   Processed 9600/100000
+✅ Batch 9501-9600 metadata uploaded
+
+📦 Processing batch 9601-9700...
+   ❌ Failed to process token 9608: undefined
+   ❌ Failed to process token 9615: undefined
+   ❌ Failed to process token 9614: undefined
+   ❌ Failed to process token 9616: undefined
+   ❌ Failed to process token 9618: undefined
+   ❌ Failed to process token 9620: undefined
+   ❌ Failed to process token 9629: undefined
+   ❌ Failed to process token 9635: undefined
+   ❌ Failed to process token 9637: undefined
+   ❌ Failed to process token 9643: undefined
+   ❌ Failed to process token 9649: undefined
+   ❌ Failed to process token 9650: undefined
+   ❌ Failed to process token 9662: undefined
+   ❌ Failed to process token 9663: undefined
+   ❌ Failed to process token 9669: undefined
+   ❌ Failed to process token 9670: undefined
+   ❌ Failed to process token 9671: undefined
+   ❌ Failed to process token 9680: undefined
+   ❌ Failed to process token 9685: undefined
+   ❌ Failed to process token 9689: undefined
+   Processed 9700/100000
+✅ Batch 9601-9700 metadata uploaded
+
+📦 Processing batch 9701-9800...
+   ❌ Failed to process token 9715: undefined
+   ❌ Failed to process token 9716: undefined
+   ❌ Failed to process token 9717: undefined
+   ❌ Failed to process token 9711: undefined
+   ❌ Failed to process token 9719: undefined
+   ❌ Failed to process token 9718: undefined
+   ❌ Failed to process token 9735: undefined
+   ❌ Failed to process token 9737: undefined
+   ❌ Failed to process token 9736: undefined
+   ❌ Failed to process token 9741: undefined
+   ❌ Failed to process token 9743: undefined
+   ❌ Failed to process token 9749: undefined
+   ❌ Failed to process token 9750: undefined
+   ❌ Failed to process token 9754: undefined
+   ❌ Failed to process token 9757: undefined
+   ❌ Failed to process token 9762: undefined
+   ❌ Failed to process token 9767: undefined
+   ❌ Failed to process token 9773: undefined
+   ❌ Failed to process token 9775: undefined
+   ❌ Failed to process token 9776: undefined
+   ❌ Failed to process token 9780: undefined
+   Processed 9800/100000
+✅ Batch 9701-9800 metadata uploaded
+
+📦 Processing batch 9801-9900...
+   ❌ Failed to process token 9803: undefined
+   ❌ Failed to process token 9805: undefined
+   ❌ Failed to process token 9807: undefined
+   ❌ Failed to process token 9810: undefined
+   ❌ Failed to process token 9809: undefined
+   ❌ Failed to process token 9823: undefined
+   ❌ Failed to process token 9827: undefined
+   ❌ Failed to process token 9831: undefined
+   ❌ Failed to process token 9836: undefined
+   ❌ Failed to process token 9839: undefined
+   ❌ Failed to process token 9843: undefined
+   ❌ Failed to process token 9844: undefined
+   ❌ Failed to process token 9845: undefined
+   ❌ Failed to process token 9847: undefined
+   ❌ Failed to process token 9859: undefined
+   ❌ Failed to process token 9863: undefined
+   ❌ Failed to process token 9864: undefined
+   ❌ Failed to process token 9866: undefined
+   ❌ Failed to process token 9874: undefined
+   ❌ Failed to process token 9876: undefined
+   ❌ Failed to process token 9880: undefined
+   ❌ Failed to process token 9883: undefined
+   ❌ Failed to process token 9885: undefined
+   Processed 9900/100000
+✅ Batch 9801-9900 metadata uploaded
+
+📦 Processing batch 9901-10000...
+   ❌ Failed to process token 9911: undefined
+   ❌ Failed to process token 9917: undefined
+   ❌ Failed to process token 9913: undefined
+   ❌ Failed to process token 9914: undefined
+   ❌ Failed to process token 9918: undefined
+   ❌ Failed to process token 9919: undefined
+   ❌ Failed to process token 9932: undefined
+   ❌ Failed to process token 9934: undefined
+   ❌ Failed to process token 9936: undefined
+   ❌ Failed to process token 9935: undefined
+   ❌ Failed to process token 9938: undefined
+   ❌ Failed to process token 9941: undefined
+   ❌ Failed to process token 9955: undefined
+   ❌ Failed to process token 9954: undefined
+   ❌ Failed to process token 9958: undefined
+   ❌ Failed to process token 9961: undefined
+   ❌ Failed to process token 9967: undefined
+   ❌ Failed to process token 9974: undefined
+   ❌ Failed to process token 9973: undefined
+   ❌ Failed to process token 9975: undefined
+   ❌ Failed to process token 9983: undefined
+   ❌ Failed to process token 9985: undefined
+   Processed 10000/100000
+✅ Batch 9901-10000 metadata uploaded
+
+📦 Processing batch 10001-10100...
+   ❌ Failed to process token 10008: undefined
+   ❌ Failed to process token 10005: undefined
+   ❌ Failed to process token 10001: undefined
+   ❌ Failed to process token 10010: undefined
+   ❌ Failed to process token 10006: undefined
+   ❌ Failed to process token 10004: undefined
+   ❌ Failed to process token 10009: undefined
+   ❌ Failed to process token 10028: undefined
+   ❌ Failed to process token 10030: undefined
+   ❌ Failed to process token 10031: undefined
+   ❌ Failed to process token 10027: undefined
+   ❌ Failed to process token 10032: undefined
+   ❌ Failed to process token 10034: undefined
+   ❌ Failed to process token 10043: undefined
+   ❌ Failed to process token 10044: undefined
+   ❌ Failed to process token 10047: undefined
+   ❌ Failed to process token 10049: undefined
+   ❌ Failed to process token 10050: undefined
+   ❌ Failed to process token 10053: undefined
+   ❌ Failed to process token 10061: undefined
+   ❌ Failed to process token 10065: undefined
+   ❌ Failed to process token 10069: undefined
+   ❌ Failed to process token 10071: undefined
+   ❌ Failed to process token 10079: undefined
+   ❌ Failed to process token 10081: undefined
+   ❌ Failed to process token 10089: undefined
+   Processed 10100/100000
+✅ Batch 10001-10100 metadata uploaded
+
+📦 Processing batch 10101-10200...
+   ❌ Failed to process token 10110: undefined
+   ❌ Failed to process token 10108: undefined
+   ❌ Failed to process token 10112: undefined
+   ❌ Failed to process token 10115: undefined
+   ❌ Failed to process token 10116: undefined
+   ❌ Failed to process token 10119: undefined
+   ❌ Failed to process token 10124: undefined
+   ❌ Failed to process token 10126: undefined
+   ❌ Failed to process token 10130: undefined
+   ❌ Failed to process token 10135: undefined
+   ❌ Failed to process token 10136: undefined
+   ❌ Failed to process token 10143: undefined
+   ❌ Failed to process token 10150: undefined
+   ❌ Failed to process token 10152: undefined
+   ❌ Failed to process token 10155: undefined
+   ❌ Failed to process token 10156: undefined
+   ❌ Failed to process token 10163: undefined
+   ❌ Failed to process token 10162: undefined
+   ❌ Failed to process token 10169: undefined
+   ❌ Failed to process token 10181: undefined
+   ❌ Failed to process token 10182: undefined
+   ❌ Failed to process token 10183: undefined
+   ❌ Failed to process token 10189: undefined
+   Processed 10200/100000
+✅ Batch 10101-10200 metadata uploaded
+
+📦 Processing batch 10201-10300...
+   ❌ Failed to process token 10216: undefined
+   ❌ Failed to process token 10217: undefined
+   ❌ Failed to process token 10218: undefined
+   ❌ Failed to process token 10214: undefined
+   ❌ Failed to process token 10223: undefined
+   ❌ Failed to process token 10234: undefined
+   ❌ Failed to process token 10237: undefined
+   ❌ Failed to process token 10235: undefined
+   ❌ Failed to process token 10238: undefined
+   ❌ Failed to process token 10242: undefined
+   ❌ Failed to process token 10251: undefined
+   ❌ Failed to process token 10253: undefined
+   ❌ Failed to process token 10255: undefined
+   ❌ Failed to process token 10263: undefined
+   ❌ Failed to process token 10271: undefined
+   ❌ Failed to process token 10279: undefined
+   ❌ Failed to process token 10280: undefined
+   ❌ Failed to process token 10283: undefined
+   Processed 10300/100000
+   ❌ Failed to process token 10287: undefined
+   ❌ Failed to process token 10288: undefined
+✅ Batch 10201-10300 metadata uploaded
+
+📦 Processing batch 10301-10400...
+   ❌ Failed to process token 10310: undefined
+   ❌ Failed to process token 10304: undefined
+   ❌ Failed to process token 10314: undefined
+   ❌ Failed to process token 10318: undefined
+   ❌ Failed to process token 10321: undefined
+   ❌ Failed to process token 10330: undefined
+   ❌ Failed to process token 10332: undefined
+   ❌ Failed to process token 10334: undefined
+   ❌ Failed to process token 10337: undefined
+   ❌ Failed to process token 10343: undefined
+   ❌ Failed to process token 10344: undefined
+   ❌ Failed to process token 10351: undefined
+   ❌ Failed to process token 10352: undefined
+   ❌ Failed to process token 10355: undefined
+   ❌ Failed to process token 10357: undefined
+   ❌ Failed to process token 10371: undefined
+   ❌ Failed to process token 10376: undefined
+   ❌ Failed to process token 10377: undefined
+   ❌ Failed to process token 10382: undefined
+   Processed 10400/100000
+✅ Batch 10301-10400 metadata uploaded
+
+📦 Processing batch 10401-10500...
+   ❌ Failed to process token 10408: undefined
+   ❌ Failed to process token 10406: undefined
+   ❌ Failed to process token 10413: undefined
+   ❌ Failed to process token 10415: undefined
+   ❌ Failed to process token 10417: undefined
+   ❌ Failed to process token 10414: undefined
+   ❌ Failed to process token 10430: undefined
+   ❌ Failed to process token 10437: undefined
+   ❌ Failed to process token 10435: undefined
+   ❌ Failed to process token 10436: undefined
+   ❌ Failed to process token 10439: undefined
+   ❌ Failed to process token 10451: undefined
+   ❌ Failed to process token 10455: undefined
+   ❌ Failed to process token 10454: undefined
+   ❌ Failed to process token 10457: undefined
+   ❌ Failed to process token 10458: undefined
+   ❌ Failed to process token 10466: undefined
+   ❌ Failed to process token 10468: undefined
+   ❌ Failed to process token 10470: undefined
+   ❌ Failed to process token 10473: undefined
+   ❌ Failed to process token 10480: undefined
+   ❌ Failed to process token 10481: undefined
+   ❌ Failed to process token 10487: undefined
+   Processed 10500/100000
+✅ Batch 10401-10500 metadata uploaded
+
+📦 Processing batch 10501-10600...
+   ❌ Failed to process token 10508: undefined
+   ❌ Failed to process token 10518: undefined
+   ❌ Failed to process token 10515: undefined
+   ❌ Failed to process token 10511: undefined
+   ❌ Failed to process token 10514: undefined
+   ❌ Failed to process token 10530: undefined
+   ❌ Failed to process token 10534: undefined
+   ❌ Failed to process token 10537: undefined
+   ❌ Failed to process token 10536: undefined
+   ❌ Failed to process token 10535: undefined
+   ❌ Failed to process token 10544: undefined
+   ❌ Failed to process token 10556: undefined
+   ❌ Failed to process token 10552: undefined
+   ❌ Failed to process token 10566: undefined
+   ❌ Failed to process token 10568: undefined
+   ❌ Failed to process token 10570: undefined
+   ❌ Failed to process token 10572: undefined
+   ❌ Failed to process token 10574: undefined
+   ❌ Failed to process token 10578: undefined
+   Processed 10600/100000
+   ❌ Failed to process token 10588: undefined
+✅ Batch 10501-10600 metadata uploaded
+
+📦 Processing batch 10601-10700...
+   ❌ Failed to process token 10610: undefined
+   ❌ Failed to process token 10613: undefined
+   ❌ Failed to process token 10612: undefined
+   ❌ Failed to process token 10615: undefined
+   ❌ Failed to process token 10634: undefined
+   ❌ Failed to process token 10633: undefined
+   ❌ Failed to process token 10632: undefined
+   ❌ Failed to process token 10648: undefined
+   ❌ Failed to process token 10652: undefined
+   ❌ Failed to process token 10656: undefined
+   ❌ Failed to process token 10658: undefined
+   ❌ Failed to process token 10660: undefined
+   ❌ Failed to process token 10661: undefined
+   ❌ Failed to process token 10664: undefined
+   ❌ Failed to process token 10665: undefined
+   ❌ Failed to process token 10667: undefined
+   ❌ Failed to process token 10681: undefined
+   ❌ Failed to process token 10684: undefined
+   Processed 10700/100000
+   ❌ Failed to process token 10686: undefined
+   ❌ Failed to process token 10688: undefined
+✅ Batch 10601-10700 metadata uploaded
+
+📦 Processing batch 10701-10800...
+   ❌ Failed to process token 10715: undefined
+   ❌ Failed to process token 10716: undefined
+   ❌ Failed to process token 10717: undefined
+   ❌ Failed to process token 10719: undefined
+   ❌ Failed to process token 10721: undefined
+   ❌ Failed to process token 10726: undefined
+   ❌ Failed to process token 10730: undefined
+   ❌ Failed to process token 10732: undefined
+   ❌ Failed to process token 10733: undefined
+   ❌ Failed to process token 10737: undefined
+   ❌ Failed to process token 10736: undefined
+   ❌ Failed to process token 10739: undefined
+   ❌ Failed to process token 10746: undefined
+   ❌ Failed to process token 10750: undefined
+   ❌ Failed to process token 10753: undefined
+   ❌ Failed to process token 10757: undefined
+   ❌ Failed to process token 10758: undefined
+   ❌ Failed to process token 10760: undefined
+   ❌ Failed to process token 10761: undefined
+   ❌ Failed to process token 10767: undefined
+   ❌ Failed to process token 10772: undefined
+   ❌ Failed to process token 10781: undefined
+   ❌ Failed to process token 10783: undefined
+   Processed 10800/100000
+✅ Batch 10701-10800 metadata uploaded
+
+📦 Processing batch 10801-10900...
+   ❌ Failed to process token 10805: undefined
+   ❌ Failed to process token 10801: undefined
+   ❌ Failed to process token 10804: undefined
+   ❌ Failed to process token 10810: undefined
+   ❌ Failed to process token 10808: undefined
+   ❌ Failed to process token 10813: undefined
+   ❌ Failed to process token 10824: undefined
+   ❌ Failed to process token 10825: undefined
+   ❌ Failed to process token 10828: undefined
+   ❌ Failed to process token 10829: undefined
+   ❌ Failed to process token 10846: undefined
+   ❌ Failed to process token 10847: undefined
+   ❌ Failed to process token 10849: undefined
+   ❌ Failed to process token 10856: undefined
+   ❌ Failed to process token 10859: undefined
+   ❌ Failed to process token 10863: undefined
+   ❌ Failed to process token 10864: undefined
+   ❌ Failed to process token 10869: undefined
+   ❌ Failed to process token 10870: undefined
+   ❌ Failed to process token 10872: undefined
+   ❌ Failed to process token 10876: undefined
+   ❌ Failed to process token 10881: undefined
+   ❌ Failed to process token 10880: undefined
+   ❌ Failed to process token 10884: undefined
+   Processed 10900/100000
+✅ Batch 10801-10900 metadata uploaded
+
+📦 Processing batch 10901-11000...
+   ❌ Failed to process token 10908: undefined
+   ❌ Failed to process token 10914: undefined
+   ❌ Failed to process token 10917: undefined
+   ❌ Failed to process token 10916: undefined
+   ❌ Failed to process token 10915: undefined
+   ❌ Failed to process token 10912: undefined
+   ❌ Failed to process token 10930: undefined
+   ❌ Failed to process token 10932: undefined
+   ❌ Failed to process token 10934: undefined
+   ❌ Failed to process token 10937: undefined
+   ❌ Failed to process token 10950: undefined
+   ❌ Failed to process token 10952: undefined
+   ❌ Failed to process token 10951: undefined
+   ❌ Failed to process token 10953: undefined
+   ❌ Failed to process token 10955: undefined
+   ❌ Failed to process token 10960: undefined
+   ❌ Failed to process token 10966: undefined
+   ❌ Failed to process token 10969: undefined
+   ❌ Failed to process token 10971: undefined
+   ❌ Failed to process token 10980: undefined
+   Processed 11000/100000
+   ❌ Failed to process token 10986: undefined
+✅ Batch 10901-11000 metadata uploaded
+
+📦 Processing batch 11001-11100...
+   ❌ Failed to process token 11003: undefined
+   ❌ Failed to process token 11010: undefined
+   ❌ Failed to process token 11006: undefined
+   ❌ Failed to process token 11013: undefined
+   ❌ Failed to process token 11014: undefined
+   ❌ Failed to process token 11022: undefined
+   ❌ Failed to process token 11026: undefined
+   ❌ Failed to process token 11030: undefined
+   ❌ Failed to process token 11033: undefined
+   ❌ Failed to process token 11041: undefined
+   ❌ Failed to process token 11050: undefined
+   ❌ Failed to process token 11049: undefined
+   ❌ Failed to process token 11058: undefined
+   ❌ Failed to process token 11066: undefined
+   ❌ Failed to process token 11065: undefined
+   ❌ Failed to process token 11067: undefined
+   ❌ Failed to process token 11068: undefined
+   ❌ Failed to process token 11072: undefined
+   ❌ Failed to process token 11076: undefined
+   ❌ Failed to process token 11084: undefined
+   Processed 11100/100000
+   ❌ Failed to process token 11089: undefined
+✅ Batch 11001-11100 metadata uploaded
+
+📦 Processing batch 11101-11200...
+   ❌ Failed to process token 11103: undefined
+   ❌ Failed to process token 11110: undefined
+   ❌ Failed to process token 11104: undefined
+   ❌ Failed to process token 11114: undefined
+   ❌ Failed to process token 11116: undefined
+   ❌ Failed to process token 11115: undefined
+   ❌ Failed to process token 11128: undefined
+   ❌ Failed to process token 11130: undefined
+   ❌ Failed to process token 11133: undefined
+   ❌ Failed to process token 11137: undefined
+   ❌ Failed to process token 11136: undefined
+   ❌ Failed to process token 11145: undefined
+   ❌ Failed to process token 11150: undefined
+   ❌ Failed to process token 11152: undefined
+   ❌ Failed to process token 11155: undefined
+   ❌ Failed to process token 11163: undefined
+   ❌ Failed to process token 11167: undefined
+   ❌ Failed to process token 11170: undefined
+   ❌ Failed to process token 11172: undefined
+   ❌ Failed to process token 11173: undefined
+   ❌ Failed to process token 11181: undefined
+   ❌ Failed to process token 11182: undefined
+   Processed 11200/100000
+✅ Batch 11101-11200 metadata uploaded
+
+📦 Processing batch 11201-11300...
+   ❌ Failed to process token 11206: undefined
+   ❌ Failed to process token 11207: undefined
+   ❌ Failed to process token 11214: undefined
+   ❌ Failed to process token 11213: undefined
+   ❌ Failed to process token 11216: undefined
+   ❌ Failed to process token 11229: undefined
+   ❌ Failed to process token 11230: undefined
+   ❌ Failed to process token 11231: undefined
+   ❌ Failed to process token 11232: undefined
+   ❌ Failed to process token 11233: undefined
+   ❌ Failed to process token 11234: undefined
+   ❌ Failed to process token 11235: undefined
+   ❌ Failed to process token 11249: undefined
+   ❌ Failed to process token 11250: undefined
+   ❌ Failed to process token 11251: undefined
+   ❌ Failed to process token 11252: undefined
+   ❌ Failed to process token 11256: undefined
+   ❌ Failed to process token 11268: undefined
+   ❌ Failed to process token 11269: undefined
+   ❌ Failed to process token 11271: undefined
+   ❌ Failed to process token 11270: undefined
+   ❌ Failed to process token 11272: undefined
+   ❌ Failed to process token 11274: undefined
+   Processed 11300/100000
+   ❌ Failed to process token 11290: undefined
+   ❌ Failed to process token 11293: undefined
+✅ Batch 11201-11300 metadata uploaded
+
+📦 Processing batch 11301-11400...
+   ❌ Failed to process token 11305: undefined
+   ❌ Failed to process token 11302: undefined
+   ❌ Failed to process token 11306: undefined
+   ❌ Failed to process token 11308: undefined
+   ❌ Failed to process token 11310: undefined
+   ❌ Failed to process token 11303: undefined
+   ❌ Failed to process token 11307: undefined
+   ❌ Failed to process token 11325: undefined
+   ❌ Failed to process token 11326: undefined
+   ❌ Failed to process token 11327: undefined
+   ❌ Failed to process token 11330: undefined
+   ❌ Failed to process token 11328: undefined
+   ❌ Failed to process token 11332: undefined
+   ❌ Failed to process token 11335: undefined
+   ❌ Failed to process token 11345: undefined
+   ❌ Failed to process token 11347: undefined
+   ❌ Failed to process token 11350: undefined
+   ❌ Failed to process token 11349: undefined
+   ❌ Failed to process token 11367: undefined
+   ❌ Failed to process token 11368: undefined
+   ❌ Failed to process token 11380: undefined
+   ❌ Failed to process token 11383: undefined
+   ❌ Failed to process token 11385: undefined
+   Processed 11400/100000
+✅ Batch 11301-11400 metadata uploaded
+
+📦 Processing batch 11401-11500...
+   ❌ Failed to process token 11413: undefined
+   ❌ Failed to process token 11415: undefined
+   ❌ Failed to process token 11414: undefined
+   ❌ Failed to process token 11416: undefined
+   ❌ Failed to process token 11419: undefined
+   ❌ Failed to process token 11420: undefined
+   ❌ Failed to process token 11430: undefined
+   ❌ Failed to process token 11433: undefined
+   ❌ Failed to process token 11432: undefined
+   ❌ Failed to process token 11434: undefined
+   ❌ Failed to process token 11441: undefined
+   ❌ Failed to process token 11443: undefined
+   ❌ Failed to process token 11444: undefined
+   ❌ Failed to process token 11451: undefined
+   ❌ Failed to process token 11454: undefined
+   ❌ Failed to process token 11455: undefined
+   ❌ Failed to process token 11462: undefined
+   ❌ Failed to process token 11473: undefined
+   ❌ Failed to process token 11479: undefined
+   ❌ Failed to process token 11481: undefined
+   ❌ Failed to process token 11483: undefined
+   ❌ Failed to process token 11485: undefined
+   Processed 11500/100000
+✅ Batch 11401-11500 metadata uploaded
+
+📦 Processing batch 11501-11600...
+   ❌ Failed to process token 11502: undefined
+   ❌ Failed to process token 11513: undefined
+   ❌ Failed to process token 11516: undefined
+   ❌ Failed to process token 11515: undefined
+   ❌ Failed to process token 11527: undefined
+   ❌ Failed to process token 11526: undefined
+   ❌ Failed to process token 11529: undefined
+   ❌ Failed to process token 11533: undefined
+   ❌ Failed to process token 11532: undefined
+   ❌ Failed to process token 11545: undefined
+   ❌ Failed to process token 11552: undefined
+   ❌ Failed to process token 11559: undefined
+   ❌ Failed to process token 11560: undefined
+   ❌ Failed to process token 11564: undefined
+   ❌ Failed to process token 11566: undefined
+   ❌ Failed to process token 11567: undefined
+   ❌ Failed to process token 11568: undefined
+   ❌ Failed to process token 11570: undefined
+   ❌ Failed to process token 11582: undefined
+   ❌ Failed to process token 11585: undefined
+   ❌ Failed to process token 11588: undefined
+   Processed 11600/100000
+✅ Batch 11501-11600 metadata uploaded
+
+📦 Processing batch 11601-11700...
+   ❌ Failed to process token 11611: undefined
+   ❌ Failed to process token 11616: undefined
+   ❌ Failed to process token 11619: undefined
+   ❌ Failed to process token 11613: undefined
+   ❌ Failed to process token 11618: undefined
+   ❌ Failed to process token 11620: undefined
+   ❌ Failed to process token 11617: undefined
+   ❌ Failed to process token 11639: undefined
+   ❌ Failed to process token 11640: undefined
+   ❌ Failed to process token 11636: undefined
+   ❌ Failed to process token 11634: undefined
+   ❌ Failed to process token 11637: undefined
+   ❌ Failed to process token 11638: undefined
+   ❌ Failed to process token 11656: undefined
+   ❌ Failed to process token 11660: undefined
+   ❌ Failed to process token 11661: undefined
+   ❌ Failed to process token 11658: undefined
+   ❌ Failed to process token 11659: undefined
+   ❌ Failed to process token 11663: undefined
+   ❌ Failed to process token 11677: undefined
+   ❌ Failed to process token 11678: undefined
+   ❌ Failed to process token 11679: undefined
+   ❌ Failed to process token 11676: undefined
+   Processed 11700/100000
+   ❌ Failed to process token 11687: undefined
+✅ Batch 11601-11700 metadata uploaded
+
+📦 Processing batch 11701-11800...
+   ❌ Failed to process token 11704: undefined
+   ❌ Failed to process token 11702: undefined
+   ❌ Failed to process token 11715: undefined
+   ❌ Failed to process token 11714: undefined
+   ❌ Failed to process token 11717: undefined
+   ❌ Failed to process token 11730: undefined
+   ❌ Failed to process token 11731: undefined
+   ❌ Failed to process token 11733: undefined
+   ❌ Failed to process token 11735: undefined
+   ❌ Failed to process token 11736: undefined
+   ❌ Failed to process token 11740: undefined
+   ❌ Failed to process token 11746: undefined
+   ❌ Failed to process token 11752: undefined
+   ❌ Failed to process token 11753: undefined
+   ❌ Failed to process token 11754: undefined
+   ❌ Failed to process token 11764: undefined
+   ❌ Failed to process token 11768: undefined
+   ❌ Failed to process token 11773: undefined
+   ❌ Failed to process token 11777: undefined
+   ❌ Failed to process token 11778: undefined
+   ❌ Failed to process token 11779: undefined
+   ❌ Failed to process token 11783: undefined
+   ❌ Failed to process token 11787: undefined
+   Processed 11800/100000
+✅ Batch 11701-11800 metadata uploaded
+
+📦 Processing batch 11801-11900...
+   ❌ Failed to process token 11810: undefined
+   ❌ Failed to process token 11804: undefined
+   ❌ Failed to process token 11805: undefined
+   ❌ Failed to process token 11812: undefined
+   ❌ Failed to process token 11814: undefined
+   ❌ Failed to process token 11829: undefined
+   ❌ Failed to process token 11831: undefined
+   ❌ Failed to process token 11833: undefined
+   ❌ Failed to process token 11837: undefined
+   ❌ Failed to process token 11848: undefined
+   ❌ Failed to process token 11852: undefined
+   ❌ Failed to process token 11854: undefined
+   ❌ Failed to process token 11855: undefined
+   ❌ Failed to process token 11856: undefined
+   ❌ Failed to process token 11861: undefined
+   ❌ Failed to process token 11864: undefined
+   ❌ Failed to process token 11865: undefined
+   ❌ Failed to process token 11868: undefined
+   ❌ Failed to process token 11870: undefined
+   ❌ Failed to process token 11875: undefined
+   ❌ Failed to process token 11878: undefined
+   ❌ Failed to process token 11879: undefined
+   ❌ Failed to process token 11880: undefined
+   Processed 11900/100000
+✅ Batch 11801-11900 metadata uploaded
+
+📦 Processing batch 11901-12000...
+   ❌ Failed to process token 11918: undefined
+   ❌ Failed to process token 11913: undefined
+   ❌ Failed to process token 11917: undefined
+   ❌ Failed to process token 11914: undefined
+   ❌ Failed to process token 11928: undefined
+   ❌ Failed to process token 11929: undefined
+   ❌ Failed to process token 11931: undefined
+   ❌ Failed to process token 11932: undefined
+   ❌ Failed to process token 11934: undefined
+   ❌ Failed to process token 11935: undefined
+   ❌ Failed to process token 11939: undefined
+   ❌ Failed to process token 11945: undefined
+   ❌ Failed to process token 11952: undefined
+   ❌ Failed to process token 11955: undefined
+   ❌ Failed to process token 11962: undefined
+   ❌ Failed to process token 11964: undefined
+   ❌ Failed to process token 11966: undefined
+   ❌ Failed to process token 11968: undefined
+   ❌ Failed to process token 11971: undefined
+   ❌ Failed to process token 11973: undefined
+   ❌ Failed to process token 11972: undefined
+   Processed 12000/100000
+✅ Batch 11901-12000 metadata uploaded
+
+📦 Processing batch 12001-12100...
+   ❌ Failed to process token 12009: undefined
+   ❌ Failed to process token 12008: undefined
+   ❌ Failed to process token 12007: undefined
+   ❌ Failed to process token 12014: undefined
+   ❌ Failed to process token 12012: undefined
+   ❌ Failed to process token 12016: undefined
+   ❌ Failed to process token 12028: undefined
+   ❌ Failed to process token 12030: undefined
+   ❌ Failed to process token 12031: undefined
+   ❌ Failed to process token 12032: undefined
+   ❌ Failed to process token 12034: undefined
+   ❌ Failed to process token 12035: undefined
+   ❌ Failed to process token 12046: undefined
+   ❌ Failed to process token 12050: undefined
+   ❌ Failed to process token 12054: undefined
+   ❌ Failed to process token 12056: undefined
+   ❌ Failed to process token 12062: undefined
+   ❌ Failed to process token 12064: undefined
+   ❌ Failed to process token 12067: undefined
+   ❌ Failed to process token 12071: undefined
+   ❌ Failed to process token 12074: undefined
+   ❌ Failed to process token 12078: undefined
+   ❌ Failed to process token 12080: undefined
+   Processed 12100/100000
+✅ Batch 12001-12100 metadata uploaded
+
+📦 Processing batch 12101-12200...
+   ❌ Failed to process token 12110: undefined
+   ❌ Failed to process token 12117: undefined
+   ❌ Failed to process token 12113: undefined
+   ❌ Failed to process token 12115: undefined
+   ❌ Failed to process token 12128: undefined
+   ❌ Failed to process token 12130: undefined
+   ❌ Failed to process token 12132: undefined
+   ❌ Failed to process token 12135: undefined
+   ❌ Failed to process token 12144: undefined
+   ❌ Failed to process token 12146: undefined
+   ❌ Failed to process token 12149: undefined
+   ❌ Failed to process token 12160: undefined
+   ❌ Failed to process token 12161: undefined
+   ❌ Failed to process token 12166: undefined
+   ❌ Failed to process token 12172: undefined
+   ❌ Failed to process token 12173: undefined
+   ❌ Failed to process token 12174: undefined
+   ❌ Failed to process token 12176: undefined
+   ❌ Failed to process token 12177: undefined
+   Processed 12200/100000
+   ❌ Failed to process token 12184: undefined
+   ❌ Failed to process token 12185: undefined
+✅ Batch 12101-12200 metadata uploaded
+
+📦 Processing batch 12201-12300...
+   ❌ Failed to process token 12203: undefined
+   ❌ Failed to process token 12206: undefined
+   ❌ Failed to process token 12208: undefined
+   ❌ Failed to process token 12215: undefined
+   ❌ Failed to process token 12216: undefined
+   ❌ Failed to process token 12228: undefined
+   ❌ Failed to process token 12232: undefined
+   ❌ Failed to process token 12230: undefined
+   ❌ Failed to process token 12236: undefined
+   ❌ Failed to process token 12244: undefined
+   ❌ Failed to process token 12251: undefined
+   ❌ Failed to process token 12255: undefined
+   ❌ Failed to process token 12268: undefined
+   ❌ Failed to process token 12269: undefined
+   ❌ Failed to process token 12270: undefined
+   ❌ Failed to process token 12272: undefined
+   ❌ Failed to process token 12276: undefined
+   ❌ Failed to process token 12277: undefined
+   ❌ Failed to process token 12279: undefined
+   ❌ Failed to process token 12285: undefined
+   ❌ Failed to process token 12287: undefined
+   Processed 12300/100000
+✅ Batch 12201-12300 metadata uploaded
+
+📦 Processing batch 12301-12400...
+   ❌ Failed to process token 12302: undefined
+   ❌ Failed to process token 12304: undefined
+   ❌ Failed to process token 12314: undefined
+   ❌ Failed to process token 12312: undefined
+   ❌ Failed to process token 12313: undefined
+   ❌ Failed to process token 12317: undefined
+   ❌ Failed to process token 12329: undefined
+   ❌ Failed to process token 12335: undefined
+   ❌ Failed to process token 12336: undefined
+   ❌ Failed to process token 12333: undefined
+   ❌ Failed to process token 12328: undefined
+   ❌ Failed to process token 12340: undefined
+   ❌ Failed to process token 12341: undefined
+   ❌ Failed to process token 12347: undefined
+   ❌ Failed to process token 12349: undefined
+   ❌ Failed to process token 12353: undefined
+   ❌ Failed to process token 12354: undefined
+   ❌ Failed to process token 12359: undefined
+   ❌ Failed to process token 12360: undefined
+   ❌ Failed to process token 12361: undefined
+   ❌ Failed to process token 12368: undefined
+   ❌ Failed to process token 12370: undefined
+   ❌ Failed to process token 12375: undefined
+   ❌ Failed to process token 12381: undefined
+   ❌ Failed to process token 12382: undefined
+   ❌ Failed to process token 12388: undefined
+   Processed 12400/100000
+✅ Batch 12301-12400 metadata uploaded
+
+📦 Processing batch 12401-12500...
+   ❌ Failed to process token 12406: undefined
+   ❌ Failed to process token 12407: undefined
+   ❌ Failed to process token 12403: undefined
+   ❌ Failed to process token 12408: undefined
+   ❌ Failed to process token 12409: undefined
+   ❌ Failed to process token 12412: undefined
+   ❌ Failed to process token 12428: undefined
+   ❌ Failed to process token 12430: undefined
+   ❌ Failed to process token 12429: undefined
+   ❌ Failed to process token 12432: undefined
+   ❌ Failed to process token 12433: undefined
+   ❌ Failed to process token 12437: undefined
+   ❌ Failed to process token 12440: undefined
+   ❌ Failed to process token 12447: undefined
+   ❌ Failed to process token 12450: undefined
+   ❌ Failed to process token 12452: undefined
+   ❌ Failed to process token 12457: undefined
+   ❌ Failed to process token 12461: undefined
+   ❌ Failed to process token 12470: undefined
+   ❌ Failed to process token 12476: undefined
+   ❌ Failed to process token 12480: undefined
+   ❌ Failed to process token 12483: undefined
+   Processed 12500/100000
+✅ Batch 12401-12500 metadata uploaded
+
+📦 Processing batch 12501-12600...
+   ❌ Failed to process token 12505: undefined
+   ❌ Failed to process token 12509: undefined
+   ❌ Failed to process token 12515: undefined
+   ❌ Failed to process token 12516: undefined
+   ❌ Failed to process token 12521: undefined
+   ❌ Failed to process token 12527: undefined
+   ❌ Failed to process token 12533: undefined
+   ❌ Failed to process token 12539: undefined
+   ❌ Failed to process token 12540: undefined
+   ❌ Failed to process token 12546: undefined
+   ❌ Failed to process token 12551: undefined
+   ❌ Failed to process token 12552: undefined
+   ❌ Failed to process token 12553: undefined
+   ❌ Failed to process token 12560: undefined
+   ❌ Failed to process token 12563: undefined
+   ❌ Failed to process token 12572: undefined
+   ❌ Failed to process token 12573: undefined
+   ❌ Failed to process token 12574: undefined
+   ❌ Failed to process token 12577: undefined
+   ❌ Failed to process token 12585: undefined
+   Processed 12600/100000
+✅ Batch 12501-12600 metadata uploaded
+
+📦 Processing batch 12601-12700...
+   ❌ Failed to process token 12608: undefined
+   ❌ Failed to process token 12610: undefined
+   ❌ Failed to process token 12605: undefined
+   ❌ Failed to process token 12607: undefined
+   ❌ Failed to process token 12613: undefined
+   ❌ Failed to process token 12614: undefined
+   ❌ Failed to process token 12628: undefined
+   ❌ Failed to process token 12633: undefined
+   ❌ Failed to process token 12634: undefined
+   ❌ Failed to process token 12636: undefined
+   ❌ Failed to process token 12641: undefined
+   ❌ Failed to process token 12647: undefined
+   ❌ Failed to process token 12645: undefined
+   ❌ Failed to process token 12646: undefined
+   ❌ Failed to process token 12651: undefined
+   ❌ Failed to process token 12659: undefined
+   ❌ Failed to process token 12660: undefined
+   ❌ Failed to process token 12663: undefined
+   ❌ Failed to process token 12670: undefined
+   ❌ Failed to process token 12679: undefined
+   ❌ Failed to process token 12680: undefined
+   ❌ Failed to process token 12681: undefined
+   Processed 12700/100000
+   ❌ Failed to process token 12684: undefined
+✅ Batch 12601-12700 metadata uploaded
+
+📦 Processing batch 12701-12800...
+   ❌ Failed to process token 12709: undefined
+   ❌ Failed to process token 12703: undefined
+   ❌ Failed to process token 12713: undefined
+   ❌ Failed to process token 12716: undefined
+   ❌ Failed to process token 12714: undefined
+   ❌ Failed to process token 12729: undefined
+   ❌ Failed to process token 12732: undefined
+   ❌ Failed to process token 12735: undefined
+   ❌ Failed to process token 12734: undefined
+   ❌ Failed to process token 12742: undefined
+   ❌ Failed to process token 12746: undefined
+   ❌ Failed to process token 12747: undefined
+   ❌ Failed to process token 12751: undefined
+   ❌ Failed to process token 12753: undefined
+   ❌ Failed to process token 12760: undefined
+   ❌ Failed to process token 12761: undefined
+   ❌ Failed to process token 12766: undefined
+   ❌ Failed to process token 12777: undefined
+   ❌ Failed to process token 12781: undefined
+   ❌ Failed to process token 12782: undefined
+   Processed 12800/100000
+   ❌ Failed to process token 12785: undefined
+✅ Batch 12701-12800 metadata uploaded
+
+📦 Processing batch 12801-12900...
+   ❌ Failed to process token 12806: undefined
+   ❌ Failed to process token 12808: undefined
+   ❌ Failed to process token 12810: undefined
+   ❌ Failed to process token 12803: undefined
+   ❌ Failed to process token 12814: undefined
+   ❌ Failed to process token 12829: undefined
+   ❌ Failed to process token 12830: undefined
+   ❌ Failed to process token 12832: undefined
+   ❌ Failed to process token 12834: undefined
+   ❌ Failed to process token 12845: undefined
+   ❌ Failed to process token 12847: undefined
+   ❌ Failed to process token 12863: undefined
+   ❌ Failed to process token 12865: undefined
+   ❌ Failed to process token 12864: undefined
+   ❌ Failed to process token 12866: undefined
+   ❌ Failed to process token 12870: undefined
+   ❌ Failed to process token 12871: undefined
+   ❌ Failed to process token 12875: undefined
+   ❌ Failed to process token 12881: undefined
+   Processed 12900/100000
+✅ Batch 12801-12900 metadata uploaded
+
+📦 Processing batch 12901-13000...
+   ❌ Failed to process token 12902: undefined
+   ❌ Failed to process token 12905: undefined
+   ❌ Failed to process token 12906: undefined
+   ❌ Failed to process token 12912: undefined
+   ❌ Failed to process token 12914: undefined
+   ❌ Failed to process token 12927: undefined
+   ❌ Failed to process token 12926: undefined
+   ❌ Failed to process token 12928: undefined
+   ❌ Failed to process token 12932: undefined
+   ❌ Failed to process token 12936: undefined
+   ❌ Failed to process token 12938: undefined
+   ❌ Failed to process token 12949: undefined
+   ❌ Failed to process token 12951: undefined
+   ❌ Failed to process token 12954: undefined
+   ❌ Failed to process token 12955: undefined
+   ❌ Failed to process token 12956: undefined
+   ❌ Failed to process token 12958: undefined
+   ❌ Failed to process token 12965: undefined
+   ❌ Failed to process token 12971: undefined
+   ❌ Failed to process token 12975: undefined
+   ❌ Failed to process token 12976: undefined
+   ❌ Failed to process token 12977: undefined
+   Processed 13000/100000
+✅ Batch 12901-13000 metadata uploaded
+
+📦 Processing batch 13001-13100...
+   ❌ Failed to process token 13008: undefined
+   ❌ Failed to process token 13002: undefined
+   ❌ Failed to process token 13006: undefined
+   ❌ Failed to process token 13001: undefined
+   ❌ Failed to process token 13009: undefined
+   ❌ Failed to process token 13014: undefined
+   ❌ Failed to process token 13017: undefined
+   ❌ Failed to process token 13025: undefined
+   ❌ Failed to process token 13028: undefined
+   ❌ Failed to process token 13036: undefined
+   ❌ Failed to process token 13040: undefined
+   ❌ Failed to process token 13043: undefined
+   ❌ Failed to process token 13046: undefined
+   ❌ Failed to process token 13049: undefined
+   ❌ Failed to process token 13052: undefined
+   ❌ Failed to process token 13058: undefined
+   ❌ Failed to process token 13063: undefined
+   ❌ Failed to process token 13064: undefined
+   ❌ Failed to process token 13067: undefined
+   ❌ Failed to process token 13072: undefined
+   ❌ Failed to process token 13084: undefined
+   ❌ Failed to process token 13086: undefined
+   ❌ Failed to process token 13091: undefined
+   Processed 13100/100000
+✅ Batch 13001-13100 metadata uploaded
+
+📦 Processing batch 13101-13200...
+   ❌ Failed to process token 13102: undefined
+   ❌ Failed to process token 13112: undefined
+   ❌ Failed to process token 13115: undefined
+   ❌ Failed to process token 13116: undefined
+   ❌ Failed to process token 13118: undefined
+   ❌ Failed to process token 13132: undefined
+   ❌ Failed to process token 13134: undefined
+   ❌ Failed to process token 13139: undefined
+   ❌ Failed to process token 13140: undefined
+   ❌ Failed to process token 13143: undefined
+   ❌ Failed to process token 13146: undefined
+   ❌ Failed to process token 13147: undefined
+   ❌ Failed to process token 13151: undefined
+   ❌ Failed to process token 13150: undefined
+   ❌ Failed to process token 13162: undefined
+   ❌ Failed to process token 13166: undefined
+   ❌ Failed to process token 13167: undefined
+   ❌ Failed to process token 13168: undefined
+   ❌ Failed to process token 13170: undefined
+   ❌ Failed to process token 13173: undefined
+   ❌ Failed to process token 13174: undefined
+   ❌ Failed to process token 13187: undefined
+   Processed 13200/100000
+✅ Batch 13101-13200 metadata uploaded
+
+📦 Processing batch 13201-13300...
+   ❌ Failed to process token 13215: undefined
+   ❌ Failed to process token 13214: undefined
+   ❌ Failed to process token 13218: undefined
+   ❌ Failed to process token 13221: undefined
+   ❌ Failed to process token 13229: undefined
+   ❌ Failed to process token 13232: undefined
+   ❌ Failed to process token 13236: undefined
+   ❌ Failed to process token 13238: undefined
+   ❌ Failed to process token 13243: undefined
+   ❌ Failed to process token 13247: undefined
+   ❌ Failed to process token 13250: undefined
+   ❌ Failed to process token 13254: undefined
+   ❌ Failed to process token 13258: undefined
+   ❌ Failed to process token 13259: undefined
+   ❌ Failed to process token 13261: undefined
+   ❌ Failed to process token 13265: undefined
+   ❌ Failed to process token 13267: undefined
+   ❌ Failed to process token 13269: undefined
+   ❌ Failed to process token 13275: undefined
+   ❌ Failed to process token 13277: undefined
+   ❌ Failed to process token 13280: undefined
+   Processed 13300/100000
+✅ Batch 13201-13300 metadata uploaded
+
+📦 Processing batch 13301-13400...
+   ❌ Failed to process token 13301: undefined
+   ❌ Failed to process token 13307: undefined
+   ❌ Failed to process token 13316: undefined
+   ❌ Failed to process token 13312: undefined
+   ❌ Failed to process token 13315: undefined
+   ❌ Failed to process token 13322: undefined
+   ❌ Failed to process token 13332: undefined
+   ❌ Failed to process token 13335: undefined
+   ❌ Failed to process token 13334: undefined
+   ❌ Failed to process token 13342: undefined
+   ❌ Failed to process token 13343: undefined
+   ❌ Failed to process token 13344: undefined
+   ❌ Failed to process token 13352: undefined
+   ❌ Failed to process token 13351: undefined
+   ❌ Failed to process token 13356: undefined
+   ❌ Failed to process token 13362: undefined
+   ❌ Failed to process token 13364: undefined
+   ❌ Failed to process token 13367: undefined
+   ❌ Failed to process token 13368: undefined
+   ❌ Failed to process token 13374: undefined
+   ❌ Failed to process token 13377: undefined
+   ❌ Failed to process token 13382: undefined
+   ❌ Failed to process token 13389: undefined
+   Processed 13400/100000
+✅ Batch 13301-13400 metadata uploaded
+
+📦 Processing batch 13401-13500...
+   ❌ Failed to process token 13418: undefined
+   ❌ Failed to process token 13416: undefined
+   ❌ Failed to process token 13419: undefined
+   ❌ Failed to process token 13417: undefined
+   ❌ Failed to process token 13423: undefined
+   ❌ Failed to process token 13435: undefined
+   ❌ Failed to process token 13433: undefined
+   ❌ Failed to process token 13436: undefined
+   ❌ Failed to process token 13438: undefined
+   ❌ Failed to process token 13444: undefined
+   ❌ Failed to process token 13450: undefined
+   ❌ Failed to process token 13449: undefined
+   ❌ Failed to process token 13461: undefined
+   ❌ Failed to process token 13463: undefined
+   ❌ Failed to process token 13462: undefined
+   ❌ Failed to process token 13470: undefined
+   ❌ Failed to process token 13471: undefined
+   ❌ Failed to process token 13478: undefined
+   ❌ Failed to process token 13479: undefined
+   ❌ Failed to process token 13482: undefined
+   ❌ Failed to process token 13487: undefined
+   ❌ Failed to process token 13488: undefined
+   Processed 13500/100000
+✅ Batch 13401-13500 metadata uploaded
+
+📦 Processing batch 13501-13600...
+   ❌ Failed to process token 13515: undefined
+   ❌ Failed to process token 13518: undefined
+   ❌ Failed to process token 13514: undefined
+   ❌ Failed to process token 13520: undefined
+   ❌ Failed to process token 13512: undefined
+   ❌ Failed to process token 13516: undefined
+   ❌ Failed to process token 13532: undefined
+   ❌ Failed to process token 13537: undefined
+   ❌ Failed to process token 13539: undefined
+   ❌ Failed to process token 13536: undefined
+   ❌ Failed to process token 13542: undefined
+   ❌ Failed to process token 13556: undefined
+   ❌ Failed to process token 13555: undefined
+   ❌ Failed to process token 13561: undefined
+   ❌ Failed to process token 13563: undefined
+   ❌ Failed to process token 13565: undefined
+   ❌ Failed to process token 13572: undefined
+   ❌ Failed to process token 13579: undefined
+   ❌ Failed to process token 13580: undefined
+   ❌ Failed to process token 13581: undefined
+   ❌ Failed to process token 13587: undefined
+   Processed 13600/100000
+✅ Batch 13501-13600 metadata uploaded
+
+📦 Processing batch 13601-13700...
+   ❌ Failed to process token 13613: undefined
+   ❌ Failed to process token 13615: undefined
+   ❌ Failed to process token 13614: undefined
+   ❌ Failed to process token 13617: undefined
+   ❌ Failed to process token 13623: undefined
+   ❌ Failed to process token 13633: undefined
+   ❌ Failed to process token 13634: undefined
+   ❌ Failed to process token 13635: undefined
+   ❌ Failed to process token 13637: undefined
+   ❌ Failed to process token 13655: undefined
+   ❌ Failed to process token 13654: undefined
+   ❌ Failed to process token 13657: undefined
+   ❌ Failed to process token 13659: undefined
+   ❌ Failed to process token 13660: undefined
+   ❌ Failed to process token 13667: undefined
+   ❌ Failed to process token 13668: undefined
+   ❌ Failed to process token 13686: undefined
+   ❌ Failed to process token 13688: undefined
+   Processed 13700/100000
+✅ Batch 13601-13700 metadata uploaded
+
+📦 Processing batch 13701-13800...
+   ❌ Failed to process token 13710: undefined
+   ❌ Failed to process token 13708: undefined
+   ❌ Failed to process token 13709: undefined
+   ❌ Failed to process token 13715: undefined
+   ❌ Failed to process token 13713: undefined
+   ❌ Failed to process token 13714: undefined
+   ❌ Failed to process token 13721: undefined
+   ❌ Failed to process token 13728: undefined
+   ❌ Failed to process token 13727: undefined
+   ❌ Failed to process token 13729: undefined
+   ❌ Failed to process token 13735: undefined
+   ❌ Failed to process token 13733: undefined
+   ❌ Failed to process token 13740: undefined
+   ❌ Failed to process token 13748: undefined
+   ❌ Failed to process token 13750: undefined
+   ❌ Failed to process token 13754: undefined
+   ❌ Failed to process token 13756: undefined
+   ❌ Failed to process token 13770: undefined
+   ❌ Failed to process token 13772: undefined
+   ❌ Failed to process token 13774: undefined
+   ❌ Failed to process token 13777: undefined
+   ❌ Failed to process token 13779: undefined
+   Processed 13800/100000
+   ❌ Failed to process token 13788: undefined
+   ❌ Failed to process token 13790: undefined
+✅ Batch 13701-13800 metadata uploaded
+
+📦 Processing batch 13801-13900...
+   ❌ Failed to process token 13808: undefined
+   ❌ Failed to process token 13809: undefined
+   ❌ Failed to process token 13810: undefined
+   ❌ Failed to process token 13803: undefined
+   ❌ Failed to process token 13813: undefined
+   ❌ Failed to process token 13814: undefined
+   ❌ Failed to process token 13828: undefined
+   ❌ Failed to process token 13830: undefined
+   ❌ Failed to process token 13829: undefined
+   ❌ Failed to process token 13831: undefined
+   ❌ Failed to process token 13833: undefined
+   ❌ Failed to process token 13835: undefined
+   ❌ Failed to process token 13849: undefined
+   ❌ Failed to process token 13851: undefined
+   ❌ Failed to process token 13850: undefined
+   ❌ Failed to process token 13855: undefined
+   ❌ Failed to process token 13859: undefined
+   ❌ Failed to process token 13862: undefined
+   ❌ Failed to process token 13863: undefined
+   ❌ Failed to process token 13868: undefined
+   ❌ Failed to process token 13870: undefined
+   ❌ Failed to process token 13876: undefined
+   ❌ Failed to process token 13881: undefined
+   ❌ Failed to process token 13884: undefined
+   ❌ Failed to process token 13888: undefined
+   Processed 13900/100000
+✅ Batch 13801-13900 metadata uploaded
+
+📦 Processing batch 13901-14000...
+   ❌ Failed to process token 13918: undefined
+   ❌ Failed to process token 13912: undefined
+   ❌ Failed to process token 13916: undefined
+   ❌ Failed to process token 13919: undefined
+   ❌ Failed to process token 13922: undefined
+   ❌ Failed to process token 13935: undefined
+   ❌ Failed to process token 13934: undefined
+   ❌ Failed to process token 13937: undefined
+   ❌ Failed to process token 13938: undefined
+   ❌ Failed to process token 13941: undefined
+   ❌ Failed to process token 13955: undefined
+   ❌ Failed to process token 13956: undefined
+   ❌ Failed to process token 13957: undefined
+   ❌ Failed to process token 13959: undefined
+   ❌ Failed to process token 13969: undefined
+   ❌ Failed to process token 13972: undefined
+   ❌ Failed to process token 13971: undefined
+   Processed 14000/100000
+   ❌ Failed to process token 13993: undefined
+✅ Batch 13901-14000 metadata uploaded
+
+📦 Processing batch 14001-14100...
+   ❌ Failed to process token 14005: undefined
+   ❌ Failed to process token 14008: undefined
+   ❌ Failed to process token 14009: undefined
+   ❌ Failed to process token 14014: undefined
+   ❌ Failed to process token 14015: undefined
+   ❌ Failed to process token 14021: undefined
+   ❌ Failed to process token 14029: undefined
+   ❌ Failed to process token 14032: undefined
+   ❌ Failed to process token 14033: undefined
+   ❌ Failed to process token 14041: undefined
+   ❌ Failed to process token 14045: undefined
+   ❌ Failed to process token 14047: undefined
+   ❌ Failed to process token 14051: undefined
+   ❌ Failed to process token 14054: undefined
+   ❌ Failed to process token 14064: undefined
+   ❌ Failed to process token 14065: undefined
+   ❌ Failed to process token 14067: undefined
+   ❌ Failed to process token 14069: undefined
+   ❌ Failed to process token 14078: undefined
+   ❌ Failed to process token 14079: undefined
+   ❌ Failed to process token 14085: undefined
+   Processed 14100/100000
+✅ Batch 14001-14100 metadata uploaded
+
+📦 Processing batch 14101-14200...
+   ❌ Failed to process token 14112: undefined
+   ❌ Failed to process token 14116: undefined
+   ❌ Failed to process token 14115: undefined
+   ❌ Failed to process token 14117: undefined
+   ❌ Failed to process token 14118: undefined
+   ❌ Failed to process token 14120: undefined
+   ❌ Failed to process token 14136: undefined
+   ❌ Failed to process token 14135: undefined
+   ❌ Failed to process token 14132: undefined
+   ❌ Failed to process token 14133: undefined
+   ❌ Failed to process token 14137: undefined
+   ❌ Failed to process token 14139: undefined
+   ❌ Failed to process token 14148: undefined
+   ❌ Failed to process token 14152: undefined
+   ❌ Failed to process token 14154: undefined
+   ❌ Failed to process token 14153: undefined
+   ❌ Failed to process token 14156: undefined
+   ❌ Failed to process token 14172: undefined
+   ❌ Failed to process token 14176: undefined
+   ❌ Failed to process token 14175: undefined
+   ❌ Failed to process token 14177: undefined
+   ❌ Failed to process token 14183: undefined
+   Processed 14200/100000
+   ❌ Failed to process token 14186: undefined
+✅ Batch 14101-14200 metadata uploaded
+
+📦 Processing batch 14201-14300...
+   ❌ Failed to process token 14202: undefined
+   ❌ Failed to process token 14203: undefined
+   ❌ Failed to process token 14209: undefined
+   ❌ Failed to process token 14213: undefined
+   ❌ Failed to process token 14224: undefined
+   ❌ Failed to process token 14230: undefined
+   ❌ Failed to process token 14232: undefined
+   ❌ Failed to process token 14235: undefined
+   ❌ Failed to process token 14246: undefined
+   ❌ Failed to process token 14249: undefined
+   ❌ Failed to process token 14253: undefined
+   ❌ Failed to process token 14256: undefined
+   ❌ Failed to process token 14261: undefined
+   ❌ Failed to process token 14260: undefined
+   ❌ Failed to process token 14263: undefined
+   ❌ Failed to process token 14270: undefined
+   ❌ Failed to process token 14279: undefined
+   ❌ Failed to process token 14280: undefined
+   ❌ Failed to process token 14283: undefined
+   ❌ Failed to process token 14288: undefined
+   Processed 14300/100000
+✅ Batch 14201-14300 metadata uploaded
+
+📦 Processing batch 14301-14400...
+   ❌ Failed to process token 14314: undefined
+   ❌ Failed to process token 14312: undefined
+   ❌ Failed to process token 14317: undefined
+   ❌ Failed to process token 14316: undefined
+   ❌ Failed to process token 14318: undefined
+   ❌ Failed to process token 14321: undefined
+   ❌ Failed to process token 14331: undefined
+   ❌ Failed to process token 14335: undefined
+   ❌ Failed to process token 14336: undefined
+   ❌ Failed to process token 14337: undefined
+   ❌ Failed to process token 14334: undefined
+   ❌ Failed to process token 14338: undefined
+   ❌ Failed to process token 14348: undefined
+   ❌ Failed to process token 14355: undefined
+   ❌ Failed to process token 14357: undefined
+   ❌ Failed to process token 14356: undefined
+   ❌ Failed to process token 14359: undefined
+   ❌ Failed to process token 14360: undefined
+   ❌ Failed to process token 14363: undefined
+   ❌ Failed to process token 14369: undefined
+   ❌ Failed to process token 14375: undefined
+   ❌ Failed to process token 14376: undefined
+   ❌ Failed to process token 14385: undefined
+   ❌ Failed to process token 14389: undefined
+   Processed 14400/100000
+✅ Batch 14301-14400 metadata uploaded
+
+📦 Processing batch 14401-14500...
+   ❌ Failed to process token 14403: undefined
+   ❌ Failed to process token 14406: undefined
+   ❌ Failed to process token 14402: undefined
+   ❌ Failed to process token 14408: undefined
+   ❌ Failed to process token 14413: undefined
+   ❌ Failed to process token 14415: undefined
+   ❌ Failed to process token 14425: undefined
+   ❌ Failed to process token 14429: undefined
+   ❌ Failed to process token 14431: undefined
+   ❌ Failed to process token 14433: undefined
+   ❌ Failed to process token 14437: undefined
+   ❌ Failed to process token 14450: undefined
+   ❌ Failed to process token 14453: undefined
+   ❌ Failed to process token 14454: undefined
+   ❌ Failed to process token 14460: undefined
+   ❌ Failed to process token 14461: undefined
+   ❌ Failed to process token 14466: undefined
+   ❌ Failed to process token 14467: undefined
+   ❌ Failed to process token 14471: undefined
+   ❌ Failed to process token 14472: undefined
+   ❌ Failed to process token 14477: undefined
+   ❌ Failed to process token 14480: undefined
+   Processed 14500/100000
+✅ Batch 14401-14500 metadata uploaded
+
+📦 Processing batch 14501-14600...
+   Processed 14600/100000
+   ❌ Failed to process token 14502: socket hang up
+   ❌ Failed to process token 14507: socket hang up
+   ❌ Failed to process token 14506: socket hang up
+   ❌ Failed to process token 14509: socket hang up
+   ❌ Failed to process token 14503: socket hang up
+✅ Batch 14501-14600 metadata uploaded
+
+📦 Processing batch 14601-14700...
+   Processed 14700/100000
+✅ Batch 14601-14700 metadata uploaded
+
+📦 Processing batch 14701-14800...
+   Processed 14800/100000
+✅ Batch 14701-14800 metadata uploaded
+
+📦 Processing batch 14801-14900...
+   ❌ Failed to process token 14807: undefined
+   ❌ Failed to process token 14803: undefined
+   ❌ Failed to process token 14815: undefined
+   ❌ Failed to process token 14814: undefined
+   ❌ Failed to process token 14820: undefined
+   ❌ Failed to process token 14821: undefined
+   ❌ Failed to process token 14843: read ECONNRESET
+   Processed 14900/100000

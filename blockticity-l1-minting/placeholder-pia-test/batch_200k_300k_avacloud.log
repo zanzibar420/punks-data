@@ -1,0 +1,80 @@
+🚀 Blockticity Batch 200k-300k Robust Minting
+==================================================
+🎯 Token Range: 200,001 - 300,000
+⚡ Settings: 5 concurrent, 25 per batch (ROBUST MODE)
+✅ Loaded existing progress
+📊 Status: 75175 minted, 0 failed, 24825 pending
+
+🎯 Tokens to process: 24,825
+
+🔗 Connecting to Blockticity L1 Mainnet...
+🌐 Using AvaCloud Premium RPC endpoint
+✨ AvaCloud API key detected - using premium endpoint
+⚠️  Network info unavailable, continuing...
+
+📦 Batch 1/993: 25 tokens
+🎯 Range: 275176 to 275200
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+  ❌ 275176: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275176: Retry 1/8 in 3.3s
+  ❌ 275177: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275177: Retry 1/8 in 3.5s
+  ❌ 275178: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275178: Retry 1/8 in 3.2s
+  ❌ 275179: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275179: Retry 1/8 in 3.5s
+  ❌ 275180: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275180: Retry 1/8 in 3.0s
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+  ❌ 275180: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275180: Retry 2/8 in 6.6s
+  ❌ 275178: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275178: Retry 2/8 in 7.0s
+  ❌ 275176: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275176: Retry 2/8 in 6.2s
+  ❌ 275177: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275177: Retry 2/8 in 7.0s
+  ❌ 275179: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275179: Retry 2/8 in 6.5s
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+  ❌ 275176: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275176: Retry 3/8 in 12.9s
+  ❌ 275180: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275180: Retry 3/8 in 12.1s
+  ❌ 275179: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275179: Retry 3/8 in 12.5s
+  ❌ 275178: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275178: Retry 3/8 in 13.0s
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+  ❌ 275177: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275177: Retry 3/8 in 12.6s
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+  ❌ 275180: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275180: Retry 4/8 in 20.9s
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+  ❌ 275176: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275176: Retry 4/8 in 21.0s
+  ❌ 275179: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275179: Retry 4/8 in 21.0s
+  ❌ 275178: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275178: Retry 4/8 in 20.8s
+  ❌ 275177: NETWORK_ERROR - server response 405 Method Not Allowed (request={  }, response={  }, error=null,
+  🔄 275177: Retry 4/8 in 20.8s
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
